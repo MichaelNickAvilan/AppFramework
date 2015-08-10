@@ -1,4 +1,18 @@
-﻿var Containers = {
+﻿/** 
+  * @desc Create containers to be added to the DOM
+  * @author Michael Avilán michael.avilan@gmail.com
+*/
+
+var Containers = {
+
+    /** Creates a container with a horizontal distribution
+    * @param {string} $id - ID of the container
+    * @param {array} $childs - Array of objects
+    * @param {array} $props - Array of objects
+    * @param {string} $container - Id of the parent
+    * @param {string} $click - onclick method
+    * @param {string} $class - CSS Class
+    */
     HGroup: function ($id, $childs, $props, $container, $click, $class) {
 
         var hg = DOMElements.newDiv($id, [], 'local_hgroup');
@@ -14,7 +28,7 @@
             $childs[i].props.push({ name: 'float', value: 'left' });
             $childs[i].props.push({ name: 'margin-right', value: '5px' });
             if (Containers.propertyExist($childs[i].props, 'width') != true) {
-                //$childs[i].props.push({ name: 'width', value: percent + '%' });
+                $childs[i].props.push({ name: 'width', value: percent + '%' });
             }
 
             if ($childs[i].type == 'VGroup') {
@@ -36,9 +50,17 @@
             hg.className = $class;
         }
     },
+    /** Creates a container with a vertical distribution
+    * @param {string} $id - ID of the container
+    * @param {array} $childs - Array of objects
+    * @param {array} $props - Array of objects
+    * @param {string} $container - Id of the parent
+    * @param {string} $click - onclick method
+    * @param {string} $class - CSS Class
+    */
     VGroup: function ($id, $childs, $props, $container,$click,$class) {
         var vg = DOMElements.newDiv($id, []);
-        //div.className = 'local_label';
+        
         if ($container != null) {
             document.getElementById($container).appendChild(vg);
         } else {
@@ -82,9 +104,13 @@
     Canvas: function ($childs, $props) {
         var childs = '';
         for (var i = 0; i < $childs.length; i++) {
-            //Añadir estilo de posición absoluta
+            
         }
     },
+    /** Return a standar element to be added to the DOM
+    * @param {string} $type
+    * @param {object} $element
+    */
     addElement: function ($type, $element) {
         switch ($type) {
             case 'textarea':
@@ -92,7 +118,7 @@
                 return ta;
                 break;
             case 'textfield':
-                var ta = DOMElements.newTextField($element.id, $element.props, $element.readonly, $element.placeholder, $element.restrict, $element.val, $element.className);
+                var ta = DOMElements.newTextField($element.id, $element.props, $element.readonly, $element.placeholder, $element.restrict, $element.val, $element.className, $element.change);
                 return ta;
                 break;
             case 'button':
@@ -100,7 +126,7 @@
                 return bn;
                 break;
             case 'label':
-                var bn = DOMElements.newLabel($element.id, $element.props, $element.text);
+                var bn = DOMElements.newLabel($element.id, $element.props, $element.text, $element.className);
                 return bn;
                 break;
             case 'image':
@@ -115,9 +141,11 @@
                 var div = DOMElements.newDiv($element.id, $element.props, $element.className);
                 return div;
                 break;
-
         }
     },
+    /**
+    * returns true if a css property exist
+    */
     propertyExist: function ($props, $name) {
         var exist = false;
         for (var i = 0; i < $props.length; i++) {

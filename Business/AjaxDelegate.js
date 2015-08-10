@@ -1,12 +1,25 @@
+/** 
+  * @desc Makes the internal Ajax Requests
+  * @author Michael Avilán michael.avilan@gmail.com
+*/
 var AjaxDelegate = {
-
+	counter:0,
     a_response: {},
     
+    /** @Constructor  */
     init: function () {
     },
+    /** Makes an ajax request
+    * @param {string} $url
+    * @param {string} $data
+    * @param {string} $type
+    * @param {string} $dataType
+    * @param {string} $callback
+    */
     requestInfo: function ($url, $data, $type, $dataType, $callback) {
+
         AjaxDelegate.a_response = {};
-        $.ajax({
+		$.ajax({
             url: $url,
             data: $data,
             type: $type,

@@ -1,15 +1,122 @@
-﻿var FormsUtils = {
+﻿/**
+    * FormsUtils, sinlgeton with useful methods for form validations
+    * @author Michael Nick Avilan Mora - michael.avilan@gmail.com
+    */
+var FormsUtils = {
     init: function () {
         FormsUtils.addListeners();
     },
-    setDocumentation: function () {
+    /**
+    * Restricts a textfield content
+    * @param {string}  $element - DOM TextField
+    * @param {string}  $allow - Restrict option 
+    */
+    restrictFieldContent: function ($element, $allow) {    
+    	
+    	if($allow.limit){
+    		if(String($allow.limit).length>0){
+    			$element.setAttribute("maxlength", $allow.limit);	
+    		}
+    		FormsUtils.fieldRestrictDelegate($allow.option,$element);  		
+    	}else{
+    		FormsUtils.fieldRestrictDelegate($allow,$element);
+    	}
     },
-    restrictFieldContent: function ($element, $allow) {
-        $element.addEventListener("keypress", function (e) {
+    /** 
+    * Returns a random ID to avoid the JavaScript cache
+    */
+    changeCache:function(){
+		var letters = ['a','b','c','d','e','f','g','h','i', 'j','k','l','m','n','o','p','q','r','s','t','u','v ','w','x',
+		'y','z','A','B','C','D','E','F','G','H','I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V ','W','X','Y','Z'];
+		return Math.floor(Math.random() * (1000- 0001+ 1)) + 0001 + letters[Math.floor(Math.random() * (51- 0+ 1)) + 0];
+	},
+	validateFieldsAll:function($fields,$messages){
+    	var centinela = false;
+        var response = {valid:false,message:'',element:''};
+        
+        console.log($fields);
+        console.log($messages);
+        
+    	for(var i=0; i < $fields.length; i ++){    		
+    		if(String($fields[i]).indexOf('_text')>=0 || String($fields[i]).indexOf('_txt')>=0){
+    			if(document.getElementById($fields[i]).value.length<3){ 
+    				$("#"+$fields[i]).focus();
+    				centinela = true;
+    				response.element = $fields[i];
+                   	response.message = $messages[i];
+    			}else{
+    				if(String($fields[i]).indexOf('mail')>=0 || String($fields[i]).indexOf('correo')>=0){
+    					if(FormsUtils.validateMail($fields[i]).valid==false){
+	    					centinela = true;
+	    					response.element = $fields[i];
+	    					response.message =(FormsUtils.validateMail($fields[i]).message);
+	    					$("#"+$fields[i]).focus();
+	    					
+    					}    					
+    				}
+    			}
+    		}
+    		if(String($fields[i]).indexOf('_combo')>=0){
+    			if(document.getElementById($fields[i]).value=='NULL'){
+    				$("#"+$fields[i]).focus();
+    				centinela = true;
+    				response.element = $fields[i];
+                	response.message = $messages[i];
+    			}
+    		}
+    		
+    		if(String($fields[i]).indexOf('_checkbox')>=0){
+    			if($('#'+$fields[i]).is(':checked') == false){
+    				$("#"+$fields[i]).focus();
+    				centinela = true;
+    				response.element = $fields[i];
+                	response.message = $messages[i];
+    			}
+    		}
+    	}
+    	
+    	if (centinela == false) {
+            response.valid = true;
+        }
+
+        return response;
+    },
+    createJSONFields:function($fields,$names){
+    	var obj={};
+    	for(var i=0; i < $fields.length; i ++){    	
+    		if(String($fields[i]).indexOf('_text')>=0 || String($fields[i]).indexOf('_txt')>=0){    							
+				obj[$names[i]] = document.getElementById($fields[i]).value; 
+    		}
+    		if(String($fields[i]).indexOf('_combo')>=0){
+    			var combo = document.getElementById($fields[i]);    			
+    			obj[$names[i]] = combo.options[combo.selectedIndex].text;
+    		}
+    		if(String($fields[i]).indexOf('_checkbox')>=0){
+    			obj[$names[i]] = document.getElementById($fields[i]).value;
+    		}
+    	}
+    	
+        return obj;
+    },
+    cleanForm:function($fields){
+    	for(var i=0; i < $fields.length; i++){    		
+    		if($fields[i].indexOf('combo')>=0){
+    			document.getElementById($fields[i]).selectedIndex=0;  
+    		}
+    		if($fields[i].indexOf('_txt')>=0 || $fields[i].indexOf('_text')>=0 || String($fields[i]).indexOf('_text')>=0 ){
+    			document.getElementById($fields[i]).value = '';  
+    		}
+    		if($fields[i].indexOf('_checkbox')>=0 || $fields[i].indexOf('radio')>=0){
+    			$('#'+$fields[i]).attr('checked',false);
+    		}
+    	}
+    },
+    fieldRestrictDelegate: function ($option, $element) {
+    	$element.addEventListener("keypress", function (e) {
 
             var AllowableCharacters = '';
 
-            switch ($allow) {
+            switch ($option) {
                 case 'Letters':
                     AllowableCharacters = ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
                     break;
@@ -20,7 +127,7 @@
                     AllowableCharacters = ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-.\'';
                     break;
                 case 'NameCharactersAndNumbers':
-                    AllowableCharacters = '1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-\'';
+                    AllowableCharacters = '1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-.,;:';
                     break;
             }
 
@@ -35,168 +142,10 @@
             }
         });
     },
-    	/*
-	 * 
-	 *obtiene la capaña segun la universidad y el origen 
-	 * 
-	 * */
-	getCampaignCode:function($university,$origin_lead){
-		
-		var _campaign="";
-		var _response={};
-		
-		switch($university){
-			
-			case "POLI":
-				switch($origin_lead){
-					case "FIU": 
-					_response={campaign:"7616",carga:3};
-					break;
-					case "UAX": 
-					_response={campaign:"7616",carga:2};
-					break;
-					case "UTA":
-					_response={campaign:"7616",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7616",carga:4};
-					break;
-				}
-			break;
-			case "FUAA":
-				switch($origin_lead){
-					case "FIU":
-					//FormsUtils.a_origin="FIU";
-					_response={campaign:"7618",carga:3};
-					break;
-					case "UAX":
-					_response={campaign:"7618",carga:2};
-					break;
-					case "UTA":
-					_response={campaign:"7618",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7618",carga:4};
-					break;
-					
-				}
-			break;
-			case "UDI":
-				switch($origin_lead){
-					case "FIU":
-					_response={campaign:"7846",carga:3};
-					break;
-					case "UAX":
-					_response={campaign:"7846",carga:2};
-					break;
-					case "UTA":
-					_response={campaign:"7846",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7846",carga:7};
-					break;
-				}
-			break;
-			case "UA": 
-				switch($origin_lead){
-					case "FIU":
-					_response={campaign:"7865",carga:3};
-					break;
-					case "UAX":
-					_response={campaign:"7865",carga:2};
-					break;
-					case "UTA":
-					_response={campaign:"7865",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7865",carga:4};
-					break;
-				}
-			break;
-			case "USAM": 
-				switch($origin_lead){
-					case "FIU":
-					_response={campaign:"7857",carga:3};
-					break;
-					case "UAX": 
-					_response={campaign:"7857",carga:2};
-					break;
-					case "UTA": 
-					_response={campaign:"7857",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7857",carga:7};
-					break;
-				}
-			break;
-			case "IPP": 
-				switch($origin_lead){
-					case "FIU":
-					_response={campaign:"7848",carga:3};
-					break;
-					case "UAX":
-					_response={campaign:"7848",carga:2};
-					break;
-					case "UTA":
-					_response={campaign:"7848",carga:1};
-					break;
-					case "DELOITE":
-					_response={campaign:"7848",carga:4};
-					break;
-				}
-			break;
-			case "UVA": 
-				switch($origin_lead){
-					case "FIU":
-					_response={campaign:"7825",carga:3};
-					break;
-					case "UAX":
-					_response={campaign:"7825",carga:8};
-					break;
-					case "UTA":
-					_response={campaign:"7825",carga:7};
-					break;
-					case "DELOITE":
-					_response={campaign:"7825",carga:11};
-					break;
-				}
-			break;
-			default:
-			
-			_response={campaign:"0000",carga:1};
-		}
-		return _response;
-	},
-    getOriginLead:function($country){
-		var local_lead="";
-		switch($country){
-			case "Panama":
-				local_lead="OL-2015";
-			break;
-			case "Paraguay":
-				local_lead="OL-2015";
-			break;
-			case "Chile":
-				local_lead="OL-2015";
-			break;
-			case "Costa Rica":
-				local_lead="OL-2015";
-			break;
-			case "Colombia":
-				local_lead="OL-2015";
-			break;
-			case "Brazil":
-				local_lead="OLUVA-100";
-			break;
-			case "Brasil":
-				local_lead="OLUVA-100";
-			break;
-		}
-		return local_lead;
-	},
-    getURLParam:function(name) {
-	  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
-	},
+    /**
+    * Returns true if the email is well formed
+    * @param {string} $mail - Email 
+    */
     validateMail: function ($mail) {
         $mail = document.getElementById($mail).value;
         var response = { valid: false, message: '' };
@@ -210,7 +159,7 @@
        
         return response;
     },
-    getDateTime:function(){
+    getDate:function(){
 		var currentdate = new Date(); 
 			var datetime = currentdate.getFullYear() + "-"  
 			+ (currentdate.getMonth()+1)  + "-" 
@@ -221,7 +170,8 @@
             
             return datetime;
 	},
-    getDate: function () {
+    /** Returns AAAA-MM-DD formated Date */
+    getFormatedDate: function () {
         var _date = new Date();
         var month = String((_date.getMonth() + 1));
         var day = String(_date.getDate());
@@ -235,19 +185,60 @@
 
         return _date.getFullYear() + "-" + month + "-" + day;
     },
-    cleanForm:function($fields){
-    	for(var i=0; i < $fields.length; i++){
-    		    		
-    		if($fields[i].indexOf('combo')>=0){
-    			document.getElementById($fields[i]).selectedIndex = 0;  
-    		}
-    		if($fields[i].indexOf('_text')>=0){
-    			document.getElementById($fields[i]).value = '';  
-    		}
-    		
-    	}
+    /**
+    * Asign a value to a text field 
+    * @param {array} $fields - Array of ids 
+    * @param {array} $values - Array of values
+    */
+    cleanFields: function ($fields, $values) {
+        if ($fields.length == $values.length) {
+            for (var i = 0; i < $fields.length; i++) {
+                document.getElementById($fields[i]).value = $values[i];
+            }
+        }
+    },
+    validateFields: function ($fields, $messages) {
+    	console.log($fields);
+    	console.log($messages);
+        var centinela = false;
+        var response = {valid:false,message:''};
+        for (var i = 0; i < $fields.length; i++) {
+            if (centinela == false) {
+            	console.log($fields[i]);
+                if (document.getElementById($fields[i]).value.length == 0) {
+                    centinela = true;
+                    response.message = $messages[i];
+                }
+            }
+        }
+
+        if (centinela == false) {
+            response.valid = true;
+        }
+
+        return response;
+    },
+    validateCombos: function ($combos, $messages) {
+        var centinela = false;
+        var response = { valid: false, message: '' };
+        for (var i = 0; i < $combos.length; i++) {
+            if (centinela == false) {
+                if (document.getElementById($combos[i]).value == "NULL") {
+                    centinela = true;
+                    response.message = $messages[i];
+                }
+            }
+        }
+
+        if (centinela == false) {
+            response.valid = true;
+        }
+
+        return response;
     },
     replaceNewline:function($line){
+		
+		console.log($line);
 		
 		$line=$line.split(",").join("");
 		
@@ -264,77 +255,5 @@
 		
 		return $line;
 		
-	},
-    validateAllFields:function($fields,$messages){
-    	var centinela = false;
-        var response = {valid:false,message:'',element:''};
-        
-    	for(var i=0; i < $fields.length; i ++){    		
-    		if(String($fields[i]).indexOf('_text')>=0){
-    			if(document.getElementById($fields[i]).value.length<3){ 
-    				$("#"+$fields[i]).focus();
-    				centinela = true;
-    				response.element = $fields[i];
-                   	response.message = $messages[i];
-    			}else{
-    				if(String($fields[i]).indexOf('mail')>=0){
-    					if(FormsUtils.validateMail($fields[i]).valid == false){
-	    					centinela = true;
-	    					response.element = $fields[i];
-	    					response.message =(FormsUtils.validateMail($fields[i]).message);
-	    					$("#"+$fields[i]).focus();
-    					}    					
-    				}
-    			}
-    		}
-    		if(String($fields[i]).indexOf('_combo')>=0){
-    			if(document.getElementById($fields[i]).value=='NULL'){
-    				$("#"+$fields[i]).focus();
-    				centinela = true;
-    				response.element = $fields[i];
-                	response.message = $messages[i];
-    			}
-    		}
-    	}
-    	
-    	if (centinela == false) {
-            response.valid = true;
-        }
-
-        return response;
-    	
-    	
-    },	
-    validatePhone: function ($type, $phone, $country) {
-        var centinela = false;
-        var response = { valid: false, message: '' };
-        for (var i = 0; i < UniversalModel.a_phones_validations.length; i++) {
-            if (UniversalModel.a_phones_validations[i].type == $type &&
-               UniversalModel.a_phones_validations[i].code_country == $country) {
-                for (var j = 0; j < UniversalModel.a_phones_validations[i].phone_start_numbers.length; j++) {
-                    if (String($phone).split('')[0] == UniversalModel.a_phones_validations[i].phone_start_numbers[j]) {
-                        if (String($phone).length == UniversalModel.a_phones_validations[i].phone_digits) {
-                            centinela = true;
-                            response.valid = true;
-                        } else {
-                            if ($type == 'MobilePhone') {
-                                response.message = 'El número de celular debe tener ' + UniversalModel.a_phones_validations[i].phone_digits + ' digitos';
-                            } else {
-                                response.message = 'El número de teléfono fijo debe tener ' + UniversalModel.a_phones_validations[i].phone_digits + ' digitos';
-                            }
-                        }
-                    } else {
-                       // if (UniversalModel.a_phones_validations[i].phone_start_numbers.length > 1) {
-                            if ($type == 'MobilePhone') {
-                                response.message = 'El número de teléfono celular debe iniciar con uno de los siguientes números: ' + String(UniversalModel.a_phones_validations[i].phone_start_numbers + ' y debe tener ' + UniversalModel.a_phones_validations[i].phone_digits + ' digitos');
-                            } else {
-                                response.message = 'El número de teléfono fijo debe iniciar con uno de los siguientes números: ' + String(UniversalModel.a_phones_validations[i].phone_start_numbers + ' y debe tener ' + UniversalModel.a_phones_validations[i].phone_digits + ' digitos');
-                            }
-                     //   }
-                    }
-                }
-            }
-        }
-        return response;
-    }
+	}
 };
