@@ -1,18 +1,4 @@
-﻿/** 
-  * @desc Create containers to be added to the DOM
-  * @author Michael Avilán michael.avilan@gmail.com
-*/
-
-var Containers = {
-
-    /** Creates a container with a horizontal distribution
-    * @param {string} $id - ID of the container
-    * @param {array} $childs - Array of objects
-    * @param {array} $props - Array of objects
-    * @param {string} $container - Id of the parent
-    * @param {string} $click - onclick method
-    * @param {string} $class - CSS Class
-    */
+﻿var Containers = {
     HGroup: function ($id, $childs, $props, $container, $click, $class) {
 
         var hg = DOMElements.newDiv($id, [], 'local_hgroup');
@@ -25,11 +11,19 @@ var Containers = {
         }
 
         for (var i = 0; i < $childs.length; i++) {
-            $childs[i].props.push({ name: 'float', value: 'left' });
-            $childs[i].props.push({ name: 'margin-right', value: '5px' });
-            if (Containers.propertyExist($childs[i].props, 'width') != true) {
-                $childs[i].props.push({ name: 'width', value: percent + '%' });
-            }
+        	var centinela = false;
+        	if($childs[i].props.length > 0){
+        		for(var j=0; j < $childs[i].props.length; j++){
+	        		if($childs[i].props[j].name === 'float'){
+	        			centinela = true;
+	        		}
+	        	}
+        	}
+        	if(centinela === true){
+        		 $childs[i].props.push({ name: 'margin-right', value: '5px' });	
+        	}else{
+        		$childs[i].props.push({ name: 'float', value: 'left' });	
+        	} 
 
             if ($childs[i].type == 'VGroup') {
                 Containers.VGroup($childs[i].id, $childs[i].childs, [], $id);
@@ -50,17 +44,9 @@ var Containers = {
             hg.className = $class;
         }
     },
-    /** Creates a container with a vertical distribution
-    * @param {string} $id - ID of the container
-    * @param {array} $childs - Array of objects
-    * @param {array} $props - Array of objects
-    * @param {string} $container - Id of the parent
-    * @param {string} $click - onclick method
-    * @param {string} $class - CSS Class
-    */
     VGroup: function ($id, $childs, $props, $container,$click,$class) {
         var vg = DOMElements.newDiv($id, []);
-        
+        //div.className = 'local_label';
         if ($container != null) {
             document.getElementById($container).appendChild(vg);
         } else {
@@ -82,7 +68,7 @@ var Containers = {
                 Containers.HGroup($childs[i].id, $childs[i].childs, $childs[i].props, $id);
             } else {
                 try {
-                    vg.appendChild(Containers.addElement($childs[i].type, $childs[i]));
+                	vg.appendChild(Containers.addElement($childs[i].type, $childs[i]));
                     $childs[i].props.push({ name: 'width', value: '100%' });
                 } catch (e) {
                      console.log(e);
@@ -104,13 +90,9 @@ var Containers = {
     Canvas: function ($childs, $props) {
         var childs = '';
         for (var i = 0; i < $childs.length; i++) {
-            
+            //Añadir estilo de posición absoluta
         }
     },
-    /** Return a standar element to be added to the DOM
-    * @param {string} $type
-    * @param {object} $element
-    */
     addElement: function ($type, $element) {
         switch ($type) {
             case 'textarea':
@@ -137,15 +119,24 @@ var Containers = {
                 var im = DOMElements.newCombo($element.id, $element.props, $element.dataProvider, $element.labelField, $element.onchange, $element.className);
                 return im;
                 break;
+            case 'fieldset':
+                var fs = DOMElements.newRadiosCombo($element.id, $element.dataProvider);
+                return fs;
             case 'div':
                 var div = DOMElements.newDiv($element.id, $element.props, $element.className);
                 return div;
                 break;
+            case 'radio':
+                var div = DOMElements.newInputRadio($element.id, $element.link, $element.textIni, $element.textLink);
+                return div;
+                break;
+            case 'checkbox':
+                var checkbox = DOMElements.newCheckbox($element.id, $element.link, $element.textIni, $element.textLink);
+                return checkbox;
+                break;     
+
         }
     },
-    /**
-    * returns true if a css property exist
-    */
     propertyExist: function ($props, $name) {
         var exist = false;
         for (var i = 0; i < $props.length; i++) {

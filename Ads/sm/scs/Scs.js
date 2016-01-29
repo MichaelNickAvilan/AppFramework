@@ -6,15 +6,14 @@
 var SoicosAds = {
 
     a_soicos_pid: '',
-    /** @constructor */
+
     init: function () {
     },
-    /** 
-    * Dispatch a Soicos tag
-    * @param {string} $pid
-    * @param {string} $type
-    */
     soicosTagDispatcher: function ($pid, $type) {
+        /*
+        1. Tag
+        2. Image
+        */
         switch ($type) {
             case '1':
                 SoicosAds.a_soicos_pid = $pid;
@@ -27,21 +26,10 @@ var SoicosAds = {
                 break;
         }
     },
-    /** 
-    * Dispatch an event when the soicos libs are loaded
-    */
     soicosCallback: function () {
         soicos.registerConversion({ pid: SoicosAds.a_soicos_pid, data: '' });
         Controller.eventDispatcherDelegate(document, Controller.SOICOS_TAG_DISPATCHER);
     },
-    /** 
-    * Return a standar soicos tag
-    * @param {string} $pid
-    * @param {string} $type
-    * @param {string} $landing
-    * @param {string} $condition
-    * @param {string} $origin
-    */
     getSoicosTagObject: function ($id, $type, $landing, $condition, $origin) {
         return {
             a_type: "SoicosTag",

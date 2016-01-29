@@ -1,9 +1,8 @@
-﻿/** 
-  * @desc This stores all the global info of the application
-  * @author Michael Avilán michael.avilan@gmail.com
-*/
-var UniversalModel = {
-	
+﻿var UniversalModel = {
+	/*
+	 archive that stores data
+	 * 
+	 * */
     a_analytics_objects: [],
     a_data_sources: [],
     a_responses: [],
@@ -15,6 +14,7 @@ var UniversalModel = {
     a_users: [],
     a_products: [],
     a_services: [],
+    a_universities: [],
     a_countries_visitor: [],
     a_main_container:{},
     a_sended_object:{},

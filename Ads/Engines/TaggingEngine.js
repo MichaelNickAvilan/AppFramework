@@ -6,15 +6,9 @@ var TaggingEngine = {
 
     a_dispatched_tags: [],
 
-    /** Constructor method */
     init: function () {
+        //Constructor
     },
-    /** 
-    * Order the dispatching proccess of the tags that acomplish the conditions
-    * @param {string} $landing
-    * @param {string} $condition
-    * @param {string} $origin
-    */
     dispatchTagsDelegate: function ($landing, $condition, $origin) {
         for (var i = 0; i < TagsModel.a_tags.length; i++) {
             if (TagsModel.a_tags[i].landing == $landing) {
@@ -28,14 +22,10 @@ var TaggingEngine = {
             }
         }
     },
-    /** 
-    * Dispatch a tag with the properly library
-    * @param {object} $tag
-    */
     dispatchTags: function ($tag) {
         var type = $tag.a_type;
         TaggingEngine.a_dispatched_tags.push($tag);
-
+        console.log(type);
         switch (type) {
             case 'GoogleAdWords':
                 GoogleAds.googleAdWordsConversionTracker($tag.config.id, $tag.config.language, $tag.config.format, $tag.config.color, $tag.config.label);

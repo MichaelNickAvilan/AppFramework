@@ -18,36 +18,10 @@ var GoogleAds = {
     * @param {string} $label_id
     */
     googleAdWordsConversionTracker: function ($id, $language, $conversion_format, $color, $label_id) {
-    	
-    	var path = String(AppFrameworkModel.a_prefix).split('');
-		var index = String(AppFrameworkModel.a_prefix).split('').length-1;
-		var prefix='';
-		var renderer = '';
-		var url='';
-		
-		if(path[index]=='/'){
-			path.splice(index,1);
-			prefix=path.join('');
-			renderer='/AppFramework/Ads/sm/renderers/GARenderer.php?';
-		}
-    	
-    	url = prefix + renderer;
-    	
-        var iframe = url +
-        'service=1'+
-	  	'&goo' + 'gle_conversion_id=' + $id +
-	  	'&goo' + 'gle_conversion_language=' + $language +
-	  	'&goo' + 'gle_conversion_format=' + $conversion_format +
-	  	'&goo' + 'gle_conversion_color=' + $color +
-	  	'&goo' + 'gle_conversion_label=' + $label_id +
-	  	'&goo' + 'gle_conversion_value=1.00&google_conversion_currency=USD&google_remarketing_only=false';
-	  	
-	  	console.log(iframe);
-        DomUtils.createIframe(iframe, 1, 1, 1, "none");
-        
-        DomUtils.createBeacon('https://www.googleadservices.com/pagead/conversion/'+$id+'/?label='+$label_id+'&guid=ON&script=0');
-        
-        //Controller.eventDispatcherDelegate(document, Controller.GOOGLE_ADWORDS_DISPATCHED_EVENT);
+    	/*if(CTECConsumer.a_server_guid === ''){
+    		CTECConsumer.a_server_guid = 'N/A';
+    	}*/
+       DomUtils.createBeacon('https://www.googleadservices.com/pagead/conversion/'+$id+'/?label='+$label_id+'&guid=ON&script=0&value='+CTECConsumer.a_server_guid);
     },
     /**
     * Dispatchs a Google Double Click tag (Ad Server)

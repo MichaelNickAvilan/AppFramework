@@ -10,7 +10,6 @@ var CampaignMonitor = {
     a_ck_name:'',
     a_centinela:false,
 
-    /** Constructor method */
     init: function () {
         try{
             CampaignMonitor.a_ck_name = 
@@ -19,6 +18,13 @@ var CampaignMonitor = {
             CampaignMonitor.checkCookie();
         }catch(e){}
         finally{}
+    },
+    inIframe:function () {
+        try {
+            return window.self !== window.top;
+	} catch (e) {
+            return true;
+	}
     },
     /**
      * Assigns the URL variable name wich will contain the digital campaign data
@@ -57,6 +63,14 @@ var CampaignMonitor = {
     },
     /** Checks if the campaign cookie exist, if not delegates its creation */
     checkCookie: function () {
+        if (String(window.location.href).indexOf('udelistmo.edu') >= 0 ||
+            String(window.location.href).indexOf('001%20Hecho%20Para%20Liderar') >= 0
+            ){
+    	    CampaignMonitor.a_ck_name = 'MINISITEUDI';
+    	}
+    	if(String(window.location.href).indexOf('/udi/semipresenciales/')>=0){
+    	    CampaignMonitor.a_ck_name = 'UDISEMIPRESENCIALES';
+    	}
     	if(CampaignMonitor.a_centinela==false){
     	    CampaignMonitor.a_centinela = true;
 	    var ck = CampaignMonitor.getCookie(CampaignMonitor.a_ck_name);
@@ -77,10 +91,6 @@ var CampaignMonitor = {
 	    }
         }    
     },
-    /** Adds a campaign to the cookie object  
-    * @param {string} $ck
-    * @param {string} $campaign
-    */
     addCampaigntoCK:function($ck, $campaign){
         if ($ck.campaigns.length == 4) {
             $ck.campaigns[0]=$ck.campaigns[1];
@@ -121,7 +131,6 @@ var CampaignMonitor = {
         }
         return cmp;
     },
-    /** Returns true if the site is currently loaded into an iFrame  */
     inIframe:function () {
         try {
             return window.self !== window.top;
@@ -219,20 +228,20 @@ var CampaignMonitor = {
     setCampaignAndDetail: function () {
         var campaigns = JSON.parse(CampaignMonitor.getCookie(CampaignMonitor.a_ck_name)).campaigns;
         var $param = '';
-        console.log(19);
+        //console.log(19);
         if (campaigns.length > 1) {
-            console.log(20);
+            //console.log(20);
             for (var s = 0; s < campaigns.length; s++) {
-                console.log(21);
+                //console.log(21);
                 if (campaigns[s].cmpid.length > 0 && campaigns[s].cmpid!='Organic') {
-                    console.log(22);
+                    //console.log(22);
                     $param = campaigns[s].cmpid;
                     s = campaigns.length;
-                    console.log('S: ' + s + ' PARAM: ' + $param);
+                    //console.log('S: ' + s + ' PARAM: ' + $param);
         	    }
             }
         } else {
-            console.log(23);
+            //console.log(23);
             $param = campaigns[campaigns.length - 1].cmpid;
         }
         
@@ -243,7 +252,7 @@ var CampaignMonitor = {
         var tracking_code = $param.split('');
         var _counter = 0;
         
-        console.log('DEFT: '+$param);
+        //console.log('DEFT: '+$param);
         if ($param != 'Organic' && String($param).length>0) {
             for (var i = 0; i < tracking_code.length; i++) {
                 if (tracking_code[i] == '_') {
@@ -377,3 +386,20 @@ var CampaignMonitor = {
         }
     }
 };
+
+if (
+    String(document.location.href).indexOf('poli.edu.co') < 0 &&
+    String(document.location.href).indexOf('usanmarcos.ac.cr') < 0 &&
+    String(document.location.href).indexOf('udelistmo.edu') < 0 &&
+    String(document.location.href).indexOf('qacmsudi.ilumno.org') < 0 &&
+    String(document.location.href).indexOf('qacmsusam.ilumno.org') < 0 &&
+    String(document.location.href).indexOf('qacmspoli.ilumno.org') < 0 &&
+    String(document.location.href).indexOf('qacmsfuaa.ilumno.org') < 0 &&
+    String(document.location.href).indexOf('ua.edu.py') < 0 &&
+    String(document.location.href).indexOf('uamericana.edu.py') < 0 &&
+    String(document.location.href).indexOf('qacmsua.ilumno.org') < 0 &&
+    String(document.location.href).indexOf('areandina.edu.co') < 0 &&
+    String(document.location.href).indexOf('master-h35a7wfsyydto.us.platform.sh') < 0
+    ) {
+    CampaignMonitor.init();
+}

@@ -11,9 +11,15 @@ var DOMElements = {
     * @param {string}  $id - Id of the DIV
     * @param {array}   $stylesProperties - Array of CSS properties
     */
-    newDiv: function ($id, $stylesProperties) {
+    newDiv: function ($id, $stylesProperties, $className) {
         var div = document.createElement('div');
-        div.className = 'local_div';
+
+        if ($className != undefined && $className != null && String($className).length > 0) {
+            div.className = $className;
+        } else {
+            div.className = 'local_div';
+        }
+        
         div.id = $id;
         for (var i = 0; i < $stylesProperties.length; i++) {
             div.style[$stylesProperties[i].name] = $stylesProperties[i].value;
@@ -35,7 +41,6 @@ var DOMElements = {
         }else{
         	div.className = 'local_label';
         }
-        
         for (var i = 0; i < $stylesProperties.length; i++) {
             div.style[$stylesProperties[i].name] = $stylesProperties[i].value;
         }
@@ -116,20 +121,13 @@ var DOMElements = {
 
         return ta;
     },
-    /** 
-    * Returns a checkbox 
-    * @param {string} $id
-    * @param {string} $link
-    * @param {string} $textIni
-    * @param {string} $textLink
-    */
-    newCheckbox:function($id, $link, $textIni, $textLink){
+     newCheckbox:function($id, $link, $textIni, $textLink){
      	     	
      	var ch = document.createElement("INPUT");
 		ch.setAttribute("type", "checkbox");
 		ch.id = $id;
 		
-		span = document.createElement('span');
+		span = document.createElement('div');
 		
     	var sptxt = document.createTextNode(' '+$textIni+' ');	
 		
@@ -141,14 +139,62 @@ var DOMElements = {
     		a.appendChild(atxt);  		
 		}
 		
+		span.className='local_span';
 		span.appendChild(ch);   
 		span.appendChild(sptxt);
-		span.appendChild(a);
+		if($link != ''){
+			span.appendChild(a);	
+		}
 		   	
     	return span;
     	
     	
     }, 
+    
+    newRadiosCombo:function($id, $dp){
+    	var rCombo = document.createElement("fieldset");
+    	for(var i=0;i<$dp.length;i++){
+    		var ra = document.createElement("input");
+    		var span = document.createElement("div");
+    		ra.name=$id;
+    		ra.value=$dp[i].value;
+    		ra.type='radio';
+    		//span.className='local_label';
+    		span.textContent=$dp[i].name;
+    		ra.className='local_radio';
+    		rCombo.appendChild(ra);
+    		rCombo.appendChild(span);
+    	}
+    	
+    	console.log(rCombo);
+    	return rCombo;
+    },
+    
+    newInputRadio:function($id, $link, $textIni, $textLink){
+    	var ra = document.createElement("INPUT");
+		ra.setAttribute("type", "radio");
+		ra.id = $id;
+		ra.className='local_radio';
+		
+		span = document.createElement('div');
+		
+		var sptxt = document.createTextNode(' '+$textIni+' ');	
+		if($link != ''){
+			var a = document.createElement('a');
+			a.setAttribute('href', $link);
+    		a.setAttribute('target', '_blank');
+    		var atxt = document.createTextNode($textLink);  
+    		a.appendChild(atxt);  		
+		}
+		
+		span.className='local_span';
+		span.appendChild(ra);   
+		span.appendChild(sptxt);
+		if($link != ''){
+			span.appendChild(a);	
+		}		   	
+    	return span;
+    },
     /**
     * Creates a new Button
     * @param {string}  $id - Id of the BUTTON
@@ -182,22 +228,21 @@ var DOMElements = {
     * @param {array}   $stylesProperties - Array of CSS properties
     * @param {string}  $source - Path of the image
     */
-    newImage: function ($id, $stylesProperties, $source) {
+    newImage: function ($id, $stylesProperties, $source, $className) {
         var im = document.createElement('img');
         im.setAttribute("src", $source);
         im.setAttribute("id", $id);
-        im.className = 'local_image';
+        if($className != undefined && $className != null && $className != ''){
+        	im.className = $className;
+        }else{
+        	im.className = 'local_image';	
+        }
+        
         for (var i = 0; i < $stylesProperties.length; i++) {
             im.style[$stylesProperties[i].name] = $stylesProperties[i].value;
         }
         return im;
     },
-    /** 
-    * Returns a LI element
-    * @param $id_li
-    * @param $styles
-    * @param $class
-    */
     newLI:function($id_li,$styles,$class){
     	var li = document.createElement('LI');
     	if($id_li == undefined || $id_li == null){
@@ -264,10 +309,6 @@ var DOMElements = {
         
         return combo;
     },
-    /**
-    * Removes an element from the DOM
-    * $id - ID of the element
-    */
     removeElement: function ($id) {
         if (document.getElementById($id) != null) {
             DOMElements.removeAllChilds($id);
@@ -275,10 +316,6 @@ var DOMElements = {
             el.parentNode.removeChild(el);
         }
     },
-    /**
-    * Removes all chids of a container
-    * $id - Container ID
-    */
     removeAllChilds: function ($id) {
         var el = document.getElementById($id);
         for (var i = 0; i < el.childNodes.length; i++) {

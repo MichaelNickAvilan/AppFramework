@@ -33,7 +33,7 @@ var FacebookAds = {
                 Controller.eventDispatcherDelegate(document, Controller.FACEBOOK_CLASSICTAG_DISPATCHED_EVENT);
                 break;
             case 'Renderer':
-                var iframe = PerformanceMKT.a_prefix + '/AppFramework/Ads/SEM/renderers/FacebookRenderer.php?' +
+                var iframe = PerformanceMKT.a_prefix + '/AppFramework/Ads/sm/renderers/FacebookRenderer.php?' +
                 'service=1' +
 	  	        '&trackID=' + $id +
 	  	        '&value=' + $value +

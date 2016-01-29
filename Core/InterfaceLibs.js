@@ -1,7 +1,7 @@
-﻿/** 
-  * @desc This file loads all the Interface Scripts
-  * @author Michael Avilán michael.avilan@gmail.com
-*/
+﻿/**
+ * @author Michael Avilán 
+ * @since 1.0.0
+ */
 var InterfaceLibs = {
     a_counter: 0,
     a_libs: [
@@ -11,22 +11,30 @@ var InterfaceLibs = {
         'AppFramework/Interface/HTML/DOMElements.js',
         'AppFramework/Interface/Containers.js'
     ],
-
-    /** @Constructor method */
+    /*
+    * Inits the libs loading process
+    */
     init: function () {
         InterfaceLibs.addListeners();
         InterfaceLibs.lcIncludeLibs(InterfaceLibs.a_libs);
     },
-    /** Attach the events to its listeners */
+    /*
+    * Attach the event to its listener
+    */
     addListeners: function () {
         Controller.addListener(document, 'INTERFACE_LIBS_LOADED_EVENT', InterfaceLibs.libComplete);
     },
-    /** Include libs delegate 
-    * @param {string} $libs
+    /*
+    * Order the loading of the libs
+    * @param {string} $libs - Array of libs
     */
     lcIncludeLibs: function ($libs) {
-        DomUtils.includeLibs($libs, 'INTERFACE_', AppFrameworkModel.a_prefix);
+        DomUtils.includeLibs($libs, 'INTERFACE_', AppFramework.a_prefix);
     },
+    /*
+    * Dispatch an event when the libs are loaded
+    */
     libComplete: function () {
+        //Add custom code to extend functionality
     }
 };

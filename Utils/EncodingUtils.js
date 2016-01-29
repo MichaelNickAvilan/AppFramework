@@ -1,7 +1,4 @@
-﻿/** 
-  * @desc This file contains usefull methods to process arrays
-*/
-var EcondingUtils = {
+﻿var EcondingUtils = {
     a_keys: "ABCDEFGHIJKLMNOP" +
            "QRSTUVWXYZabcdef" +
            "ghijklmnopqrstuv" +

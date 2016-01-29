@@ -1,19 +1,12 @@
-﻿/** 
-  * @desc This file contains the logic to read CSV files and convert into an array of arrays
-  * @author Michael Avilán michael.avilan@gmail.com
-*/
-var CSVReader = {
+﻿var CSVReader = {
 
     a_data: [],
 
-    /** Cosntructor method */
     init: function () {
+
     },
-    /** Read the CSV content
-    * @param $path
-    * @param $callback
-    */
     loadCSV: function ($path, $callback) {
+    	console.log($path);
         $ = jQuery;
         $.ajax({
             url: $path,
@@ -27,16 +20,16 @@ var CSVReader = {
             }
         });
     },
-    /** Converts the CSV content to an Array 
-    * @param strData
-    * @param strDelimiter
-    */
+
     CSVToArray: function (strData, strDelimiter) {
         strDelimiter = (strDelimiter || ",");
         var objPattern = new RegExp(
     		(
     			"(\\" + strDelimiter + "|\\r?\\n|\\r|^)" +
+
     			"(?:\"([^\"]*(?:\"\"[^\"]*)*)\"|" +
+
+
     			"([^\"\\" + strDelimiter + "\\r\\n]*))"
     		),
     		"gi"
