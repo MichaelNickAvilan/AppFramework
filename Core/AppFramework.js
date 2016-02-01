@@ -56,11 +56,11 @@ var AppFramework = {
     */
     loadLibsDelegate: function () {
         DomUtils.includeLibs([
-        '../libs/jquery-ui-1.11.4/jquery-ui.min.js',
-        '../Core/InterfaceLibs.js',
-        '../Core/UtilsLibs.js',
-        '../Core/BusinessLibs.js',
-        '../Core/PerformanceMKTLibs.js'], '', '');
+        'AppFramework/libs/jquery-ui-1.11.4/jquery-ui.min.js',
+        'AppFramework/Core/InterfaceLibs.js',
+        'AppFramework/Core/UtilsLibs.js',
+        'AppFramework/Core/BusinessLibs.js',
+        'AppFramework/Core/PerformanceMKTLibs.js'], '', AppFramework.a_prefix);
     },
     /*
      * Attach events to its listeners

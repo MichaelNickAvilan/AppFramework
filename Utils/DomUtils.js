@@ -36,7 +36,8 @@ var DomUtils = {
     },
     /** Loads the Main JS for every project "JSVAMain.js" this script must be created by the developer to be the Main file for the application */
     loadCore: function () {
-        AppFramework.includeURL(AppFramework.a_prefix + 'AppFramework/libs/jquery-1.12.0.min.js', function () {
+        AppFramework.includeURL(AppFramework.a_prefix +
+            'AppFramework/libs/jquery-1.12.0.min.js', function () {
             $ = jQuery;
             DomUtils.loadLibsDelegate();
         });

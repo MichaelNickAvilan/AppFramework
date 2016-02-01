@@ -39,5 +39,15 @@ var AjaxDelegate = {
 			console.log(e);
 		}finally{}
 		
+    },
+    readXML: function ($path, $callback) {
+        $.ajax({
+            type: 'GET' ,
+            url: $path,
+            dataType: 'xml' ,
+            success: function(data) {
+                $callback(data);
+            }
+        });
     }
 };

@@ -124,31 +124,6 @@ var FormsUtils = {
     	return nameComplete;
     	
     },
-	/*
-	orderLetters:function($name){
-    	var name = $name.split('');
-    	var firstLetter = name[0].toUpperCase();
-    	var nameComplete = '';
-    	var centinela = false;
-    	for(var i=0; i < name.length; i++){
-    		if(i > 0){
-    			if(centinela == true){
-    				centinela = false;
-    				nameComplete += name[i].toUpperCase();
-    			}else{
-    				nameComplete += name[i].toLowerCase();
-    			}
-    			
-    			if(name[i] == ' '){
-    				centinela = true;
-    				nameComplete += name[i];
-    			}
-    		}
-    	}
-    	
-    	return firstLetter+nameComplete;
-    	
-    },*/
 	validateFieldsAll:function($fields,$messages){
     	var centinela = false;
         var response = {valid:false,message:'',element:''};
@@ -399,8 +374,6 @@ var FormsUtils = {
         }
     },
     validateFields: function ($fields, $messages) {
-    	console.log($fields);
-    	console.log($messages);
         var centinela = false;
         var response = {valid:false,message:''};
         for (var i = 0; i < $fields.length; i++) {

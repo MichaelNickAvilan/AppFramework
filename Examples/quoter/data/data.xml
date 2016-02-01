@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+  <products>
+  	<product>
+  		<name>Apto 1</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>35.000.000</value>
+  		<floor>1</floor>
+  		<image>images/im3.png</image>
+  	</product>
+  	<product>
+  		<name>Apto 2</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>45.000.000</value>
+  		<floor>1</floor>
+  		<image>images/im1.png</image>
+  	</product>
+  	<product>
+  		<name>Apto 3</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>45.000.000</value>
+  		<floor>1</floor>
+  		<image>images/im2.png</image>
+  	</product>
+  	<product>
+  		<name>Apto 4</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>35.000.000</value>
+  		<floor>2</floor>
+  		<image>images/im3.png</image>
+  	</product>
+  	<product>
+  		<name>Apto 5</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>45.000.000</value>
+  		<floor>3</floor>
+  		<image>images/im1.png</image>
+  	</product>
+  	<product>
+  		<name>Apto 6</name>
+  		<description>Lorem Ipsum dolor asitmet doc enum.</description>
+  		<value>45.000.000</value>
+  		<floor>4</floor>
+  		<image>images/example.jpg</image>
+  	</product>
+  </products>
+  <values>
+  	<garages>2</garages>
+  	<deposits>2</deposits>
+  	<garage>6.000.000</garage>
+  	<deposit>3.000.000</deposit>
+  	<floors>14</floors>
+  </values>
+  <template>
+  	<owner><![CDATA[
+  		Una nueva solicitud de cotización ha llegado:
+  		Nombre: client_name
+		Email: client_mail
+		Phone: client_phone
+		Piso:  floor
+		Área:  area
+		Depósitos: deposits
+		Parqueaderos: parking
+  	]]></owner>
+  	<client><![CDATA[
+  		Hola client_name, hemos recibido tu solicitud:
+  		La cotización del predio con las características:	
+  		Piso: floor
+		Area: area
+		Depósitos: deposits
+		Parqueaderos: parking
+		
+  		En breve nos comunicaremos contigo
+  	]]></client>
+  	<ownerMail>
+  		<mail>michael.avilan@gmail.com</mail>
+  		<name>Michael Nick</name>
+  	</ownerMail>
+  </template>
+</dataroot> 

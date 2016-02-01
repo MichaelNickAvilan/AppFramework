@@ -6,7 +6,8 @@ var BusinessLibs = {
     a_counter: 0,
     a_libs: [
         'AppFramework/Business/AjaxDelegate.js',
-        'AppFramework/Business/CSVReader.js'
+        'AppFramework/Business/CSVReader.js',
+        'AppFramework/Business/Mailer.js'
     ],
     /*
     * Inits the libs loading process

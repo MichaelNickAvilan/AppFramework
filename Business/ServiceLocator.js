@@ -2,7 +2,7 @@ var ServiceLocator = {
 	countryRequest: function ($host, $callback) {
         Alert.showLoadingAlert();
         AjaxDelegate.requestInfo(
-            $host+'hechoparaliderar.com/api/php/proxys/countriesproxy.php',
+            $host+'app/api/php/proxys/countriesproxy.php',
             {
                 service: 6
             }, 'post', 'json',
