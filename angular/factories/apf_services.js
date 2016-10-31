@@ -6,7 +6,7 @@
             a_subdivisions: [],
             getCountries: function (callback) {
                 if (GeoInfo.a_countries.length === 0) {
-                    TRANSACTION.csv.loadCSV('backend/datasets/ungeocodes/ISOCountryCodes081507.csv', ';', function (data) {
+                    TRANSACTION.csv.loadCSV(pr+'backend/datasets/ungeocodes/ISOCountryCodes081507.csv', ';', function (data) {
                         for (var i = 0; i < data.length; i++) {
                             var item = { code: '', countryName: '' };
                             item.code = String(data[i][0]).toUpperCase();
@@ -95,15 +95,44 @@
             }
         };
         var Mailer = {
-            sendGmail: function () {
+            sendGmail: function (pr, rep, rec, subj, msg, txt, callback) {
+                var request={
+                    replyTo: rep,
+                    mails: rec,
+                    subject: subj,
+                    body: msg,
+                    textMessage: txt,
+                    type: 'GMAIL'
+                }
+                TRANSACTION.ajax.request('post',
+                    pr + 'backend/php/poxies/mail.php',
+                    { info: window.btoa(JSON.stringify(request)) },
+                    { 'Content-Type': 'application/x-www-form-urlencoded' }, function (data) {
+                        callback(window.atob(data));
+                    });
             },
-            sendSMTP: function () {
+            sendSMTP: function (pr, rep, rec, subj, msg, txt, callback) {
+                var request = {
+                    replyTo: rep,
+                    mails: rec,
+                    subject: subj,
+                    body: msg,
+                    textMessage: txt,
+                    type: 'SMTP'
+                }
+                TRANSACTION.ajax.request('post',
+                    pr + 'backend/php/poxies/mail.php',
+                    { info: window.btoa(JSON.stringify(request)) },
+                    { 'Content-Type': 'application/x-www-form-urlencoded' }, function (data) {
+                        callback(window.atob(data));
+                    });
             }
         };
         return {
             geo: GeoInfo,
             instaram: InstagramInfo,
-            flickr: FlickrInfo
+            flickr: FlickrInfo,
+            mail:Mailer
         };
     });
 })();

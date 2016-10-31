@@ -1,0 +1,98 @@
+IS;AKR;Akranes;Akranes;;1-------;AC;9601;;
+IS;AKU;Akureyri;Akureyri;;1-------;AC;9601;;
+IS;AEY;Akureyri Apt;Akureyri Apt;;---4----;AC;9601;;
+IS;ASS;Arskogssandur;Arskogssandur;;1-------;AI;201;;6556N 01822W
+IS;BAK;Bakkafjördur;Bakkafjordur;;1-------;AC;212;;6602N 01448W
+IS;BIL;Bildudalur - høfn;Bildudalur - hofn;;1-------;AI;9601;;
+IS;BIU;Bildudalur Apt;Bildudalur Apt;;---4----;AI;9601;;
+IS;BLO;Blonduos;Blonduos;;1--4----;AC;9601;;
+IS;BOL;Bolungarvik;Bolungarvik;;1-34----;AC;207;;6608N 02315W
+IS;BOV;Bolungarvirk;Bolungarvirk;;--3-----;XX;1601;;6610N 02313W
+IS;BOI;Bordeyri;Bordeyri;;1-------;AC;9601;;
+IS;BGJ;Borgarfjørdur eystri;Borgarfjordur eystri;;1-------;AC;9703;;
+IS;BOR;Borgarnes;Borgarnes;;1-------;AC;9601;;
+IS;BRE;Breiddalsvik;Breiddalsvik;;1-------;AC;9601;BXV;
+IS;BUD;Budardalur;Budardalur;3;1-3-----;AC;1301;;6507N 02146W
+IS;DAL;Dalvík;Dalvik;;1-------;AC;212;;6558N 01832W
+IS;DPV;Djupavik;Djupavik;;1-------;AC;9601;;
+IS;DJU;Djúpivogur;Djupivogur;;1--4----;AC;212;;6439N 01417W
+IS;DRA;Drangsnes;Drangsnes;;1-------;AC;9601;;
+IS;EGS;Egilsstadir;Egilsstadir;;---4----;AC;9601;;
+IS;ESK;Eskifjørdur - høfn;Eskifjordur - hofn;;1-------;AC;9601;;
+IS;EFJ;Eskifjørdur Apt;Eskifjordur Apt;;---4----;AC;9601;;
+IS;FAG;Fagurholsmyri;Fagurholsmyri;;---4----;AC;9601;;
+IS;FAS;Faskrudsfjørdur;Faskrudsfjordur;;1--4----;AC;9601;;
+IS;FLA;Flateyri;Flateyri;;1-------;AC;9601;FLI;
+IS;FLI;Flateyri Apt;Flateyri Apt;;---4----;AC;9601;;
+IS;GRB;Gardabaer;Gardabaer;;1-------;AI;201;;6405N 01256W
+IS;GRD;Gardur;Gardur;;1-------;AI;201;;
+IS;GJR;Gjogur;Gjogur;;---4----;AC;9601;;
+IS;GRE;Grenivík;Grenivik;;1-------;AC;212;;6557N 01811W
+IS;GRY;Grimsey;Grimsey;;---4----;AC;9601;;
+IS;GRI;Grindavík;Grindavik;;1-------;AC;212;;6350N 02226W
+IS;GRF;Grundarfjørdur;Grundarfjordur;;1-------;AC;9601;GUU;
+IS;GRT;Grundartangi;Grundartangi;;1-------;AC;9601;;
+IS;GUF;Gufunes/Reykjavik;Gufunes/Reykjavik;;1-------;AC;9601;;
+IS;HAF;Hafnarfjørdur;Hafnarfjordur;;1-------;AC;9601;;
+IS;HNR;Hafnir;Hafnir;;1-------;AI;201;;6355N 02241W
+IS;HEL;Helguvik;Helguvik;;1-------;RL;901;;6402N 02233W
+IS;HEA;Hella;Hella;;--3-----;RQ;1001;;6350N 02024E
+IS;HJA;Hjalteyri;Hjalteyri;;1-------;AC;9601;;
+IS;HFN;Höfn, Hornafjørdur;Hofn, Hornafjordur;;1--4----;AC;1101;;6415N 01513W
+IS;HOF;Hofsós;Hofsos;;1-------;AC;212;;6554N 01926W
+IS;HVK;Hólmavík;Holmavik;;---4----;AC;212;;6543N 02141W
+IS;HRI;Hrisey;Hrisey;;1-------;AC;9601;;
+IS;HUS;Husavik - høfn;Husavik - hofn;;1-------;AC;9601;HZK;
+IS;HVM;Hvammstangi;Hvammstangi;;1-------;AC;9601;;
+IS;HVE;Hveragerdi;Hveragerdi;;--3-----;RL;1301;;6400N 02112W
+IS;HVO;Hvolsvöllur;Hvolsvollur;;--3-----;RL;201;;6344N 02014W
+IS;ISA;Isafjørdur - høfn;Isafjordur - hofn;;1-------;AC;9601;IFJ;
+IS;KEF;Keflavík;Keflavik;;---4----;AC;212;;6401N 02234W
+IS;KEV;Keflavikurkaupstadur;Keflavikurkaupstadur;;1-------;AC;9601;;
+IS;KIR;Kirkjubæjarklaustur;Kirkjubajarklaustur;8;--3-----;RL;1307;;6347N 01804W
+IS;KOP;Kopasker - høfn;Kopasker - hofn;;1-------;AC;9601;OPA;
+IS;KOV;Kópavogur;Kopavogur;;1-------;AC;212;;6406N 02155W
+IS;KRO;Krokfjardarnes;Krokfjardarnes;;1-------;AC;9601;;
+IS;LAN;Landeyjahöfn;Landeyjahofn;8;1-------;AA;1601;;6131N 02007W
+IS;LSA;Litli Sandur;Litli Sandur;;1-------;RL;901;;6424N 02127W
+IS;HVR;Midsandur;Midsandur;;1-------;AC;1601;;
+IS;MJH;Mjoeyrarhofn;Mjoeyrarhofn;7;1-3--67-;RQ;1307;;6455N 01357W
+IS;MJO;Mjofjördur;Mjofjordur;;1-------;AC;9601;;
+IS;MOS;Mosfellsbaer;Mosfellsbaer;;1-3-----;RL;607;;6410N 02143W
+IS;MVA;Myvatn;Myvatn;;---4----;AC;9601;;
+IS;NES;Neskaupstadur;Neskaupstadur;;1-------;AC;9601;;
+IS;NJA;Njardvik;Njardvik;;1-------;AC;9601;;
+IS;NOU;Nordurfjördur;Nordurfjordur;;1-------;AC;9601;NOR;
+IS;OLF;Olafsfjørdur;Olafsfjordur;;1-------;AC;9601;OFJ;
+IS;OLV;Olafsvík;Olafsvik;;1-------;AC;212;OLI;6453N 02343W
+IS;OSP;Ospakseyri;Ospakseyri;;1-------;AC;212;;6527N 02126W
+IS;PAT;Patreksfjørdur - høfn;Patreksfjordur - hofn;;1-------;AC;9601;PFJ;
+IS;RAU;Raufarhöfn;Raufarhofn;;1--4----;AC;212;RFN;6627N 01557W
+IS;RFJ;Reydarfjørdur;Reydarfjordur;;1-------;AC;9601;;
+IS;RHA;Reykhólar;Reykholar;;1-------;AC;212;;6527N 02212W
+IS;REY;Reykjavík;Reykjavik;;1-------;AC;212;REK;6409N 02157W
+IS;RIF;Rif-Hellisandur;Rif-Hellisandur;;1--4----;AC;9601;;
+IS;SAN;Sandgerdi;Sandgerdi;;1-------;AC;9601;;
+IS;SAU;Saudarkrokur - høfn;Saudarkrokur - hofn;;1-------;AC;9601;SAK;
+IS;SEL;Selfoss;Selfoss;;--3-----;AC;9601;;
+IS;SFS;Selfoss - Apt;Selfoss - Apt;;---4----;AC;9601;;
+IS;SEY;Seydisfjørdur;Seydisfjordur;;1-------;AC;9601;SEJ;
+IS;SIG;Siglufjørdur - høfn;Siglufjordur - hofn;;1-------;AC;9601;SIJ;
+IS;SKA;Skagaströnd;Skagastrond;;1-------;AC;212;;6550N 02019W
+IS;KJF;Skerjafjördur;Skerjafjordur;;1-------;AC;9601;;
+IS;STD;Stodhvarfjørdur;Stodhvarfjordur;;1-------;AC;9601;;
+IS;STK;Stokkseyri;Stokkseyri;0;--3-----;RQ;901;;6350N 02103W
+IS;STR;Straumsvik;Straumsvik;;1-------;AC;9601;;
+IS;STY;Stykkisholmur - høfn;Stykkisholmur - hofn;;1-------;AC;9601;SYK;
+IS;SUV;Sudavik;Sudavik;;1-------;AC;9601;;
+IS;SUD;Sudureyri/Sugandafjord;Sudureyri/Sugandafjord;;1-------;AC;9601;SUY;
+IS;SVA;Svalbardseyri;Svalbardseyri;;1-------;AC;9601;;
+IS;TAL;Talknafjørdur/Sveinseyri;Talknafjordur/Sveinseyri;;1-------;AC;9601;TLK;
+IS;THE;Theistareykir;Theistareykir;6;--3-----;RL;1507;;6554N 01658W
+IS;TEY;Thingeyri;Thingeyri;;1--4----;AC;9601;;
+IS;THH;Thorlakshofn;Thorlakshofn;;1-------;AC;9601;;
+IS;THO;Thorshofn;Thorshofn;;1--4----;AC;9601;;
+IS;THN;Tjörneshöfn;Tjorneshofn;;1-------;AI;201;;
+IS;VES;Vestmannaeyjar - høfn;Vestmannaeyjar - hofn;;1-------;AC;9601;VEY;
+IS;VOG;Vogar;Vogar;;1-------;AI;201;;6359N 02223W
+IS;VPN;Vopnafjördur;Vopnafjordur;;1-------;AC;212;;6545N 01450W

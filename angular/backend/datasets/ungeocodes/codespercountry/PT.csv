@@ -1,0 +1,913 @@
+PT;TZA;A dos Cunhados;A dos Cunhados;11;--3--6--;RL;901;;3909N 00918W
+PT;AVM;Abade de Vermoim;Abade de Vermoim;3;--3-----;RN;401;;4123N 00829W
+PT;ABO;Aboboda;Aboboda;11;-23--6--;RL;401;;3843N 00920W
+PT;AGO;Abragão;Abragao;13;--3-----;RL;1501;;4109N 00813W
+PT;ABT;Abrantes;Abrantes;14;-23-----;RN;401;;3928N 00812W
+PT;ABS;Abraveses;Abraveses;18;-----6--;RL;1201;;4040N 00755W
+PT;ABG;Abrigada;Abrigada;11;--3-----;RL;701;;3909N 00901W
+PT;ABR;Abrunheira;Abrunheira;6;--3-----;RL;401;;4007N 00843W
+PT;AHA;Abrunheira;Abrunheira;11;-----6--;RL;1201;;3846N 00922W
+PT;ASD;Adães;Adaes;3;-23-----;RN;401;;4131N 00834W
+PT;B4R;Adaufe;Adaufe;3;--3-----;RL;1507;;4135N 00824W
+PT;ADF;Adaúfe;Adaufe;3;--3-----;RL;1501;;4135N 00824W
+PT;AGE;Agrela;Agrela;3;--3-----;RN;401;;4132N 00812W
+PT;GLZ;Água Longa;Agua Longa;;-----6--;RL;1201;;4115N 00829W
+PT;ADB;Aguada de Baixo;Aguada de Baixo;;-2------;RQ;1001;;4030N 00827W
+PT;AGA;Aguada de Cima;Aguada de Cima;1;--3-----;RQ;901;;
+PT;AGV;Agualva;Agualva;1;--3--6--;RL;901;;4050N 00815W
+PT;UGV;Agualva;Agualva;11;--3-----;RL;401;;3845N 00919W
+PT;AGM;Águas de Moura;Aguas de Moura;15;-23-----;RN;401;;3835N 00842W
+PT;GST;Águas Santas;Aguas Santas;;-----6--;RL;1201;;4137N 00820W
+PT;AGC;Aguçadoura;Agucadoura;13;--3-----;RL;1401;;4126N 00847W
+PT;AGD;Aguda;Aguda;13;1-------;RL;1201;;4103N 00839W
+PT;AGU;Águeda;Agueda;1;-23-----;RL;401;;4034N 00827W
+PT;AGB;Aguiar da Beira;Aguiar da Beira;9;--3-----;RN;401;;4049N 00733W
+PT;AIO;Aião;Aiao;13;-23-----;RN;401;;4118N 00812W
+PT;ALG;Alagoa;Alagoa;6;--3-----;RL;1301;;4018N 00821W
+PT;AOD;Alandroal;Alandroal;7;--3-----;RN;401;;3842N 00724W
+PT;ABQ;Albarraque;Albarraque;11;--3-----;RL;701;;3846N 00921W
+PT;ALB;Albergaria;Albergaria;10;--3-----;RL;401;;3945N 00853W
+PT;BDZ;Albergaria dos Doze;Albergaria dos Doze;;-----6--;RL;1107;;3947N 00835W
+PT;ABV;Albergaria-a-Velha;Albergaria-a-Velha;1;-23-----;RL;401;;4042N 00829W
+PT;ANO;Albernoa;Albernoa;2;--3-----;RL;1207;;3752N 00758W
+PT;ABF;Albufeira;Albufeira;8;123-----;RL;401;;3705N 00815W
+PT;ACB;Alcabideche;Alcabideche;11;--3-----;RN;401;;3844N 00925W
+PT;ADS;Alcácer do Sal;Alcacer do Sal;15;-23-----;RL;401;;3822N 00830W
+PT;ALS;Alcains;Alcains;5;-23-----;RN;401;;3955N 00727W
+PT;ACD;Alcanede;Alcanede;14;--3-----;RN;401;;3925N 00849W
+PT;ALC;Alcanena;Alcanena;14;--3-----;RL;401;;3927N 00840W
+PT;ATH;Alcantarilha;Alcantarilha;8;--3-----;RL;1307;;3708N 00821W
+PT;ALO;Alcobaça;Alcobaca;10;--3-----;RL;212;;3933N 00859W
+PT;ALE;Alcochete;Alcochete;15;--3-----;RL;401;;3845N 00858W
+PT;ACR;Alcoentre;Alcoentre;11;--3-----;RN;401;;3912N 00857W
+PT;ACT;Alcoutim;Alcoutim;8;--3-----;RN;401;;3728N 00728W
+PT;APP;Aldeia de Paio Pires;Aldeia de Paio Pires;15;--3-----;RL;1301;;3837N 00905W
+PT;OAS;Aldeia Galega da Merceana;Aldeia Galega da Merceana;11;--3-----;RL;1207;;3904N 00906W
+PT;AER;Além da Ribeira;Alem da Ribeira;16;--3-----;RN;401;;4137N 00845W
+PT;ALN;Alenquer;Alenquer;11;--3-----;RL;401;;3903N 00900W
+PT;AFE;Alfândega da Fé;Alfandega da Fe;4;--3-----;RN;401;;4120N 00658W
+PT;AFZ;Alfeizerão;Alfeizerao;10;--3-----;RL;1501;;3930N 00906W
+PT;AFA;Alfena;Alfena;13;--3-----;RL;401;;4114N 00832W
+PT;ARE;Alferrarede;Alferrarede;14;--3-----;RL;212;;3929N 00810W
+PT;ALF;Alfragide;Alfragide;11;--3--6--;RQ;1001;;3844N 00916W
+PT;AGS;Algés;Alges;11;-23-----;RN;401;;3842N 00914W
+PT;AL8;Algoz;Algoz;6;--3-----;RL;1301;;3710N 00818W
+PT;ARO;Algueirão;Algueirao;11;--3-----;RL;1301;;3848N 00920W
+PT;AHD;Alhandra;Alhandra;11;--3-----;RQ;901;;3855N 00900W
+PT;ALJ;Alijo;Alijo;17;--3-----;RN;401;;4137N 00745W
+PT;AJZ;Aljezur;Aljezur;8;--3-----;RN;401;;3719N 00848W
+PT;AJB;Aljubarrota;Aljubarrota;10;--3-----;RL;701;;3934N 00856W
+PT;AJT;Aljustrel;Aljustrel;2;-23-----;RN;401;;3752N 00810W
+PT;ALM;Almada;Almada;15;-23-----;RL;401;;3841N 00909W
+PT;AMG;Almagreira;Almagreira;10;--3-----;RN;401;;3959N 00840W
+PT;AML;Almancil;Almancil;8;-23-----;RN;401;;3705N 00802W
+PT;AMP;Almargem;Almargem;11;--3-----;RL;607;;3851N 00916W
+PT;ALD;Almeida;Almeida;9;--3-----;RN;401;;4043N 00654W
+PT;ALR;Almeirim;Almeirim;14;--3-----;RN;401;;3925N 00843W
+PT;ADA;Almendra;Almendra;;-----6--;RL;1201;;4100N 00703W
+PT;ADV;Almodôvar;Almodovar;2;--3-----;RN;401;;3731N 00804W
+PT;AGR;Almograve;Almograve;;1-------;RL;1201;;3739N 00848W
+PT;HAO;Alpalhão;Alpalhao;12;--3-----;RL;1301;;3925N 00737W
+PT;AEM;Alpendurada e Matos;Alpendurada e Matos;13;--3-----;RL;1301;;4114N 00831W
+PT;APC;Alpiarça;Alpiarca;14;--3-----;RN;401;;3915N 00835W
+PT;AQB;Alquerubim;Alquerubim;1;--3-----;RL;1207;;4037N 00830W
+PT;ALT;Alter do Chão;Alter do Chao;12;--3-----;RN;401;;3912N 00740W
+PT;AVZ;Alvaiázere;Alvaiazere;10;--3-----;RN;401;;3949N 00823W
+PT;ADO;Alvaredo;Alvaredo;16;-----6--;RL;1201;;4206N 00818W
+PT;AVL;Alvarelhos;Alvarelhos;13;-23-----;RN;401;;4118N 00836W
+PT;ALV;Alverca;Alverca;11;-23-----;RL;401;;3854N 00902W
+PT;ARJ;Alverca do Ribatejo;Alverca do Ribatejo;11;--3-----;RQ;901;;3853N 00902W
+PT;AVT;Alvito;Alvito;2;-23-----;RN;401;;3815N 00759W
+PT;AVR;Alvor;Alvor;8;--3-----;RL;1301;;3708N 00834W
+PT;AVA;Alvorninha;Alvorninha;11;--3-----;RL;1501;;3923N 00902W
+PT;AMA;Amadora;Amadora;11;-23-----;RL;401;;3845N 00914W
+PT;AMT;Amarante;Amarante;13;-23--6--;RN;401;;4116N 00805W
+PT;AMJ;Amareleja;Amareleja;2;--3-----;RN;401;;3812N 00714W
+PT;AMR;Amares;Amares;3;--3-----;RN;401;;4138N 00821W
+PT;AMC;Amiães de Cima;Amiaes de Cima;14;--3-----;RL;401;;3927N 00846W
+PT;AMB;Amiais de Baixo;Amiais de Baixo;14;--3-----;RL;1601;;3927N 00844W
+PT;AME;Amieirinha;Amieirinha;10;--3-----;RQ;907;;3953N 00746W
+PT;AMO;Amora;Amora;15;--3-----;RN;401;;3837N 00907W
+PT;ADG;Amoreira da Gândara;Amoreira da Gandara;1;1----6--;RL;1407;;4029N 00832W
+PT;AMI;Amorim;Amorim;13;-23-----;RN;401;;4124N 00845W
+PT;ANA;Anadia;Anadia;1;--3-----;RL;401;;4026N 00826W
+PT;ANI;Anais;Anais;16;--3-----;RL;901;;4142N 00831W
+PT;ANC;Ancora;Ancora;16;--3-----;RL;901;;4147N 00850W
+PT;ANG;Angeiras;Angeiras;13;1-------;RL;1201;;4116N 00843W
+PT;ADH;Angra do Heroísmo;Angra do Heroismo;20;1-3-----;AI;401;;3839N 02713W
+PT;ANS;Ansião;Ansiao;10;--3-----;RN;401;;3955N 00826W
+PT;AAR;Arada;Arada;1;--3-----;RL;1407;;4055N 00836W
+PT;AZD;Arazede;Arazede;6;--3-----;RL;1307;;4017N 00839W
+PT;AVV;Arcos de Valdevez;Arcos de Valdevez;16;--3-----;RN;401;;4151N 00825W
+PT;AOR;Arcossó;Arcosso;17;--3-----;RL;1601;;4139N 00736W
+PT;ACZ;Arcozelo;Arcozelo;18;--3-----;RN;401;;4045N 00802W
+PT;ARD;Ardido;Ardido;10;--3-----;RL;607;;3929N 00859W
+PT;ARA;Areosa;Areosa;16;--3-----;RQ;607;;4142N 00851W
+PT;AGN;Arganil;Arganil;6;--3-----;RN;401;;4013N 00803W
+PT;GER;Argeriz;Argeriz;17;1-3-----;RL;1401;;4135N 00723W
+PT;AGL;Argoncilhe;Argoncilhe;1;--3-----;RN;401;;4101N 00832W
+PT;AGZ;Argozelo;Argozelo;4;--3-----;RN;401;;4139N 00636W
+PT;ARZ;Ariz;Ariz;13;--3-----;RN;401;;4106N 00813W
+PT;ARP;Armação de Pêra;Armacao de Pera;8;1-3-----;RN;401;;3706N 00821W
+PT;ARM;Armamar;Armamar;18;--3-----;RN;401;;4106N 00742W
+PT;ARC;Arouca;Arouca;1;--3-----;RN;401;;4056N 00815W
+PT;ARL;Arraiolos;Arraiolos;7;-23-----;RN;401;;3843N 00759W
+PT;ARG;Arreigada;Arreigada;13;--3-----;RN;401;;4115N 00824W
+PT;AFN;Arrifana;Arrifana;1;--3-----;RL;1301;;4055N 00830W
+PT;ARF;Arrifana;Arrifana;6;--3-----;RL;601;;4013N 00816W
+PT;ARR;Arronches;Arronches;12;--3-----;RN;401;;3907N 00717W
+PT;ARV;Arruda dos Vinhos;Arruda dos Vinhos;11;--3-----;RN;401;;3859N 00905W
+PT;ATC;Atalaia do Campo;Atalaia do Campo;1;--3-----;RL;1207;;4003N 00726W
+PT;ATB;Atouguia da Baleia;Atouguia da Baleia;10;--3-----;RN;401;;3920N 00920W
+PT;AVC;Avanca;Avanca;1;--3-----;RL;401;;4048N 00834W
+PT;AVB;Aveiras De Baixo;Aveiras De Baixo;11;--3-----;RL;1501;;3907N 00852W
+PT;ADC;Aveiras de Cima;Aveiras de Cima;11;--3-----;RL;401;;3908N 00854W
+PT;AVE;Aveiro;Aveiro;1;123-----;AI;401;;4038N 00839W
+PT;ACH;Avelãs de Caminho;Avelas de Caminho;1;--3-----;RL;1301;;4029N 00827W
+PT;AVD;Aveleda;Aveleda;13;-23-----;RN;401;;4117N 00815W
+PT;AES;Aves;Aves;13;--3-----;RN;401;;4122N 00824W
+PT;AVO;Avidos;Avidos;3;--3-----;RQ;907;;4122N 00829W
+PT;AVI;Avintes;Avintes;13;-23-----;RL;401;;4107N 00833W
+PT;AVS;Avis;Avis;12;--3-----;RN;401;;3903N 00753W
+PT;AZA;Azambuja;Azambuja;11;-23-----;RL;401;;3904N 00852W
+PT;ABA;Azambujeira;Azambujeira;14;--3-----;RL;401;;3916N 00847W
+PT;AZJ;Azaruja;Azaruja;7;-23-----;RN;401;;3842N 00747W
+PT;AZT;Azeitão;Azeitao;15;--3-----;RN;401;;3831N 00901W
+PT;AZM;Azenhas do Mar;Azenhas do Mar;;1-------;RL;1201;;3850N 00927W
+PT;AZU;Azueira;Azueira;11;--3-----;RL;1401;;3900N 00917W
+PT;BAA;Baião;Baiao;13;--3-----;RN;401;;4109N 00802W
+PT;BBN;Baixa da Banheira;Baixa da Banheira;15;--3-----;RN;401;;
+PT;BLZ;Balazar;Balazar;13;--3-----;RN;401;;4124N 00838W
+PT;BTR;Baltar;Baltar;13;1----6--;RQ;907;;4111N 00823W
+PT;BAN;Banatica;Banatica;15;123-----;AI;401;;3840N 00912W
+PT;BHC;Banho e Carvalhosa;Banho e Carvalhosa;13;--3-----;RN;401;;4114N 00810W
+PT;BEA;Barcarena;Barcarena;11;-23-----;RN;401;;3844N 00917W
+PT;BAR;Barcelos;Barcelos;3;-23-----;RL;401;;4132N 00837W
+PT;BQS;Barqueiros;Barqueiros;3;--3-----;RL;1301;;4129N 00844W
+PT;BRR;Barrancos;Barrancos;2;--3-----;RN;401;;3808N 00659W
+PT;BRO;Barreiro;Barreiro;15;-23-----;RL;401;;3840N 00904W
+PT;BAO;Barro;Barro;1;1-3-----;RQ;901;;
+PT;BRS;Barroselas;Barroselas;16;--3-----;RL;207;;4139N 00840W
+PT;BAT;Batalha;Batalha;10;-23-----;RL;401;;3939N 00850W
+PT;BEC;Beça;Beca;17;--3-----;RL;1601;;4142N 00742W
+PT;BEI;Beijos;Beijos;18;1-3-----;RQ;901;;
+PT;BRE;Beire;Beire;13;-----6--;RQ;1007;;4115N 00819W
+PT;BEJ;Beja;Beja;2;-23-----;RL;401;;3801N 00752W
+PT;BLS;Belas;Belas;11;--3--6--;RN;401;;3846N 00916W
+PT;BML;Belém;Belem;8;--3-----;RL;401;;3719N 00835W
+PT;BMT;Belmonte;Belmonte;5;--3-----;RN;401;;4021N 00721W
+PT;BPA;Bemposta;Bemposta;4;--3-----;RL;1301;;4119N 00630W
+PT;BNG;Benagil;Benagil;;1-------;RL;1201;;3705N 00826W
+PT;BNV;Benavente;Benavente;14;--3--6--;RN;401;;3859N 00848W
+PT;BNT;Benedita;Benedita;10;--3-----;RN;401;;3925N 00859W
+PT;BDM;Benfica do Ribatejo;Benfica do Ribatejo;14;--3-----;RL;1501;;3909N 00841W
+PT;BBL;Bobadela;Bobadela;11;-23-----;RN;401;;3849N 00906W
+PT;BIM;Boim;Boim;13;--3-----;RL;1207;;4116N 00817W
+PT;BOL;Boliqueime;Boliqueime;8;-23-----;RL;1401;;3707N 00809W
+PT;BOM;Bombarral;Bombarral;10;-23-----;RL;401;;3916N 00909W
+PT;BBA;Borba;Borba;7;-23-----;RN;401;;3848N 00727W
+PT;BTS;Boticas;Boticas;17;--3-----;RL;401;;4141N 00740W
+PT;BOC;Bouça;Bouca;17;1-3-----;RL;1401;;4139N 00713W
+PT;BGZ;Braga;Braga;3;--34----;AI;401;;4133N 00826W
+PT;BGC;Bragança;Braganca;4;-234----;AI;401;;4149N 00645W
+PT;BCA;Branca;Branca;1;-23-----;RL;607;;4046N 00829W
+PT;BUC;Bucelas;Bucelas;11;--3-----;RL;701;;3854N 00907W
+PT;BGL;Bugalhos;Bugalhos;14;-----6--;RQ;1007;;3927N 00839W
+PT;BRG;Burgau;Burgau;;1-------;RL;1201;;3704N 00846W
+PT;BUS;Bustos;Bustos;;1----6--;RL;1201;;4030N 00836W
+PT;CEV;Cabanas de Viriato;Cabanas de Viriato;18;-----6--;RQ;1007;;4028N 00759W
+PT;CBS;Cabeceiras de Basto;Cabeceiras de Basto;3;--3-----;RN;401;;4133N 00801W
+PT;CAB;Cabeço de Vide;Cabeco de Vide;12;-23-----;RL;401;;3908N 00735W
+PT;CBL;Cabrela;Cabrela;7;--3-----;RN;401;;3836N 00828W
+PT;CAC;Cacém;Cacem;11;1-3-----;RL;401;;3846N 00918W
+PT;CAA;Cacia;Cacia;1;--3--6--;RL;401;;4041N 00836W
+PT;CDV;Cadaval;Cadaval;11;--3-----;RN;401;;3914N 00906W
+PT;CDP;Cais do Pico;Cais do Pico;20;1-3-----;AI;401;;3831N 02819W
+PT;CDR;Caldas da Rainha;Caldas da Rainha;10;-23-----;RL;401;;3924N 00908W
+PT;CTP;Caldas das Taipas;Caldas das Taipas;3;--3-----;RL;901;;4129N 00821W
+PT;CSJ;Caldas de São Jorge;Caldas de Sao Jorge;1;--3-----;RL;1301;;4058N 00830W
+PT;CVZ;Caldas de Vizela;Caldas de Vizela;3;--3-----;RN;401;;4123N 00819W
+PT;CDA;Caldas do Moledo;Caldas do Moledo;13;--3-----;RL;1601;;4109N 00750W
+PT;CLH;Calheta, Island Madeira;Calheta, Island Madeira;30;--3-----;RN;401;;3243N 01711W
+PT;CAL;Calheta, Island São Jorge;Calheta, Island Sao Jorge;20;1-3-----;AI;401;;3836N 02801W
+PT;CDW;Calvária de Cima;Calvaria de Cima;10;--3-----;RL;1301;;3938N 00852W
+PT;CMH;Camacha;Camacha;30;--3-----;RN;401;;3305N 01620W
+PT;CML;Câmara de Lobos;Camara de Lobos;30;1-3-----;RN;401;;3238N 01658W
+PT;CMT;Camarate;Camarate;11;-23-----;RL;401;;3848N 00908W
+PT;CES;Cambres;Cambres;18;1----6--;RL;1201;;4108N 00748W
+PT;CAM;Caminha;Caminha;16;-23-----;RL;401;;4152N 00850W
+PT;CMO;Campelos;Campelos;11;--3-----;RN;401;;3912N 00914W
+PT;CPB;Campo de Besteiros;Campo de Besteiros;18;--3-----;RN;401;;4033N 00808W
+PT;CMR;Campo Maior;Campo Maior;12;--3-----;RN;401;;3901N 00704W
+PT;SCM;Canas de Santa Maria;Canas de Santa Maria;18;-23-----;RL;901;;4032N 00850W
+PT;CNI;Canas de Senhorim;Canas de Senhorim;18;-23-----;RN;401;;4030N 00754W
+PT;CNC;Caneças;Canecas;11;--3-----;RN;401;;3848N 00914W
+PT;CEO;Canedo;Canedo;1;--3-----;RN;401;;
+PT;CNS;Canelas;Canelas;13;-23-----;RL;401;;4104N 00836W
+PT;CHA;Canha;Canha;15;--3-----;RQ;901;;3846N 00837W
+PT;CNL;Caniçal;Canical;30;1-3-----;RL;601;;3244N 01644W
+PT;CNO;Caniço;Canico;30;--3-----;RL;401;;3238N 01651W
+PT;CTH;Cantanhede;Cantanhede;6;-23-----;RL;401;;4021N 00836W
+PT;CPC;Caparica;Caparica;15;-23-----;RN;401;;3840N 00912W
+PT;CPL;Capelo;Capelo;20;1-3-----;RN;401;;3835N 02847W
+PT;CRO;Caramulo;Caramulo;18;--3-----;RN;401;;4034N 00810W
+PT;CLE;Caranguejeira;Caranguejeira;10;-----6--;RL;1201;;3944N 00843W
+PT;CPH;Carapelhos;Carapelhos;6;--3-----;RL;1501;;4026N 00841W
+PT;CCS;Carcavelos;Carcavelos;11;--3-----;RQ;901;;3841N 00920W
+PT;CDS;Cardigos;Cardigos;14;--3-----;RQ;1001;;3942N 00801W
+PT;CNX;Carnaxide;Carnaxide;11;-23-----;RN;401;;3843N 00915W
+PT;CRC;Carrasqueira;Carrasqueira;15;1-------;RL;1201;;3829N 00906W
+PT;CZZ;Carrazeda de Anciães;Carrazeda de Anciaes;4;--3-----;RN;401;;4115N 00718W
+PT;CRG;Carrazedo de Montenegro;Carrazedo de Montenegro;17;--3-----;RN;401;;4134N 00726W
+PT;REO;Carreço;Carreco;16;-23-----;RL;1301;;4145N 00852W
+PT;CRR;Carregado;Carregado;11;--3-----;RL;401;;3901N 00859W
+PT;CRA;Carregal do Sal;Carregal do Sal;18;-23-----;RN;401;;4026N 00800W
+PT;CGS;Carregosa;Carregosa;15;--3-----;RL;1301;;3840N 00858W
+PT;CXO;Cartaxo;Cartaxo;14;-23-----;RL;401;;3909N 00847W
+PT;TZE;Carvalhais;Carvalhais;4;-----6--;RL;901;;4131N 00710W
+PT;CAR;Carvalhos;Carvalhos;3;-23-----;RL;401;;4128N 00836W
+PT;CVA;Carvoeira;Carvoeira;11;--3-----;RL;1601;;3905N 00910W
+PT;CAO;Carvoeiro;Carvoeiro;8;--3-----;RL;1601;;3706N 00828W
+PT;CRB;Casa Branca;Casa Branca;;1----6--;RQ;1001;;3830N 00810W
+PT;CCB;Casal Comba;Casal Comba;1;--3-----;RL;1301;;4022N 00828W
+PT;CCM;Casal De Cima;Casal De Cima;18;--3-----;RL;1507;;4042N 00742W
+PT;CLV;Casal de Loivos;Casal de Loivos;17;--3-----;RQ;901;;4112N 00732W
+PT;CSM;Casal do Marco;Casal do Marco;15;-----6--;RL;901;;3836N 00905W
+PT;CBN;Casal dos Bernardos;Casal dos Bernardos;14;--3-----;RN;401;;
+PT;CV5;Casal Velho;Casal Velho;10;-23-----;RL;1307;;3956N 00818W
+PT;CAS;Cascais;Cascais;11;1-3-----;AI;401;;3842N 00925W
+PT;CPR;Castanheira de Pêra;Castanheira de Pera;10;--3-----;RN;401;;4000N 00813W
+PT;CRI;Castanheira do Ribatejo;Castanheira do Ribatejo;11;-23-----;RL;307;;3859N 00858W
+PT;CBR;Castelo Branco;Castelo Branco;5;-23-----;RL;401;;3949N 00730W
+PT;CMA;Castêlo da Maia;Castelo da Maia;13;-23-----;RL;1407;;4115N 00837W
+PT;CPV;Castelo de Paiva;Castelo de Paiva;1;--3-----;RN;401;;4104N 00816W
+PT;CVD;Castelo de Vide;Castelo de Vide;12;-23-----;RN;401;;3925N 00727W
+PT;CNV;Castelo do Neiva;Castelo do Neiva;16;1-------;RL;1201;;4138N 00848W
+PT;CTD;Castro Daire;Castro Daire;18;--3-----;RN;401;;4054N 00756W
+PT;CMM;Castro Marim;Castro Marim;8;-23-----;RN;401;;3713N 00726W
+PT;CVR;Castro Verde;Castro Verde;2;--3-----;RN;401;;3742N 00805W
+PT;CAV;Cavalos;Cavalos;8;--3-----;RL;1301;;3719N 00757W
+PT;PTC;Caxarias;Caxarias;11;--3--6--;RQ;907;;3942N 00832W
+PT;CAX;Caxias;Caxias;11;-23-----;RN;401;;3842N 00917W
+PT;CDM;Cedovim;Cedovim;9;--3-----;RN;401;;4102N 00719W
+PT;CLB;Celorico da Beira;Celorico da Beira;9;-23-----;RN;401;;4038N 00723W
+PT;CBT;Celorico de Basto;Celorico de Basto;3;--3-----;RN;401;;4123N 00800W
+PT;CLJ;Cercal do Alentejo;Cercal do Alentejo;15;--3-----;RN;401;;3748N 00840W
+PT;CER;Cernache;Cernache;6;--3--6--;RL;901;;4008N 00828W
+PT;CDB;Cernache do Bonjardim;Cernache do Bonjardim;5;--3-----;RL;1501;;3948N 00811W
+PT;CSR;César;Cesar;1;--3-----;RL;401;;4055N 00826W
+PT;CHM;Chamusca;Chamusca;14;--3-----;RN;401;;3921N 00829W
+PT;CCC;Chao de Couce;Chao de Couce;10;--3-----;RQ;907;;3953N 00822W
+PT;CXP;Charneca da Caparica;Charneca da Caparica;15;-23-----;RN;401;;
+PT;CHV;Chaves;Chaves;17;-234----;AI;401;;4144N 00728W
+PT;CNF;Cinfães;Cinfaes;18;-23-----;RN;401;;4104N 00805W
+PT;CBP;Coimbra;Coimbra;6;-234----;AI;401;;4012N 00825W
+PT;CDC;Coimbra CDP;Coimbra CDP;6;--3-----;RN;401;;3954N 00853W
+PT;COI;Coimbrão;Coimbrao;10;--3-----;RL;401;;3954N 00853W
+PT;CNA;Coina;Coina;15;1-3-----;RL;401;;3836N 00903W
+PT;COJ;Coja;Coja;6;--3-----;RN;401;;4016N 00759W
+PT;CLR;Colares;Colares;11;--3-----;RN;401;;3848N 00927W
+PT;COL;Colmeias;Colmeias;10;--3-----;RL;1301;;3948N 00843W
+PT;CLS;Colos;Colos;;1----6--;RL;1201;;3744N 00828W
+PT;CMP;Comporta;Comporta;15;--3-----;RL;1601;;3823N 00847W
+PT;CAN;Condeixa a Nova;Condeixa a Nova;6;--3-----;RL;401;;4007N 00830W
+PT;CON;Constância;Constancia;14;--3-----;RL;212;;3928N 00820W
+PT;COR;Coronado-Sao Mamede;Coronado-Sao Mamede;;--3-----;RL;901;;
+PT;CRS;Corroios;Corroios;15;--3-----;RN;401;;3838N 00909W
+PT;ZGA;Cortegaca;Cortegaca;;-----6--;RQ;901;;
+PT;TZD;Cortegaca;Cortegaca;11;-----6--;RL;901;;3850N 00919W
+PT;CO5;Cortes;Cortes;16;--3-----;RL;1507;;4204N 00831W
+PT;CRE;Coruche;Coruche;14;-23-----;RL;401;;3857N 00831W
+PT;CVU;Corvo Island Apt;Corvo Island Apt;20;---4----;AI;401;;3942N 03106W
+PT;CAP;Costa da Caparica;Costa da Caparica;15;1-------;RL;1201;;3838N 00913W
+PT;CVP;Cova da Piedade;Cova da Piedade;15;-23-----;RN;401;;3840N 00909W
+PT;CDD;Covas do Douro;Covas do Douro;17;--3-----;RL;1601;;4111N 00736W
+PT;CVO;Covelo;Covelo;6;--3-----;RN;401;;4019N 00805W
+PT;COV;Covilhã;Covilha;5;-234----;AI;401;;4017N 00730W
+PT;CRT;Crato;Crato;12;-23-----;RN;401;;3918N 00739W
+PT;CST;Crestuma;Crestuma;13;--3-----;RN;401;;4104N 00830W
+PT;CUB;Cuba;Cuba;2;-23-----;RN;401;;3810N 00753W
+PT;CUC;Cucujães;Cucujaes;1;--3-----;RL;401;;4052N 00838W
+PT;CUS;Custoias;Custoias;13;--3-----;RQ;1001;;4120N 08633W
+PT;DAF;Dafundo;Dafundo;11;--3-----;RL;1301;;3842N 00915W
+PT;DAR;Darque;Darque;16;--3-----;RL;1301;;4141N 00846W
+PT;DNM;Donim;Donim;3;--3-----;RL;1507;;4132N 00818W
+PT;DOU;Douro;Douro;13;1-------;RL;1201;;3953N 00816W
+PT;ELV;Elvas;Elvas;12;-23-----;RL;307;;3853N 00710W
+PT;EOR;Entre-os-Rios;Entre-os-Rios;13;--3-----;RN;401;;4105N 00818W
+PT;ENT;Entroncamento;Entroncamento;14;-23-----;RN;401;;3928N 00828W
+PT;VJT;Envendos;Envendos;14;--3-----;RL;1301;;3934N 00752W
+PT;ERC;Ericeira;Ericeira;11;--3-----;RN;401;;3859N 00925W
+PT;ERM;Ermezinde;Ermezinde;13;-23-----;RL;307;;4113N 00833W
+PT;ERS;Ermidas;Ermidas;15;-23-----;RN;401;;3800N 00823W
+PT;EDD;Ervedosa do Douro;Ervedosa do Douro;17;--3-----;RL;1601;;4110N 00728W
+PT;ERA;Ervosa;Ervosa;1;--3-----;RL;1501;;4120N 00831W
+PT;ESC;Escandarao;Escandarao;14;--3-----;RL;607;;3940N 00838W
+PT;PAE;Escapães;Escapaes;;--3-----;RQ;1007;;4055N 00831W
+PT;XZX;Escariz;Escariz;1;1-3-----;RL;1401;;4056N 00825W
+PT;EM3;Esmeriz;Esmeriz;13;--3-----;RL;1501;;4123N 00831W
+PT;EMZ;Esmoriz;Esmoriz;1;-23-----;RN;401;;4057N 00837W
+PT;ESN;Espinho;Espinho;1;-23-----;RL;701;;4100N 00838W
+PT;ESP;Espinho;Espinho;18;--3-----;RQ;401;;
+PT;EPS;Esposende;Esposende;3;--3-----;RN;401;;4132N 00848W
+PT;ETR;Estarreja;Estarreja;1;-23-----;RN;401;;4045N 00834W
+PT;ETB;Estombar;Estombar;8;--3-----;RL;1207;;3709N 00829E
+PT;EST;Estoril;Estoril;11;123-----;RL;401;;3842N 00924W
+PT;ECL;Estreito de Câmara de Lobos;Estreito de Camara de Lobos;30;--3-----;RN;401;;3240N 01659W
+PT;ESZ;Estremoz;Estremoz;7;-23-----;RL;401;;3851N 00735W
+PT;EVR;Évora;Evora;7;-23-----;RL;401;;3834N 00754W
+PT;FFE;Fafe;Fafe;3;--3-----;RN;401;;4127N 00810W
+PT;FIL;Faial;Faial;30;--3-----;RL;401;;3247N 01651W
+PT;FJS;Fajoes;Fajoes;1;-----6--;RQ;1007;;4055N 00825W
+PT;FAJ;Fajozes;Fajozes;13;-23-----;RL;212;;4119N 00841W
+PT;FAM;Famalicão;Famalicao;9;--3-----;RL;401;;4027N 00723W
+PT;OES;Famões;Famoes;11;--3-----;RL;1301;;3847N 00912W
+PT;FNZ;Fânzeres;Fanzeres;13;-23-----;RN;401;;4110N 00832W
+PT;FAE;Fão;Fao;;1-------;RL;1201;;4131N 00846W
+PT;FAO;Faro;Faro;8;1234----;AI;401;;3701N 00756W
+PT;FTM;Fátima;Fatima;14;-23-----;RL;401;;3937N 00839W
+PT;FAV;Favaios;Favaios;17;--3-----;RL;1601;;4116N 00730W
+PT;FEI;Feijo;Feijo;15;--3-----;RL;1207;;3809N 00909W
+PT;FVD;Feira;Feira;16;-----6--;RQ;901;;
+PT;FEL;Felgueiras;Felgueiras;13;--3-----;RL;401;;4122N 00812W
+PT;FNF;Fernão Ferro;Fernao Ferro;15;--3-----;RN;401;;
+PT;FER;Ferragudo;Ferragudo;8;--3-----;RL;1601;;3707N 00831W
+PT;FAL;Ferreira do Alentejo;Ferreira do Alentejo;2;--3-----;RN;401;;3803N 00802W
+PT;FZZ;Ferreira do Zêzere;Ferreira do Zezere;14;--3-----;RN;401;;3942N 00818W
+PT;RMR;Ferreirim;Ferreirim;18;--3-----;RL;1301;;4057N 00730W
+PT;FIA;Fiaes;Fiaes;1;--3--6--;RL;601;;4059N 00831W
+PT;FDF;Figueira da Foz;Figueira da Foz;6;123-----;AI;401;;4009N 00852W
+PT;FCR;Figueira de Castelo Rodrigo;Figueira de Castelo Rodrigo;9;--3-----;RN;401;;4054N 00658W
+PT;FGV;Figueiró dos Vinhos;Figueiro dos Vinhos;10;--3-----;RN;401;;3954N 00817W
+PT;FLW;Flores Island Apt;Flores Island Apt;20;---4----;AI;401;;3926N 03113W
+PT;FOL;Folgosa;Folgosa;13;-23-----;RL;701;;4115N 00833W
+PT;FDT;Fonte da Telha;Fonte da Telha;15;1-------;RL;1201;;3834N 00911W
+PT;FAG;Fornos de Algodres;Fornos de Algodres;9;-23-----;RN;401;;4037N 00732W
+PT;FTC;Forte da Casa;Forte da Casa;11;--3-----;RL;1201;;3852N 00903E
+PT;FDR;Foz de Arouce;Foz de Arouce;6;--3-----;RL;1301;;4009N 00817W
+PT;FOZ;Foz do Arelho;Foz do Arelho;10;1-------;RL;1201;;3926N 00913W
+PT;FRD;Fradelos;Fradelos;3;--3-----;RL;901;;4122N 00835W
+PT;FGO;Fragoso;Fragoso;3;--3-----;RL;1601;;4136N 00842W
+PT;FRE;Freamunde;Freamunde;;--3-----;RQ;1001;;4117N 00821W
+PT;TZF;Freixeira;Freixeira;2;-----6--;RL;901;;3814N 00718W
+PT;FXO;Freixieiro;Freixieiro;13;-23-----;RL;401;;4107N 00835W
+PT;FEC;Freixo de Espada à Cinta;Freixo de Espada a Cinta;4;--3-----;RN;401;;4105N 00649W
+PT;FRL;Frielas;Frielas;11;--3-----;RN;401;;3849N 00909W
+PT;FTR;Fronteira;Fronteira;12;-23-----;RN;401;;3903N 00739W
+PT;FNC;Funchal, Madeira;Funchal, Madeira;30;1-345---;AI;401;;3238N 01654W
+PT;FUA;Fundão;Fundao;5;-23-----;RL;212;;4008N 00729W
+PT;FRS;Furnas;Furnas;20;--3-----;RN;401;;3746N 02519W
+PT;FUZ;Fuzeta;Fuzeta;;1-------;RL;1201;;3703N 00745W
+PT;GAE;Gaeiras;Gaeiras;10;--3-----;RL;1301;;3922N 00908W
+PT;GHE;Gafanha da Encarnaçao;Gafanha da Encarnacao;1;--3-----;RL;701;;4037N 00844W
+PT;GDN;Gafanha da Nazaré;Gafanha da Nazare;1;--3--6--;RL;401;;4038N 00843W
+PT;G7A;Gaia;Gaia;13;--3-----;RL;1601;;4024N 00720W
+PT;GAA;Galafura;Galafura;17;--3-----;RL;1601;;4111N 00741W
+PT;GAV;Gavião;Gaviao;12;--3-----;RN;401;;3928N 00756W
+PT;GEM;Gemieira;Gemieira;;-----6--;RL;1201;;4146N 00831W
+PT;TZH;Gemunde;Gemunde;13;-----6--;RL;901;;4116N 00839W
+PT;GRS;Gerês;Geres;3;--3-----;RN;401;;4144N 00810W
+PT;GIN;Ginetes;Ginetes;20;--3-----;RN;401;;3751N 02550W
+PT;GOI;Góis;Gois;6;--3-----;RN;401;;4009N 00807W
+PT;GLG;Golegã;Golega;14;--3-----;RN;401;;3924N 00829W
+PT;GLP;Golpilheira;Golpilheira;10;-----6--;RL;1201;;3941N 00849W
+PT;GON;Gondomar;Gondomar;3;--3-----;RL;401;;4145N 00822W
+PT;GVI;Gouveia;Gouveia;9;--3-----;RN;401;;4030N 00736W
+PT;GCS;Graciosa;Graciosa;1;--3-----;RL;401;;4047N 00831W
+PT;GRW;Graciosa Island Apt;Graciosa Island Apt;20;---4----;AI;401;;3904N 02800W
+PT;GRD;Gradil;Gradil;11;--3-----;RL;1501;;3859N 00917W
+PT;GDL;Grândola;Grandola;15;--3-----;RN;401;;3810N 00834W
+PT;GRI;Grijó;Grijo;13;--3-----;RL;212;;4102N 00835W
+PT;GDA;Guarda;Guarda;9;-23-----;RL;401;;4032N 00716W
+PT;GUA;Guardizela;Guardizela;3;1-3-----;RQ;901;;
+PT;GUE;Gueifães;Gueifaes;;1----6--;RL;1201;;4112N 00836W
+PT;GIA;Guia;Guia;8;--3-----;RN;401;;3707N 00818W
+PT;GIF;Guifões;Guifoes;13;123-----;RN;401;;4112N 00840W
+PT;GHB;Guilhabreu;Guilhabreu;13;--3-----;RL;1407;;4118N 00838W
+PT;HUF;Guilhufe;Guilhufe;13;--3-----;RL;1301;;4111N 00819W
+PT;GUI;Guimarães;Guimaraes;3;-23-----;RL;401;;4127N 00818W
+PT;HER;Herdade;Herdade;;-----6--;RL;1107;;3951N 00807W
+PT;HOR;Horta;Horta;20;1-34----;AI;401;;3832N 02838W
+PT;IDN;Idanha-a-Nova;Idanha-a-Nova;5;--3-----;RN;401;;3955N 00714W
+PT;IGH;Igrejinha;Igrejinha;;-----6--;RL;1201;;3842N 00754W
+PT;ILH;Ílhavo;Ilhavo;1;--3-----;RL;401;;4036N 00840W
+PT;JES;Jesufrei;Jesufrei;3;--3-----;RL;1501;;4127N 00830W
+PT;BRA;Joane;Joane;3;1-3-----;RQ;901;;
+PT;JUN;Juncal;Juncal;5;--3-----;RL;1601;;3955N 00734W
+PT;JOA;Juromenha;Juromenha;;-----6--;RL;1107;;3844N 00714W
+PT;LAG;Lago;Lago;;-----6--;RL;1107;;4137N 00825W
+PT;LGA;Lagoa, Algarve;Lagoa, Algarve;8;--3-----;RL;401;;3710N 00730W
+PT;LGP;Lagoa, Island São Miguel;Lagoa, Island Sao Miguel;20;--3-----;RN;401;;3903N 02759W
+PT;LOS;Lagos;Lagos;8;123-----;AI;401;;3706N 00840W
+PT;LDP;Lajes;Lajes;20;1-3-----;AI;401;;3823N 02816W
+PT;LAJ;Lajes das Flores;Lajes das Flores;20;1-3-----;RL;401;;3923N 03110W
+PT;LMG;Lamego;Lamego;18;-23-----;RN;401;;4106N 00749W
+PT;LCD;Lancada;Lancada;11;--3-----;RL;1501;;3841N 00857W
+PT;LDI;Landim;Landim;3;--3-----;RL;1301;;4123N 00828W
+PT;LNS;Lanheses;Lanheses;16;1----6--;RL;901;;4103N 00840W
+PT;8PS;Lanhezes;Lanhezes;16;--3-----;RL;1507;;4144N 00840W
+PT;DOS;Laundos;Laundos;13;--3--6--;RL;907;;4126N 00843W
+PT;LVR;Lavra;Lavra;13;--3-----;RN;401;;4115N 00843W
+PT;VRO;Lavradio;Lavradio;15;--3-----;RL;1301;;3840N 00903W
+PT;LEP;Leça da Palmeira;Leca da Palmeira;13;123-----;RL;401;;4112N 00842W
+PT;LDB;Leça do Bailio;Leca do Bailio;13;-23-----;RL;401;;4112N 00837W
+PT;LEA;Leiria;Leiria;10;--3-----;RL;401;;3945N 00848W
+PT;LER;Leiros;Leiros;17;--3-----;RL;401;;4121N 00739W
+PT;TZJ;Leirosa;Leirosa;6;-----6--;RL;901;;4002N 00852W
+PT;LEI;Leixões;Leixoes;13;123-----;AI;401;;4111N 00841W
+PT;LAV;Linda-a-Velha;Linda-a-Velha;11;-23-----;RL;401;;3843N 00915W
+PT;LSI;Linhó;Linho;11;--3-----;RL;401;;3846N 00923W
+PT;LIS;Lisboa;Lisboa;11;12345---;AI;401;;3843N 00908W
+PT;CDL;Lisboa CDP;Lisboa CDP;11;--3-----;RN;401;;3900N 00908W
+PT;EXP;Lisboa-EXPO;Lisboa-EXPO;11;--3-----;RN;401;;3843N 00908W
+PT;;Lisbon = Lisboa;Lisbon = Lisboa;;;;;;
+PT;LXA;Lixa;Lixa;13;--3-----;RN;401;;
+PT;LDR;Lordelo;Lordelo;3;123-----;RL;601;;4122N 00823W
+PT;LDO;Lordelo;Lordelo;13;--3-----;RL;1301;;4114N 00825W
+PT;LUL;Loulé;Loule;8;-23-----;RN;401;;3708N 00802W
+PT;LRS;Loures;Loures;11;--3-----;RL;401;;3850N 00910W
+PT;LBP;Loures Business Park;Loures Business Park;11;--3-----;RQ;1001;;3851N 00908W
+PT;MRL;Loures-MARL;Loures-MARL;11;--3-----;RN;401;;3850N 00910W
+PT;LRC;Louriçal;Lourical;10;--3-----;RN;401;;4000N 00844W
+PT;LNH;Lourinhã;Lourinha;11;--3-----;RN;401;;3914N 00919W
+PT;LRO;Louro;Louro;13;--3-----;RL;1501;;4126N 00832W
+PT;LOU;Lourosa;Lourosa;1;--3-----;RL;401;;4059N 00833W
+PT;LSA;Lousã;Lousa;6;-23--6--;RN;401;;4007N 00814W
+PT;LOA;Lousada;Lousada;13;-23-----;RL;401;;4118N 00815W
+PT;LSD;Lousado;Lousado;3;--3-----;RL;901;;4121N 00832W
+PT;LDM;Lugar do Monte;Lugar do Monte;17;--3-----;RL;1207;;4138N 00831W
+PT;LSO;Luso;Luso;1;--3-----;RL;507;;4023N 00823W
+PT;LUS;Lustosa;Lustosa;13;--3-----;RL;1501;;4120N 00819W
+PT;DDM;Maçãs de Dona Maria;Macas de Dona Maria;10;--3-----;RL;1401;;3953N 00820W
+PT;MAC;Maceda;Maceda;13;-234----;RL;1407;;4110N 00834W
+PT;MCD;Macedo de Cavaleiros;Macedo de Cavaleiros;4;-23-----;RN;401;;4132N 00658W
+PT;LE2;Maceira;Maceira;10;1----6--;RL;1107;;3941N 00853W
+PT;MAL;Maceira Lis;Maceira Lis;10;--3-----;RN;401;;
+PT;MCH;Machico;Machico;30;1-3-----;RN;401;;3242N 01646W
+PT;MLI;Macieira da Lixa;Macieira da Lixa;13;--3-----;RL;1601;;4121N 00809W
+PT;MDE;Madalena;Madalena;11;-23-----;RL;1501;;3934N 00827W
+PT;MAD;Madalena (Madalena do Pico);Madalena (Madalena do Pico);20;1-3-----;AI;1207;;3832N 02832W
+PT;MDM;Madalena do Mar;Madalena do Mar;30;1-------;RL;1201;;3241N 01708W
+PT;M6E;Madeira;Madeira;4;--3-----;RL;1507;;4014N 00728W
+PT;MFR;Mafra;Mafra;11;-23-----;RL;401;;3856N 00920W
+PT;MAI;Maia;Maia;13;-23-----;RL;401;;4114N 00837W
+PT;MAS;Maia, Island São Miguel;Maia, Island Sao Miguel;20;--3-----;RN;401;;3750N 02523W
+PT;MRG;Maiorga;Maiorga;10;--3-----;RL;1507;;3935N 00859W
+PT;MHU;Malhou;Malhou;14;--3-----;RL;601;;3925N 00841W
+PT;MLV;Malveira;Malveira;11;-23-----;RN;401;;3856N 00915W
+PT;MGL;Mangualde;Mangualde;18;-23-----;RN;401;;4036N 00746W
+PT;MNG;Manteigas;Manteigas;9;--3-----;RN;401;;4024N 00732W
+PT;MRC;Marco de Canavezes;Marco de Canavezes;13;-23-----;RL;401;;4111N 00809W
+PT;MGR;Marinha Grande;Marinha Grande;10;-23-----;RL;401;;3945N 00856W
+PT;MRN;Marinhais;Marinhais;14;-23-----;RN;401;;3903N 00842W
+PT;MAR;Marteleira;Marteleira;11;--3-----;RL;1401;;3913N 00917W
+PT;MGA;Martinganca;Martinganca;11;-----6--;RL;1107;;3941N 00858W
+PT;MRV;Marvão;Marvao;12;-23-----;RN;401;;3924N 00723W
+PT;SSA;Massamá;Massama;11;--3-----;RL;1301;;3845N 00916W
+PT;MAT;Matosinhos;Matosinhos;13;123-----;RL;401;;4111N 00842W
+PT;MLD;Mealhada;Mealhada;1;-23-----;RN;401;;4022N 00827W
+PT;MDA;Meda;Meda;9;--3-----;RN;401;;4058N 00716W
+PT;MRH;Meirinhas;Meirinhas;10;--3-----;RQ;901;;3950N 00842W
+PT;MLG;Melgaço;Melgaco;16;--3-----;RN;401;;4207N 00816W
+PT;MMA;Mem Martins;Mem Martins;11;--3-----;RL;212;;3847N 00921W
+PT;MEM;Memória;Memoria;11;-23-----;RL;401;;3842N 00912W
+PT;MER;Merceana;Merceana;11;--3-----;RL;1601;;3906N 00907W
+PT;MTL;Mértola;Mertola;2;--3-----;RN;401;;3738N 00740W
+PT;MSF;Mesão Frio;Mesao Frio;17;-23-----;RN;401;;4109N 00753W
+PT;MLR;Milharado;Milharado;11;1-------;RQ;901;;
+PT;MIN;Minde;Minde;14;--3-----;RL;401;;3931N 00841W
+PT;MID;Mindelo;Mindelo;13;-23-----;RL;701;;4119N 00843W
+PT;MIR;Mira;Mira;6;--3-----;RL;401;;4026N 00844W
+PT;MIE;Mira d'Aire;Mira d'Aire;10;--3-----;RN;401;;3932N 00843W
+PT;MCV;Miranda do Corvo;Miranda do Corvo;6;-23-----;RN;401;;4006N 00820W
+PT;MDR;Miranda do Douro;Miranda do Douro;4;--3-----;RN;401;;4130N 00616W
+PT;MDL;Mirandela;Mirandela;4;-23-----;RN;401;;4129N 00711W
+PT;MOD;Modivas;Modivas;13;--3-----;RL;1407;;4118N 00842W
+PT;MGD;Mogadouro;Mogadouro;4;--3-----;RN;401;;4120N 00643W
+PT;MOG;Mogege;Mogege;3;--3-----;RL;1301;;4126N 00825W
+PT;MBR;Moimenta da Beira;Moimenta da Beira;18;--3-----;RN;401;;4059N 00737W
+PT;MTA;Moita;Moita;15;--3-----;RN;401;;3839N 00859W
+PT;PI3;Moitalina;Moitalina;13;--3-----;RL;1601;;3937N 00852W
+PT;MNO;Monção;Moncao;16;-23-----;RN;401;;4205N 00829W
+PT;MCP;Moncarapacho;Moncarapacho;8;--3-----;RL;1501;;3705N 00747W
+PT;MCQ;Monchique;Monchique;8;--3-----;RN;401;;3719N 00833W
+PT;MDB;Mondim de Basto;Mondim de Basto;17;--3-----;RN;401;;4125N 00758W
+PT;MFT;Monforte;Monforte;12;--3-----;RN;401;;3903N 00726W
+PT;MTR;Montalegre;Montalegre;17;--3-----;RN;401;;4149N 00748W
+PT;MTV;Montalvão;Montalvao;12;--3-----;RN;401;;3936N 00732W
+PT;MTG;Montargil;Montargil;12;--3-----;RN;401;;3905N 00810W
+PT;MTC;Monte da Caparica;Monte da Caparica;15;-23-----;RN;401;;3840N 00912W
+PT;MRE;Monte Real;Monte Real;10;--3-----;RN;401;;3951N 00852W
+PT;TGO;Monte Trigo;Monte Trigo;1;1-------;RQ;901;;
+PT;MNV;Montelavar;Montelavar;11;--3-----;RL;1307;;3852N 00920W
+PT;MMN;Montemor-o-Novo;Montemor-o-Novo;7;-23-----;RN;401;;3839N 00813W
+PT;MMV;Montemor-o-Velho;Montemor-o-Velho;6;-23-----;RN;401;;4010N 00841W
+PT;MON;Montijo;Montijo;15;-23-----;RL;401;;3842N 00858W
+PT;MOA;Mora;Mora;7;-23-----;RN;401;;3856N 00810W
+PT;MRR;Moreira;Moreira;13;--3-----;RL;701;;4114N 00839W
+PT;MRT;Mortágua;Mortagua;18;-23--6--;RN;401;;4024N 00814W
+PT;MOR;Mortena;Mortena;11;-23-----;RL;401;;3851N 00919W
+PT;MSV;Moscavide;Moscavide;11;-23-----;RN;401;;3846N 00906W
+PT;MOS;Mosteiro;Mosteiro;7;--3-----;RL;1207;;3956N 00811W
+PT;MRA;Moura;Moura;2;-23-----;RN;401;;3808N 00727W
+PT;MOC;Moura;Moura;6;--3-----;RL;401;;4013N 00754W
+PT;MOU;Mourão;Mourao;7;--3-----;RN;401;;3823N 00721W
+PT;MZL;Mozelos;Mozelos;16;--3-----;RL;401;;4152N 00824W
+PT;TZI;Muge;Muge;14;-----6--;RL;901;;3906N 00843W
+PT;MUR;Murça;Murca;17;--3-----;RL;212;;4124N 00727W
+PT;MUS;Murches;Murches;11;1-------;RQ;901;;
+PT;MRO;Muro;Muro;13;-2------;RL;1301;;4130N 00758W
+PT;MTE;Murtede;Murtede;6;-23-----;RL;601;;4021N 00830W
+PT;MSA;Murtosa;Murtosa;1;--3-----;RN;401;;4044N 00838W
+PT;MCC;Mutsamudu;Mutsamudu;13;--3-----;RL;1207;;4111N 00809W
+PT;NAV;Nariz;Nariz;1;1----6--;RL;1407;;4032N 00836W
+PT;NZR;Nazaré;Nazare;10;-23-----;RN;401;;3936N 00904W
+PT;NEG;Negrais;Negrais;11;--3-----;RL;1407;;3853N 00917W
+PT;NEL;Nelas;Nelas;18;-23-----;RL;401;;4032N 00751W
+PT;NES;Nespereira;Nespereira;3;--3-----;RL;1401;;4124N 00819W
+PT;NNE;Nine;Nine;3;-23-----;RN;401;;4127N 00833W
+PT;NIS;Nisa;Nisa;12;--3-----;RN;401;;3931N 00739W
+PT;NOG;Nogueira Da Maia;Nogueira Da Maia;13;--3-----;RQ;907;;4114N 00835W
+PT;NDC;Nogueira do Cravo;Nogueira do Cravo;6;--3-----;RL;401;;4020N 00753W
+PT;NRD;Nordeste;Nordeste;20;1-3-----;RN;401;;3750N 02510W
+PT;OBD;Óbidos;Obidos;10;-23-----;RN;401;;3922N 00909W
+PT;OCX;Odeceixe;Odeceixe;8;--3-----;RL;1307;;3726N 00846W
+PT;ODE;Odemira;Odemira;2;--3-----;RL;401;;3736N 00838W
+PT;ODI;Odivelas;Odivelas;11;-23-----;RL;401;;3847N 00911W
+PT;OEI;Oeiras;Oeiras;11;123-----;RL;401;;3841N 00919W
+PT;OIA;Oia;Oia;1;--3-----;RQ;907;;4032N 00832W
+PT;OLR;Oleiros;Oleiros;5;--3-----;RN;401;;3955N 00755W
+PT;OLH;Olhão;Olhao;8;123-----;RL;401;;3702N 00750W
+PT;OLA;Olhos de Água;Olhos de Agua;;1-------;RL;1201;;3705N 00811W
+PT;OLB;Olival do Basto;Olival do Basto;11;--3-----;RN;401;;3847N 00910W
+PT;ODA;Oliveira de Azemeis;Oliveira de Azemeis;1;-23-----;RL;401;;4050N 00829W
+PT;OFR;Oliveira de Frades;Oliveira de Frades;18;-23-----;RN;401;;4044N 00811W
+PT;OLI;Oliveira do Bairro;Oliveira do Bairro;1;--3-----;RL;401;;4031N 00830W
+PT;ODO;Oliveira do Douro;Oliveira do Douro;18;--3-----;RL;701;;4105N 00802W
+PT;OHP;Oliveira do Hospital;Oliveira do Hospital;6;--3-----;RN;401;;4021N 00752W
+PT;;Oporto = Porto;Oporto = Porto;;;;;;
+PT;QGT;Ortigosa;Ortigosa;;--3-----;RQ;1001;;3950N 00850W
+PT;ORV;Orvalho;Orvalho;5;--3-----;RN;401;;4001N 00748W
+PT;OSS;Ossela;Ossela;1;--3-----;RL;1601;;4049N 00826W
+PT;OUR;Ourém;Ourem;14;--3-----;RN;401;;3938N 00835W
+PT;ORQ;Ourique;Ourique;2;--3-----;RN;401;;3739N 00813W
+PT;OUT;Outeiro;Outeiro;3;--3-----;RQ;401;;
+PT;OVA;Ovar;Ovar;1;-23-----;RL;401;;4052N 00838W
+PT;PCS;Paço de Arcos;Paco de Arcos;11;-23-----;RN;401;;3841N 00917W
+PT;PDB;Pacos de Brandado;Pacos de Brandado;1;--3-----;RQ;901;;
+PT;PAC;Paços de Brandão;Pacos de Brandao;1;--3-----;RL;701;;4058N 00835W
+PT;PFR;Paços de Ferreira;Pacos de Ferreira;13;--3-----;RN;401;;4116N 00824W
+PT;PAI;Painho;Painho;11;--3-----;RL;1301;;3918N 00903W
+PT;PLH;Palhais;Palhais;11;--3--6--;RQ;1001;;3837N 00903W
+PT;PAL;Palmela;Palmela;15;-23-----;RL;401;;3834N 00854W
+PT;PPS;Pampilhosa da Serra;Pampilhosa da Serra;6;--3-----;RN;401;;4003N 00757W
+PT;PAM;Pampilhosa do Botão;Pampilhosa do Botao;1;--3-----;RL;1601;;4020N 00825W
+PT;MPQ;Panasqueira;Panasqueira;5;--3-----;RN;401;;4010N 00746W
+PT;PDT;Parada de Tibães;Parada de Tibaes;;-----6--;RL;1201;;4134N 00828W
+PT;PAR;Paramos;Paramos;;-----6--;RL;1201;;4058N 00838W
+PT;PRE;Parede;Parede;11;-23-----;RN;401;;3841N 00921W
+PT;PRD;Paredes;Paredes;;-----6--;RL;1201;;4112N 00820W
+PT;PRS;Paredes;Paredes;13;--3-----;RN;401;;4123N 00844W
+PT;PER;Paredes de Coura;Paredes de Coura;16;--3-----;RN;401;;4154N 00834W
+PT;PTS;Pataias;Pataias;10;-23-----;RN;401;;3940N 00900W
+PT;PDO;Pedome;Pedome;;-----6--;RL;1107;;4125N 00822W
+PT;PEA;Pedorido;Pedorido;1;--3-----;RQ;907;;4102N 00822W
+PT;PED;Pedreiras;Pedreiras;;--3-----;RL;901;;3827N 09043W
+PT;PEM;Pedro Miguel;Pedro Miguel;20;--3-----;RL;1401;;3834N 02837W
+PT;OGO;Pedrógão;Pedrogao;;-----6--;RL;1201;;3807N 00739W
+PT;PGR;Pedrógão Grande;Pedrogao Grande;10;--3-----;RN;401;;3955N 00809W
+PT;PRO;Pedroso;Pedroso;13;--3-----;RL;607;;4104N 00833W
+PT;UCO;Pedroucos;Pedroucos;13;--3-----;RL;1301;;4114N 00837W
+PT;PGO;Pego;Pego;11;--3-----;RL;1107;;3928N 00809W
+PT;PEG;Pegões;Pegoes;15;--3-----;RN;401;;3840N 00837W
+PT;PVH;Pegoes Velhos;Pegoes Velhos;11;1----6--;RL;1107;;3841N 00840W
+PT;PLG;Pelariga;Pelariga;10;-----6--;RQ;1007;;3958N 00837W
+PT;PCV;Penacova;Penacova;6;-23-----;RN;401;;4016N 00817W
+PT;PFL;Penafiel;Penafiel;13;-23-----;RL;307;;4112N 00817W
+PT;PCT;Penalva do Castelo;Penalva do Castelo;18;--3-----;RN;401;;4040N 00741W
+PT;PNC;Penamacor;Penamacor;5;--3-----;RN;401;;4010N 00710W
+PT;IOR;Penamaior;Penamaior;13;1-------;RQ;901;;
+PT;PND;Penedono;Penedono;18;--3-----;RN;401;;4059N 00724W
+PT;PNL;Penela;Penela;6;--3-----;RN;401;;4002N 00823W
+PT;PEN;Peniche;Peniche;10;1-3-----;RL;401;;3921N 00923W
+PT;PFT;Perafita;Perafita;13;123-----;RL;307;;4113N 00842W
+PT;PPH;Pero Pinheiro;Pero Pinheiro;11;-23-----;RL;401;;3851N 00920W
+PT;PGA;Peso da Régua;Peso da Regua;17;-23-----;RN;401;;4110N 00747W
+PT;REV;Pevidem;Pevidem;3;--3-----;RL;401;;4126N 00821W
+PT;PIC;Pico;Pico;3;--3-----;RL;201;;4141N 00825W
+PT;PID;Piedade;Piedade;;--3-----;RQ;9501;;
+PT;AVP;Pindelo;Pindelo;1;1-3--6--;RL;907;;4052N 00827W
+PT;PNV;Pinhal Novo;Pinhal Novo;15;-23-----;RN;401;;3838N 00855W
+PT;PIS;Pinhanços;Pinhancos;9;--3-----;RL;1601;;4028N 00741W
+PT;PNO;Pinhão;Pinhao;17;-23-----;RN;401;;4111N 00733W
+PT;PIN;Pinhel;Pinhel;9;--3-----;RN;401;;4046N 00704W
+PT;PIH;Pinhel;Pinhel;11;-----6--;RL;1107;;3939N 00837W
+PT;PR8;Poceirao;Poceirao;11;--3-----;RL;1501;;3850N 00847W
+PT;PAS;Poiares;Poiares;3;--3-----;RL;1207;;4139N 00837W
+PT;POM;Pomarão;Pomarao;2;1-3-----;RN;401;;3733N 00732W
+PT;POB;Pombal;Pombal;;--3-----;RQ;9501;;
+PT;PLO;Pombal;Pombal;10;-23-----;RL;401;;3955N 00838W
+PT;PDL;Ponta Delgada;Ponta Delgada;20;1-345---;AI;401;;3744N 02540W
+PT;PTG;Ponta do Pargo;Ponta do Pargo;30;--3-----;RN;401;;3248N 01715W
+PT;PSL;Ponta do Sol;Ponta do Sol;30;--3-----;RN;401;;3240N 01706W
+PT;PTB;Ponte da Barca;Ponte da Barca;16;--3-----;RN;401;;4148N 00825W
+PT;PDS;Ponte de Sor;Ponte de Sor;12;123-----;RL;401;;3915N 00801W
+PT;PLM;Ponte do Lima;Ponte do Lima;16;--3-----;RN;401;;4146N 00835W
+PT;PDR;Ponte do Rol;Ponte do Rol;11;--3-----;RL;507;;3905N 00919W
+PT;PTV;Pontével;Pontevel;14;--3-----;RL;1301;;3909N 00850W
+PT;PNT;Pontinha;Pontinha;11;-23-----;RN;401;;3846N 00912W
+PT;POR;Portalegre;Portalegre;12;--3-----;RL;401;;3917N 00726W
+PT;PRL;Portel;Portel;7;--3-----;RN;401;;3818N 00742W
+PT;PRM;Portimao;Portimao;8;123-----;AI;401;;3708N 00832W
+PT;OPO;Porto;Porto;13;12345---;AI;401;;4109N 00837W
+PT;POA;Porto Alto;Porto Alto;14;--3-----;RL;401;;3855N 00853W
+PT;CDO;Porto CDP;Porto CDP;13;-23-----;RN;401;;4106N 00805W
+PT;PCZ;Porto da Cruz;Porto da Cruz;30;1-3-----;RN;401;;3246N 01650W
+PT;PDM;Porto de Mós;Porto de Mos;10;--3-----;RL;212;;3936N 00849W
+PT;PMZ;Porto Moniz;Porto Moniz;30;1-3-----;RN;401;;3251N 01710W
+PT;PSV;Porto Salvo;Porto Salvo;11;-23-----;RN;401;;3843N 00918W
+PT;PXO;Porto Santo Island;Porto Santo Island;30;1--4---B;AI;501;;3304N 01620W
+PT;PVL;Póvoa de Lanhoso;Povoa de Lanhoso;3;--3-----;RN;401;;4135N 00816W
+PT;PSI;Póvoa de Santa Iria;Povoa de Santa Iria;11;-23-----;RL;401;;3851N 00904W
+PT;PSA;Póvoa de Santo Adrião;Povoa de Santo Adriao;11;--3-----;RL;1301;;3848N 00910W
+PT;PDV;Póvoa de Varzim;Povoa de Varzim;13;-23-----;RL;401;;4123N 00846W
+PT;PVC;Povoação;Povoacao;20;1-3-----;RN;401;;3745N 02515W
+PT;PRG;Praia da Graciosa;Praia da Graciosa;20;1-3-----;AI;401;;3903N 02758W
+PT;AIA;Praia da Victoria;Praia da Victoria;20;--3-----;RQ;907;;3849N 00906W
+PT;PRV;Praia da Vitória;Praia da Vitoria;20;1-3-----;AI;401;;3844N 02704W
+PT;PMI;Praia de Mira;Praia de Mira;6;--3-----;RL;1601;;4027N 00848W
+PT;PEH;Prior Velho;Prior Velho;;-----6--;RL;1107;;3847N 00907W
+PT;PRA;Proença-a-Nova;Proenca-a-Nova;5;--3-----;RN;401;;3945N 00755W
+PT;VND;Provesende;Provesende;17;--3-----;RL;1307;;4113N 00734W
+PT;QRT;Quarteira;Quarteira;8;123-----;RN;401;;3704N 00806W
+PT;QDB;Queluz;Queluz;11;-23-----;RL;401;;3845N 00915W
+PT;TZK;Queluz de Baixo;Queluz de Baixo;11;-----6--;RL;901;;3845N 00917W
+PT;QDS;Quinta Da Sardinha;Quinta Da Sardinha;10;--3-----;RL;1301;;3941N 00840W
+PT;QDA;Quinta do Anjo;Quinta do Anjo;15;-23-----;RL;1101;;3834N 00856W
+PT;QCD;Quinta do Conde;Quinta do Conde;15;--3-----;RN;401;;3807N 00842W
+PT;RPX;Rabo de Peixe;Rabo de Peixe;20;1-3-----;RL;701;;3748N 02535W
+PT;RML;Ramalde;Ramalde;13;-----6--;RQ;1007;;4110S 00839W
+PT;PPR;Rates;Rates;13;--3-----;RL;1401;;4125N 00840W
+PT;RBD;Rebordelo;Rebordelo;4;--3-----;RN;401;;4144N 00710W
+PT;ROS;Rebordoes;Rebordoes;;-----6--;RQ;1001;;4121N 00825W
+PT;REB;Rebordosa;Rebordosa;6;--3-----;RL;607;;4015N 00817W
+PT;RHD;Reboreda;Reboreda;16;--3-----;RL;1301;;4157N 00844W
+PT;REC;Recarei;Recarei;;--3-----;RL;901;;4112N 08380W
+PT;RDD;Redondo;Redondo;7;--3-----;RN;401;;3839N 00733W
+PT;RDP;Regueira de Pontes;Regueira de Pontes;10;--3-----;RL;1207;;3948N 00850W
+PT;RPE;Reguengo Pequeno;Reguengo Pequeno;11;--3-----;RL;1401;;3917N 00915W
+PT;RMZ;Reguengos de Monsaraz;Reguengos de Monsaraz;7;-23-----;RN;401;;3825N 00732W
+PT;RQU;Requião;Requiao;;1----6--;RL;1201;;4124N 00829W
+PT;RSD;Resende;Resende;18;-23-----;RN;401;;4106N 00758W
+PT;RVH;Revinhade;Revinhade;13;--3-----;RL;1401;;4121N 00816W
+PT;RIA;Riachos;Riachos;14;-23--6--;RL;501;;3926N 00831W
+PT;RDV;Riba de Ave;Riba de Ave;3;--3-----;RN;401;;4124N 00823W
+PT;RBR;Ribeira Brava;Ribeira Brava;30;--3-----;RN;401;;3239N 01704W
+PT;RIB;Ribeira de Frades;Ribeira de Frades;;--3-----;RL;901;;4012N 08290W
+PT;RPN;Ribeira de Pena;Ribeira de Pena;17;--3-----;RN;401;;4131N 00748W
+PT;QEG;Ribeira Grande;Ribeira Grande;20;--34----;AI;401;;3749N 02531W
+PT;RHS;Ribolhos;Ribolhos;18;--3-----;RL;1301;;4053N 00756W
+PT;RBM;Rio Bom;Rio Bom;16;-----6--;RL;1107;;4134N 00729W
+PT;RCV;Rio Covos;Rio Covos;3;--3-----;RL;1301;;4132N 00836W
+PT;RDM;Rio de Mouro;Rio de Mouro;11;--3-----;RL;401;;3846N 00920W
+PT;RFB;Rio Frio;Rio Frio;4;--3--6--;RL;501;;4144N 00638W
+PT;RMA;Rio Maior;Rio Maior;14;--3-----;RL;401;;3920N 00856W
+PT;RIO;Rio Meão;Rio Meao;1;--3-----;RL;401;;4057N 00835W
+PT;RTI;Rio Tinto;Rio Tinto;13;-23-----;RL;401;;4111N 00834W
+PT;ROL;Roliça;Rolica;11;--3-----;RL;1601;;3919N 00911W
+PT;RIZ;Romariz;Romariz;;--3-----;RL;901;;4056N 00828W
+PT;ZEM;Rozem;Rozem;13;--3-----;RL;1501;;4109N 00811W
+PT;RUN;Runa;Runa;11;--3-----;RL;1501;;3904N 00913W
+PT;SBR;Sabrosa;Sabrosa;17;--3-----;RN;401;;4116N 00735W
+PT;SBS;Sabroso;Sabroso;17;-----6--;RL;1107;;4135N 00736W
+PT;SBL;Sabugal;Sabugal;9;-23-----;RN;401;;4031N 00714W
+PT;TZN;Sabugo;Sabugo;11;-----6--;RL;901;;3849N 00918W
+PT;SAC;Sacavém;Sacavem;11;-23-----;RL;401;;3847N 00906W
+PT;SFR;Safara;Safara;2;--3-----;RN;401;;3806N 00713W
+PT;SAG;Sagres;Sagres;;1-------;RL;1201;;3700N 00856W
+PT;SGU;Salgueiro;Salgueiro;5;--3-----;RL;401;;4014N 00718W
+PT;SDM;Salir de Matos;Salir de Matos;10;-23-----;RL;401;;3926N 00906W
+PT;SMG;Salvaterra de Magos;Salvaterra de Magos;14;--3--6--;RN;401;;3901N 00848W
+PT;SMR;Samora Correia;Samora Correia;14;--3-----;RN;401;;3856N 00852W
+PT;SAM;Samouco;Samouco;15;--3-----;RL;1601;;3843N 00900W
+PT;SNH;Sanchequias;Sanchequias;1;--3-----;RL;1301;;4029N 00840W
+PT;DFZ;Sandim;Sandim;13;1-3-----;RL;1401;;4102N 00831W
+PT;SSF;Sanfins;Sanfins;1;--3-----;RL;1301;;4056N 00832W
+PT;SDD;Sanfins do Douro;Sanfins do Douro;17;--3-----;RL;1601;;4118N 00731W
+PT;SAN;Sangalhos;Sangalhos;1;--3-----;RL;401;;4030N 00828W
+PT;SGA;Sanguedo;Sanguedo;1;--3-----;RL;1307;;4100N 00831W
+PT;SRV;Santa Clara-a-Velha;Santa Clara-a-Velha;2;--3-----;RN;401;;3731N 00829W
+PT;SCD;Santa Comba Dão;Santa Comba Dao;18;--3-----;RN;401;;4024N 00808W
+PT;SCZ;Santa Cruz;Santa Cruz;30;--3-----;RL;401;;3241N 01648W
+PT;SCG;Santa Cruz da Graciosa;Santa Cruz da Graciosa;20;1-3-----;RL;401;;3905N 02801W
+PT;SCF;Santa Cruz das Flores;Santa Cruz das Flores;20;1-3-----;RL;401;;3927N 03107W
+PT;SCB;Santa Cruz Do Bispo;Santa Cruz Do Bispo;13;--3-----;RL;1507;;4113N 00840W
+PT;SEP;Santa Eufémia de Prazins;Santa Eufemia de Prazins;;--3-----;RL;1201;;4128N 00819W
+PT;EAS;Santa Eulalia de Arnoso;Santa Eulalia de Arnoso;3;--3-----;RQ;901;;
+PT;SIA;Santa Iria de Azoia;Santa Iria de Azoia;11;-23-----;RL;601;;3851N 00905W
+PT;SLZ;Santa Luzia;Santa Luzia;;1-------;RL;1201;;3706N 00739W
+PT;SMF;Santa Maria da Feira;Santa Maria da Feira;1;--3--6--;RN;401;;
+PT;MAV;Santa Maria de Avioso;Santa Maria de Avioso;6;--3-----;RL;1601;;4116N 00836W
+PT;SMV;Santa Maria de Avioso;Santa Maria de Avioso;13;-----6--;RL;1201;;4116N 00836W
+PT;SML;Santa Maria de Lamas;Santa Maria de Lamas;1;--3-----;RL;1407;;4058N 00834W
+PT;SMS;Santa Maria de Sardoura;Santa Maria de Sardoura;1;1-3-----;RL;901;;4103N 00817W
+PT;SMA;Santa Maria Island Apt;Santa Maria Island Apt;20;---4----;AI;401;;3658N 02510W
+PT;SMP;Santa Marta de Penaguião;Santa Marta de Penaguiao;17;-23-----;RN;401;;4112N 00748W
+PT;SVT;Santa Vitória;Santa Vitoria;2;--3-----;RL;1601;;3758N 00802W
+PT;STN;Santana;Santana;30;--3-----;RN;401;;3248N 01653W
+PT;SNT;Santarém;Santarem;14;-23-----;RL;212;;3914N 00841W
+PT;SDB;Santiago de Besteiros;Santiago de Besteiros;18;--3-----;RL;1301;;4035N 00807W
+PT;SRU;Santiago de Riba-Ul;Santiago de Riba-Ul;1;--3-----;RL;701;;4051N 00829W
+PT;STC;Santiago do Cacém;Santiago do Cacem;15;-23-----;RN;401;;3801N 00842W
+PT;DTO;Santo Antão do Tojal;Santo Antao do Tojal;11;--3-----;RL;607;;3851N 00908W
+PT;SEO;Santo Estevao;Santo Estevao;11;-----6--;RQ;1001;;3852N 00845W
+PT;SEG;Santo Estêvão das Galés;Santo Estevao das Gales;11;--3-----;RL;1501;;3854N 00915W
+PT;SDP;Santo Isidro de Pegoes;Santo Isidro de Pegoes;15;--3-----;RL;1207;;3841N 00841W
+PT;STI;Santo Tirso;Santo Tirso;13;--3-----;RL;401;;4121N 00828W
+PT;SVO;Santo Varão;Santo Varao;6;--3-----;RL;1601;;4011N 00836W
+PT;SBM;São Bartolomeu de Messines;Sao Bartolomeu de Messines;8;-23-----;RN;401;;3715N 00817W
+PT;BDG;São Bartolomeu dos Galegos;Sao Bartolomeu dos Galegos;11;--3-----;RL;1501;;3916N 00916W
+PT;SBA;São Brás de Alportel;Sao Bras de Alportel;8;--3-----;RN;401;;3709N 00753W
+PT;VAQ;São Cosme do Vale;Sao Cosme do Vale;3;--3-----;RL;1401;;4126N 00828W
+PT;SDR;São Domingos de Rana;Sao Domingos de Rana;11;-23-----;RL;401;;3842N 00920W
+PT;IAO;São Gião;Sao Giao;6;--3-----;RL;1301;;4020N 00747W
+PT;SGO;São Gonçalo;Sao Goncalo;17;-----6--;RL;1201;;4111N 00747W
+PT;SJM;São João da Madeira;Sao Joao da Madeira;1;-23--6--;RL;907;;4054N 00830W
+PT;SJP;São João da Pesqueira;Sao Joao da Pesqueira;18;--3-----;RL;601;;4109N 00724W
+PT;SJR;São João da Ribeira;Sao Joao da Ribeira;14;--3--6--;RL;1107;;3917N 00851W
+PT;SJT;São João da Talha;Sao Joao da Talha;11;--3-----;RL;401;;3849N 00905W
+PT;SJL;Sao Joao das Lampas;Sao Joao das Lampas;11;-----6--;RL;1407;;3852N 00924W
+PT;SJA;São João de Areias;Sao Joao de Areias;18;--3-----;RL;701;;4023N 00804W
+PT;SJV;São João de Ver;Sao Joao de Ver;1;--3-----;RL;701;;4057N 00833W
+PT;SJO;São Jorge;Sao Jorge;10;--3-----;RL;1401;;3938N 00851W
+PT;SJZ;São Jorge Island Apt;Sao Jorge Island Apt;20;---4----;AI;401;;3839N 02810W
+PT;TZG;Sao Juliao do Tojal;Sao Juliao do Tojal;11;-----6--;RL;901;;3851N 00908W
+PT;MAM;São Mamede;Sao Mamede;10;--3-----;RL;1201;;3937N 00843W
+PT;SMD;São Mamede de Infesta;Sao Mamede de Infesta;13;-23-----;RL;401;;4112N 00836W
+PT;SMT;São Mateus;Sao Mateus;20;1-------;AA;1207;;3839N 02716W
+PT;SMI;São Miguel;Sao Miguel;;1-------;RQ;401;;
+PT;SPG;São Paio de Gramaços;Sao Paio de Gramacos;6;--3-----;RL;1301;;4021N 00750W
+PT;TZC;Sao Paio de Oleiros;Sao Paio de Oleiros;1;-----6--;RL;901;;4059N 00835W
+PT;AFR;São Pedro da Afurada;Sao Pedro da Afurada;13;1-------;RL;1201;;4108N 00838W
+PT;SAO;Sao Pedro de Avioso;Sao Pedro de Avioso;13;--3-----;RL;1301;;4116N 00837W
+PT;SPS;São Pedro do Sul;Sao Pedro do Sul;18;-23-----;RN;401;;4045N 00804W
+PT;RNV;São Romão de Neiva;Sao Romao de Neiva;16;--3-----;RL;1401;;4138N 00846W
+PT;SRP;São Roque do Pico;Sao Roque do Pico;20;--3-----;RN;401;;3831N 02819W
+PT;SVC;São Vicente;Sao Vicente;30;--3-----;RN;401;;3248N 01703W
+PT;SVB;São Vicente da Beira;Sao Vicente da Beira;5;--3-----;RN;401;;4002N 00734W
+PT;SRD;Sardoal;Sardoal;14;--3-----;RN;401;;3932N 00810W
+PT;SAT;Sátão;Satao;18;--3-----;RN;401;;4044N 00744W
+PT;SEE;Seia;Seia;9;--3-----;RN;401;;4025N 00742W
+PT;SCA;Seica;Seica;;--3-----;RL;1201;;4003N 05000W
+PT;SEI;Seixal;Seixal;15;-23-----;RL;401;;3838N 00906W
+PT;SXZ;Seixezelo;Seixezelo;13;--3-----;RL;901;;4102N 00833W
+PT;SND;Sendim;Sendim;13;--3-----;RN;401;;4123N 00811W
+PT;SHA;Senhora da Hora;Senhora da Hora;13;123-----;RL;401;;4111N 00839W
+PT;SDF;Senhora das Febres;Senhora das Febres;6;-----6--;RQ;1007;;4024N 00838W
+PT;SEQ;Sequeira;Sequeira;3;--3-----;RL;701;;4132N 00828W
+PT;SRL;Sernancelhe;Sernancelhe;18;--3-----;RN;401;;4054N 00730W
+PT;SRA;Seroa;Seroa;13;--3-----;RL;1301;;4116N 00826W
+PT;SPA;Serpa;Serpa;2;--3-----;RN;401;;3756N 00736W
+PT;SRT;Sertã;Serta;5;--3-----;RN;401;;3948N 00806W
+PT;SER;Serzedo;Serzedo;13;--3-----;RL;401;;4103N 00837W
+PT;SSB;Sesimbra;Sesimbra;15;1-3-----;RN;401;;3826N 00906W
+PT;SET;Setúbal;Setubal;15;123-----;AI;401;;3832N 00854W
+PT;SVV;Sever do Vouga;Sever do Vouga;1;--3-----;RN;401;;4044N 00822W
+PT;SVD;Silvalde;Silvalde;1;-2------;RQ;1001;;4059N 00837W
+PT;TZM;Silveira;Silveira;11;-----6--;RL;901;;3907N 00922W
+PT;SLV;Silves;Silves;8;-23-----;RN;401;;3711N 00826W
+PT;SIE;Sines;Sines;15;1234----;AI;401;;3757N 00852W
+PT;STA;Sintra;Sintra;11;-23--6--;RL;401;;3848N 00923W
+PT;SLH;Soalheira;Soalheira;5;-23-----;RN;401;;4002N 00729W
+PT;SOG;Sobradelo da Goma;Sobradelo da Goma;;--3-----;RL;901;;4134N 08110W
+PT;SOL;Sobral;Sobral;11;--3-----;RL;1501;;3915N 00916W
+PT;SBG;Sobral de Monte Agraço;Sobral de Monte Agraco;11;--3-----;RN;401;;3901N 00909W
+PT;SDO;Sobral do Parelhão;Sobral do Parelhao;11;--3-----;RL;1301;;3917N 00909W
+PT;SOB;Sobralinho;Sobralinho;11;-23-----;RL;701;;3855N 00901W
+PT;SOU;Soure;Soure;6;-23-----;RL;401;;4003N 00838W
+PT;SOS;Sousa;Sousa;13;--3-----;RL;1501;;4121N 00815W
+PT;ELA;Souselas;Souselas;6;--3-----;RQ;1001;;4017N 82530W
+PT;SSL;Souzel;Souzel;12;-23-----;RN;401;;3857N 00740W
+PT;SZL;Souzelas;Souzelas;6;--3-----;RL;401;;4006N 00843W
+PT;TAB;Tábua;Tabua;6;--3-----;RN;401;;4021N 00802W
+PT;TBC;Tabuaço;Tabuaco;18;--3-----;RN;401;;4107N 00734W
+PT;TAG;Tagilde;Tagilde;13;--3-----;RL;1601;;4122N 00817W
+PT;TAM;Tamel;Tamel;3;--3-----;RL;1501;;4133N 00836W
+PT;TRC;Tarouca;Tarouca;18;--3-----;RN;401;;4101N 00747W
+PT;TVO;Taveiro;Taveiro;6;--3-----;RL;1507;;4012N 00830W
+PT;TVR;Tavira;Tavira;8;-23-----;RN;401;;3707N 00739W
+PT;TEN;Tentúgal;Tentugal;6;--3-----;RL;1501;;4013N 00835W
+PT;TER;Terceira Island Apt;Terceira Island Apt;20;1--45---;AI;401;;3843N 02713W
+PT;TBR;Terras de Bouro;Terras de Bouro;3;--3-----;RN;401;;4143N 00818W
+PT;TRS;Terroso;Terroso;13;--3-----;RL;1401;;4125N 00844W
+PT;TRR;Terrugem;Terrugem;11;-----6--;RL;901;;3842N 00917W
+PT;TMR;Tomar;Tomar;14;-23-----;RL;401;;3936N 00825W
+PT;TON;Tondela;Tondela;18;-23-----;RL;401;;4031N 00805W
+PT;TPO;Topo;Topo;20;1-3-----;RN;401;;3833N 02747W
+PT;TOR;Torrão;Torrao;15;-23-----;RN;401;;3840N 00915W
+PT;TDH;Torre de Dona Chama;Torre de Dona Chama;4;--3-----;RN;401;;4139N 00708W
+PT;TMC;Torre de Moncorvo;Torre de Moncorvo;4;-23-----;RN;401;;4110N 00703W
+PT;TOA;Torreira;Torreira;;1-------;RL;1201;;4045N 00842W
+PT;TNV;Torres Novas;Torres Novas;14;--3-----;RL;401;;3929N 00832W
+PT;TVE;Torres Vedras;Torres Vedras;11;-23-----;RL;401;;3906N 00916W
+PT;TSO;Tortosendo;Tortosendo;5;--3-----;RQ;901;;4014N 00731W
+PT;TOU;Touguinho;Touguinho;13;--3-----;RL;1307;;4123N 00842W
+PT;TRF;Trafaria;Trafaria;15;1-------;RL;1201;;3840N 00914W
+PT;TRJ;Trajouce;Trajouce;11;--3--6--;RQ;1001;;3840N 00920W
+PT;TGL;Tramagal;Tramagal;14;-23-----;RL;401;;3927N 00815W
+PT;TCS;Trancoso;Trancoso;9;--3-----;RN;401;;4047N 00721W
+PT;TRD;Trandeiras;Trandeiras;3;--3-----;RL;1601;;4129N 00825W
+PT;TRA;Travanca;Travanca;1;--3-----;RQ;1001;;4048N 00829W
+PT;TMS;Tremes;Tremes;14;--3-----;RL;1301;;3921N 00846W
+PT;TRO;Trofa;Trofa;1;--3-----;RL;401;;4036N 00829W
+PT;TVS;Troviscal;Troviscal;5;--3-----;RL;1501;;3952N 00801W
+PT;TUN;Tunes;Tunes;1;1-------;RQ;901;;
+PT;CVL;Unhais da Serra;Unhais da Serra;5;--3-----;RN;401;;4016N 00737W
+PT;QUI;Urqueira;Urqueira;14;--3-----;RL;1301;;3944N 00836W
+PT;VGS;Vagos;Vagos;1;--3-----;RN;401;;4033N 00841W
+PT;VAG;Vagueira;Vagueira;;1-------;RL;1201;;4033N 00845W
+PT;TZP;Valada;Valada;14;-----6--;RL;901;;3904N 00846W
+PT;VDR;Valadares;Valadares;16;--3-----;RL;501;;4204N 00821W
+PT;VAB;Valbom;Valbom;13;1-------;RL;1201;;4108N 00834W
+PT;SCV;Vale;Vale;3;--3-----;RL;401;;4127N 00828W
+PT;VCA;Vale de Cambra;Vale de Cambra;1;-23--6--;RL;401;;4051N 00823W
+PT;VLN;Valença;Valenca;16;-23-----;RN;401;;4202N 00838W
+PT;VAL;Valongo;Valongo;12;--3-----;RL;401;;3910N 00752W
+PT;NGV;Valongo;Valongo;13;1-3-----;RL;1401;;4111N 00830W
+PT;VLP;Valpaços;Valpacos;17;--3-----;RN;401;;4136N 00719W
+PT;VL9;Valverde;Valverde;7;--3-----;RL;1301;;3832N 00801W
+PT;VAN;Vandoma;Vandoma;;--3-----;RQ;1001;;4112N 00823W
+PT;VAE;Varzea;Varzea;;-----6--;RQ;1001;;3752N 02550W
+PT;VAR;Várzea do Douro;Varzea do Douro;13;1-3-----;RQ;907;;4107N 00828W
+PT;VEL;Velas;Velas;20;1-3-----;AI;401;;3841N 02813W
+PT;VDV;Venda do Pinheiro;Venda do Pinheiro;11;1-------;RQ;901;;
+PT;VDN;Vendas Novas;Vendas Novas;7;-23-----;RL;401;;3841N 00827W
+PT;VEA;Vendinha;Vendinha;;-----6--;RL;1201;;3827N 00739W
+PT;VVN;Ventosa;Ventosa;14;-----6--;RL;1407;;3934N 00801W
+PT;VOM;Vermoim;Vermoim;13;--3-----;RL;1301;;4114N 00836W
+PT;VIA;Vialonga;Vialonga;11;--3-----;RL;401;;3852N 00905W
+PT;VNT;Viana do Alentejo;Viana do Alentejo;7;-23-----;RN;401;;3820N 00800W
+PT;VDC;Viana do Castelo;Viana do Castelo;16;123-----;AI;401;;4142N 00850W
+PT;VTD;Viatodos;Viatodos;3;--3-----;RL;901;;4127N 00834W
+PT;VDG;Vidago;Vidago;17;-23-----;RN;401;;4138N 00734W
+PT;VDE;Vide;Vide;9;--3-----;RN;401;;4017N 00746W
+PT;VGA;Vidigueira;Vidigueira;2;--3-----;RN;401;;3813N 00748W
+PT;VRM;Vieira do Minho;Vieira do Minho;3;--3-----;RN;401;;4138N 00809W
+PT;BDB;Vila Boa do Bispo;Vila Boa do Bispo;13;--3-----;RL;1301;;4107N 00812W
+PT;VLC;Vila Chã;Vila Cha;;1-------;RL;1201;;4051N 00823W
+PT;VCO;Vila Cha de Ourique;Vila Cha de Ourique;14;-----6--;RQ;1007;;3910N 00846W
+PT;VLD;Vila da Ponte;Vila da Ponte;18;--3-----;RL;401;;4055N 00730W
+PT;VFD;Vila de Frades;Vila de Frades;2;1----6--;RL;1407;;3813N 00749W
+PT;VLR;Vila de Rei;Vila de Rei;5;--3-----;RN;401;;3940N 00809W
+PT;VBP;Vila do Bispo;Vila do Bispo;8;--3-----;RN;401;;3705N 00855W
+PT;VIC;Vila do Conde;Vila do Conde;13;123-----;RL;401;;4121N 00845W
+PT;VDP;Vila do Porto;Vila do Porto;20;1-3-----;RL;401;;3656N 02509W
+PT;VFL;Vila Flor;Vila Flor;4;--3-----;RN;401;;3908N 00709W
+PT;VFX;Vila Franca de Xira;Vila Franca de Xira;11;123-----;RL;401;;3857N 00859W
+PT;VFC;Vila Franca do Campo;Vila Franca do Campo;20;1-3-----;RN;401;;3743N 02526W
+PT;VFR;Vila Franca do Rosário;Vila Franca do Rosario;11;--3-----;RL;1201;;3858N 00915W
+PT;VMA;Vila Meã;Vila Mea;13;-23-----;RN;401;;4115N 00811W
+PT;VIF;Vila Moura;Vila Moura;8;--3-----;RQ;901;;
+PT;TZO;Vila Nogueira de Azeitao;Vila Nogueira de Azeitao;15;-----6--;RL;901;;3831N 00901W
+PT;VNB;Vila Nova da Barquinha;Vila Nova da Barquinha;14;--3-----;RN;401;;3927N 00826W
+PT;VNA;Vila Nova da Cerveira;Vila Nova da Cerveira;16;-23-----;RL;401;;4156N 00845W
+PT;VNR;Vila Nova da Rainha;Vila Nova da Rainha;11;1----6--;RL;901;;3902N 00856W
+PT;VNE;Vila Nova da Telha;Vila Nova da Telha;13;--3-----;RL;701;;4115N 00840W
+PT;VNF;Vila Nova de Famalicao;Vila Nova de Famalicao;3;-23-----;RL;401;;4125N 00832W
+PT;VNZ;Vila Nova de Fozcoa;Vila Nova de Fozcoa;9;-23-----;RN;401;;4105N 00712W
+PT;VNG;Vila Nova de Gaia;Vila Nova de Gaia;13;-23-----;RL;401;;4108N 00837W
+PT;VNM;Vila Nova de Milfontes;Vila Nova de Milfontes;2;--3-----;RN;401;;3743N 00847W
+PT;VNO;Vila Nova de Ourém;Vila Nova de Ourem;14;--3-----;RL;401;;3939N 00835W
+PT;VOP;Vila Nova de Paiva;Vila Nova de Paiva;18;--3-----;RN;401;;4051N 00744W
+PT;VNP;Vila Nova de Poiares;Vila Nova de Poiares;6;--3-----;RN;401;;4013N 00816W
+PT;VSA;Vila Nova de Santo André;Vila Nova de Santo Andre;15;--3-----;RN;401;;3803N 00845W
+PT;VNC;Vila Nova do Corvo;Vila Nova do Corvo;20;1-------;AI;1207;;3940N 03106W
+PT;VPB;Vila Pouca da Beira;Vila Pouca da Beira;6;--3-----;RL;1307;;4018N 00755W
+PT;VPA;Vila Pouca de Aguiar;Vila Pouca de Aguiar;17;-23-----;RN;401;;4130N 00739W
+PT;TZB;Vila Praia de Ancora;Vila Praia de Ancora;16;-----6--;RL;901;;4149N 00851W
+PT;VRL;Vila Real;Vila Real;17;-234----;AI;401;;4118N 00745W
+PT;VRA;Vila Real de San António;Vila Real de San Antonio;;--3-----;RL;1007;;3712N 00725W
+PT;VRE;Vila Real de Santo António;Vila Real de Santo Antonio;8;123-----;RL;401;;3712N 00725W
+PT;VRU;Vila Ruiva;Vila Ruiva;;-----6--;RL;901;;4034N 00731W
+PT;VLS;Vila Seca;Vila Seca;18;--3-----;RL;1407;;4107N 00740W
+PT;VVR;Vila Velha de Ródão;Vila Velha de Rodao;5;-23-----;RN;401;;3940N 00742W
+PT;VVD;Vila Verde;Vila Verde;3;--3-----;RN;401;;4139N 00826W
+PT;VIV;Vila Viçosa;Vila Vicosa;7;-23-----;RL;401;;3847N 00725W
+PT;VIL;Vilar;Vilar;11;--3-----;RL;1307;;3911N 00907W
+PT;VMP;Vilar do Paraíso;Vilar do Paraiso;13;-----6--;RL;1201;;4105N 00837W
+PT;VPO;Vilar do Pinheiro;Vilar do Pinheiro;13;-23-----;RL;607;;4116N 00840W
+PT;VLF;Vilar Formoso;Vilar Formoso;9;--3-----;RN;401;;4037N 00650W
+PT;VSP;Vilar Seco;Vilar Seco;18;-----6--;RL;1201;;4033N 00752W
+PT;VIH;Vilarinho;Vilarinho;3;--3-----;RL;1301;;4136N 00807W
+PT;VLH;Vilarinho;Vilarinho;13;--3-----;RL;701;;4121N 00820W
+PT;DCS;Vilarinho das Cambas;Vilarinho das Cambas;;--3-----;RL;1201;;4123N 00833W
+PT;VDB;Vilarinho do Bairro;Vilarinho do Bairro;1;--3-----;RL;1207;;4025N 00832W
+PT;VDF;Vilarinho dos Freires;Vilarinho dos Freires;17;--3-----;RL;1601;;4110N 00745W
+PT;VLL;Vilela;Vilela;13;--3-----;RL;1207;;4133N 00755W
+PT;VMS;Vimioso;Vimioso;4;--3-----;RN;401;;4135N 00632W
+PT;VNH;Vinhais;Vinhais;4;--3-----;RN;401;;4150N 00700W
+PT;VSE;Viseu;Viseu;18;-234----;AI;401;;4039N 00755W
+PT;ZVI;Vizela;Vizela;3;--3-----;RL;401;;4123N 00816W
+PT;VZL;Vouzela;Vouzela;18;-23-----;RN;401;;4043N 00807W
+PT;ZIB;Zibreira;Zibreira;5;--3-----;RL;407;;3951N 00704W
+PT;ZFM;Zona Franca da Madeira;Zona Franca da Madeira;30;1-3-----;AI;401;;3240N 01645W

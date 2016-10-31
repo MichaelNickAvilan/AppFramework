@@ -1,0 +1,694 @@
+ID;ADB;Adang Bay;Adang Bay;;1-------;RQ;8103;;
+ID;AEG;Aekgodang;Aekgodang;SB;---4----;RL;901;;0048N 09934E
+ID;AKE;Akeselaka;Akeselaka;MA;1-------;RQ;901;;0103N 12758E
+ID;ARD;Alor Island;Alor Island;;---4----;AI;1;;
+ID;AHI;Amahai;Amahai;;---4----;AI;9601;;
+ID;AMA;Amamapare, Ij;Amamapare, Ij;;1-------;RQ;9506;;
+ID;AMQ;Ambon, Molucas;Ambon, Molucas;;1-------;QQ;8103;;
+ID;APN;Ampana;Ampana;ST;1-------;RQ;901;;0052S 12135E
+ID;AMP;Ampenan, Bali;Ampenan, Bali;;1-------;QQ;8103;;
+ID;TZD;Amurang;Amurang;SA;-----6--;RL;1107;;0110N 12434W
+ID;ANC;Ancol;Ancol;JK;--3-----;RL;1601;;0607S 10651E
+ID;ANG;Angar;Angar;MA;1-------;RQ;901;;0339S 13050E
+ID;AGD;Anggi;Anggi;;---4----;RQ;901;;0123S 13352E
+ID;ANK;Angke;Angke;JK;--3-----;RL;1601;;0608S 10647E
+ID;ANO;Anoa Natuna Pt.;Anoa Natuna Pt.;;1-------;RL;1307;;0514N 10536E
+ID;ANR;Anyer Kidul;Anyer Kidul;JB;123-----;RL;212;;0604S 10553E
+ID;AAS;Apalapsili;Apalapsili;;---4----;RQ;901;;0355S 13915E
+ID;API;Api Api;Api Api;;0-------;RQ;9506;;
+ID;AJS;Arjasa;Arjasa;JI;--3-----;RL;1307;;0651S 11516E
+ID;AJN;Arjuna, Java;Arjuna, Java;;1-------;QQ;8103;;
+ID;ARB;Aroe Bay;Aroe Bay;;1-------;RQ;8103;;
+ID;ARJ;Arso;Arso;PA;---4----;RQ;1307;;0254S 14045E
+ID;AUN;Arun;Arun;;1-------;RQ;9506;;
+ID;IAM;Asam Asam;Asam Asam;KS;-----6--;RL;901;;0354S 11506E
+ID;ASI;Asike;Asike;PA;1-------;RQ;1307;;0639S 14025E
+ID;ABU;Atambua;Atambua;;--3-----;RQ;9501;;
+ID;AYW;Ayawasi;Ayawasi;;---4----;RQ;901;;0112S 13230E
+ID;BXD;Bade;Bade;;---4----;AI;9601;;
+ID;BAH;Bahudopi;Bahudopi;ST;--3-----;RL;1507;;0247S 12206E
+ID;BJW;Bajawa;Bajawa;;---4----;AI;1;;
+ID;BPN;Balikpapan;Balikpapan;KI;1--4----;AI;1307;;0117S 11650E
+ID;BLH;Balohan;Balohan;AC;1-------;RL;1507;;0549N 09520E
+ID;BAL;Balongan Terminal;Balongan Terminal;;1-------;RQ;9506;;
+ID;NAF;Banaina;Banaina;;---4----;AI;1;;
+ID;BTJ;Banda Aceh;Banda Aceh;;---4----;AI;9601;;
+ID;NDA;Bandanaira;Bandanaira;MA;--34----;RL;1601;;0432S 12954E
+ID;TKG;Bandar Lampung;Bandar Lampung;;---4----;AI;1;;
+ID;BDG;Bandengan;Bandengan;JI;--3-----;RL;1601;;0655S 11012E
+ID;BDO;Bandung, Java;Bandung, Java;;---45---;AI;9601;;
+ID;BGG;Banggai;Banggai;;1-------;QQ;8103;;
+ID;BJN;Banjaran;Banjaran;JT;-----6--;RQ;1007;;0712S 10847E
+ID;BJB;Banjarbaru;Banjarbaru;KS;--3-----;RL;1307;;0325S 11450E
+ID;BDJ;Banjarmasin;Banjarmasin;;1--4----;AI;9601;;
+ID;BAJ;Banjarnegara;Banjarnegara;JT;--3-----;RL;1501;;0723S 10941E
+ID;BJU;Banjuwangi, Java;Banjuwangi, Java;;1-------;QQ;8103;;
+ID;BTN;Banten;Banten;;1-------;RL;9811;;
+ID;BTL;Bantul;Bantul;KI;-----6--;RL;1107;;0409N 11649E
+ID;IBL;Bantul;Bantul;YO;-----6--;RL;901;;0754S 11020E
+ID;BAY;Banyumas;Banyumas;JT;--3-----;RL;1501;;0731S 10917E
+ID;BNI;Banyuwangi;Banyuwangi;JI;-23-----;RL;1501;;0812S 11421E
+ID;BA2;Baralaja;Baralaja;JB;--3-----;RL;1501;;0611S 10627E
+ID;BTH;Batam (ex Batu Besar);Batam (ex Batu Besar);;---4----;AI;1;;
+ID;BTM;Batam Island;Batam Island;KR;--3-----;RL;1601;;0105N 10402E
+ID;BTG;Batang;Batang;JT;-----6--;RL;1107;;0655S 10945E
+ID;BUR;Batu Ampal;Batu Ampal;;1-3-----;RL;9805;;
+ID;BAK;Batu Kilat;Batu Kilat;;1-------;RQ;8103;;
+ID;BAM;Batuampar;Batuampar;RI;--3-----;RL;1601;;0058S 10244E
+ID;BTW;Batulicin;Batulicin;KS;1-34----;AI;212;;0327S 11559E
+ID;BUW;Baubau, Butung;Baubau, Butung;;---4----;QQ;8103;;
+ID;BEK;Bekapai Terminal;Bekapai Terminal;;1-------;RQ;9506;;
+ID;BKA;Bekasi;Bekasi;;--3-----;RQ;101;;
+ID;BES;Bekasi Timur;Bekasi Timur;JB;--3-----;RL;1501;;0614S 10659E
+ID;BNT;Belanak Terminal;Belanak Terminal;RI;1-------;RQ;901;;0410N 10614E
+ID;BLW;Belawan, Sumatra;Belawan, Sumatra;;1-------;QQ;8103;;
+ID;BET;Belida Terminal;Belida Terminal;RI;1-------;RQ;901;;0408N 10508E
+ID;BLV;Beliling;Beliling;;1-------;QQ;8103;;
+ID;BLT;Belitung;Belitung;SS;1-------;RL;501;;0250S 10755E
+ID;NBR;Bener Meriah;Bener Meriah;AC;--3-----;RL;1407;;0445N 09700E
+ID;BEN;Benete;Benete;NB;1-------;RL;212;;0852S 11643E
+ID;BKI;Bengkalis, St;Bengkalis, St;;0-------;RQ;9506;;
+ID;BKS;Bengkulu, Sumatra;Bengkulu, Sumatra;;1--4----;AI;9506;;
+ID;BOA;Benoa;Benoa;BA;1-------;RL;1501;;0846S 11513E
+ID;BNW;Benowo;Benowo;JI;--3-----;RL;1301;;0714S 11236E
+ID;BEJ;Berau;Berau;;---4----;AI;9601;;
+ID;BTO;Betro;Betro;JT;--3-----;RL;1501;;0723S 11245E
+ID;BIK;Biak, Irian Jaya;Biak, Irian Jaya;;1--4----;AI;9601;;
+ID;BMT;Bima Terminal, Jv;Bima Terminal, Jv;;1-------;RQ;9506;;
+ID;BMU;Bima, Sb;Bima, Sb;;1--4----;AI;9506;;
+ID;BJI;Binjai;Binjai;SU;--3-----;RL;1401;;0336N 09830E
+ID;NTI;Bintuni;Bintuni;;---4----;AI;9601;;
+ID;BIR;Biringkassi;Biringkassi;;1-------;RQ;212;;0449S 11929E
+ID;BIT;Bitung, Sulawesi;Bitung, Sulawesi;;1-------;QQ;8103;;
+ID;BLL;Blang Lancang, St;Blang Lancang, St;;1-------;RQ;9506;;
+ID;BLI;Blinju, Banka;Blinju, Banka;;1-------;RQ;9506;;
+ID;BTR;Blitar;Blitar;JI;--3-----;RL;1507;;0806S 11209E
+ID;BLO;Blora;Blora;JT;--3-----;RL;1501;;0657N 11125E
+ID;BOG;Bogor;Bogor;;--3-----;RQ;101;;
+ID;BOJ;Bojonegoro;Bojonegoro;JI;--3-----;RQ;907;;0709S 11152E
+ID;BUI;Bokondini;Bokondini;;---4----;AI;9601;;
+ID;BJG;Bolaang;Bolaang;;---4----;AI;1;;
+ID;BNG;Bonggala;Bonggala;;1-------;RQ;8103;;
+ID;BXT;Bontang, Kl;Bontang, Kl;;1--4----;RQ;9506;;
+ID;BOY;Boyolali;Boyolali;JT;--3-----;RL;1101;;0732S 11035E
+ID;BRE;Brebes;Brebes;JT;--3-----;RL;1501;;0653N 10930E
+ID;BRB;Brumbung;Brumbung;JT;--3-----;RQ;907;;0700S 11031E
+ID;BUN;Buatan;Buatan;;0-------;RQ;9506;;
+ID;BDN;Buduran;Buduran;JT;--3-----;RL;1501;;0725S 11243E
+ID;BUK;Bukittinggi;Bukittinggi;SB;--3--6--;RL;1307;;0019S 10022E
+ID;BUA;Bula;Bula;;1-------;RQ;9506;;
+ID;BUG;Buleleng, Bali;Buleleng, Bali;;1-------;RQ;9506;;
+ID;BTK;Buntok;Buntok;KT;-2------;RL;1301;;0142S 11448E
+ID;BYQ;Bunyu;Bunyu;KI;1-------;RL;901;;0330N 11748E
+ID;UOL;Buol;Buol;;---4----;AI;1;;
+ID;CAK;Cakung;Cakung;JK;--3-----;RL;1501;;0613S 10656E
+ID;CLG;Calang;Calang;;--3-----;RQ;1001;;0438N 09535E
+ID;CND;Candi;Candi;JT;--3-----;RL;1501;;0724S 11237E
+ID;CSA;Cape Sago;Cape Sago;;1-------;RQ;8103;;
+ID;CAW;Cawang;Cawang;JK;--3-----;RL;1501;;0611S 10652E
+ID;CGR;Ceger;Ceger;JK;--3-----;RL;1401;;0618S 10653E
+ID;CEB;Celukan Bawang, Bl;Celukan Bawang, Bl;;1-------;RQ;9506;;
+ID;CEN;Cengkareng;Cengkareng;JK;--3---7-;RL;501;;0609S 10643E
+ID;ICU;Cepu;Cepu;JT;-----6--;RL;901;;0709S 11135E
+ID;CER;Cereweh;Cereweh;NB;1-------;RQ;901;;0849S 11649E
+ID;CIJ;Cianjur;Cianjur;JB;--3-----;RL;1601;;0649S 10708E
+ID;CIA;Ciawi;Ciawi;JB;--3-----;RL;1501;;0609S 10650E
+ID;CBD;Cibadak;Cibadak;JB;--3-----;RL;1501;;0653S 10646E
+ID;CIB;Cibinong;Cibinong;JB;--3-----;RQ;907;;0623S 10641E
+ID;CBT;Cibitung;Cibitung;JB;--3-----;RQ;907;;0619S 10659E
+ID;CID;Cibubur;Cibubur;JB;--3-----;RL;1601;;0620S 10652E
+ID;CDS;Cicadas;Cicadas;JB;--3-----;RL;1101;;0626S 10655E
+ID;CIG;Cigading;Cigading;JB;--3-----;RL;1601;;0601S 10558E
+ID;CGJ;Ciganjur;Ciganjur;JB;--3-----;RL;1601;;0611S 10653E
+ID;CJT;Cijantung;Cijantung;JB;--3-----;RL;1601;;0619S 10651E
+ID;CIK;Cikampek;Cikampek;;--3-----;RL;307;;0624S 10727E
+ID;SZA;Cikande;Cikande;JB;1-3-----;RL;1401;;0612S 10621E
+ID;CKR;Cikarang;Cikarang;JB;--3-----;RQ;907;;0615S 10709E
+ID;CIP;Cikupa;Cikupa;JB;--3-----;RL;1501;;0613S 10631E
+ID;CXP;Cilacap (Tjilatjap);Cilacap (Tjilatjap);JT;1-34----;AI;401;;0744S 10900E
+ID;CDK;Cilandak;Cilandak;JB;--3-----;RL;701;;0617S 10647E
+ID;CGN;Cilegon;Cilegon;JB;--3-----;RQ;907;;0612S 10618E
+ID;CIE;Cileungsi;Cileungsi;JB;--3-----;RL;1501;;0623S 10657E
+ID;CIL;Cilincing;Cilincing;JK;--3-----;RQ;907;;0605S 10656E
+ID;CIU;Ciluar;Ciluar;JB;--3-----;RL;1501;;0613S 10624E
+ID;CMI;Cimahi;Cimahi;JB;--3-----;RL;1507;;0652S 10732E
+ID;CIM;Cimanggis;Cimanggis;JB;--3-----;RQ;907;;0619S 10644E
+ID;CGU;Cimanggu;Cimanggu;JT;--3-----;RQ;907;;0701S 11031E
+ID;CNE;Cinere;Cinere;JB;--3-----;RL;1601;;0620S 10648E
+ID;CIN;Cinta;Cinta;JB;--3-----;RL;1601;;0709S 10803E
+ID;CII;Cipinang;Cipinang;JB;--3-----;RL;1501;;0613S 10621E
+ID;CTT;Ciputat;Ciputat;;--3-----;RQ;101;;
+ID;CBN;Cirebon (Tjeribon);Cirebon (Tjeribon);;1-34----;AI;401;;0644S 10834E
+ID;CIR;Ciruas;Ciruas;JB;--3-----;RL;1501;;0607S 10613E
+ID;CIS;Cisalak;Cisalak;JB;--3-----;RL;1501;;0622S 10651E
+ID;CTK;Citangkil;Citangkil;JB;--3-----;RL;1101;;0641S 10536E
+ID;CIC;Citeureup;Citeureup;JB;--3-----;RL;1501;;0658S 10737E
+ID;CIW;Ciwandan;Ciwandan;BT;1-------;RL;1601;;0601S 10557E
+ID;CLM;Colomadu;Colomadu;;-----6--;RQ;1007;;0732N 11045E
+ID;CUR;Curug;Curug;JB;--3-----;RL;1501;;0722S 10740E
+ID;DAS;Dabo, Singkep Isl;Dabo, Singkep Isl;;1-3-----;RL;401;;0030S 10433E
+ID;DAR;Daruba;Daruba;MU;--3-----;RL;1507;;0205N 12814E
+ID;DTD;Datadawai;Datadawai;KI;---4----;RL;907;;0007N 11648E
+ID;JAT;Demak;Demak;JT;-----6--;RL;1507;;0653S 11038E
+ID;DMA;Demta;Demta;PA;1-3-----;RL;1307;;0220S 14008E
+ID;DPS;Denpasar, Bali;Denpasar, Bali;BA;--345---;AI;507;;0839S 11513E
+ID;DEP;Depok;Depok;JB;--3-----;RL;1101;;0624S 10649E
+ID;DBB;Desa Bambe;Desa Bambe;JT;--3-----;RL;1501;;0721S 11239E
+ID;DGG;Desa Greges;Desa Greges;JT;--3-----;RL;1501;;0721S 11010E
+ID;DIV;Diviematra;Diviematra;;1-------;RQ;8103;;
+ID;DJA;Djankar;Djankar;;1-------;RQ;9506;;
+ID;DOB;Dobo;Dobo;MA;1--4----;RL;1501;;0545S 13413E
+ID;DOG;Donggi;Donggi;SN;1-3-----;RL;401;;0132S 12215E
+ID;DYJ;Driyorejo;Driyorejo;JT;--3-----;RL;1501;;0721S 11237E
+ID;DUM;Dumai, Sumatra;Dumai, Sumatra;;1--4----;AI;9601;;
+ID;DUR;Duri;Duri;JK;--3-----;RQ;907;;0658S 10626E
+ID;DRI;Duri;Duri;RI;--3-----;RL;1401;;0127N 10115E
+ID;SDA;Durian;Durian;KR;1-------;RL;1107;;0101N 10334E
+ID;ELA;Elat;Elat;MA;1-------;RQ;901;;0539S 13307E
+ID;EWI;Enarotali;Enarotali;;---4----;AI;9601;;
+ID;ENE;Ende, Flores;Ende, Flores;;---4----;QQ;8103;;
+ID;EWE;Ewer;Ewer;;---4----;AI;1;;
+ID;EXS;Exspan;Exspan;;1-------;RQ;907;;0148S 10508E
+ID;FKQ;Fak Fak, Irian Jaya;Fak Fak, Irian Jaya;;1--4----;AI;9601;;
+ID;GAG;Gag Island;Gag Island;;--3-----;RQ;9501;;
+ID;GRG;Gagak Rimang Fso;Gagak Rimang Fso;JK;------7-;RL;1501;;0642S 11213E
+ID;GLX;Galela, Halmahera;Galela, Halmahera;;---4----;QQ;8103;;
+ID;GMB;Gambir;Gambir;JK;-----6--;RL;1201;;0610S 10649E
+ID;GEB;Gebe;Gebe;;--34----;RQ;9506;;
+ID;JTI;Gedangan;Gedangan;JI;--3-----;RL;1501;;0724S 11243E
+ID;GEE;Gee Island;Gee Island;MA;1-------;RQ;901;;0050N 12819E
+ID;IGR;Gianyar;Gianyar;BA;-----6--;RL;901;;0832S 11520E
+ID;GIL;Gilimanuk, Bali;Gilimanuk, Bali;;1-------;QQ;8103;;
+ID;GOM;Gombong;Gombong;JB;--3-----;RL;1301;;0712N 10807E
+ID;GTO;Gorontalo, Sulawesi;Gorontalo, Sulawesi;;1--4----;AI;9601;;
+ID;GRE;Gresik, Java;Gresik, Java;JI;1-3-----;RL;1101;;0709S 11239E
+ID;GRO;Grobogan;Grobogan;JT;--3-----;RL;1501;;0710N 11050E
+ID;GNS;Gunung Sitoli, St;Gunung Sitoli, St;;1--4----;RQ;9506;;
+ID;GUK;Gunungkidul;Gunungkidul;JB;--3-----;RL;1501;;0644N 10620E
+ID;GUN;Gunungsari;Gunungsari;JB;--3-----;RL;1501;;0635S 10818E
+ID;HDL;Handil;Handil;KI;--3-----;RL;1407;;0045S 11716E
+ID;ILA;Illaga;Illaga;;---4----;AI;9601;;
+ID;INA;Inanwatan;Inanwatan;PB;1--4----;RL;1307;;0208S 13210E
+ID;IDY;Inderalaya;Inderalaya;SS;--3-----;RL;1101;;0315S 10440E
+ID;IBT;Indonesia Bulk Terminal;Indonesia Bulk Terminal;KS;1-------;RQ;1501;;
+ID;JBK;Jababeka;Jababeka;;1-------;RQ;1001;;0615S 10709E
+ID;JBT;Jabung Terminal;Jabung Terminal;RI;1-------;RQ;901;;0053S 10404E
+ID;JUT;Jakarta Utara;Jakarta Utara;;-----6--;RQ;1007;;0610S 10649E
+ID;UTC;Jakarta UTC1;Jakarta UTC1;JK;1-------;RQ;901;;
+ID;UTE;Jakarta UTC3;Jakarta UTC3;JK;1-------;RQ;901;;
+ID;JKT;Jakarta, Java;Jakarta, Java;JK;12345---;AI;407;;0608S 10650E
+ID;DJB;Jambi, Sumatra;Jambi, Sumatra;;1--4----;AI;9601;;
+ID;JBG;Jatibarang;Jatibarang;;--3-----;RQ;101;;
+ID;JAI;Jatiluhur;Jatiluhur;JB;--3-----;RL;1501;;0633S 10725E
+ID;JAA;Jatinegara;Jatinegara;JB;--3-----;RL;1401;;0613S 10652E
+ID;JTH;Jatitujuh;Jatitujuh;;--3-----;RQ;101;;
+ID;DJJ;Jayapura, Irian Jaya;Jayapura, Irian Jaya;PA;1-345---;AI;1307;;0232S 14042E
+ID;JBN;Jembatan;Jembatan;JB;--3-----;RL;1501;;0628S 10652E
+ID;JEM;Jember;Jember;;--3-----;RL;1;;
+ID;JZM;Jembrana;Jembrana;BA;-----6--;RQ;1001;;8220S 11439E
+ID;JEP;Jepara;Jepara;JT;1-------;RL;1507;;0635S 11039E
+ID;JIP;Jogja Inland Port;Jogja Inland Port;YO;1----6--;RL;1001;;0754S 11023E
+ID;JMB;Jombang;Jombang;JI;-----6--;RL;1107;;0733S 11214E
+ID;JGL;Jonggol;Jonggol;JB;--3-----;RL;1601;;0628S 10702E
+ID;JOR;Jorong Anchorage;Jorong Anchorage;;1-------;RQ;907;;0411S 11506E
+ID;JUA;Juanda;Juanda;JI;--3-----;RL;1501;;0723S 11246E
+ID;KAB;Kabil;Kabil;;--3-----;RL;201;;0103N 10408E
+ID;KAH;Kahayan Bay;Kahayan Bay;;1-------;RQ;8103;;
+ID;KHY;Kahyangan;Kahyangan;NB;1-------;RQ;901;;0829S 11640E
+ID;KNG;Kaimana, Irian Jaya;Kaimana, Irian Jaya;;---4----;QQ;8103;;
+ID;KJN;Kajang;Kajang;;--3-----;RL;9811;;
+ID;KNT;Kakap Natuna Terminal;Kakap Natuna Terminal;;1-------;RQ;1001;;0501N 10557E
+ID;KBH;Kalabahi;Kalabahi;NT;1-3-----;RL;401;;0813S 12431E
+ID;KSO;Kalbut Situbondo;Kalbut Situbondo;JI;1-3---7-;RL;401;;0737S 11353E
+ID;KAL;Kalianak Barat;Kalianak Barat;JI;--3-----;RL;1501;;0713S 11242E
+ID;KAT;Kalianget;Kalianget;;0-------;RQ;9506;;
+ID;KLR;Kaliorang;Kaliorang;KI;--3-----;RL;1507;;0049N 11752E
+ID;KAM;Kambunong, Celebes;Kambunong, Celebes;;1-------;RQ;8103;;
+ID;KPL;Kampung Laut;Kampung Laut;JA;1-------;RQ;1007;;0054S 10348E
+ID;KPS;Kapas;Kapas;JI;--3-----;RL;1207;;0711S 11156E
+ID;KAP;Kapuk;Kapuk;JK;--3-----;RQ;907;;0608S 10645E
+ID;KGY;Karanganyar;Karanganyar;;-----6--;RL;1107;;0735S 11057E
+ID;KGT;Karangjati (Kodya Salatiga);Karangjati (Kodya Salatiga);JT;-----6--;RL;1107;;0716S 11034E
+ID;KWC;Karawaci;Karawaci;JB;--3-----;RL;1601;;0611S 10637E
+ID;KWA;Karawang;Karawang;JB;--3-----;RQ;1001;;0618S 10717E
+ID;KRT;Karet;Karet;JK;--3-----;RL;1301;;0612S 10649E
+ID;KRG;Kariangau;Kariangau;;1-------;RQ;212;;0110S 11647E
+ID;OKA;Karimun Besar Offshore;Karimun Besar Offshore;;------7-;RQ;901;;0104N 10331E
+ID;KAR;Karosa, Sulawesi;Karosa, Sulawesi;;1-------;QQ;8103;;
+ID;KBF;Karubaga;Karubaga;;---4----;AI;1;;
+ID;KAS;Kasim, Ij;Kasim, Ij;;1-------;RQ;9506;;
+ID;KSE;Kassue;Kassue;PA;1-------;RL;1501;;0659S 13913E
+ID;KAU;Kau;Kau;MU;1-------;RL;901;;0111N 12754E
+ID;KEQ;Kebar;Kebar;;---4----;AI;9601;;
+ID;KEU;Kebumen;Kebumen;JT;--3-----;RL;1501;;0740S 10939E
+ID;KDY;Kedoya;Kedoya;JB;--3-----;RL;1601;;0610S 10645E
+ID;KDH;Kedunghalang;Kedunghalang;JB;--3-----;RL;1601;;0633S 10647E
+ID;KEA;Keisah;Keisah;;---4----;AI;1;;
+ID;KLP;Kelapa;Kelapa;JB;--3-----;RL;1207;;0606S 10700E
+ID;KLD;Kelapagading;Kelapagading;JK;--3-----;RL;1601;;0609S 10652E
+ID;LLN;Kelila;Kelila;;---4----;AI;1;;
+ID;KLQ;Keluang;Keluang;;---4----;AI;1;;
+ID;KYR;Kemayoran;Kemayoran;JK;--3-----;RL;1301;;0609S 10650E
+ID;KEB;Kembangan;Kembangan;JB;-----6--;RL;1107;;0611S 10644E
+ID;KEM;Kempo, Sb;Kempo, Sb;;1-------;RQ;9506;;
+ID;KDL;Kendal;Kendal;JT;-----6--;RL;1107;;0734S 11116E
+ID;KDI;Kendari, Sulawesi;Kendari, Sulawesi;;1--4----;AI;9601;;
+ID;KDW;Kendawangan;Kendawangan;KB;1-3-----;RL;901;;0232S 11012E
+ID;KEN;Kenjeran;Kenjeran;JI;--3-----;RL;1501;;0714S 11247E
+ID;KEI;Kepi;Kepi;;---4----;AI;9601;;
+ID;JBB;Keragilan;Keragilan;JB;--3-----;RL;1501;;0608S 10617E
+ID;BTT;Kerawang;Kerawang;JB;--3-----;RL;1501;;0618S 10717E
+ID;KRC;Kerinci;Kerinci;;---4----;AI;1;;
+ID;KBK;Kerobokan;Kerobokan;ST;-----6--;RL;1201;;0100S 12025E
+ID;KTG;Ketapang, Kl;Ketapang, Kl;;1--4----;AI;9506;;
+ID;KID;Kidjang, Bintan;Kidjang, Bintan;;1-------;QQ;8103;;
+ID;KIJ;Kijang;Kijang;;-----6--;RL;901;;0540N 10437E
+ID;KMM;Kimam;Kimam;;---4----;AI;9601;;
+ID;KIS;Kisaran;Kisaran;SA;--3-----;RL;1101;;0259N 09937E
+ID;KLA;Klari;Klari;JB;--3-----;RL;1501;;0619S 10722E
+ID;KLE;Klaten;Klaten;JT;-----6--;RQ;1007;;0742S 11035E
+ID;KL3;Kletek;Kletek;NT;--3-----;RL;1501;;0935S 12456E
+ID;KOJ;Koja;Koja;JB;1-3--6--;RL;407;;0618S 10623E
+ID;KOK;Kokas;Kokas;PB;1-------;RQ;1307;;0242S 13226E
+ID;KOX;Kokonao;Kokonao;;---4----;AI;1;;
+ID;KOL;Kolaka;Kolaka;SG;1-------;RQ;901;;0403S 12134E
+ID;KNL;Kolonodale;Kolonodale;ST;--3-----;RL;401;;0158S 12120E
+ID;KMD;Komodo;Komodo;NT;1-------;RL;1501;;0835S 11930E
+ID;KCI;Kon;Kon;;---4----;AI;1;;
+ID;KOD;Kotabangun;Kotabangun;;---4----;AI;1;;
+ID;KBU;Kotabaru;Kotabaru;;---4----;AI;1;;
+ID;KPN;Kotapinang, Baru;Kotapinang, Baru;;1-------;RQ;8103;;
+ID;KOT;Kotatengah;Kotatengah;LA;--3-----;RL;1501;;0510S 10530E
+ID;KMJ;Kramatjati;Kramatjati;JK;--3-----;RL;1601;;0616S 10652E
+ID;KPK;Krapyak;Krapyak;YO;-23-----;RL;1407;;0744S 11024E
+ID;KGH;Krueng Geukueh;Krueng Geukueh;AC;1-------;RQ;1001;;0515N 09702E
+ID;ENO;Kuala Enok;Kuala Enok;;1-------;RQ;212;;0032S 10324E
+ID;KKA;Kuala Kapuas, Kl;Kuala Kapuas, Kl;;1-------;RQ;9506;;
+ID;KNO;Kuala Namu Intl Apt/Medan;Kuala Namu Intl Apt/Medan;SU;---4----;RL;1307;;0337N 09852E
+ID;KUA;Kualalangsa;Kualalangsa;AC;1-------;RL;212;;0432N 09801E
+ID;KMA;Kualamandah;Kualamandah;RI;--3-----;RL;1601;;0030S 10353E
+ID;KTJ;Kualatanjung;Kualatanjung;SU;1-3-----;RL;407;;0321N 09929E
+ID;KTK;Kualatungkal;Kualatungkal;;--3-----;RL;201;;0048S 10328E
+ID;KUD;Kudus;Kudus;JT;--3-----;RL;1501;;0648S 11050E
+ID;KUG;Kulonprogo;Kulonprogo;JB;--3-----;RL;1501;;0614S 10640E
+ID;KUM;Kumai;Kumai;KT;1-3-----;RL;212;;0244S 11143E
+ID;KKB;Kunak, Borneo;Kunak, Borneo;;1-------;RQ;8103;;
+ID;KUN;Kuningan;Kuningan;JB;--3-----;RL;1601;;0659S 10829E
+ID;KOE;Kupang, Timor;Kupang, Timor;;1--4----;AI;9601;;
+ID;KUT;Kuta;Kuta;BA;-----6--;RQ;1001;;0843S 11511E
+ID;LAA;Labuan;Labuan;SG;--3-----;RL;1501;;0425S 12257E
+ID;LBO;Labuan Bajo;Labuan Bajo;NT;1-3-----;RL;1507;;0830S 11953E
+ID;LBJ;Labuanbajo;Labuanbajo;;--3-----;RL;201;;0003S 12002E
+ID;LAH;Labuha, Molucas;Labuha, Molucas;;1-34----;AI;401;;0037S 12729E
+ID;LAJ;Labuhan;Labuhan;JB;--3-----;RL;401;;0622S 10550E
+ID;LHT;Lahat;Lahat;SS;--3-----;RL;1407;;0348S 10332E
+ID;LAT;Lalang Terminal, St;Lalang Terminal, St;;1-------;RQ;9506;;
+ID;LAM;Lamongan;Lamongan;JI;--3-----;RL;1501;;0707S 11225E
+ID;LUV;Langgur;Langgur;;---4----;AI;9601;;
+ID;LVN;Langsa Venture FPSO;Langsa Venture FPSO;;------7-;RQ;1001;;0519N 09803E
+ID;LAS;Langsa, Sumatra;Langsa, Sumatra;;1-------;QQ;8103;;
+ID;LAP;Lapangan;Lapangan;SA;--3-----;RL;1501;;0132N 12455E
+ID;LKA;Larantuka;Larantuka;;---4----;AI;9601;;
+ID;LRT;Larat;Larat;;--3-----;RL;9805;;
+ID;LWG;Lawang;Lawang;JI;--3-----;RL;1407;;0749S 11242E
+ID;LLA;Lawe-Lawe, Kl;Lawe-Lawe, Kl;;1-------;RQ;9506;;
+ID;LAB;Lemah Abang;Lemah Abang;JB;--3-----;RQ;907;;0613S 10714E
+ID;LHI;Lereh;Lereh;;---4----;AI;1;;
+ID;LEU;Leuwiliang;Leuwiliang;JB;--3-----;RL;1501;;0635N 10637E
+ID;LWE;Lewoleba;Lewoleba;;---4----;AI;1;;
+ID;LSX;Lhok Sukon;Lhok Sukon;;---4----;AI;1;;
+ID;LHK;Lhoknga;Lhoknga;;--3-----;RQ;9506;;
+ID;LSW;Lhokseumawe;Lhokseumawe;AC;1-34----;AI;307;;0510N 09708E
+ID;LIF;Lifamatola;Lifamatola;;1-------;RQ;8103;;
+ID;LIM;Limo;Limo;JB;--3-----;RL;1601;;0621S 10646E
+ID;LGG;Limusnunggal;Limusnunggal;JB;--3-----;RL;1207;;0622S 10658E
+ID;LBM;Lobam;Lobam;;1-3-----;RL;601;;0100N 10416E
+ID;LKI;Loki;Loki;MA;1-------;RQ;901;;0318S 12803E
+ID;LOL;Loli;Loli;NT;--3-----;RQ;901;;0940S 12431E
+ID;LOM;Lombok;Lombok;NB;1-------;RQ;901;;0830S 11640E
+ID;LMB;Lombok Strait;Lombok Strait;;0-------;RQ;9506;;
+ID;LPU;Long Apung;Long Apung;;---4----;AI;1;;
+ID;LBW;Long Bawan;Long Bawan;;---4----;AI;1;;
+ID;LMJ;Lumajang;Lumajang;JI;--3-----;RL;1407;;0808S 11313E
+ID;LYK;Lunyuk;Lunyuk;;---4----;AI;1;;
+ID;LUW;Luwuk;Luwuk;;1--4----;AI;9601;;
+ID;MDI;Madiun;Madiun;JI;--3-----;RL;1501;;0737S 11131E
+ID;MDR;Madura Terminal;Madura Terminal;;1-------;RL;201;;0651S 11257E
+ID;MAG;Magelang;Magelang;JT;--3-----;RL;1307;;0728S 11013E
+ID;MAJ;Majene, Sv;Majene, Sv;;1-------;RQ;9506;;
+ID;MAK;Makassar;Makassar;SN;1-3-----;RL;307;;0507S 11924E
+ID;MLH;Malahayati;Malahayati;AC;--3-----;RL;1407;;0008S 09944E
+ID;MLG;Malang;Malang;;--34----;AI;1;;
+ID;MPT;Maliana;Maliana;;---4----;AI;1;;
+ID;MLI;Malili, Sulawesi;Malili, Sulawesi;;1-------;QQ;8103;;
+ID;MJU;Mamuju;Mamuju;;1--4----;AI;9601;;
+ID;MDC;Manado;Manado;;1--45---;AI;9601;;
+ID;MAD;Manggadua;Manggadua;JK;--3-----;RL;1601;;0608S 10649E
+ID;MAN;Manggar;Manggar;;0-------;RQ;9506;;
+ID;MGB;Manggis;Manggis;BA;1-3-----;RL;401;;0829S 11531E
+ID;MKJ;Mangkajang;Mangkajang;KI;1-------;RL;407;;0208N 11744E
+ID;MAL;Mangole;Mangole;;1--4----;AI;9601;;
+ID;MJY;Mangunjaya;Mangunjaya;;---4----;AI;1;;
+ID;MKW;Manokwari, Irian Jaya;Manokwari, Irian Jaya;;1--4----;AI;9601;;
+ID;MNT;Mantang, Riau;Mantang, Riau;;1-------;QQ;8103;;
+ID;MYR;Manyar;Manyar;JI;-----6--;RL;1107;;0707S 11236E
+ID;MAI;Mapia Island;Mapia Island;PA;1-------;RQ;1501;;0053N 13419E
+ID;MAR;Marabahan;Marabahan;KS;1-------;RQ;901;;0259S 11446E
+ID;MGO;Margomulyo;Margomulyo;SA;--3-----;RL;1501;;0032N 12145E
+ID;MSI;Masalembo;Masalembo;;---4----;AI;1;;
+ID;MXB;Masamba;Masamba;;---4----;AI;9601;;
+ID;MWK;Matak;Matak;;---4----;AI;1;;
+ID;AMI;Mataram;Mataram;;---4----;AI;1;;
+ID;MAU;Mauk;Mauk;JB;--3-----;RL;1601;;0603S 10630E
+ID;MOF;Maumere, Flores;Maumere, Flores;;1--4----;AI;9601;;
+ID;MES;Medan, Sumatra;Medan, Sumatra;;1--45---;AI;9601;;
+ID;MNA;Melonguanne;Melonguanne;;--34----;AI;207;;0400N 12641E
+ID;MTG;Menteng;Menteng;JK;-2------;RL;1301;;0611S 10650E
+ID;MRK;Merak, Java;Merak, Java;;1-------;QQ;8103;;
+ID;MRB;Merantibunting, Sumatra;Merantibunting, Sumatra;;1-------;RQ;8103;;
+ID;MKQ;Merauke, Irian Jaya;Merauke, Irian Jaya;;1--4----;AI;9601;;
+ID;RDE;Merdey;Merdey;;---4----;AI;1;;
+ID;MEQ;Meulaboh, Sumatra;Meulaboh, Sumatra;;1--4----;AI;9601;;
+ID;MDP;Mindiptana;Mindiptana;;---4----;AI;9601;;
+ID;MIT;Misool Terminal;Misool Terminal;PA;1-------;RQ;1501;;0134S 13031E
+ID;ONI;Moanamani;Moanamani;;---4----;AI;9601;;
+ID;MJT;Mojokerto;Mojokerto;JI;--3--6--;RQ;1001;;0728S 11226E
+ID;MJI;Mojosari;Mojosari;JI;-23-----;RL;1407;;0731S 11233E
+ID;MOR;Mornopo;Mornopo;MA;1-------;RQ;901;;0047N 12813E
+ID;OZI;Morotai I;Morotai I;;---4----;AI;1;;
+ID;MOW;Morowali;Morowali;ST;1-------;RQ;1007;;0152S 12130E
+ID;MBK;Muara Bangkong;Muara Bangkong;RI;1-------;RQ;901;;0024N 10347E
+ID;MUB;Muara Berau;Muara Berau;;1-------;RQ;8103;;
+ID;MUD;Muara Djawa;Muara Djawa;;1-------;RQ;8103;;
+ID;MPN;Muara Pantai;Muara Pantai;;1-------;RL;1107;;
+ID;MUP;Muara Pegah;Muara Pegah;;1-------;RQ;8103;;
+ID;MSK;Muara Sabak;Muara Sabak;RI;1-------;RQ;1001;;0048S 10355E
+ID;MSB;Muara Siberut;Muara Siberut;SB;1-------;RQ;901;;0135S 09912E
+ID;MUW;Muara Teweh;Muara Teweh;KT;1-3-----;RQ;1001;;5658S 11454E
+ID;MU9;Muarabungo;Muarabungo;JA;-2------;RL;1301;;0128S 10207E
+ID;MPC;Muko-Muko;Muko-Muko;;---4----;AI;1;;
+ID;LII;Mulia;Mulia;;---4----;AI;9601;;
+ID;MUO;Muntok, Banka;Muntok, Banka;;1-------;QQ;8103;;
+ID;MRI;Musi River, Sumatra;Musi River, Sumatra;;1-------;RQ;9506;;
+ID;MUF;Muting;Muting;;---4----;AI;9601;;
+ID;MTU;Muturi;Muturi;;1-------;RQ;8103;;
+ID;NBX;Nabire;Nabire;;---4----;AI;9601;;
+ID;NGK;Nagrak;Nagrak;JB;-----6--;RL;1107;;0704S 10732E
+ID;NAH;Naha;Naha;;---4----;AI;9601;;
+ID;NAM;Namlea;Namlea;MA;---4----;AI;1601;;0318S 12706E
+ID;NRE;Namrole;Namrole;;---4----;AI;1;;
+ID;NPO;Nangapinoh;Nangapinoh;;---4----;AI;1;;
+ID;NAR;Narogong;Narogong;JB;--3-----;RL;1601;;0626S 10655E
+ID;NTX;Natuna Ranai;Natuna Ranai;;---4----;AI;1;;
+ID;NEG;Negara;Negara;BA;--3-----;RL;1401;;0822S 11437E
+ID;CTO;New Priok Port;New Priok Port;JK;1----6--;RL;1601;;0605S 10655E
+ID;NGW;Ngawi;Ngawi;JI;--3-----;RL;1501;;0724S 11126E
+ID;NIP;Nipah;Nipah;RI;1-------;AA;1301;;0107N 10333E
+ID;NPL;North Pulau Laut;North Pulau Laut;;1-------;RQ;212;;0313S 11616E
+ID;FOO;Numfoor;Numfoor;;---4----;AI;9601;;
+ID;NNX;Nunukan;Nunukan;;1--4----;AI;9601;;
+ID;NYA;Nyamplungan;Nyamplungan;YO;--3-----;RL;1301;;0749S 11023E
+ID;OBD;Obano;Obano;;---4----;AI;1;;
+ID;OBI;Obi Island;Obi Island;;1-------;RQ;9506;;
+ID;OKQ;Okaba, Irian Jaya;Okaba, Irian Jaya;;---4----;QQ;8103;;
+ID;OKL;Oksibil;Oksibil;;---4----;AI;1;;
+ID;OJA;Olah Jasa Andal/Jakarta;Olah Jasa Andal/Jakarta;JK;1-------;RQ;407;;
+ID;OLO;Olee Lheue;Olee Lheue;;1-------;QQ;8103;;
+ID;ORA;Oransbari;Oransbari;PB;-23-----;RL;1307;;0121S 13416E
+ID;OYO;Oyong;Oyong;;------7-;RL;1107;;0717S 11244E
+ID;PBR;Pabuaran;Pabuaran;JB;--3-----;RL;1101;;0620S 10702E
+ID;PAC;Paciran;Paciran;JI;--3-----;RL;1501;;0652S 11220E
+ID;PDL;Padalarang;Padalarang;JB;--3-----;RL;1501;;0650S 10729E
+ID;PDG;Padang;Padang;SB;1234----;AI;501;;0057S 10021E
+ID;PAG;Pagatan, Kalimantan;Pagatan, Kalimantan;;1-------;QQ;8103;;
+ID;PGA;Pagerungan;Pagerungan;;1-----7-;RQ;401;;0655S 11555E
+ID;PGM;Pagimana;Pagimana;ST;1-------;RQ;901;;0048S 12237E
+ID;PAI;Paiton;Paiton;;--3-----;RL;401;;0743S 11330E
+ID;PLG;Palang;Palang;JT;--3-----;RL;1501;;0654S 11208E
+ID;PKY;Palangkaraya;Palangkaraya;;---4----;AI;1;;
+ID;PPO;Palapo, Sulawesi;Palapo, Sulawesi;;1-------;RL;401;;0305S 12014E
+ID;PLM;Palembang, Sumatra;Palembang, Sumatra;;1--4----;AI;9601;;
+ID;PBW;Palibelo;Palibelo;;---4----;AI;1;;
+ID;PMH;Palmerah;Palmerah;JK;-----6--;RQ;1007;;0611S 10647E
+ID;PAL;Palu;Palu;;1-3-----;RL;105;;0053S 11951E
+ID;PNN;Pamanukan, Java;Pamanukan, Java;;1-------;QQ;8103;;
+ID;PKK;Panakukang;Panakukang;SN;-----6--;RL;1107;;0511S 11923E
+ID;PRN;Panarukan, Java;Panarukan, Java;;1-------;QQ;8103;;
+ID;PJM;Pandjung Mani;Pandjung Mani;;1-------;RQ;8103;;
+ID;PGX;Pangkal Balam, Banka;Pangkal Balam, Banka;;1-------;QQ;8103;;
+ID;PKR;Pangkalan Brandan, Sumatra;Pangkalan Brandan, Sumatra;;1-------;QQ;8103;;
+ID;PKS;Pangkalan Susu, Sumatra;Pangkalan Susu, Sumatra;;1-------;QQ;8103;;
+ID;PKN;Pangkalanbuun;Pangkalanbuun;;1--4----;AI;9601;;
+ID;PGK;Pangkalpinang, Banka;Pangkalpinang, Banka;;1-------;QQ;8103;;
+ID;PNJ;Panjang;Panjang;;1-------;RQ;9506;;
+ID;PJG;Panjang (Lampung, Sumatra);Panjang (Lampung, Sumatra);;-2------;RQ;9506;;
+ID;PTL;Pantoloan, Sv;Pantoloan, Sv;;1-------;RQ;9506;;
+ID;PAP;Pare Pare;Pare Pare;;0-------;RQ;9506;;
+ID;PRG;Parung;Parung;JB;--3-----;RL;1501;;0619S 10658E
+ID;PKM;Pasar Kemis;Pasar Kemis;JB;--3-----;RL;1501;;0610S 10631E
+ID;PRB;Pasar Rebo;Pasar Rebo;JB;-----6--;RL;1501;;0624S 10644E
+ID;PSG;Pasarminggu;Pasarminggu;JB;--3-----;RL;1101;;0611S 10643E
+ID;PPR;Pasir Pangarayan;Pasir Pangarayan;;---4----;RQ;901;;0049N 10022E
+ID;PAS;Pasir Panjang;Pasir Panjang;;1-------;QQ;8103;;
+ID;PAZ;Pasuruan, Java;Pasuruan, Java;;123-----;RL;207;;0738S 11254E
+ID;PAT;Pati;Pati;JT;--3-----;RL;1501;;0645S 11101E
+ID;PJL;Pejagalan;Pejagalan;;-----6--;RL;1107;;0608S 10648E
+ID;PEX;Pekalongan, Java;Pekalongan, Java;;1-------;QQ;8103;;
+ID;PKU;Pekanbaru, Sumatra;Pekanbaru, Sumatra;;---4----;QQ;8103;;
+ID;PBB;Pelabuhan Badas;Pelabuhan Badas;NB;1-------;RL;1507;;0827S 11722E
+ID;FTG;Pelabuhan Futong Terminal;Pelabuhan Futong Terminal;RI;1-------;RQ;1501;;0049N 10224E
+ID;PLN;Pelawan;Pelawan;SS;-----6--;RQ;1001;;0222S 10241E
+ID;PML;Pemalang;Pemalang;JT;--3-----;RQ;907;;0654S 10922E
+ID;PEM;Pemangkat, Kl;Pemangkat, Kl;;0-------;RQ;9506;;
+ID;PMT;Pematangsiantar;Pematangsiantar;SU;--3-----;RL;1101;;0257N 09903E
+ID;PDO;Pendopo;Pendopo;;---4----;AI;1;;
+ID;PEN;Penjaringan;Penjaringan;JK;--3-----;RL;1601;;0607S 10647E
+ID;PNG;Penuba;Penuba;;1-------;RQ;9506;;
+ID;PER;Perawang;Perawang;RI;1-3-----;RL;1307;;0104N 10252E
+ID;PWG;Perawang;Perawang;RI;1-3-----;RL;1307;;0038N 10137E
+ID;PBG;Perbaungan;Perbaungan;SU;--3-----;RL;901;;0334N 09857E
+ID;PIR;Piru;Piru;MA;1-------;RQ;901;;0304S 12811E
+ID;PLA;Plaju, Sumatra;Plaju, Sumatra;;1-3-----;RL;207;;0259S 10448E
+ID;PED;Plered;Plered;JB;--3-----;RL;1501;;0613S 10642E
+ID;PLP;Plumpang;Plumpang;JI;--3-----;RL;1601;;0701S 11205E
+ID;PMD;Podomoro;Podomoro;SN;--3-----;RL;1501;;0235S 12100E
+ID;POL;Poleng;Poleng;;------7-;RQ;1001;;0639S 11255E
+ID;PMK;Pomako;Pomako;PA;1-------;RQ;1501;;0448S 13646E
+ID;PUM;Pomalaa, Sulawesi;Pomalaa, Sulawesi;;1-34----;AI;207;;0402S 12135E
+ID;PST;Pomposa;Pomposa;ST;--3-----;RL;1501;;0124S 12042E
+ID;PCB;Pondok Cabe;Pondok Cabe;;---4----;AI;1;;
+ID;PON;Ponorogo;Ponorogo;JI;--3-----;RQ;907;;0752S 11127E
+ID;PNK;Pontianak, Kalimantan;Pontianak, Kalimantan;;1--45---;AI;9601;;
+ID;PRS;Porsea;Porsea;SU;--3-----;RL;1401;;0227N 09909E
+ID;PMG;Port Meneng;Port Meneng;;1-------;QQ;8103;;
+ID;PTO;Port Okha;Port Okha;;0-------;RQ;9012;;
+ID;SGO;Port Segoro Fajar Satryo/Jakarta;Port Segoro Fajar Satryo/Jakarta;JK;1-------;RQ;407;;
+ID;PSJ;Poso, Sulawesi;Poso, Sulawesi;;1--4----;AI;9601;;
+ID;POT;Poto Tano;Poto Tano;NB;1-------;RQ;901;;0831S 11650E
+ID;PRO;Probolinggo, Java;Probolinggo, Java;;1-------;QQ;8103;;
+ID;PNT;Prointal, Jv;Prointal, Jv;;1-------;RQ;9506;;
+ID;PPS;Pulangpisau;Pulangpisau;;1-------;RQ;8103;;
+ID;PBJ;Pulau Bunyu;Pulau Bunyu;;1-3-----;RL;401;;0018S 11552E
+ID;PUT;Pulau Laut;Pulau Laut;;1-------;RL;201;;0317S 11609E
+ID;NIA;Pulau Nias;Pulau Nias;;--3-----;RQ;1001;;0106N 09732E
+ID;PPJ;Pulau Panjang;Pulau Panjang;;---4----;AI;1;;
+ID;PSS;Pulau Sambu, Riau;Pulau Sambu, Riau;;1-------;QQ;8103;;
+ID;PUG;Pulo Gadung;Pulo Gadung;JK;--3-----;RQ;907;;0611S 10654E
+ID;PUB;Purbalingga;Purbalingga;JT;--3-----;RL;1501;;0654S 10922E
+ID;PUR;Purwakarta;Purwakarta;JB;--3-----;RL;401;;0633S 10726E
+ID;PWL;Purwokerto;Purwokerto;;---4----;AI;1;;
+ID;PUW;Purworejo;Purworejo;JT;--3-----;RL;1501;;0743S 11001E
+ID;PWI;Purwosari;Purwosari;JI;-----6--;RL;1107;;0746S 11244E
+ID;PSU;Putussibau;Putussibau;;---4----;AI;1;;
+ID;RAQ;Raha;Raha;;---4----;AI;9601;;
+ID;RJL;Rajawali;Rajawali;SG;--3-----;RL;1501;;0407S 12230E
+ID;RNI;Ranai;Ranai;RI;1-------;RL;401;;0355N 10823E
+ID;RAN;Rancaekek;Rancaekek;JB;--3-----;RL;1601;;0657S 10746E
+ID;RGG;Rangkasbitung;Rangkasbitung;JB;--3-----;RL;1601;;0621S 10614E
+ID;RSK;Ransiki;Ransiki;;---4----;AI;1;;
+ID;REM;Rembang;Rembang;;0-------;RQ;9506;;
+ID;RDK;Rengasdengklok;Rengasdengklok;JB;--3-----;RL;1501;;0608S 10716E
+ID;RGT;Rengat, Sumatra;Rengat, Sumatra;;1--4----;AI;9601;;
+ID;REO;Reo;Reo;NT;1-------;RQ;901;;0819S 12030E
+ID;RAU;Riau;Riau;RI;--3-----;RL;1101;;0047N 10433E
+ID;RKI;Rokot;Rokot;;---4----;AI;1;;
+ID;RTI;Roti;Roti;;---4----;AI;1;;
+ID;RUN;Rungkut;Rungkut;JI;--3-----;RL;901;;0719S 11246E
+ID;RTG;Ruteng, Flores;Ruteng, Flores;;---4----;QQ;8103;;
+ID;SBG;Sabang, Sumatra;Sabang, Sumatra;;1-------;QQ;8103;;
+ID;SDG;Sadang;Sadang;JB;--3-----;RL;1501;;0711S 10758E
+ID;SAD;Sadau, Borneo;Sadau, Borneo;;1-------;RQ;8103;;
+ID;STG;Salatiga;Salatiga;JT;--3-----;RL;1101;;0719S 11029E
+ID;SWT;Salawati Terminal;Salawati Terminal;PB;1-------;RQ;1501;;0121S 13100E
+ID;SRI;Samarinda, Kalimantan;Samarinda, Kalimantan;;1--4----;AI;9601;;
+ID;SBS;Sambas, Kalimantan;Sambas, Kalimantan;;1-------;QQ;8103;;
+ID;SMQ;Sampit, Kalimantan;Sampit, Kalimantan;;1--4----;AI;9601;;
+ID;SQN;Sanana;Sanana;;---4----;AI;1;;
+ID;SAN;Sanang, Celebes;Sanang, Celebes;;1-------;RQ;8103;;
+ID;SGQ;Sanggata;Sanggata;;---4----;AI;1;;
+ID;SGU;Sanggau;Sanggau;KB;1-------;RQ;901;;0007N 11036E
+ID;SAE;Sangir;Sangir;;---4----;AI;1;;
+ID;SKI;Sangkulirang, Kalimantan;Sangkulirang, Kalimantan;;1-------;QQ;8103;;
+ID;SAT;Santan Terminal, Kl;Santan Terminal, Kl;;1-------;RQ;9506;;
+ID;SAP;Sape;Sape;NB;1-3-----;RL;1507;;0834S 11859E
+ID;ZRM;Sarmi;Sarmi;;---4----;RQ;901;;0115S 13845E
+ID;SAS;Sasayap;Sasayap;;1-------;RQ;8103;;
+ID;STU;Satui;Satui;;1-------;RL;9811;;
+ID;SXK;Saumlaki;Saumlaki;;---4----;AI;1;;
+ID;ISO;Sawahlunto;Sawahlunto;SB;-----6--;RL;901;;0040S 10047E
+ID;SAU;Sawu;Sawu;;---4----;AI;1;;
+ID;SEB;Sebangan Bay, Kalimantan;Sebangan Bay, Kalimantan;;1-------;QQ;8103;;
+ID;SEI;Sebuku Island;Sebuku Island;KS;-----6--;RQ;1001;;0330S 11622E
+ID;SKP;Sekupang;Sekupang;RI;1-3-----;RL;401;;0108N 10356E
+ID;SPA;Selat Pandjang, Sumatra;Selat Pandjang, Sumatra;;1-------;QQ;8103;;
+ID;SMB;Semangka Bay, St;Semangka Bay, St;;1-------;RQ;9506;;
+ID;SRG;Semarang;Semarang;JT;1-345---;AI;907;;0658S 11029E
+ID;SMP;Semper;Semper;JI;--3-----;RL;1501;;0607S 10655E
+ID;SEY;Senayan;Senayan;JK;--3-----;RL;1601;;0613S 10648E
+ID;SEH;Senggeh;Senggeh;;---4----;AI;1;;
+ID;ZEG;Senggo;Senggo;;---4----;AI;1;;
+ID;SZH;Senipah;Senipah;KI;1---5---;AI;501;;0057S 11709E
+ID;SPH;Senipah Terminal;Senipah Terminal;;1-------;RQ;9506;;
+ID;SEN;Sentul;Sentul;JB;--3-----;RL;1401;;0623S 10656E
+ID;SEP;Sepanjang Terminal;Sepanjang Terminal;;1-------;RQ;1001;;0711S 11547E
+ID;SER;Serang;Serang;;--3-----;RQ;101;;
+ID;SSN;Serdang;Serdang;SS;-----6--;RL;1201;;0250S 10627E
+ID;SPG;Serpong;Serpong;JB;--3-----;RL;1501;;0619S 10639E
+ID;ZRI;Serui, Irian Jaya;Serui, Irian Jaya;;---4----;QQ;8103;;
+ID;STN;Setagin;Setagin;;1-------;RL;1201;;0317S 11610E
+ID;STD;Setiabudi;Setiabudi;JB;--3-----;RL;1207;;0612S 10649E
+ID;SSI;Siak Sri Indrapura;Siak Sri Indrapura;;--3-----;RL;201;;0046N 10204E
+ID;SIA;Siak Yechil, Riau;Siak Yechil, Riau;;1-------;QQ;8103;;
+ID;STR;Siantar;Siantar;SU;--3-----;RL;1101;;0158N 09847E
+ID;SIW;Sibisa;Sibisa;;---4----;AI;1;;
+ID;SLG;Sibolga, Sumatra;Sibolga, Sumatra;;1-------;QQ;8103;;
+ID;SID;Sidangoli;Sidangoli;MU;1-3-----;RL;1501;;0054N 12729E
+ID;SDK;Sidikalang;Sidikalang;SU;--3-----;RL;1401;;0245N 09819E
+ID;SDJ;Sidoarjo;Sidoarjo;JI;1-------;RQ;901;;
+ID;SNG;Sinabang;Sinabang;;1-3-----;RL;9805;;
+ID;NKD;Sinak;Sinak;;---4----;AI;1;;
+ID;SKW;Singkawang, Kalimantan;Singkawang, Kalimantan;;1-------;QQ;8103;;
+ID;SIQ;Singkep Isl Apt;Singkep Isl Apt;;---4----;QQ;307;;
+ID;SIN;Singosari;Singosari;JI;--3-----;RL;1501;;0753S 11241E
+ID;SQG;Sintang;Sintang;;---4----;AI;1;;
+ID;RKO;Sipora;Sipora;;---4----;AI;1;;
+ID;SLE;Sleman;Sleman;YO;--3-----;RL;1307;;0742S 11020E
+ID;SLP;Slipi;Slipi;JB;--3-----;RL;1207;;0611N 10647E
+ID;CGK;Soekarno-Hatta Apt/Jakarta;Soekarno-Hatta Apt/Jakarta;;---4----;AI;9601;;
+ID;SKK;Soengei Kolak;Soengei Kolak;;1-------;RQ;8103;;
+ID;SOC;Solo City;Solo City;;---4----;AI;9601;;
+ID;SQR;Soroako;Soroako;;---4----;AI;9601;;
+ID;SOQ;Sorong;Sorong;;1--4----;AI;9601;;
+ID;SRN;Sragen;Sragen;JT;-----6--;RL;1507;;0726S 11102E
+ID;ZKL;Steenkool;Steenkool;;---4----;AI;9601;;
+ID;SUA;Suaran;Suaran;KI;1-------;RQ;901;;0203N 11742E
+ID;SBM;Subaim;Subaim;MA;1-------;RQ;901;;0107N 12810E
+ID;SBN;Subang;Subang;JB;--3-----;RL;1501;;0633S 10745E
+ID;SUK;Sukabumi;Sukabumi;;1-------;RQ;1001;;6551S 10655E
+ID;SKN;Sukatani;Sukatani;JB;--3-----;RL;1101;;0624S 10751E
+ID;SKD;Sukodono;Sukodono;JI;--3-----;RL;1101;;0806S 11314E
+ID;SUO;Sukoharjo;Sukoharjo;JT;-----6--;RQ;1001;;0741S 11050E
+ID;SKO;Sukolilo;Sukolilo;JI;--3-----;RL;1501;;0757S 11245E
+ID;TRA;Sumatra;Sumatra;;-----6--;RL;1201;;0000N 10200E
+ID;SWQ;Sumbawa;Sumbawa;;1--4----;AI;9601;;
+ID;SUM;Sumenep;Sumenep;JI;1-------;RQ;1501;;0703S 11357E
+ID;SUP;Sumenep, Madura;Sumenep, Madura;;1--4----;AI;9601;;
+ID;SKL;Sundakelapa;Sundakelapa;JK;--3-----;RL;1601;;0606S 10647E
+ID;SUG;Sungai Gerong, Sumatra;Sungai Gerong, Sumatra;;1-------;QQ;8103;;
+ID;SUQ;Sungai Guntung, Sumatra;Sungai Guntung, Sumatra;;1-------;QQ;8103;;
+ID;SEQ;Sungai Pakning, Sumatra;Sungai Pakning, Sumatra;;1--4----;AI;9601;;
+ID;SUT;Sunter;Sunter;JK;--3-----;RQ;907;;0608S 10651E
+ID;SUN;Sunut;Sunut;NB;1-------;RQ;901;;0852S 11633E
+ID;SUB;Surabaya;Surabaya;JI;123456--;AI;407;;0714S 11245E
+ID;SKT;Surakarta;Surakarta;;--3-----;RL;201;;0734S 11049E
+ID;SUS;Susoh, Sumatra;Susoh, Sumatra;;1-------;QQ;8103;;
+ID;SSO;Susu;Susu;;1-------;RQ;9506;;
+ID;TAB;Taboneo;Taboneo;KS;1-------;RQ;401;;0341S 11425E
+ID;TKN;Takengon;Takengon;AC;--3-----;RL;1101;;0438N 09650E
+ID;TAX;Taliabu Island Apt, Moluccas;Taliabu Island Apt, Moluccas;;1--4----;AI;307;;
+ID;TMC;Tambolaka;Tambolaka;;---4----;AI;1;;
+ID;TMB;Tambora;Tambora;JK;--3-----;RL;1101;;0608S 10648E
+ID;TAM;Tambun;Tambun;JB;--3-----;RQ;907;;0614S 10656E
+ID;TTR;Tana Toraja;Tana Toraja;;---4----;AI;1;;
+ID;TNB;Tanah Grogot;Tanah Grogot;;---4----;AI;1;;
+ID;TAL;Tanah Laut;Tanah Laut;KS;1-------;RQ;1501;;
+ID;TNN;Tanahabang;Tanahabang;JB;--3-----;RL;1101;;0611S 10648E
+ID;TNK;Tanahkuning;Tanahkuning;KI;--3-----;RL;1407;;0237N 11747E
+ID;TMH;Tanahmerah, Kalimantan;Tanahmerah, Kalimantan;;---4----;QQ;8103;;
+ID;TND;Tandes;Tandes;JI;--3-----;RL;1501;;0708S 11255E
+ID;PDJ;Tandjang;Tandjang;;1-------;QQ;8103;;
+ID;TBT;Tandjung Batu, Riau;Tandjung Batu, Riau;;1-------;QQ;8103;;
+ID;TRG;Tangerang;Tangerang;BT;--3-----;RL;1307;;0610S 10637E
+ID;TBA;Tanjung Bara, Kl;Tanjung Bara, Kl;;0-------;RQ;9506;;
+ID;TBU;Tanjung Buli;Tanjung Buli;MA;1-------;RQ;901;;0050N 12815E
+ID;TME;Tanjung Merangas;Tanjung Merangas;KI;1-------;RQ;901;;0002N 11731E
+ID;TJQ;Tanjung Pandan;Tanjung Pandan;SS;1-34----;AI;507;;0245S 10739E
+ID;TPN;Tanjung Pemancingan;Tanjung Pemancingan;KS;1-------;RQ;407;;0311S 11616E
+ID;TPP;Tanjung Priok;Tanjung Priok;JK;--3-----;RL;1601;;0606S 10653E
+ID;TSX;Tanjung Santan;Tanjung Santan;;---4----;AI;1;;
+ID;TSE;Tanjung Sekong, Jv;Tanjung Sekong, Jv;;1-------;RQ;9506;;
+ID;TJS;Tanjung Selor;Tanjung Selor;;---4----;AI;1;;
+ID;ITN;Tanjung Uban;Tanjung Uban;RI;-----6--;RL;901;;0103S 10414E
+ID;TJG;Tanjung Warukin;Tanjung Warukin;;---4----;AI;1;;
+ID;TJB;Tanjungbalai;Tanjungbalai;KR;1--45---;RL;1601;;0100N 10326E
+ID;TJT;Tanjungbatu;Tanjungbatu;KI;--3-----;RL;1407;;0217N 11805E
+ID;TMJ;Tanjungmorawa;Tanjungmorawa;SU;--3-----;RL;907;;0331N 09849E
+ID;TNJ;Tanjungpinang;Tanjungpinang;KR;1--4----;AI;1601;;0055N 10427E
+ID;TAN;Tanjunguban;Tanjunguban;;1-3-----;RL;401;;0103N 10414E
+ID;TPK;Tapaktuan, Sumatra;Tapaktuan, Sumatra;;---4----;QQ;8103;;
+ID;TRH;Tarahan;Tarahan;LA;1-3-----;RL;401;;0534S 10522E
+ID;TRK;Tarakan, Kalimantan;Tarakan, Kalimantan;;1-------;QQ;8103;;
+ID;TAR;Tarjun;Tarjun;KS;1-------;RQ;212;;0316S 11605E
+ID;TRT;Tarutung;Tarutung;SA;--3-----;RL;1407;;0201N 09858E
+ID;TSY;Tasikmalaya;Tasikmalaya;;---4----;AI;1;;
+ID;TWG;Tawangsari;Tawangsari;JT;-----6--;RL;1107;;0717S 11033E
+ID;TTI;Tebingtinggi;Tebingtinggi;;--3-----;RL;307;;
+ID;TEG;Tegal, Java;Tegal, Java;;1-------;QQ;8103;;
+ID;TGL;Tegalalur;Tegalalur;JB;--3-----;RL;1601;;0606S 10642E
+ID;TKA;Telok Ayer, Kalimantan;Telok Ayer, Kalimantan;;1-------;QQ;8103;;
+ID;TMO;Telok Melano;Telok Melano;;1-------;QQ;8103;;
+ID;TBG;Teluk Betung, Sumatra;Teluk Betung, Sumatra;;1-------;QQ;8103;;
+ID;TBR;Telukbayur;Telukbayur;SB;1-3-----;RL;501;;0100S 10022E
+ID;MGG;Temanggung;Temanggung;JT;-----6--;RL;1601;;0718S 11010E
+ID;TIM;Tembagapura;Tembagapura;;---4----;AI;1;;
+ID;TXM;Teminabuan;Teminabuan;;---4----;AI;1;;
+ID;TRS;Teras;Teras;JT;--3-----;RL;1307;;0732S 11039E
+ID;TER;Terempa;Terempa;RI;1-------;RQ;901;;0313N 10613E
+ID;TTE;Ternate, Halmahera;Ternate, Halmahera;;1--4----;AI;9601;;
+ID;TMK;Timika;Timika;PA;1-------;RQ;1307;;0445S 13633E
+ID;TMY;Tiom;Tiom;;---4----;AI;1;;
+ID;TBO;Tobelo;Tobelo;;1-------;RL;9811;;
+ID;TBL;Toboali;Toboali;SS;1-------;RL;1307;;0300S 10630E
+ID;TLI;Tolitoli;Tolitoli;;1--4----;AI;9601;;
+ID;TRO;Trosobo;Trosobo;JI;--3-----;RL;1501;;0722S 11238E
+ID;TUA;Tual;Tual;MA;1-------;RQ;901;;0538S 13244E
+ID;TBN;Tuban, Jv;Tuban, Jv;;1-------;RQ;9506;;
+ID;TLU;Tulungagung;Tulungagung;JI;-23-----;RL;1501;;0840S 11154E
+ID;TBM;Tumbang Samba;Tumbang Samba;;---4----;AI;1;;
+ID;UBR;Ubrub;Ubrub;;---4----;AI;1;;
+ID;UBG;Ubrug;Ubrug;JB;--3-----;RL;1301;;0657S 10644E
+ID;UDG;Udang Natuna Terminal;Udang Natuna Terminal;;1-------;RL;1307;;0401N 10628E
+ID;UPG;Ujung Pandang, Sulawesi;Ujung Pandang, Sulawesi;;1--45---;AI;9601;;
+ID;WET;Wagethe;Wagethe;;---4----;AI;9601;;
+ID;WBA;Wahai;Wahai;;---4----;AI;1;;
+ID;WGP;Waingapu, Sumba;Waingapu, Sumba;NT;1--4----;AI;1601;;0939S 12016E
+ID;WAI;Wainibe;Wainibe;MA;1-------;RQ;901;;0304S 12632E
+ID;6DI;Wajo;Wajo;SN;--3-----;RL;1507;;0406S 12007E
+ID;WMX;Wamena;Wamena;;---4----;AI;9601;;
+ID;WSS;Wamsasi;Wamsasi;MA;1-------;RQ;901;;0334S 12610E
+ID;WAH;Wanaherang;Wanaherang;JB;--3-----;RL;1601;;0625S 10656E
+ID;WAN;Wanam;Wanam;PB;1-------;RQ;1501;;0733S 13906E
+ID;WAR;Waris;Waris;;---4----;AI;1;;
+ID;WRU;Waru;Waru;JB;--3-----;RL;1501;;0611S 10624E
+ID;WNG;Warunggunung;Warunggunung;JB;--3-----;RL;1501;;0620S 10611E
+ID;WJB;Warungjambu;Warungjambu;JB;--3-----;RL;1601;;0628S 10647E
+ID;WSR;Wasior;Wasior;;---4----;AI;1;;
+ID;WED;Weda;Weda;MA;1-------;RQ;901;;0020N 12753E
+ID;WID;Widuri;Widuri;;------7-;RQ;1001;;0440S 10639E
+ID;WNR;Wonogiri;Wonogiri;JT;--3-----;RL;1501;;0749S 11055E
+ID;WON;Wonosari;Wonosari;;--3-----;RQ;101;;
+ID;WNB;Wonosobo;Wonosobo;JT;-----6--;RL;1501;;0722S 10954E
+ID;WRI;Wringinanom;Wringinanom;JI;--3-----;RL;1501;;0723S 11231E
+ID;JOG;Yogyakarta;Yogyakarta;YO;-234-6--;AI;1101;;0748S 11022E
+ID;RUF;Yuruf;Yuruf;;---4----;AI;1;;
+ID;UGU;Zugapa;Zugapa;;---4----;AI;1;;

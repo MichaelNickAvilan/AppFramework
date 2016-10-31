@@ -1,0 +1,138 @@
+PE;AB4;Abancay;Abancay;APU;-23-----;RL;1307;;1338S 07252W
+PE;ACA;Acarí;Acari;ARE;--3-----;RL;1601;;1525S 07436W
+PE;ALD;Alerta;Alerta;;---4----;AI;1;;
+PE;ANC;Ancón;Ancon;LIM;1-------;RL;212;;1146S 07710W
+PE;ANS;Andahuaylas;Andahuaylas;;---4----;AI;9601;;
+PE;ANG;Angamos;Angamos;UCA;--3-----;RL;1301;;0825S 07429W
+PE;ATA;Anta;Anta;;---4----;AI;9601;;
+PE;AQP;Arequipa;Arequipa;;---4----;AI;9601;;
+PE;ARI;Arica;Arica;;--3-----;RQ;607;;1532S 07308W
+PE;ATI;Atico;Atico;;1-------;QQ;8103;;
+PE;AYP;Ayacucho;Ayacucho;;---4----;AI;9601;;
+PE;BAA;Barranca;Barranca;LIM;--3-----;RL;1301;;1045S 07746W
+PE;PUB;Bayovar;Bayovar;PIU;1-------;RL;212;;0551S 08104W
+PE;BLP;Bellavista;Bellavista;;---4----;AI;1;;
+PE;CAB;Cabo Blanco;Cabo Blanco;;1-------;AI;9401;;
+PE;CAI;Cailloma;Cailloma;ARE;-----6--;RL;1107;;1511S 07146W
+PE;CJA;Cajamarca;Cajamarca;;---4----;AI;9601;;
+PE;CLL;Callao;Callao;;1-------;AI;9401;;
+PE;L8M;Carabayllo;Carabayllo;LIM;--3-----;RL;1501;;1151S 07702W
+PE;CHZ;Carhuaz;Carhuaz;ANC;--3-----;RL;1507;;0916S 07738W
+PE;CDL;Carmen de la Legua;Carmen de la Legua;CAL;--3-----;RL;1301;;1202S 07705W
+PE;CAS;Casma;Casma;ANC;--3-----;RL;501;;0928S 07819W
+PE;CRZ;Cerro Azul;Cerro Azul;LIM;--3-----;RL;212;;1301S 07629W
+PE;PSC;Cerro de Pasco;Cerro de Pasco;PAS;-----6--;RL;1201;;1041S 07616W
+PE;CHH;Chachapoyas;Chachapoyas;;---4----;AI;1;;
+PE;CHN;Chancán;Chancan;;--3-----;RL;201;;1612S 07229W
+PE;CHY;Chancay;Chancay;;1-------;AI;9401;;
+PE;CHA;Chanchamayo;Chanchamayo;ICA;-----6--;RQ;1001;;1342S 07548W
+PE;CHE;Chepen;Chepen;LAL;-23-----;RL;1501;;0713S 07927W
+PE;CIX;Chiclayo;Chiclayo;;---4----;AI;9601;;
+PE;CHM;Chimbote;Chimbote;;1--4----;AI;9601;;
+PE;CHI;Chincha;Chincha;;--3-----;RQ;607;;1719S 07100W
+PE;CAA;Chincha Alta;Chincha Alta;ICA;-----6--;RL;1201;;1327S 07608W
+PE;CBJ;Chincha Baja;Chincha Baja;ICA;-----6--;RL;1107;;1328S 07610W
+PE;CHO;Chorillos;Chorillos;LIM;--3-----;RL;1501;;1210S 07702W
+PE;COM;Comas;Comas;LIM;--3-----;RL;1501;;1157S 07704W
+PE;CON;Conchán;Conchan;;1-3--6--;RL;701;;0625S 07840W
+PE;ULY;Coronel Portillo;Coronel Portillo;LOR;--3-----;RL;1207;;0315S 07636W
+PE;CUZ;Cuzco;Cuzco;CUS;--34----;AI;1101;;1332S 07159W
+PE;EEN;Etén;Eten;;1-------;AI;9401;;
+PE;GSM;General San Martin;General San Martin;;1-------;AI;9401;;
+PE;GDP;Guadalupe;Guadalupe;LAL;--3-----;RL;1507;;0715S 07929W
+PE;HCO;Huacho;Huacho;;1-------;AI;9401;;
+PE;HUN;Huancavelica;Huancavelica;HUV;--3-----;RL;901;;1246S 07459W
+PE;JHY;Huancayo;Huancayo;JUN;--3-----;RL;1301;;1204S 07514W
+PE;HUU;Huanuco;Huanuco;;---4----;AI;9601;;
+PE;HUA;Huaral;Huaral;LIM;-23-----;RL;507;;1129S 07712W
+PE;HUZ;Huaraz;Huaraz;;--3-----;RL;201;;0932S 07732W
+PE;HUY;Huarmey;Huarmey;;1-------;QQ;8103;;
+PE;IBP;Iberia;Iberia;;---4----;AI;1;;
+PE;ICA;Ica;Ica;ICA;--3-----;RL;501;;1404S 07543W
+PE;ILQ;Ilo;Ilo;;1--4----;AI;9601;;
+PE;IQT;Iquitos;Iquitos;;1--4----;AI;9601;;
+PE;JAE;Jaén;Jaen;;--3-----;RL;201;;0543S 07849W
+PE;JAU;Jauja;Jauja;;---4----;AI;1;;
+PE;JJI;Juanjuí;Juanjui;SAM;---4----;AI;212;;0711S 07645W
+PE;JUL;Juliaca;Juliaca;;---4----;AI;1;;
+PE;JUN;Junín;Junin;JUN;--3-----;RL;1501;;1109S 07559W
+PE;LMC;La Merced;La Merced;JUN;--3-----;RL;1307;;1103S 07520W
+PE;LAM;La Molina;La Molina;LIM;--3-----;RL;1501;;1205S 07657W
+PE;LOA;La Oroya;La Oroya;;--3-----;RL;6;;
+PE;LPP;La Pampilla;La Pampilla;;1-------;RQ;9506;;
+PE;LPN;La Planchada;La Planchada;ARE;--3-----;RL;212;;1624S 07313W
+PE;LAG;Lagunas;Lagunas;LOR;1-------;RQ;1007;;0513S 07540W
+PE;LMA;Lamas;Lamas;SAM;--3-----;RL;1301;;0625S 07632W
+PE;LIM;Lima;Lima;;1--45---;AI;9601;;
+PE;LCE;Lince;Lince;LIM;--3-----;RL;1207;;1206N 07703W
+PE;LOB;Lobitos;Lobitos;;1-------;AI;9401;;
+PE;LOV;Los Olivos;Los Olivos;LIM;--3-----;RL;1301;;1151S 07623W
+PE;LOO;Los Organos;Los Organos;;1-------;RL;212;;0411S 08107W
+PE;LUR;Lurín;Lurin;LIM;--3-----;RL;1307;;1217S 07652W
+PE;MFT;Machu Picchu;Machu Picchu;;---4----;AI;1;;
+PE;MAG;Magdalena;Magdalena;LIM;-----6--;RL;1201;;1139S 07613W
+PE;MAL;Mala;Mala;LIM;--3-----;RL;212;;1239S 07638W
+PE;MCA;Mancora;Mancora;;0-------;RQ;9811;;
+PE;MRI;Matarani;Matarani;;1-------;AI;9401;;
+PE;MLQ;Mollendo;Mollendo;;1--4----;AI;9601;;
+PE;MCH;Monterrico Chico;Monterrico Chico;LIM;-----6--;RL;1107;;1206S 07658W
+PE;MOQ;Moquegua;Moquegua;MOQ;--3-----;RL;901;;1711S 07056W
+PE;MRL;Morales;Morales;SAM;-23-----;RL;1307;;0628S 07628W
+PE;MBA;Moyobamba;Moyobamba;AYA;--3-----;RL;907;;1423S 07354W
+PE;MBP;Moyobamba;Moyobamba;SAM;---4----;AI;907;;0602S 07659W
+PE;NS8;Nasca;Nasca;ICA;--3-----;RL;1507;;1449S 07456W
+PE;NGS;Negritos;Negritos;;1-------;RQ;9506;;
+PE;OLM;Olmos;Olmos;LAM;-----6--;RQ;1307;;0559S 07944W
+PE;OQU;Oquendo;Oquendo;CAL;--3-----;RL;501;;1158S 07708W
+PE;PAC;Pacasmayo;Pacasmayo;;1-------;AI;9401;;
+PE;PCM;Pachacamac;Pachacamac;LIM;--3-----;RL;1501;;1214S 07653W
+PE;PAI;Paita;Paita;;1-------;AI;9401;;
+PE;PMC;Pampa Melchorita;Pampa Melchorita;LIM;1-------;RL;1207;;1318S 07747W
+PE;PRC;Paracas;Paracas;ICA;--3-----;RL;1507;;1352S 07616W
+PE;PAM;Paramonga;Paramonga;;1-------;RQ;9506;;
+PE;PMT;Pimentel;Pimentel;;1-------;AI;9401;;
+PE;PIO;Pisco;Pisco;;1--4----;AI;9601;;
+PE;PIU;Piura;Piura;;---4----;AI;9601;;
+PE;PCL;Pucallpa;Pucallpa;;1--4----;AI;9601;;
+PE;CXZ;Pueblo Libre;Pueblo Libre;LAL;--3-----;RL;1307;;0831S 07707W
+PE;PPA;Puente Piedra;Puente Piedra;LIM;--3-----;RL;1407;;1152S 07703W
+PE;PUE;Puerto Callao;Puerto Callao;UCA;--3-----;RL;1207;;0821S 07434W
+PE;PCH;Puerto Chicama;Puerto Chicama;;1-------;AI;9401;;
+PE;PEM;Puerto Maldonado;Puerto Maldonado;;1--4----;AI;9601;;
+PE;PUN;Puno;Puno;;1-------;AI;9401;;
+PE;PHM;Punta Hermosa;Punta Hermosa;LIM;--3-----;RL;1501;;1220S 07649W
+PE;PLO;Punta Lobitos;Punta Lobitos;ANC;1-------;RL;212;;1005S 07811W
+PE;UMI;Quince Mil;Quince Mil;CUS;---4----;AI;212;;1314S 07046W
+PE;QUI;Quinches;Quinches;;--3--6--;RL;607;;1218S 07608W
+PE;RIJ;Rioja;Rioja;;---4----;AI;9601;;
+PE;RIM;Rodríguez de Mendoza;Rodriguez de Mendoza;AMA;---4----;AI;212;;0620S 07725W
+PE;SVY;Salaverry;Salaverry;;1-------;AI;9401;;
+PE;SAM;Samanco;Samanco;;0-------;QQ;8103;;
+PE;BAR;San Bartolo;San Bartolo;LIM;1----6--;RL;901;;1223S 07647W
+PE;LSB;San Borja/Lima;San Borja/Lima;LIM;--3-----;RL;901;;1206S 07701W
+PE;SAI;San Ignacio;San Ignacio;CAJ;-----6--;RL;1107;;0508S 07900W
+PE;SDR;San Isidro;San Isidro;LIM;-----6--;RL;1201;;1207S 07703W
+PE;SJA;San Juan;San Juan;;1--4----;AI;9601;;
+PE;APE;San Juan Aposento;San Juan Aposento;;---4----;AI;1;;
+PE;SNX;San Nicolas;San Nicolas;;1-------;AI;9401;;
+PE;L9M;San Vicente De Canete;San Vicente De Canete;LIM;--3-----;RL;1507;;1305S 07624W
+PE;SMG;Santa Maria;Santa Maria;;---4----;AI;1;;
+PE;SQU;Saposoa;Saposoa;;---4----;AI;1;;
+PE;SYC;Shiringayoc;Shiringayoc;;---4----;AI;1;;
+PE;SUL;Sullana;Sullana;HUV;--3-----;RL;307;;1300S 07442W
+PE;SUP;Supe;Supe;;1-------;AI;9401;;
+PE;RCO;Surco;Surco;LIM;--3-----;RL;1301;;1209S 07701W
+PE;SUR;Surquillo;Surquillo;LIM;--3-----;RL;1301;;1207S 07702W
+PE;TCQ;Tacna;Tacna;;---4----;AI;9601;;
+PE;TYL;Talara;Talara;;1--4----;AI;9601;;
+PE;TDM;Tambo de Mora;Tambo de Mora;CUS;1-------;RL;212;;1328S 07612W
+PE;TAG;Tambo Grande;Tambo Grande;;1-3-----;RL;607;;1600S 07402W
+PE;TPP;Tarapoto;Tarapoto;;---4----;AI;9601;;
+PE;TGI;Tingo María;Tingo Maria;HUC;---4----;AI;212;;0918S 07559W
+PE;HCT;Tocache;Tocache;SAM;--3-----;RL;1407;;0811S 07630W
+PE;TRU;Trujillo;Trujillo;;1--4----;AI;9601;;
+PE;TBP;Tumbes;Tumbes;;---4----;AI;9601;;
+PE;VES;Villa El Salvador;Villa El Salvador;LIM;--3-----;RL;1301;;1203S 07700W
+PE;VIR;Virú;Viru;LAL;-----6--;RL;1201;;0825S 07845W
+PE;YMS;Yurimaguas;Yurimaguas;;1--4----;AI;9401;;
+PE;ZOR;Zorritos;Zorritos;;0-------;QQ;8103;;

@@ -1,0 +1,2373 @@
+BR;ABT;Abaeté;Abaete;MG;1-3-----;RL;601;;1909S 04527W
+BR;ATB;Abaetetuba;Abaetetuba;PA;1-3-----;RL;401;;0142S 04854W
+BR;ABR;Abaré;Abare;BA;-----6--;RL;1201;;0843S 03907W
+BR;ADL;Abelardo Luz;Abelardo Luz;SC;1-3-----;RL;601;;2634S 05220W
+BR;ALM;Abreu e Lima;Abreu e Lima;PE;--3-----;RL;601;;0757S 03453W
+BR;ACL;Acailandia;Acailandia;MA;--3-----;RQ;607;;0501S 04723W
+BR;ALI;Acailandia;Acailandia;MG;--3-----;RQ;607;;0456S 04730W
+BR;ACE;Acarape;Acarape;CE;--3-----;AA;1507;;0413S 03842W
+BR;ACU;Acarau;Acarau;CE;--3-----;RQ;607;;0253S 04007W
+BR;ACR;Acari;Acari;RN;--3-----;RQ;607;;0626S 03638W
+BR;ACN;Acreuna;Acreuna;GO;--3-----;RQ;607;;1728S 05025W
+BR;AUC;Açucena;Acucena;MG;-----6--;RL;1201;;1904S 04232W
+BR;AMT;Adamantina;Adamantina;SP;--3-----;RQ;607;;2141S 05104W
+BR;ADI;Afogados da Ingazeira;Afogados da Ingazeira;PE;--3-----;RQ;607;;0744S 03738W
+BR;AFC;Afonso Claudio;Afonso Claudio;ES;--3-----;RQ;607;;2004S 04107W
+BR;AFU;Afuá;Afua;PA;--3-----;RL;212;;0010S 05023W
+BR;ARO;Agrolandia;Agrolandia;SC;--3-----;RQ;607;;2724S 04949W
+BR;ABO;Água Boa;Agua Boa;MG;--3-----;RL;607;;1759S 04224W
+BR;AGC;Agua Clara;Agua Clara;MS;--3-----;RQ;607;;2026S 05252W
+BR;AGU;Aguai;Aguai;SP;--3-----;RQ;607;;2203S 04658W
+BR;ASP;Aguas da Prata;Aguas da Prata;SP;--3-----;RQ;607;;2156S 04643W
+BR;AGL;Aguas de Lindoia;Aguas de Lindoia;SP;--3-----;RQ;607;;2229S 04639W
+BR;ASB;Aguas de Santa Barbara;Aguas de Santa Barbara;SP;--3-----;RQ;607;;2254S 04915W
+BR;ASO;Aguas de Sao Pedro;Aguas de Sao Pedro;SP;--3-----;RQ;607;;2235S 04753W
+BR;GSF;Águas Frias;Aguas Frias;SC;-----6--;RL;1201;;2652S 05251W
+BR;AMR;Aguas Mornas;Aguas Mornas;SC;--3-----;RQ;607;;2741S 04849W
+BR;AVH;Águas Vermelhas;Aguas Vermelhas;MG;--3-----;RL;1301;;1545S 04128W
+BR;AGO;Agudo;Agudo;RS;--3-----;RQ;607;;2938S 05315W
+BR;AGD;Agudos;Agudos;SP;--3-----;RL;1207;;2228S 04900W
+BR;AMS;Aimores;Aimores;MG;--3-----;RQ;607;;1929S 04106W
+BR;ARC;Aiuruoca;Aiuruoca;MG;--3-----;RQ;607;;2157S 04436W
+BR;AGS;Alagoinhas;Alagoinhas;;123-----;RL;601;;1208S 03825W
+BR;ALB;Albertina;Albertina;MG;--3-----;AC;1501;;2212S 04637W
+BR;ACT;Alcantara;Alcantara;MA;--3-----;RQ;607;;0224S 04424W
+BR;QAH;Alcantara;Alcantara;RJ;---4----;AI;9601;;
+BR;ALC;Alcobaca;Alcobaca;BA;--3-----;RQ;607;;1731S 03912W
+BR;AL2;Alecrim;Alecrim;RS;--3-----;RL;1401;;2739S 05446W
+BR;ALG;Alegre;Alegre;ES;--3-----;RQ;607;;2045S 04132W
+BR;ALQ;Alegrete;Alegrete;RS;---4----;AI;9601;;
+BR;APB;Alem Paraiba;Alem Paraiba;MG;--3-----;RQ;607;;2152S 04241W
+BR;ALT;Alenquer;Alenquer;PA;---4----;AI;9912;;
+BR;AXN;Alexania;Alexania;GO;--3-----;RQ;607;;1604S 04830W
+BR;ALF;Alfenas;Alfenas;MG;--3-----;RQ;607;;2124S 04556W
+BR;AWR;Alfredo Wagner;Alfredo Wagner;SC;--3-----;AC;1501;;2742S 04920W
+BR;ALH;Alhandra;Alhandra;PB;1----6--;RL;901;;0726S 03454W
+BR;AMM;Almeirim;Almeirim;PA;--3-----;RQ;607;;0131S 05234W
+BR;AMJ;Almenara;Almenara;MG;---4----;AI;9912;;
+BR;ALO;Aloandia;Aloandia;GO;--3-----;RQ;607;;1742S 04929W
+BR;ALP;Alpinópolis;Alpinopolis;MG;1-3-----;RL;601;;2052S 04623W
+BR;AFL;Alta Floresta;Alta Floresta;MT;---4----;AI;9912;;
+BR;AFO;Alta Floresta do Oeste;Alta Floresta do Oeste;RO;--3-----;RQ;607;;1144S 06122W
+BR;ATM;Altamira;Altamira;PA;---4----;AI;9601;;
+BR;ATS;Alterosa;Alterosa;MG;--3-----;RQ;607;;2115S 04608W
+BR;APO;Altinopolis;Altinopolis;SP;--3-----;RQ;607;;2101S 04722W
+BR;ATG;Alto Araguaia;Alto Araguaia;MT;--3-----;RQ;607;;1719S 05313W
+BR;AFZ;Alto Feliz;Alto Feliz;RS;--3-----;RL;1301;;2923S 05118W
+BR;AGR;Alto Garcas;Alto Garcas;MT;--3-----;RQ;607;;1656S 05313W
+BR;AHZ;Alto Horizonte;Alto Horizonte;GO;--3-----;AC;1501;;1411S 04920W
+BR;APG;Alto Paraiso de Goias;Alto Paraiso de Goias;GO;--3-----;RQ;607;;1406S 04731W
+BR;APN;Alto Parana;Alto Parana;PR;--3-----;RQ;607;;2305S 05222W
+BR;APY;Alto Parnaíba;Alto Parnaiba;MA;---4----;AI;212;;0906S 04557W
+BR;AQI;Alto Piquiri;Alto Piquiri;PR;--3-----;RQ;607;;2401S 05326W
+BR;ATQ;Alto Taquari;Alto Taquari;MT;--3-----;RQ;607;;1749S 05317W
+BR;ATO;Altonia;Altonia;PR;--3-----;RQ;607;;2356S 05354W
+BR;ALS;Altos;Altos;PI;--3-----;AC;1501;;0502S 04227W
+BR;ALU;Alumar;Alumar;MA;1-------;RL;307;;0240S 04421W
+BR;AMO;Alumínio;Aluminio;SP;-23-----;RL;607;;2333S 04715W
+BR;AMH;Alvares Machado;Alvares Machado;SP;--3-----;RQ;607;;2207S 05130W
+BR;AVD;Alvinlândia;Alvinlandia;SP;--3-----;AA;1507;;2227S 04945W
+BR;AVR;Alvorada;Alvorada;RS;--3-----;RQ;607;;2839S 05209W
+BR;ALV;Alvorada;Alvorada;TO;--3-----;AC;1501;;1228S 04940W
+BR;AVN;Alvorada do Norte;Alvorada do Norte;GO;--3-----;RQ;607;;1428S 04629W
+BR;AMB;Amambai;Amambai;MS;--3-----;RQ;607;;2306S 05513W
+BR;ARJ;Amaraji;Amaraji;PE;--3-----;RQ;607;;0823S 03526W
+BR;AME;Americana;Americana;SP;-23-----;RL;401;;2244S 04720W
+BR;ADB;Americano do Brasil;Americano do Brasil;GO;--3-----;AC;1501;;1615S 04959W
+BR;ABI;Americo Brasiliense;Americo Brasiliense;SP;--3-----;RQ;607;;2142S 04806W
+BR;ACP;Americo de Campos;Americo de Campos;SP;--3-----;RQ;607;;2018S 04943W
+BR;ADS;Ametista do Sul;Ametista do Sul;RS;--3-----;AC;1501;;2721S 05311W
+BR;AAR;Amparo;Amparo;PR;-----6--;RQ;1001;;2528S 04830W
+BR;AMP;Amparo;Amparo;SP;--3-----;RQ;607;;2242S 04646W
+BR;ANI;Analandia;Analandia;SP;--3-----;RQ;607;;2207S 04739W
+BR;ANA;Ananindeua;Ananindeua;PA;--3-----;RQ;9806;;
+BR;APS;Anápolis;Anapolis;GO;---4----;AI;212;;1620S 04858W
+BR;ATC;Anastacio;Anastacio;MS;--3-----;RQ;607;;2030S 05548W
+BR;AHI;Anchieta;Anchieta;ES;--3-----;RL;607;;2048S 04038W
+BR;ACH;Anchieta;Anchieta;SC;--3-----;AC;1501;;2633S 05317W
+BR;ARI;Andarai;Andarai;BA;--3-----;RQ;607;;1248S 04119W
+BR;AIA;Andira;Andira;PR;--3-----;RQ;607;;2302S 05013W
+BR;BAA;Andorinha;Andorinha;BA;-----6--;RL;901;;1022S 03949W
+BR;ARD;Andradas;Andradas;MG;--3-----;RQ;607;;2204S 04634W
+BR;AAN;Andradina;Andradina;SP;--3-----;RQ;607;;2254S 05122W
+BR;AND;Andrelandia;Andrelandia;MG;--3-----;AC;1501;;2144S 04418W
+BR;AGT;Angatuba;Angatuba;SP;--3-----;RQ;607;;2329S 04824W
+BR;ANL;Angelândia;Angelandia;MG;--3-----;AC;1501;;1743S 04215W
+BR;AIC;Angelica;Angelica;MS;--3-----;RQ;607;;2205S 05343W
+BR;ADR;Angra dos Reis;Angra dos Reis;RJ;1-3-----;AI;1207;;2300S 04418W
+BR;ANH;Anhembi;Anhembi;SP;-23-----;RL;1407;;2247S 04807W
+BR;ANC;Anicuns;Anicuns;GO;--3-----;RQ;607;;1627S 04957W
+BR;AA2;Anil;Anil;RJ;1-3-----;RL;1307;;2255S 04319W
+BR;ANT;Antonina;Antonina;PR;1-------;AI;9401;;
+BR;ACS;Antonio Carlos;Antonio Carlos;SC;--3-----;RQ;607;;2728S 04851W
+BR;AJO;Antonio Joao;Antonio Joao;MS;--3-----;RQ;607;;2211S 05556W
+BR;MAY;Antonio Prado;Antonio Prado;RS;--3-----;RQ;607;;2851S 05117W
+BR;API;Aparecida;Aparecida;SP;--3-----;RQ;607;;2249S 04514W
+BR;AGI;Aparecida de Goiania;Aparecida de Goiania;GO;--3-----;RQ;607;;1649S 04914W
+BR;ATD;Aparecida do Taboado;Aparecida do Taboado;MS;--3-----;RQ;607;;2005S 05105W
+BR;APA;Apiai;Apiai;SP;--3-----;RQ;607;;2430S 04850W
+BR;AUA;Apiuna;Apiuna;SC;--3-----;RQ;607;;2702S 04925W
+BR;APD;Apodi;Apodi;RN;--3-----;AA;1601;;0539S 03748W
+BR;APU;Apucarana;Apucarana;PR;---4----;AI;9601;;
+BR;AQD;Aquidauana;Aquidauana;MS;--3-----;RL;1207;;2028S 05548W
+BR;AQR;Aquiraz;Aquiraz;CE;--3-----;RQ;607;;0353S 02822W
+BR;AJU;Aracaju;Aracaju;SE;1--4----;AI;9601;;
+BR;ARM;Araçariguama;Aracariguama;SP;--3-----;RL;601;;2326S 04704W
+BR;ARK;Araçás;Aracas;BA;--3-----;RL;501;;1212S 03812W
+BR;ART;Aracati;Aracati;CE;--3-----;RL;1301;;0434S 03746W
+BR;ARU;Araçatuba;Aracatuba;SP;-234----;AI;507;;2112S 05025W
+BR;ASR;Aracoiaba da Serra;Aracoiaba da Serra;SP;--3-----;RQ;607;;2330S 04736W
+BR;ACZ;Aracruz;Aracruz;ES;--3-----;RQ;607;;1949S 04016W
+BR;AAA;Aracuai;Aracuai;MG;--3-----;RQ;607;;1651S 04203W
+BR;ARS;Aragarças;Aragarcas;GO;---4----;AI;212;;1555S 05215W
+BR;ARG;Araguacu;Araguacu;TO;--3-----;RQ;607;;1249S 04951W
+BR;AUX;Araguaína;Araguaina;TO;---4----;AI;212;;0712S 04812W
+BR;AGZ;Araguapaz;Araguapaz;GO;--3-----;RQ;607;;1505S 05037W
+BR;ARR;Araguari;Araguari;MG;--3-----;RQ;607;;1838S 04811W
+BR;APQ;Arapiraca;Arapiraca;AL;---4----;AI;9912;;
+BR;APX;Arapongas;Arapongas;PR;---4----;AI;9912;;
+BR;ARP;Arapora;Arapora;MG;--3-----;RQ;607;;1825S 04911W
+BR;AAG;Arapoti;Arapoti;PR;---4----;AI;9912;;
+BR;ATN;Araputanga;Araputanga;MT;--3-----;RQ;607;;1528S 05821W
+BR;ARN;Ararangua;Ararangua;SC;--3-----;RQ;607;;2856S 04929W
+BR;AQA;Araraquara;Araraquara;SP;---4----;AI;9912;;
+BR;ARA;Araras;Araras;SP;--3-----;RQ;607;;2221S 04722W
+BR;RRC;Ararica;Ararica;RS;-----6--;RL;1007;;2939S 05055W
+BR;AIP;Araripina;Araripina;PE;--3-----;RQ;607;;0733S 04031W
+BR;AMA;Araruama;Araruama;RJ;--3-----;RQ;607;;2252S 04221W
+BR;AAU;Araruna;Araruna;PR;--3-----;AA;1507;;2355S 05230W
+BR;ARB;Aratu;Aratu;BA;1-------;AI;9401;;
+BR;ACA;Araucária;Araucaria;PR;--3-----;RL;212;;2535S 04925W
+BR;AAX;Araxá;Araxa;MG;---4----;AI;212;;1935S 04655W
+BR;AOS;Arcos;Arcos;MG;--3-----;RQ;607;;2017S 04532W
+BR;ARV;Arcoverde;Arcoverde;PE;--3-----;RQ;607;;0825S 03703W
+BR;ADO;Areado;Areado;MG;--3-----;RQ;607;;2121S 04608W
+BR;ARL;Areal;Areal;RJ;--3-----;RQ;607;;2213S 04307W
+BR;AEI;Areia;Areia;PB;--3-----;RQ;607;;0658S 03541W
+BR;ARE;Areia Branca;Areia Branca;RN;--3-----;RL;201;;0459S 03710W
+BR;APE;Arembepe;Arembepe;BA;--3-----;RQ;607;;1245S 03810W
+BR;APL;Arenapolis;Arenapolis;MT;--3-----;RQ;607;;1426S 05649W
+BR;AIR;Aripuana;Aripuana;MT;---4----;AI;9912;;
+BR;AQM;Ariquemes;Ariquemes;RO;---4----;AI;9912;;
+BR;ARH;Ariranha;Ariranha;SP;--3-----;RQ;607;;2110S 04847W
+BR;ABZ;Armacao de Buzios;Armacao de Buzios;RJ;--3-----;RQ;607;;2245S 04152W
+BR;ADJ;Arraial;Arraial;BA;--3-----;RL;607;;1401S 03915W
+BR;ACB;Arraial do Cabo;Arraial do Cabo;RJ;--3-----;RL;1207;;2258S 04201W
+BR;AAI;Arraias;Arraias;TO;---4----;AI;9912;;
+BR;AMI;Arroio do Meio;Arroio do Meio;RS;--3-----;RQ;607;;2923S 05157W
+BR;ANG;Artur Nogueira;Artur Nogueira;SP;--3-----;RQ;607;;2234S 04709W
+BR;AUN;Aruana;Aruana;GO;--3-----;RQ;607;;1454S 05105W
+BR;AUJ;Aruja;Aruja;SP;--3-----;RQ;607;;2324S 04620W
+BR;ASC;Ascurra;Ascurra;SC;-----6--;RQ;1001;;2657S 04922W
+BR;ASI;Assai;Assai;PR;--3-----;RQ;607;;2322S 05050W
+BR;AIF;Assis;Assis;SP;---4----;AI;9912;;
+BR;ACD;Assis Chateaubriand;Assis Chateaubriand;PR;--3-----;RQ;607;;2424S 05331W
+BR;ASU;Assu;Assu;RN;--3-----;RQ;607;;0534S 03654W
+BR;ASG;Astorga;Astorga;PR;--3-----;RQ;607;;2314S 05139W
+BR;ATL;Ataleia;Ataleia;MG;--3-----;RQ;607;;1802S 04106W
+BR;ABA;Atibaia;Atibaia;SP;--3-----;RQ;607;;2307S 04633W
+BR;AVB;Atílio Vivacqua;Atilio Vivacqua;ES;-23-----;RL;601;;2055S 04111W
+BR;AFM;Auriflama;Auriflama;SP;--3-----;RQ;607;;2041S 05032W
+BR;AVA;Avare;Avare;SP;--3-----;RQ;607;;2306S 04855W
+BR;BBA;Bacabal;Bacabal;MA;--3-----;RQ;607;;0414S 04447W
+BR;BPI;Baependi;Baependi;MG;--3-----;RQ;607;;2157S 04453W
+BR;BGX;Bagé;Bage;RS;---4----;AI;212;;3120S 05406W
+BR;BFO;Baia Formosa;Baia Formosa;RN;--3-----;RQ;607;;0621S 03501W
+BR;BA2;Baixa do Meio;Baixa do Meio;RN;-----6--;RQ;1001;;0515S 03621W
+BR;BLB;Balbinos;Balbinos;SP;--3-----;AA;1507;;2154S 04921W
+BR;BCS;Balneário Barra do Sul;Balneario Barra do Sul;SC;--3-----;RL;1301;;2627S 04836W
+BR;BAC;Balneário de Camboriú;Balneario de Camboriu;SC;--3-----;AC;1501;;2659S 04838W
+BR;BOR;Balneário do Rincão;Balneario do Rincao;SC;--3-----;RL;607;;2850S 04915W
+BR;BAL;Balneario Pinhal;Balneario Pinhal;RS;--3-----;RL;1207;;3014S 05013W
+BR;8BN;Balsa Nova;Balsa Nova;PR;--3-----;RL;1301;;2536S 04937W
+BR;BLS;Bálsamo;Balsamo;SP;--3-----;AA;1507;;2044S 04934W
+BR;BSS;Balsas;Balsas;MA;---4----;AI;9912;;
+BR;BNA;Bananal;Bananal;SP;--3-----;RQ;607;;2240S 04419W
+BR;BND;Bandeirantes;Bandeirantes;PR;--3-----;RQ;607;;2306S 05022W
+BR;BCI;Barao de Cocais;Barao de Cocais;MG;--3-----;RQ;607;;1956S 04328W
+BR;BCG;Barao de Cotigipe;Barao de Cotigipe;RS;--3-----;RQ;607;;2737S 05222W
+BR;BTF;Barão do Triunfo;Barao do Triunfo;RS;--3-----;AC;1501;;3023S 05144W
+BR;BUN;Barauna;Barauna;RN;1----6--;RL;901;;0505S 03737W
+BR;BCN;Barbacena;Barbacena;MG;--3-----;RQ;607;;2113S 04345W
+BR;BSA;Barbosa;Barbosa;SP;--3-----;RQ;607;;2117S 04957W
+BR;BCA;Barcarena;Barcarena;PA;--3-----;AA;1507;;0130S 04837W
+BR;BAZ;Barcelos;Barcelos;AM;---4----;AI;1501;;0058S 06255W
+BR;BIR;Bariri;Bariri;SP;--3-----;RQ;607;;2204S 04845W
+BR;BQQ;Barra;Barra;BA;---4----;AI;9912;;
+BR;BBO;Barra Bonita;Barra Bonita;SP;--3-----;RQ;607;;2229S 04832W
+BR;BTO;Barra de Santo Antonio;Barra de Santo Antonio;AL;--3-----;RQ;607;;0924S 03529W
+BR;AFR;Barra de Sao Francisco;Barra de Sao Francisco;ES;-----6--;RL;1107;;1845S 04053W
+BR;BSM;Barra de Sao Miguel;Barra de Sao Miguel;AL;--3-----;RQ;607;;0950S 03554W
+BR;BBG;Barra do Bugres;Barra do Bugres;MT;--3-----;RQ;607;;1504S 05711W
+BR;BDC;Barra do Corda;Barra do Corda;MA;--34----;RL;212;;0530S 04515W
+BR;BPG;Barra do Garças;Barra do Garcas;MT;---4----;AI;212;;1553S 05215W
+BR;QBD;Barra do Piraí;Barra do Pirai;RJ;--3-----;RL;212;;2229S 04350W
+BR;RCH;Barra do Riacho Pt / Aracruz;Barra do Riacho Pt / Aracruz;ES;1-------;AA;1507;;1951S 04003W
+BR;BRO;Barra do Ribeiro;Barra do Ribeiro;RS;--3-----;RQ;607;;3017S 05118W
+BR;BAR;Barra dos Coqueiros;Barra dos Coqueiros;SE;123-----;RL;601;;1054S 03703W
+BR;BGA;Barra Grande;Barra Grande;BA;--3-----;RQ;607;;1302S 03842W
+BR;QBN;Barra Mansa;Barra Mansa;RJ;--3-----;RL;201;;2234S 04410W
+BR;BVA;Barra Velha;Barra Velha;SC;--3-----;RQ;607;;2639S 04843W
+BR;BRC;Barracao;Barracao;PR;--3-----;RQ;607;;2615S 05334W
+BR;BRA;Barreiras;Barreiras;BA;---4----;AI;9912;;
+BR;BRB;Barreirinhas;Barreirinhas;MA;--34----;RL;207;;0246S 04250W
+BR;BRS;Barreiros;Barreiros;PE;--3-----;RQ;607;;0849S 03511W
+BR;BAT;Barretos;Barretos;SP;---4----;AI;9912;;
+BR;BRH;Barrinha;Barrinha;SP;--3-----;RQ;607;;2111S 04809W
+BR;JBL;Barro Alto;Barro Alto;GO;--3-----;RL;1301;;1504S 04858W
+BR;BSO;Barroso;Barroso;MG;--3-----;RQ;607;;2110S 04358W
+BR;BRI;Barueri;Barueri;SP;--3-----;RQ;101;;
+BR;BTS;Bastos;Bastos;SP;--3-----;RQ;607;;2155S 05044W
+BR;BGU;Bataguassu;Bataguassu;MS;--3-----;RQ;607;;2143S 05223W
+BR;BAP;Bataiporã;Bataipora;MS;--3-----;RL;1301;;2220S 05317W
+BR;BTA;Batatais;Batatais;SP;--3-----;RQ;607;;2053S 04735W
+BR;BTU;Baturite;Baturite;CE;--3-----;RQ;607;;0419S 03852W
+BR;BAU;Bauru;Bauru;SP;---4----;AI;9912;;
+BR;BAY;Bayeux;Bayeux;PB;--3-----;RQ;607;;0707S 03455W
+BR;QAU;Bebedouro;Bebedouro;SP;--3-----;RL;201;;2056S 04829W
+BR;BBI;Beberibe;Beberibe;CE;--3-----;RQ;607;;0410S 03807W
+BR;BLO;Beija-Flor;Beija-Flor;MG;--3-----;RQ;607;;0217S 04304W
+BR;BVT;Bela Vista;Bela Vista;MS;--3-----;RQ;607;;2206S 03455W
+BR;BVP;Bela Vista do Paraiso;Bela Vista do Paraiso;PR;--3-----;RQ;607;;2300S 05111W
+BR;BEL;Belem;Belem;PA;1-34----;AI;5;;0127S 04830W
+BR;DSF;Belém de São Francisco;Belem de Sao Francisco;PE;-----6--;RL;1007;;0846S 03858W
+BR;BRX;Belford Roxo;Belford Roxo;RJ;-23--6--;RL;307;;2245S 04323W
+BR;BVM;Belmonte;Belmonte;AC;--3-----;RL;307;;1551S 03854W
+BR;BHZ;Belo Horizonte;Belo Horizonte;MG;---4----;AI;9912;;
+BR;BJB;Belo Jardim;Belo Jardim;PE;-23-----;RL;601;;0820S 03625W
+BR;BEO;Belo Oriente;Belo Oriente;MG;--3-----;AC;1501;;1914S 04228W
+BR;BNV;Benedito Novo;Benedito Novo;SC;--3-----;RQ;607;;2947S 04925W
+BR;BVI;Benevides;Benevides;PA;--3-----;RQ;607;;0121S 04813W
+BR;QAV;Benjamin Constant;Benjamin Constant;AM;---4----;AI;9601;;
+BR;BAB;Bento de Abreu;Bento de Abreu;SP;--3-----;AA;1507;;2116S 05048W
+BR;BGV;Bento Gonçalves;Bento Goncalves;RS;---4----;AI;212;;2910S 05131W
+BR;BCP;Bernardino de Campos;Bernardino de Campos;SP;-23-----;RL;607;;2302S 04929W
+BR;BTG;Bertioga;Bertioga;SP;--3-----;RQ;607;;2351S 04608W
+BR;BTP;Bertópolis;Bertopolis;MG;--3-----;AA;1507;;1703S 04034W
+BR;BTI;Betim;Betim;MG;--3-----;RQ;607;;1958S 04411W
+BR;BZE;Bezerros;Bezerros;PE;--3-----;RQ;607;;0814S 03545W
+BR;BGC;Biguacu;Biguacu;SC;--3-----;RQ;607;;2730S 04839W
+BR;BLA;Bilac;Bilac;SP;--3-----;RQ;607;;2123S 05028W
+BR;QCF;Birigui;Birigui;SP;---4----;AI;9601;;
+BR;BBR;Biritiba-Mirim;Biritiba-Mirim;SP;--3-----;RL;1207;;2335S 04602W
+BR;BIU;Bituruna;Bituruna;PR;--3-----;AC;1501;;2610S 05134W
+BR;BNU;Blumenau;Blumenau;SC;1--4----;AI;9601;;
+BR;BEE;Boa Esperanca;Boa Esperanca;ES;-----6--;RQ;1001;;1829S 04020W
+BR;BSE;Boa Esperanca;Boa Esperanca;MG;--3-----;RQ;607;;2105S 04533W
+BR;BSU;Boa Esperanca do Sul;Boa Esperanca do Sul;SP;--3-----;RQ;607;;2158S 04823W
+BR;BVG;Boa Viagem;Boa Viagem;PE;--3-----;RQ;607;;0806S 03453W
+BR;BST;Boa Vista;Boa Vista;PE;--3-----;RQ;607;;0847S 03949W
+BR;BVB;Boa Vista;Boa Vista;RR;---4----;AI;9601;;
+BR;BVD;Boa Vista do Burica;Boa Vista do Burica;RS;--3-----;AC;1501;;2740S 05406W
+BR;BOA;Boa Vista do Sul;Boa Vista do Sul;RS;--3-----;RL;1401;;2921S 05140W
+BR;BCR;Boca do Acre Apt;Boca do Acre Apt;AM;--34----;RL;901;;0838S 06725W
+BR;BOC;Bocaina;Bocaina;SP;--3-----;RQ;607;;2207S 04830W
+BR;BOV;Bocaiuva;Bocaiuva;MG;--3-----;RQ;607;;1706S 04348W
+BR;BDS;Bocaiúva do Sul;Bocaiuva do Sul;PR;--3-----;AC;1501;;2511S 04908W
+BR;BQA;Bodoquena;Bodoquena;MS;--3-----;RQ;607;;2032S 05642W
+BR;BOF;Bofete;Bofete;SP;--3-----;AC;1501;;2307S 04815W
+BR;BTV;Boituva;Boituva;SP;--3-----;RQ;607;;2317S 04741W
+BR;BDP;Bom Despacho;Bom Despacho;MG;--3-----;RQ;607;;1944S 04515W
+BR;BJG;Bom Jardim de Goias;Bom Jardim de Goias;GO;--3-----;RQ;607;;1617S 05207W
+BR;LAZ;Bom Jesus da Lapa;Bom Jesus da Lapa;BA;---4----;AI;212;;1315S 04325W
+BR;BJS;Bom Jesus de Goias;Bom Jesus de Goias;GO;--3-----;RQ;607;;1812S 04944W
+BR;BJI;Bom Jesus de Itabapoana;Bom Jesus de Itabapoana;RJ;--3-----;RQ;607;;2108S 04141W
+BR;BJO;Bom Jesus dos Perdoes;Bom Jesus dos Perdoes;SP;--3-----;RQ;607;;2308S 04628W
+BR;BPP;Bom Principio;Bom Principio;RS;--3-----;RQ;607;;2929S 05121W
+BR;BRR;Bom Retiro;Bom Retiro;SC;--3-----;AC;1501;;2748S 04931W
+BR;BSC;Bom Sucesso;Bom Sucesso;MG;--3-----;RQ;607;;2102S 04445W
+BR;BBS;Bombinhas;Bombinhas;SC;--3-----;RQ;607;;2707S 04832W
+BR;BON;Bonito;Bonito;BA;--3-----;AC;1501;;1158S 04115W
+BR;BYO;Bonito;Bonito;MS;--3-----;RL;501;;2108S 05628W
+BR;BNO;Bonito;Bonito;PE;--3-----;RQ;607;;0836S 03617W
+BR;BQU;Boquim;Boquim;SE;--3-----;RQ;607;;1109S 03737W
+BR;BRE;Boraceia;Boraceia;SP;--3-----;RQ;607;;2209S 04844W
+BR;RBB;Borba;Borba;AM;---4----;AI;9912;;
+BR;BBM;Borborema;Borborema;SP;--3-----;RQ;607;;2136S 04904W
+BR;BDM;Borda da Mata;Borda da Mata;MG;-----6--;RQ;1001;;2215S 04610W
+BR;BF5;Botafogo;Botafogo;RJ;-2---6--;RL;1301;;2257S 04311W
+BR;QCJ;Botucatu;Botucatu;SP;---4----;AI;9601;;
+BR;BNT;Braco do Norte;Braco do Norte;SC;--3-----;RQ;607;;2816S 04910W
+BR;BTR;Braço do Trombudo;Braco do Trombudo;SC;--3-----;AC;1501;;2721S 04954W
+BR;BNC;Braganca;Braganca;PA;--3-----;RQ;607;;0103S 04646W
+BR;BJP;Braganca Paulista;Braganca Paulista;SP;--3-----;RQ;607;;2257S 04632W
+BR;BMI;Brasilandia de Minas;Brasilandia de Minas;MG;--3-----;RQ;607;;1612S 04425W
+BR;BRL;Brasiléia;Brasileia;AC;--3-----;AC;1501;;1100S 06844W
+BR;BSB;Brasília;Brasilia;DF;---4----;AI;212;;1547S 04755W
+BR;BNB;Brasilia - Nucleo Band;Brasilia - Nucleo Band;DF;--3-----;RQ;607;;1551S 04757W
+BR;BCL;Brasilia Ceilandia;Brasilia Ceilandia;DF;--3-----;RQ;607;;1548S 04806W
+BR;BGR;Brasilia Guara;Brasilia Guara;DF;--3-----;RQ;607;;1549S 04759W
+BR;BPT;Brasilia Planaltina;Brasilia Planaltina;DF;--3-----;RQ;607;;1537S 04740W
+BR;BSD;Brasilia Sobradinho;Brasilia Sobradinho;DF;--3-----;RQ;607;;1537S 04949W
+BR;BTT;Brasilia Taguatinga;Brasilia Taguatinga;DF;--3-----;RQ;607;;1546S 04755W
+BR;BRT;Brasnorte;Brasnorte;MT;--3-----;AC;1501;;1207S 05800W
+BR;BRN;Brauna;Brauna;SP;--3-----;RQ;607;;2129S 05018W
+BR;BDZ;Brejo Do Cruz;Brejo Do Cruz;PB;--3-----;RL;1307;;0621S 03730W
+BR;BBN;Breu Branco;Breu Branco;PA;--3-----;RQ;607;;0341S 04928W
+BR;BVS;Breves;Breves;PA;1-34----;AI;1101;;0140S 05029W
+BR;BTN;Britania;Britania;GO;--3-----;RQ;607;;1514S 05109W
+BR;BDW;Brodowski;Brodowski;SP;--3-----;RQ;607;;2059S 04740W
+BR;BOS;Brotas;Brotas;SP;--3-----;RQ;607;;2216S 04807W
+BR;BHO;Brumadinho;Brumadinho;MG;--3-----;RQ;607;;2008S 04413W
+BR;BMS;Brumado;Brumado;BA;---4----;AI;9912;;
+BR;QAB;Brusque;Brusque;SC;---4----;AI;9601;;
+BR;BBD;Bueno Brandao;Bueno Brandao;MG;--3-----;RQ;607;;2227S 04620W
+BR;BRM;Buerarema;Buerarema;BA;--3-----;RQ;607;;1457S 03918W
+BR;BUR;Buri;Buri;SP;--3-----;RQ;607;;2348S 04835W
+BR;BTM;Buritama;Buritama;SP;--3-----;RQ;607;;2104S 05009W
+BR;BUT;Buritis;Buritis;MG;--3-----;RQ;607;;1537S 04625W
+BR;BUS;Buritis;Buritis;RO;--3-----;RL;701;;0959S 06356W
+BR;BTZ;Buritizeiro;Buritizeiro;MG;--3-----;AA;1507;;1721S 04457W
+BR;BZC;Buzios;Buzios;RJ;---4----;AI;9912;;
+BR;CPA;Caapora;Caapora;PB;--3-----;RQ;607;;0730S 03454W
+BR;CRP;Caarapo;Caarapo;MS;--3-----;RQ;607;;2238S 05449W
+BR;CCE;Cabeceiras;Cabeceiras;GO;--3-----;RQ;607;;1547S 04659W
+BR;CDO;Cabedelo;Cabedelo;PB;1-------;AI;9401;;
+BR;CAB;Cabo;Cabo;PE;-23-----;RL;501;;0817S 03502W
+BR;CDS;Cabo de Santo Agostinho;Cabo de Santo Agostinho;MS;--3-----;RL;507;;0820S 03456W
+BR;CSA;Cabo de Santo Agostinho;Cabo de Santo Agostinho;PE;--3-----;RQ;607;;0820S 03455W
+BR;QCK;Cabo Frio;Cabo Frio;RJ;---4----;AI;9601;;
+BR;CRU;Cabreuva;Cabreuva;SP;--3-----;RQ;607;;2318S 04708W
+BR;CFC;Cacador;Cacador;SC;--3-----;RQ;607;;2646S 05101W
+BR;CAP;Caçapava;Cacapava;SP;-23-----;RL;212;;2306S 04542W
+BR;CSL;Cacapava do Sul;Cacapava do Sul;RS;--3-----;RQ;607;;3030S 05328W
+BR;CCX;Cáceres;Caceres;MT;---4----;AI;212;;1604S 05741W
+BR;CCQ;Cachoeira;Cachoeira;BA;---4----;AI;9912;;
+BR;QDB;Cachoeira do Sul;Cachoeira do Sul;RS;---4----;AI;9601;;
+BR;CPS;Cachoeira Paulista;Cachoeira Paulista;SP;--3-----;RQ;607;;2239S 04500W
+BR;CDM;Cachoeiras de Macacu;Cachoeiras de Macacu;RJ;123-----;RL;601;;2229S 04239W
+BR;CHA;Cachoeirinha;Cachoeirinha;RS;--3-----;RQ;607;;2956S 05105W
+BR;CDI;Cachoeiro de Itapemirim;Cachoeiro de Itapemirim;ES;--3-----;RQ;607;;2051S 04107W
+BR;OAL;Cacoal;Cacoal;RO;---4----;AI;9912;;
+BR;CCO;Caconde;Caconde;SP;--3-----;RQ;607;;2133S 04638W
+BR;CCU;Cacu;Cacu;GO;--3-----;RQ;607;;1837S 05104W
+BR;CCL;Cacule;Cacule;BA;--3-----;RQ;607;;1929S 04213W
+BR;CTO;Caetanopolis;Caetanopolis;MG;--3-----;RQ;607;;1917S 04424W
+BR;CTE;Caete;Caete;MG;--3-----;RQ;607;;1953S 04340W
+BR;CTI;Caetite;Caetite;BA;--3-----;RQ;607;;1404S 04229W
+BR;CFL;Cafelandia;Cafelandia;SP;--3-----;RQ;607;;2149S 04935W
+BR;RNA;Cafelândia;Cafelandia;PR;--3-----;RL;1301;;2439S 05320W
+BR;CBI;Caibi;Caibi;SC;--3-----;RQ;607;;2702S 05313W
+BR;CIC;Caico;Caico;RN;--3-----;RQ;607;;0628S 03705W
+BR;CAS;Caieiras;Caieiras;SP;--3-----;RQ;607;;2321S 04644W
+BR;CBA;Caioba;Caioba;PR;--3-----;RQ;607;;2551S 04832W
+BR;CIR;Cairu;Cairu;BA;--3-----;RQ;607;;1330S 03903W
+BR;CJM;Cajamar;Cajamar;SP;--3-----;RQ;607;;2320S 04653W
+BR;CJA;Cajati;Cajati;PR;--3-----;RQ;607;;2511S 05310W
+BR;CJI;Cajati;Cajati;SP;--3-----;RQ;607;;2442S 04807W
+BR;CJZ;Cajazeiras;Cajazeiras;CE;--3-----;RQ;607;;0654S 03939W
+BR;CZJ;Cajazeiras;Cajazeiras;PB;-----6--;RL;1007;;0654S 03834W
+BR;CJO;Cajobi;Cajobi;SP;--3-----;RQ;607;;2053S 04849W
+BR;CJU;Cajuru;Cajuru;SP;--3-----;RQ;607;;2115S 04717W
+BR;CLA;Caldas;Caldas;MG;--3-----;RQ;607;;2156S 04623W
+BR;CLV;Caldas Novas;Caldas Novas;GO;---4----;AI;9912;;
+BR;CCA;Camacan;Camacan;BA;--3-----;RQ;607;;1525S 03929W
+BR;QCC;Camacari;Camacari;BA;---4----;XX;1601;;
+BR;CCI;Camaçari;Camacari;BA;--3-----;AA;1601;;1242S 03820W
+BR;CMU;Camanducaia;Camanducaia;MG;--3-----;RQ;607;;2246S 04609W
+BR;CAA;Camapua;Camapua;MS;--3-----;RQ;607;;1932S 05402W
+BR;CQA;Camaqua;Camaqua;RS;--3-----;RQ;607;;3050S 05146W
+BR;CME;Camaragibe;Camaragibe;PE;--3-----;RQ;607;;0759S 03502W
+BR;CBR;Cambara;Cambara;PR;--3-----;RQ;607;;2302S 05004W
+BR;CMS;Cambara do Sul;Cambara do Sul;RS;--3-----;RQ;607;;2902S 05009W
+BR;CBE;Cambe;Cambe;PR;--3-----;RQ;607;;2313S 05115W
+BR;CBU;Camboriú;Camboriu;SC;1-3-----;RL;607;;2659S 04838W
+BR;CMB;Cambuci;Cambuci;RJ;--3-----;RL;501;;2134S 04155W
+BR;CMI;Cambui;Cambui;MG;--3-----;RQ;607;;2236S 04603W
+BR;CBQ;Cambuquira;Cambuquira;MG;--3-----;RQ;607;;2150S 04518W
+BR;CMR;Cametá Apt;Cameta Apt;PA;--34----;RL;901;CMT;0215S 04930W
+BR;CMC;Camocim;Camocim;CE;1--4----;AI;9506;;
+BR;CPH;Campanha;Campanha;MG;--3-----;QQ;607;;
+BR;CAM;Campina do Monte Alegre;Campina do Monte Alegre;SP;--3-----;RL;607;;2335S 04828W
+BR;CPV;Campina Grande;Campina Grande;PB;---4----;AI;9601;;
+BR;CGL;Campina Grande do Sul;Campina Grande do Sul;PR;--3-----;AC;1501;;2518S 04905W
+BR;CVR;Campina Verde;Campina Verde;MG;--3-----;RQ;607;;1931S 04928W
+BR;CM3;Campinaçu;Campinacu;GO;--3-----;RL;1301;;1347S 04833W
+BR;CPO;Campinapolis;Campinapolis;MT;--3-----;RQ;607;;1430S 05253W
+BR;CPQ;Campinas;Campinas;SP;---4----;AI;9601;;
+BR;CPB;Campo Belo;Campo Belo;MG;--3-----;RQ;607;;2053S 04516W
+BR;QCD;Campo Bom;Campo Bom;RS;---4----;AI;9601;;
+BR;9CF;Campo Florido;Campo Florido;MG;--3-----;RL;1301;;1947S 04835W
+BR;CFM;Campo Formoso;Campo Formoso;BA;--3-----;RQ;607;;1030S 04019W
+BR;CGR;Campo Grande;Campo Grande;MS;---4----;AI;9601;;
+BR;GCE;Campo Grande;Campo Grande;RJ;--3-----;RQ;607;;2254S 04333W
+BR;CLO;Campo Largo;Campo Largo;PR;--3-----;RL;104;;2526S 04936W
+BR;CLP;Campo Limpo Paulista;Campo Limpo Paulista;SP;--3-----;RQ;9806;;
+BR;CPG;Campo Magro;Campo Magro;PR;--3-----;RL;1107;;
+BR;COM;Campo Maior;Campo Maior;PI;--3-----;RQ;607;;0449S 04210W
+BR;CBW;Campo Mourao;Campo Mourao;PR;---4----;AI;212;;2403S 05222W
+BR;CNP;Campo Novo do Parecis;Campo Novo do Parecis;MT;--3-----;RQ;607;;1340S 05753W
+BR;CVE;Campo Verde;Campo Verde;MT;--3-----;RQ;607;;1538S 05510W
+BR;CAW;Campos;Campos;RJ;---4----;AI;9601;;
+BR;CBS;Campos Belos;Campos Belos;GO;--3-----;RQ;607;;
+BR;CLJ;Campos de Júlio;Campos de Julio;MT;--3-----;RL;1301;;1353S 05908W
+BR;QJO;Campos do Jordao;Campos do Jordao;SP;---4----;AI;212;;2244S 04535W
+BR;CGZ;Campos dos Goitacazes;Campos dos Goitacazes;RJ;--3-----;RQ;607;;
+BR;CDG;Campos dos Goytacazes;Campos dos Goytacazes;RJ;-----6--;RQ;1001;;2145S 04119W
+BR;CNS;Campos Novos;Campos Novos;SC;--3-----;RQ;607;;
+BR;CPN;Campos Novos;Campos Novos;SP;--3-----;RL;607;;2256S 04637W
+BR;CVD;Campos Verdes;Campos Verdes;GO;--3-----;RQ;607;;
+BR;NBV;Cana Brava;Cana Brava;MG;---4----;AI;9912;;
+BR;CDC;Canaã dos Carajás;Canaa dos Carajas;PA;--3-----;AC;1501;;0631S 04951W
+BR;CTT;Canabarro Teutonia;Canabarro Teutonia;RS;--3-----;RQ;607;;
+BR;CNI;Cananeia;Cananeia;SP;--3-----;RQ;607;;
+BR;CNN;Canarana;Canarana;MT;--3-----;RQ;607;;
+BR;CNV;Canavieiras;Canavieiras;BA;---4----;AI;9912;;
+BR;CIS;Candeias;Candeias;BA;--3-----;RQ;607;;
+BR;CDL;Candelaria;Candelaria;RS;--3-----;RQ;607;;
+BR;CG2;Cândido Godói;Candido Godoi;RS;--3-----;RL;1407;;2757S 05446W
+BR;CMN;Candido Mendes;Candido Mendes;MA;--3-----;RQ;607;;
+BR;CMT;Candido Mota;Candido Mota;SP;--3-----;RQ;607;;
+BR;CDU;Candido Rodrigues;Candido Rodrigues;SP;--3-----;RQ;607;;
+BR;CDT;Candiota;Candiota;RS;--3-----;RQ;607;;
+BR;QCN;Canela;Canela;RS;---4----;AI;9601;;
+BR;CGC;Canguçu;Cangucu;RS;--3-----;RL;1301;;3124S 05241W
+BR;CAD;Caninde;Caninde;CE;--3-----;RQ;607;;
+BR;CFA;Caninde do Sao Francisco;Caninde do Sao Francisco;SE;--3-----;RQ;607;;
+BR;CNR;Canitar;Canitar;SP;--3-----;RQ;607;;
+BR;CQU;Canoa Quebrada;Canoa Quebrada;CE;--3-----;RQ;607;;
+BR;QNS;Canoas;Canoas;RS;---4----;AI;9601;;
+BR;CHS;Canoinhas;Canoinhas;SC;--3-----;RQ;607;;
+BR;CSC;Cansancao;Cansancao;BA;--3-----;RQ;607;;
+BR;RRR;Canta;Canta;RR;--3--6--;RQ;1001;;0236N 06035W
+BR;CTG;Cantagalo;Cantagalo;RJ;--3-----;RQ;607;;
+BR;CRR;Canto do Buriti;Canto do Buriti;PI;--3-----;RQ;607;;
+BR;CPM;Capanema;Capanema;PA;--3-----;RQ;607;;
+BR;CAO;Capão Alto;Capao Alto;SC;-----6--;RL;1201;;2756S 05030W
+BR;CBN;Capao Bonito;Capao Bonito;SP;--3-----;RQ;607;;
+BR;CCN;Capao da Canoa;Capao da Canoa;RS;--3-----;RQ;607;;
+BR;CPE;Capao do Leao;Capao do Leao;RS;--3-----;RQ;607;;
+BR;CPK;Caparao;Caparao;MG;--3-----;RL;1207;;2031S 04154W
+BR;CLS;Capela de Santana;Capela de Santana;RS;--3-----;AA;1601;;2942S 05119W
+BR;CLT;Capela do Alto;Capela do Alto;SP;--3-----;RQ;607;;
+BR;CLH;Capelinha;Capelinha;MG;--3-----;RQ;607;;
+BR;CPT;Capetinga;Capetinga;MG;--3-----;RQ;607;;
+BR;CPP;Capinopolis;Capinopolis;MG;--3-----;RQ;607;;
+BR;CPZ;Capinzal;Capinzal;SC;--3-----;RQ;607;;
+BR;CAE;Capitão Andrade;Capitao Andrade;MG;-----6--;RL;1201;;1904S 04151W
+BR;CPC;Capitao Poco;Capitao Poco;PA;--3-----;RQ;607;;
+BR;CTL;Capitolio;Capitolio;MG;--3-----;RQ;607;;
+BR;CPI;Capivari;Capivari;SP;123-----;RL;601;;2301S 04731W
+BR;CBX;Capivari de Baixo;Capivari de Baixo;SC;--3-----;RQ;607;;
+BR;CD5;Capivari Do Sul;Capivari Do Sul;RS;1-3-----;RL;1401;;3008S 05030W
+BR;CPX;Capixaba;Capixaba;AC;--3-----;RL;701;;1029S 06753W
+BR;CGA;Caponga;Caponga;CE;--3-----;RQ;607;;
+BR;CGU;Caraguatatuba;Caraguatatuba;SP;--3-----;RQ;607;;
+BR;CRV;Caraiva;Caraiva;BA;--3-----;RQ;607;;
+BR;CKS;Carajás;Carajas;PA;---4----;AI;212;;0257S 05152W
+BR;CRM;Carambei;Carambei;PR;--3-----;RQ;607;;
+BR;CAR;Carambei;Carambei;SP;--3-----;RQ;607;;
+BR;CND;Carandai;Carandai;MG;--3-----;RQ;607;;
+BR;CNG;Carangola;Carangola;MG;--3-----;RQ;607;;
+BR;CRB;Carapebus;Carapebus;RJ;--3-----;RL;1301;;2211S 04140W
+BR;CIU;Carapicuiba;Carapicuiba;SP;--3-----;RQ;607;;
+BR;CNE;Carapina da Serra;Carapina da Serra;ES;--3-----;RQ;607;;
+BR;CIG;Caratinga;Caratinga;MG;--3-----;RQ;607;;
+BR;CAF;Carauari;Carauari;AM;---4----;AI;9912;;
+BR;CRQ;Caravelas;Caravelas;BA;---4----;AI;9912;;
+BR;ZHO;Carazinho;Carazinho;RS;--3-----;RQ;607;;
+BR;CAN;Carbonita;Carbonita;MG;--3-----;RQ;607;;
+BR;CMA;Cardeal Mota;Cardeal Mota;MG;--3-----;RQ;607;;
+BR;CDR;Cardoso;Cardoso;SP;--3-----;RQ;607;;
+BR;CSM;Cardoso Moreira;Cardoso Moreira;RJ;--3-----;RQ;607;;
+BR;CEU;Careacu;Careacu;MG;--3-----;RQ;607;;
+BR;CII;Cariacica;Cariacica;ES;--3-----;RQ;607;;
+BR;CAL;Carlópolis;Carlopolis;PR;--3-----;RL;1301;;2325S 04941W
+BR;CBB;Carlos Barbosa;Carlos Barbosa;RS;-23-----;RL;607;;2918S 05130W
+BR;CCG;Carlos Chagas;Carlos Chagas;MG;--3-----;RQ;607;;
+BR;RMO;Carmo;Carmo;RJ;--3-----;RQ;607;;
+BR;MIN;Carmo de Minas;Carmo de Minas;MG;-----6--;RL;1007;;2207S 04508W
+BR;CD2;Carmo do Cajuru;Carmo do Cajuru;MG;--3-----;RL;1401;;2011S 04446W
+BR;COP;Carmo do Paranaiba;Carmo do Paranaiba;MG;--3-----;RQ;607;;
+BR;CRD;Carmo do Rio Claro;Carmo do Rio Claro;MG;--3-----;RQ;607;;
+BR;COV;Carmo do Rio Verde;Carmo do Rio Verde;GO;--3-----;RQ;607;;
+BR;CIH;Carneirinho;Carneirinho;MG;--3-----;RQ;607;;
+BR;CLN;Carolina;Carolina;MA;---4----;AI;9912;;
+BR;CIN;Carpina;Carpina;PE;-23-----;RL;701;;0751S 03515W
+BR;CNC;Carrancas;Carrancas;MG;--3-----;RQ;607;;
+BR;CAU;Caruaru;Caruaru;PE;---4----;AI;9601;;
+BR;CTP;Carutapera;Carutapera;MA;---4----;AI;9912;;
+BR;CSN;Casa Branca;Casa Branca;SP;--3-----;RQ;607;;
+BR;CSG;Casa Grande;Casa Grande;MG;--3-----;RQ;607;;
+BR;CAV;Casa Nova;Casa Nova;BA;1-3-----;RL;701;;0923S 04110W
+BR;SCA;Casca;Casca;RS;--3-----;RQ;607;;
+BR;CCV;Cascavel;Cascavel;CE;--3-----;RQ;607;;
+BR;CAC;Cascavel;Cascavel;PR;---4----;AI;9601;;
+BR;CSD;Casimiro de Abreu;Casimiro de Abreu;RJ;--3-----;RQ;607;;
+BR;CAI;Cassia;Cassia;MG;--3-----;RQ;607;;
+BR;CSS;Cassilândia;Cassilandia;MS;---4----;AI;212;;1909S 05145W
+BR;QHL;Castanhal;Castanhal;PA;---4----;AI;9601;;
+BR;CTH;Castanhal;Castanhal;PR;--3-----;RQ;607;;
+BR;CSE;Castelandia;Castelandia;GO;--3-----;RQ;607;;
+BR;CEO;Castelo;Castelo;ES;--3-----;RQ;607;;
+BR;CHO;Castilho;Castilho;SP;--3-----;RQ;607;;
+BR;CTR;Castro;Castro;PR;--3-----;RQ;607;;
+BR;CAH;Castro Alves;Castro Alves;BA;--3-----;RL;1301;;1245S 03926W
+BR;QCG;Cataguases;Cataguases;MG;-234----;RL;307;;2124S 04241W
+BR;TLZ;Catalao;Catalao;GO;---4----;AI;212;;1810S 04757W
+BR;CDV;Catanduva;Catanduva;SP;--3-----;RQ;607;;
+BR;CTV;Catanduvas;Catanduvas;SC;--3-----;RQ;607;;
+BR;TSL;Catas Altas;Catas Altas;MG;--3-----;RQ;607;;
+BR;CCH;Catole do Rocha;Catole do Rocha;PB;--3-----;RQ;607;;
+BR;ATU;Catu;Catu;BA;--3-----;RQ;607;;
+BR;CUC;Caucaia;Caucaia;CE;--3-----;RQ;607;;
+BR;CXU;Caxambu;Caxambu;MG;--3-----;RQ;607;;
+BR;CXS;Caxias;Caxias;MA;--3-----;RQ;607;;
+BR;CXJ;Caxias do Sul;Caxias do Sul;RS;---4----;AI;9601;;
+BR;CEA;Ceara Mirim;Ceara Mirim;RN;1-3-----;RQ;901;;
+BR;CM2;Ceará-Mirim;Ceara-Mirim;RN;--3-----;RL;1301;;0538S 03526W
+BR;CED;Cedral;Cedral;SP;--3-----;RQ;607;;
+BR;CTD;Centenario do Sul;Centenario do Sul;PR;-----6--;RQ;1001;;2248S 05132W
+BR;MGZ;Central de Minas;Central de Minas;MG;-----6--;RL;1307;;1845S 04120W
+BR;CEL;Centralina;Centralina;MG;--3-----;RQ;607;;
+BR;CJS;Cerejeiras;Cerejeiras;RO;--3-----;RQ;607;;
+BR;CES;Ceres;Ceres;GO;--3-----;RQ;607;;
+BR;CQR;Cerqueira Cesar;Cerqueira Cesar;SP;--3-----;RQ;607;;
+BR;CQO;Cerquilho;Cerquilho;SP;--3-----;RQ;607;;
+BR;CLG;Cerro Largo;Cerro Largo;RS;--3-----;RQ;607;;2808S 05444W
+BR;CLE;Cesario Lange;Cesario Lange;SP;--3-----;RQ;607;;2313S 04757W
+BR;CZR;Cezarina;Cezarina;GO;--3-----;RQ;607;;1658S 04946W
+BR;CAG;Cha de Alegria;Cha de Alegria;PE;--3-----;RQ;607;;0800S 03511W
+BR;CGD;Cha Grande;Cha Grande;PE;--3-----;RQ;607;;0813S 03527W
+BR;CPD;Chapada;Chapada;RS;--3-----;RQ;607;;2804S 05304W
+BR;CGM;Chapada dos Guimaraes;Chapada dos Guimaraes;MT;--3-----;RQ;607;;1526S 05545W
+BR;CPL;Chapadao do Sul;Chapadao do Sul;MS;--3-----;RQ;607;;1847S 05237W
+BR;XAP;Chapeco;Chapeco;SC;---4----;AI;9601;;
+BR;CHC;Characas;Characas;MT;--3-----;RL;901;;
+BR;CHQ;Charqueada;Charqueada;;--3-----;RQ;901;;
+BR;QDA;Charqueada;Charqueada;SP;--3-----;RQ;607;;2230S 04746W
+BR;CQD;Charqueadas;Charqueadas;RS;--3-----;RQ;607;;2957S 05138W
+BR;CVA;Chavantes;Chavantes;SP;--3-----;RQ;607;;2302S 04943W
+BR;CUI;Chui;Chui;RS;--3-----;RQ;607;;3340S 05327W
+BR;CNO;Cianorte;Cianorte;PR;--3-----;RQ;607;;2339S 05236W
+BR;ANF;Cidade de Angra dos Reis FPSO;Cidade de Angra dos Reis FPSO;;------7-;RL;1107;;2455S 04230W
+BR;CDH;Cidade Gaúcha;Cidade Gaucha;PR;--3-----;RL;1401;;2322S 05301W
+BR;COC;Cidade Ocidental;Cidade Ocidental;GO;-23-----;RL;1307;;1604S 04755W
+BR;CRI;Cidreira;Cidreira;RS;--3-----;RQ;607;;3011S 05012W
+BR;CIO;Cipo;Cipo;BA;--3-----;RQ;607;;1106S 03831W
+BR;CIA;Claudia;Claudia;MT;--3-----;RQ;607;;1130S 05453W
+BR;CLI;Claudio;Claudio;MG;--3-----;RQ;607;;2026S 04445W
+BR;CTA;Clementina;Clementina;SP;--3-----;RQ;607;;2131S 05027W
+BR;CVI;Clevelandia;Clevelandia;PR;--3-----;RQ;607;;2623S 05228W
+BR;CRC;Coaraci;Coaraci;BA;--3-----;RQ;607;;1440S 03932W
+BR;CIZ;Coari;Coari;AM;---4----;AI;9912;;
+BR;CLL;Cocal do Sul;Cocal do Sul;SC;--3-----;RQ;607;;2835S 04919W
+BR;CDA;Codajás;Codajas;AM;1-3-----;RL;401;;0350S 06205W
+BR;COO;Codo;Codo;MA;--3-----;RQ;607;;0428S 04352W
+BR;CHN;Coelho Neto;Coelho Neto;MA;--3-----;RQ;607;;0415S 04300W
+BR;CTN;Colatina;Colatina;ES;--3-----;RQ;607;;1932S 04037W
+BR;CGO;Colegio;Colegio;RJ;--3-----;RL;901;;2238S 04244W
+BR;CLD;Colider;Colider;MT;--3-----;RQ;607;;1042S 05530W
+BR;CNA;Colina;Colina;SP;--3-----;RQ;607;;2043S 04832W
+BR;CTS;Colinas de Tocantins;Colinas de Tocantins;TO;--3-----;RL;607;;0807S 04530W
+BR;CLM;Colmeia;Colmeia;TO;--3-----;RQ;607;;0843S 04847W
+BR;CLZ;Colniza;Colniza;MT;--3-----;RL;1407;;0932S 05726W
+BR;CLB;Colombia;Colombia;SP;--3-----;RQ;607;;2010S 04841W
+BR;COL;Colombo;Colombo;PR;--3-----;RL;601;;2517S 04913W
+BR;CRO;Colorado;Colorado;PR;--3-----;RQ;607;;2250S 05158W
+BR;CSW;Colorado do Oeste;Colorado do Oeste;RO;---4----;AI;9912;;
+BR;CMO;Comodoro;Comodoro;MT;--3-----;RQ;607;;1339S 05947W
+BR;CNB;Conceicao da Barra;Conceicao da Barra;ES;--3-----;RQ;607;;1835S 03944W
+BR;CGS;Conceicao das Alagoas;Conceicao das Alagoas;MG;--3-----;RQ;607;;1955S 04822W
+BR;CCC;Conceicao de Castelo;Conceicao de Castelo;ES;--3-----;RQ;607;;2021S 04115W
+BR;CJC;Conceição de Jacuípe;Conceicao de Jacuipe;BA;--3-----;RL;607;;1219S 03845W
+BR;CDJ;Conceição do Araguaia;Conceicao do Araguaia;PA;--34----;AI;507;;0814S 04917W
+BR;CEC;Conceicao do Coite;Conceicao do Coite;BA;--3-----;RQ;607;;1133S 03915W
+BR;CCB;Conceicao do Ibitipoca;Conceicao do Ibitipoca;MG;--3-----;RQ;607;;2142S 04355W
+BR;CMD;Conceicao do Mato Dentro;Conceicao do Mato Dentro;MG;--3-----;RQ;607;;1901S 04325W
+BR;CDP;Conceição do Pará;Conceicao do Para;MG;-23-----;RL;701;;
+BR;CCR;Conceicao dos Ouros;Conceicao dos Ouros;MG;--3-----;RQ;607;;2224S 04547W
+BR;CHL;Conchal;Conchal;SP;--3-----;RQ;607;;2219S 04710W
+BR;CCS;Conchas;Conchas;SP;--3-----;RQ;607;;2301S 04800W
+BR;CCD;Concórdia;Concordia;SC;--34----;AA;1601;CCI;2714S 05201W
+BR;VCO;Conde;Conde;PA;1-3--6--;RL;307;;0134S 04845W
+BR;CDE;Conde;Conde;PB;--3-----;AA;1507;;0715S 03454W
+BR;CNF;Confins International;Confins International;MG;---4----;AI;9912;;
+BR;CFO;Confreza;Confreza;MT;---4----;AI;9912;;
+BR;COG;Congonhas;Congonhas;MG;--3-----;AC;1501;;2030S 04352W
+BR;CGH;Congonhas Apt/São Paulo;Congonhas Apt/Sao Paulo;SP;---4----;AI;207;;2337S 04639W
+BR;CQI;Conquista, Igarapé;Conquista, Igarape;MG;--3-----;RL;1207;;2007S 04418W
+BR;QDF;Conselheiro Lafaiete;Conselheiro Lafaiete;MG;---4----;AI;9601;;
+BR;CHP;Conselheiro Pena;Conselheiro Pena;MG;--3-----;AC;1501;;1910S 04130W
+BR;CVO;Conservatoria;Conservatoria;RJ;--3-----;RQ;607;;2217S 04357W
+BR;CGE;Contagem;Contagem;MG;--3-----;RQ;607;;1954S 04406W
+BR;CON;Contenda;Contenda;PR;--3-----;AC;1501;;2542S 04932W
+BR;CRE;Cordeiro;Cordeiro;RJ;--3-----;RQ;607;;2202S 04221W
+BR;CRS;Cordeirópolis;Cordeiropolis;SP;-23-----;RL;601;;2229S 04727W
+BR;CSO;Cordisburgo;Cordisburgo;MG;--3-----;RQ;607;;1907S 04421W
+BR;CRT;Corinto;Corinto;MG;--3-----;RQ;607;;1821S 04427W
+BR;CKO;Cornélio Procópio;Cornelio Procopio;PR;---4----;AI;212;;2308S 05039W
+BR;COI;Coroaci;Coroaci;MG;--3-----;AC;1501;;1835S 04217W
+BR;8CR;Coroados;Coroados;SP;--3-----;RL;1401;;2122S 05015W
+BR;CML;Coromandel;Coromandel;MG;--3-----;RQ;607;;1825S 04711W
+BR;CDZ;Coronel Domingos Solares;Coronel Domingos Solares;PR;--3-----;AC;1501;;2613S 05202W
+BR;CFB;Coronel Fabriciano;Coronel Fabriciano;MG;--3-----;RQ;607;;1932S 04238W
+BR;COF;Coronel Freitas;Coronel Freitas;SC;--3-----;AC;1501;;2656S 05247W
+BR;VIV;Coronel Vivida;Coronel Vivida;PR;--3-----;AC;1501;;2558S 05234W
+BR;CPJ;Correio Pinto;Correio Pinto;SC;--3-----;RQ;607;;2735S 05021W
+BR;CNT;Corrente;Corrente;PI;--3-----;RQ;607;;1026S 04509W
+BR;COR;Correntina;Correntina;BA;--3-----;AC;1501;;1320S 04439W
+BR;CMG;Corumba;Corumba;MS;1--4----;AI;9601;;
+BR;CGI;Corumba de Goias;Corumba de Goias;GO;--3-----;RQ;607;;1555S 04848W
+BR;CRA;Corupa;Corupa;SC;--3-----;RQ;607;;2626S 04913W
+BR;CUP;Coruripe;Coruripe;AL;--3-----;RQ;607;;1007S 03610W
+BR;CSP;Cosmopolis;Cosmopolis;SP;--3-----;RQ;607;;2237S 04712W
+BR;CMM;Cosmorama;Cosmorama;SP;--3-----;RQ;607;;2028S 04947W
+BR;CQS;Costa Marques;Costa Marques;RO;---4----;AI;9912;;
+BR;CSR;Costa Rica;Costa Rica;MS;--3-----;RQ;607;;2324S 05439W
+BR;CGP;Cotegipe;Cotegipe;BA;--3-----;RL;1201;;1202S 04415W
+BR;OTI;Coti;Coti;BA;--3-----;RL;1207;;1157S 03806W
+BR;COA;Cotia;Cotia;SP;--3-----;RQ;607;;2336S 04656W
+BR;ZZD;Cotipora;Cotipora;RS;--3-----;RL;1301;;2901S 05142W
+BR;COT;Cotriguaçu;Cotriguacu;MT;--3-----;RL;607;;0954S 05824W
+BR;COX;Coxim;Coxim;MS;--3-----;RQ;607;;1830S 05444W
+BR;CTU;Crateus;Crateus;CE;--3-----;RQ;607;;0510S 04040W
+BR;CAT;Crato;Crato;CE;--3-----;RQ;607;;0714S 03924W
+BR;CVH;Cravinhos;Cravinhos;SP;--3-----;RQ;607;;2118S 04745W
+BR;CCM;Criciúma;Criciuma;SC;---4----;AI;401;;2842S 04923W
+BR;CUL;Crissiumal;Crissiumal;RS;--3-----;RL;1301;;2730S 05407W
+BR;CST;Cristalina;Cristalina;GO;--3-----;RQ;607;;1645S 04736W
+BR;CRX;Crixas;Crixas;GO;--3-----;RL;607;;1427S 04957W
+BR;CZB;Cruz Alta;Cruz Alta;RS;---4----;AI;9601;;
+BR;CZA;Cruz das Almas;Cruz das Almas;BA;-23-----;RL;607;;1240S 03906W
+BR;CEB;Cruz do Espírito Santo;Cruz do Espirito Santo;PB;--3-----;RL;1301;;0708S 03506W
+BR;CZI;Cruzeiro;Cruzeiro;SP;--3-----;RQ;607;;2234S 04457W
+BR;CZO;Cruzeiro do Oeste;Cruzeiro do Oeste;;--3-----;RL;607;;2347S 05305W
+BR;CZS;Cruzeiro do Sul;Cruzeiro do Sul;AC;---4----;AI;9601;;
+BR;CRZ;Cruzilia;Cruzilia;MG;--3-----;RQ;607;;2149S 04448W
+BR;CUO;Cubatao;Cubatao;SP;--3-----;RQ;607;;2353S 04625W
+BR;CGB;Cuiabá;Cuiaba;MT;---4----;AI;212;;1535S 05605W
+BR;CXB;Cumuruxatiba;Cumuruxatiba;BA;1-------;RQ;901;;1706S 03911W
+BR;CUH;Cunha;Cunha;SP;--3-----;RQ;607;;2305S 04457W
+BR;CUA;Curaçá;Curaca;BA;1-3-----;RL;701;;0859S 03954W
+BR;CWB;Curitiba;Curitiba;PR;---4----;AI;9601;;
+BR;CRN;Curitibanos;Curitibanos;SC;--3-----;RQ;607;;2715S 05035W
+BR;CUV;Curiúva;Curiuva;PR;--3-----;AC;1501;;2402S 05027W
+BR;QCP;Currais Novos;Currais Novos;RN;---4----;AI;9601;;
+BR;CUR;Curtibanos;Curtibanos;SC;--3-----;RL;701;;2717S 05035W
+BR;CPU;Cururupu;Cururupu;MA;---4----;AI;9601;;
+BR;CVL;Curvelo;Curvelo;MG;--3-----;RQ;607;;1845S 04425W
+BR;CUS;Custódia;Custodia;PE;-----6--;RL;1201;;0807S 03739W
+BR;DMA;Delfim Moreira;Delfim Moreira;MG;--3-----;RQ;607;;2230S 04517W
+BR;DPO;Delfinopolis;Delfinopolis;MG;--3-----;RQ;607;;2020S 04651W
+BR;DGU;Delmiro Gouveia;Delmiro Gouveia;AL;--3-----;RQ;607;;0923S 03759W
+BR;DEL;Delta;Delta;MG;--3-----;AC;1501;;1958S 04747W
+BR;DCO;Descalvado;Descalvado;SP;--3-----;RQ;607;;2154S 04736W
+BR;DID;Diadema;Diadema;SP;--3-----;RL;401;;2342S 04637W
+BR;DTA;Diamantina;Diamantina;MG;--3-----;RQ;607;;1814S 04336W
+BR;DMT;Diamantino;Diamantino;MT;---4----;AI;9912;;
+BR;DNO;Dianópolis;Dianopolis;TO;---4----;AI;212;;1138S 04650W
+BR;DIA;Dias d'Ávila;Dias d'Avila;BA;123-----;RL;601;;1237S 03818W
+BR;DCA;Dionisio Cerqueira;Dionisio Cerqueira;SC;--3-----;RQ;607;;2617S 05335W
+BR;DRS;Dirce Reis;Dirce Reis;SP;--3-----;RL;1207;;2027S 05036W
+BR;DVO;Divino;Divino;ES;--3-----;RQ;607;;2036S 04208W
+BR;DIN;Divino;Divino;MG;--3-----;RL;1407;;2036S 04208W
+BR;DLJ;Divino das Laranjeiras;Divino das Laranjeiras;MG;--3-----;RQ;607;;1845S 04129W
+BR;DVD;Divinolandia;Divinolandia;SP;--3-----;RQ;607;;2140S 04640W
+BR;DIQ;Divinopolis;Divinopolis;MG;---4----;QQ;8103;;
+BR;DCS;Dois Corregos;Dois Corregos;SP;--3-----;RQ;607;;2221S 04821W
+BR;DIS;Dois Irmaos;Dois Irmaos;RS;--3-----;RQ;607;;2937S 05100W
+BR;DVS;Dois Vizinhos;Dois Vizinhos;PR;--3-----;RQ;607;;2544S 05303W
+BR;DCP;Dolcinopolis;Dolcinopolis;SP;--3-----;RQ;607;;2007S 05031W
+BR;DEU;Dom Eliseu;Dom Eliseu;PA;--3-----;RQ;607;;0417S 04730W
+BR;QDP;Dom Pedrito;Dom Pedrito;RS;---4----;AI;9601;;
+BR;DMS;Domingos Martins;Domingos Martins;ES;--3-----;RQ;607;;2021S 04040W
+BR;DDC;Dores de Campo;Dores de Campo;MG;-----6--;RL;1007;;2106S 04401W
+BR;DDI;Dores do Indaia;Dores do Indaia;MG;--3-----;RQ;607;;1927S 04535W
+BR;8PN;Douradina;Douradina;PR;--3-----;RL;1307;;2322S 05317W
+BR;DUO;Dourado;Dourado;SP;--3-----;RQ;607;;2206S 04818W
+BR;DOU;Dourados;Dourados;MS;---4----;AI;9912;;
+BR;DMC;Doutor Mauricio Cardoso;Doutor Mauricio Cardoso;RS;--3-----;RQ;607;;2730S 05422W
+BR;QDC;Dracena;Dracena;SP;---4----;AI;9601;;
+BR;DTI;Duartina;Duartina;SP;--3-----;RQ;607;;2223S 04925W
+BR;QDQ;Duque de Caxias;Duque de Caxias;RJ;---4----;AI;9601;;
+BR;ECP;Ecoporanga;Ecoporanga;ES;--3-----;AC;1501;;1822S 04049W
+BR;8ED;Edéia;Edeia;GO;--3-----;RL;1301;;1718S 04955W
+BR;ERN;Eirunepé;Eirunepe;AM;---4----;AI;212;;0640S 06952W
+BR;ERA;Eldorado;Eldorado;MS;--3-----;RQ;607;;2347S 05417W
+BR;ELO;Eldorado;Eldorado;SP;--3-----;RL;307;;2431S 04806W
+BR;EDS;Eldorado do Sul;Eldorado do Sul;RS;--3-----;RQ;701;;
+BR;EFU;Elias Fausto;Elias Fausto;SP;--3-----;RQ;607;;2302S 04723W
+BR;ELM;Elói Mendes;Eloi Mendes;MG;--3-----;AC;1501;;2137S 04534W
+BR;EUB;Embauba;Embauba;SP;--3-----;RQ;607;;2058S 04850W
+BR;EDA;Embu das Artes;Embu das Artes;SP;--3-----;RL;1207;;2338S 04651W
+BR;EGU;Embu-Guacu;Embu-Guacu;SP;--3-----;RQ;607;;2349S 04648W
+BR;ECO;Encantado;Encantado;RS;--3-----;RQ;607;;2914S 05152W
+BR;ECS;Encruzilhada do Sul;Encruzilhada do Sul;RS;--3-----;AC;1501;;3032S 05231W
+BR;EBR;Engenheiro Beltrao;Engenheiro Beltrao;PR;--3-----;RQ;607;;2347S 05215W
+BR;ECH;Engenheiro Coelho;Engenheiro Coelho;SP;-23-----;RL;607;;2230S 04712W
+BR;EPA;Engenheiro Passos;Engenheiro Passos;RJ;--3-----;RQ;607;;2230S 04440W
+BR;EPF;Engenheiro Paulo de Frontin;Engenheiro Paulo de Frontin;RJ;--3-----;RQ;607;;2232S 04341W
+BR;ERS;Entre Rios;Entre Rios;BA;--3-----;RQ;607;;1156S 03805W
+BR;ERM;Erechim;Erechim;RS;---4----;AI;9601;;
+BR;ERT;Ernestina;Ernestina;RS;--3-----;AA;1601;;2830S 05234W
+BR;ESD;Escada;Escada;PE;--3-----;RQ;607;;0821S 03514W
+BR;EMA;Esmeraldas;Esmeraldas;MG;--3-----;RQ;607;;1944S 04419W
+BR;ESZ;Espera Feliz;Espera Feliz;MG;--3-----;RQ;607;;
+BR;ETI;Esperantina;Esperantina;PI;--3-----;RQ;607;;
+BR;EOT;Espigao do Oeste;Espigao do Oeste;RO;--3-----;RQ;607;;
+BR;ESI;Espinosa;Espinosa;MG;---4----;AI;9912;;
+BR;EPI;Espirito Santo do Pinhal;Espirito Santo do Pinhal;SP;--3-----;RQ;607;;
+BR;ESF;Espirito Santo FPSO;Espirito Santo FPSO;;------7-;RQ;1001;;2112S 03944W
+BR;EPU;Espumoso;Espumoso;RS;--3-----;RQ;607;;
+BR;EST;Estância;Estancia;SE;--3-----;RL;501;;1116S 03726W
+BR;EVH;Estancia Velha;Estancia Velha;RS;--3-----;RQ;607;;
+BR;ETO;Esteio;Esteio;RS;--3-----;RQ;607;;
+BR;EGI;Estiva Gerbi;Estiva Gerbi;SP;--3-----;RQ;607;;
+BR;ETR;Estreito;Estreito;MA;--3-----;RQ;607;;
+BR;ETA;Estrela;Estrela;RS;--3-----;RQ;607;;
+BR;EDI;Estrela do Indaia;Estrela do Indaia;MG;-----6--;RQ;1001;;1934S 04548W
+BR;EOS;Estrela do Oeste;Estrela do Oeste;SP;--3-----;RQ;607;;
+BR;ESA;Estrema;Estrema;AC;1-3-----;RL;701;;0812S 07256W
+BR;ECU;Euclides da Cunha;Euclides da Cunha;BA;--3-----;RQ;607;;
+BR;EDM;Eugenio de Melo;Eugenio de Melo;SP;--3--6--;RQ;1001;;2309S 04547W
+BR;EPO;Eunapolis;Eunapolis;BA;--3-----;RQ;607;;
+BR;ESO;Eusébio;Eusebio;CE;--3-----;RL;507;;0354S 03827W
+BR;EZI;Euzebio;Euzebio;CE;--3-----;RQ;607;;
+BR;JSE;Evangelista;Evangelista;MG;--3-----;RL;1307;;1832S 04245W
+BR;EXA;Extrema;Extrema;MG;--3-----;RQ;607;;
+BR;EXZ;Extremoz;Extremoz;RN;--3-----;RQ;607;;
+BR;FPA;Farroupilha;Farroupilha;RS;-23-----;RL;607;;2914S 05121W
+BR;FTU;Fartura;Fartura;SP;--3-----;RQ;607;;
+BR;FSU;Fatima do Sul;Fatima do Sul;MS;--3-----;RQ;607;;
+BR;FNA;Fazenda Nova;Fazenda Nova;PE;--3-----;RQ;607;;
+BR;FRG;Fazenda Rio Grande;Fazenda Rio Grande;PR;--3-----;RQ;607;;
+BR;FEJ;Feijo;Feijo;AC;---4----;AI;9912;;
+BR;FEC;Feira de Santana;Feira de Santana;BA;---4----;AI;9912;;
+BR;FND;Felixlandia;Felixlandia;MG;--3-----;RL;1207;;1845S 04453W
+BR;FTM;Fernandes Tourinho;Fernandes Tourinho;MG;-----6--;RL;1107;;1909S 04204W
+BR;FEN;Fernando de Noronha;Fernando de Noronha;PE;1-34----;AI;307;;0351S 03225W
+BR;FPE;Fernando Prestes;Fernando Prestes;SP;--3-----;RQ;607;;
+BR;FPO;Fernandopolis;Fernandopolis;SP;--3-----;RQ;607;;
+BR;FVA;Ferraz de Vasconcelos;Ferraz de Vasconcelos;SP;--3-----;RQ;607;;
+BR;FGU;Figueira;Figueira;PR;--3-----;RQ;607;;
+BR;FLO;Florai;Florai;PR;--3-----;RQ;607;;
+BR;FCU;Flores da Cunha;Flores da Cunha;RS;--3-----;RQ;607;;
+BR;FSA;Florestal;Florestal;MG;--3-----;RQ;607;;
+BR;FLP;Florestopolis;Florestopolis;PR;--3-----;RL;1207;;2252S 05124W
+BR;FLB;Floriano;Floriano;PI;---4----;AI;9912;;
+BR;FLN;Florianópolis;Florianopolis;SC;1--4----;AI;212;;2735S 04834W
+BR;FPS;Florida Paulista;Florida Paulista;SP;--3-----;RQ;607;;
+BR;FLU;Fluminense;Fluminense;;------7-;RQ;907;;2238S 04025W
+BR;FMI;Formiga;Formiga;MG;--3-----;RQ;607;;
+BR;FMO;Formosa;Formosa;GO;--3-----;RQ;607;;
+BR;FAG;Formoso do Araguaia;Formoso do Araguaia;TO;--3-----;RQ;607;;
+BR;FNO;Forno;Forno;RJ;0-------;RQ;9506;;
+BR;FOA;Forquilhinha;Forquilhinha;SC;--3-----;RL;1207;;2845S 04928W
+BR;FOR;Fortaleza;Fortaleza;CE;1--4----;AI;9601;;
+BR;FMS;Fortaleza de Minas;Fortaleza de Minas;MG;--3-----;RQ;607;;
+BR;IGU;Foz do Iguaçu;Foz do Iguacu;PR;---4----;AI;212;;2533S 05435W
+BR;FGO;Fraiburgo;Fraiburgo;SC;--3-----;RQ;607;;
+BR;FRC;Franca;Franca;SP;---4----;AI;9912;;
+BR;FBE;Francisco Beltrao;Francisco Beltrao;PR;---4----;AI;212;;2605S 05304W
+BR;FTO;Francisco Morato;Francisco Morato;SP;--3-----;RQ;607;;
+BR;FRO;Franco da Rocha;Franco da Rocha;SP;--3-----;RQ;607;;
+BR;FWP;Frederico Westphalen;Frederico Westphalen;RS;--3-----;RQ;607;;
+BR;FRU;Frutal;Frutal;MG;--3-----;RQ;607;;
+BR;FDA;Fundao;Fundao;ES;--3-----;RQ;607;;
+BR;GLA;Galia;Galia;SP;--3-----;RQ;607;;
+BR;GLE;Gameleira;Gameleira;PE;--3-----;RQ;607;;
+BR;GDU;Gandu;Gandu;BA;--3-----;RQ;607;;
+BR;GHU;Garanhuns;Garanhuns;PE;--3-----;RQ;607;;
+BR;GCA;Garca;Garca;SP;--3-----;RQ;607;;
+BR;GBI;Garibaldi;Garibaldi;RS;--3-----;RQ;607;;
+BR;GPA;Garopaba;Garopaba;SC;--3-----;RQ;607;;
+BR;GAV;Garuva;Garuva;SC;--3-----;AC;1501;;2601S 04851W
+BR;GSA;Gaspar;Gaspar;SC;--3-----;RQ;607;;
+BR;GAU;Gaucha;Gaucha;MT;--3-----;RL;1307;;1504S 05834W
+BR;GEB;Gebig;Gebig;RJ;1-------;RQ;9506;;
+BR;GLC;General Carneiro;General Carneiro;MT;--3-----;AC;1501;;1542S 05245W
+BR;GEC;General Carneiro;General Carneiro;PR;--3-----;AC;1501;;2628S 05125W
+BR;GSO;General Salgado;General Salgado;SP;--3-----;RQ;607;;
+BR;GPU;Genipabu;Genipabu;RN;--3-----;RQ;607;;
+BR;GTU;Getulina;Getulina;SP;--3-----;RQ;607;;
+BR;GVA;Getulio Vargas;Getulio Vargas;RS;--3-----;RQ;607;;
+BR;GRA;Girua;Girua;RS;--3-----;RQ;607;;
+BR;GDO;Gloria de Dourados;Gloria de Dourados;MS;--3-----;RQ;607;;
+BR;GDG;Glória do Goitá;Gloria do Goita;PE;--3-----;RL;1207;;0801S 03517W
+BR;GHA;Glorinha;Glorinha;RS;--3-----;RQ;607;;
+BR;GNA;Goiana;Goiana;PE;--3-----;AA;1507;;0733S 03500W
+BR;GPO;Goianapolis;Goianapolis;GO;--3-----;RQ;607;;
+BR;GNI;Goianesia;Goianesia;GO;--3-----;RQ;607;;
+BR;GYN;Goiânia;Goiania;GO;---4----;AI;212;;1640S 04916W
+BR;GIS;Goias;Goias;GO;--3-----;RQ;607;;
+BR;GTA;Goiatuba;Goiatuba;GO;--3-----;RQ;607;;
+BR;GOE;Goioere;Goioere;PR;--3-----;RQ;607;;
+BR;GCS;Goncalves;Goncalves;MG;--3-----;RQ;607;;
+BR;GZG;Gonzaga;Gonzaga;MG;--3-----;AC;1501;;1848S 04230W
+BR;GCR;Governador Celso Ramos;Governador Celso Ramos;SC;--3-----;RQ;607;;
+BR;GDA;Governador Lacerda de Aguiar;Governador Lacerda de Aguiar;ES;--3-----;RL;1207;;1838S 04056W
+BR;GVR;Governador Valadares;Governador Valadares;MG;---4----;AI;9912;;
+BR;GJA;Grajau;Grajau;MA;--3-----;RQ;607;;
+BR;QRP;Gramado;Gramado;RS;---4----;AI;9601;;
+BR;GPR;Grao Para;Grao Para;SC;--3-----;RQ;607;;
+BR;GVT;Gravata;Gravata;PE;--3-----;RQ;607;;
+BR;GCV;Gravataí;Gravatai;RS;--3-----;RL;212;;2957S 05059W
+BR;GVL;Gravatal;Gravatal;SC;--3-----;RQ;607;;
+BR;GSS;Grossos;Grossos;RN;-23-----;RL;507;;0459S 03709W
+BR;GOB;Guabirotuba;Guabirotuba;PR;--3-----;RQ;607;;
+BR;GUB;Guabiruba;Guabiruba;SC;--3-----;AC;1501;;2705S 04858W
+BR;GCU;Guacui;Guacui;ES;--3-----;RQ;607;;
+BR;GDP;Guadalupe;Guadalupe;PI;---4----;AI;9912;;
+BR;GIB;Guaíba;Guaiba;RS;--3-----;RL;1207;;3006S 05119W
+BR;GAB;Guaimbe;Guaimbe;SP;--3-----;RQ;607;;
+BR;QGA;Guaira;Guaira;PR;---4----;AI;9601;;
+BR;GIR;Guaira;Guaira;SP;--3-----;RQ;607;;
+BR;GJM;Guajará-Mirim;Guajara-Mirim;RO;-234----;RL;307;;1048S 06522W
+BR;GUA;Guamaré;Guamare;RN;1-3-----;RL;307;;0506S 03619W
+BR;GNM;Guanambi;Guanambi;BA;---4----;AI;9912;;
+BR;GHE;Guanhaes;Guanhaes;MG;--3-----;RQ;607;;
+BR;GPE;Guape;Guape;MG;--3-----;RQ;607;;
+BR;GPC;Guapiacu;Guapiacu;SP;--3-----;RQ;607;;
+BR;GPI;Guapiara;Guapiara;SP;--3-----;RQ;607;;
+BR;GPM;Guapimirim;Guapimirim;RJ;--3-----;RQ;607;;
+BR;GAP;Guapo;Guapo;GO;--3-----;RQ;607;;
+BR;GUP;Guapore;Guapore;RS;--3-----;RQ;607;;
+BR;GAR;Guara;Guara;SP;--3-----;RQ;607;;
+BR;GBA;Guarabira;Guarabira;PB;--3-----;RQ;607;;
+BR;GRI;Guaracai;Guaracai;SP;--3-----;RQ;607;;
+BR;GAI;Guaraci;Guaraci;SP;--3-----;RQ;607;;
+BR;GNO;Guaraciaba do Norte;Guaraciaba do Norte;CE;--3-----;RQ;607;;
+BR;GRQ;Guarai;Guarai;TO;--3-----;RQ;607;;
+BR;GJU;Guarajuba;Guarajuba;BA;--3-----;RQ;607;;
+BR;GRM;Guaramirim;Guaramirim;SC;--3-----;RQ;607;;
+BR;GAA;Guaranésia;Guaranesia;MG;--3-----;RL;1401;;2118S 04648W
+BR;GNR;Guaranta do Norte;Guaranta do Norte;MT;--3-----;RQ;607;;
+BR;QDL;Guarapari;Guarapari;ES;---4----;AI;9601;;
+BR;GPB;Guarapuava;Guarapuava;PR;---4----;QQ;8103;;
+BR;GQE;Guaraquecaba;Guaraquecaba;PR;--3-----;RQ;607;;
+BR;GRE;Guararapes;Guararapes;SP;--3-----;RQ;607;;
+BR;GAM;Guararema;Guararema;SP;--3-----;RQ;607;;
+BR;GUJ;Guaratinguetá;Guaratingueta;SP;---4----;AI;212;;2249S 04513W
+BR;GTB;Guaratuba;Guaratuba;PR;1-3-----;RL;607;;2555S 04835W
+BR;GEM;Guarda do Embau;Guarda do Embau;SC;--3-----;RQ;607;;
+BR;GMO;Guarda-Mor;Guarda-Mor;MG;--3-----;RQ;607;;
+BR;GRB;Guariba;Guariba;SP;--3-----;RQ;607;;
+BR;GUR;Guarujá;Guaruja;SP;--3-----;RL;501;;2400S 04616W
+BR;GDS;Guarujá do Sul;Guaruja do Sul;SC;--3-----;AC;1501;;2623S 05331W
+BR;QCV;Guarulhos;Guarulhos;SP;--3-----;RL;207;;2329S 04632W
+BR;GRU;Guarulhos Apt/São Paulo;Guarulhos Apt/Sao Paulo;SP;---4----;AI;207;;2326S 04629W
+BR;GUT;Guatambu;Guatambu;SC;--3-----;AC;1501;;2707S 05245W
+BR;GXP;Guaxupé;Guaxupe;MG;-23-----;RL;701;;2118S 04642W
+BR;GMS;Guimaraes;Guimaraes;MA;---4----;AI;212;;0208S 04436W
+BR;GTI;Guiratinga;Guiratinga;MT;--3-----;RQ;607;;
+BR;GRP;Gurupi;Gurupi;GO;---4----;AI;9912;;
+BR;GUU;Gurupi;Gurupi;TO;--3-----;RQ;607;;
+BR;GZO;Guzolandia;Guzolandia;SP;--3-----;RQ;607;;
+BR;HLA;Herculandia;Herculandia;SP;--3-----;RQ;607;;
+BR;HDT;Herval D Oeste;Herval D Oeste;SC;-----6--;RL;1107;;2711S 05129W
+BR;HLI;Hidrolandia;Hidrolandia;GO;--3-----;RQ;607;;
+BR;HLR;Holambra;Holambra;SP;--3-----;RQ;607;;
+BR;HNS;Honorio Serpa;Honorio Serpa;PR;--3-----;RL;1207;;2613S 05239W
+BR;HZO;Horizonte;Horizonte;CE;--3-----;RQ;607;;
+BR;HRZ;Horizontina;Horizontina;RS;--3-----;RL;701;;2738S 05418W
+BR;HTL;Hortolândia;Hortolandia;SP;-23-----;RL;507;;2251S 04715W
+BR;HMA;Humaita;Humaita;AM;--3-----;RQ;607;;
+BR;ICA;Iaciara;Iaciara;GO;--3-----;RQ;607;;
+BR;ICI;Iacri;Iacri;SP;--3-----;RQ;607;;
+BR;UCA;Iaçu;Iacu;BA;--3-----;RL;1301;;1245S 04013W
+BR;IAW;Iapu;Iapu;MG;--3-----;AC;1501;;1926S 04213W
+BR;BIT;Ibaiti;Ibaiti;PR;--3-----;RL;1401;;2350S 05010W
+BR;IBC;Ibate;Ibate;SP;--3-----;RQ;607;;
+BR;IBI;Ibati;Ibati;PR;--3-----;RQ;607;;
+BR;IBM;Ibema;Ibema;PR;--3-----;AC;1501;;2506S 05300W
+BR;BIA;Ibia;Ibia;MG;--3-----;RQ;607;;
+BR;IBX;Ibiaçá;Ibiaca;RS;-----6--;RL;1201;;2803S 05152W
+BR;IRI;Ibicarai;Ibicarai;BA;--3-----;RQ;607;;
+BR;IMR;Ibimirim;Ibimirim;PE;--3-----;AC;1501;;0832S 03742W
+BR;IPA;Ibipora;Ibipora;PR;--3-----;RQ;607;;
+BR;IBR;Ibira;Ibira;SP;--3-----;RQ;607;;
+BR;ICU;Ibiracu;Ibiracu;ES;--3-----;RQ;607;;
+BR;IMA;Ibirama;Ibirama;SC;--3-----;RQ;607;;
+BR;IRM;Ibirarema;Ibirarema;SP;--3-----;RQ;607;;
+BR;LBT;Ibirataia;Ibirataia;BA;--3-----;RL;1301;;1404S 03938W
+BR;IRT;Ibirite;Ibirite;MG;--3-----;RQ;607;;
+BR;IRU;Ibiruba;Ibiruba;RS;--3-----;RQ;607;;
+BR;ING;Ibitinga;Ibitinga;SP;--3-----;RQ;607;;
+BR;IVU;Ibitiuva;Ibitiuva;SP;--3-----;RQ;607;;
+BR;IBU;Ibiuna;Ibiuna;SP;--3-----;RQ;607;;
+BR;IBO;Ibo;Ibo;BA;--3-----;RL;607;;1217S 03757W
+BR;IBT;Ibotirama;Ibotirama;BA;--3-----;RQ;607;;
+BR;ICP;Icapuí;Icapui;CE;--3-----;AC;1501;;0442S 03721W
+BR;ICR;Icara;Icara;SC;--3-----;RQ;607;;
+BR;IMI;Icaraima;Icaraima;PR;--3-----;RQ;607;;
+BR;ICM;Icem;Icem;SP;--3-----;RQ;607;;
+BR;QDO;Icoaraci;Icoaraci;PA;---4----;AI;9601;;
+BR;ICN;Iconha;Iconha;ES;--3-----;RQ;607;;
+BR;IEP;Iepe;Iepe;SP;--3-----;RQ;607;;
+BR;IGA;Igaraçu;Igaracu;PE;1-3-----;RL;601;;0750S 03454W
+BR;IRP;Igarapava;Igarapava;SP;--3-----;RQ;607;;
+BR;IGB;Igarape;Igarape;MG;--3-----;RQ;607;;
+BR;IAC;Igarape-Acu;Igarape-Acu;PA;--3-----;RQ;607;;
+BR;STI;Igaratá;Igarata;SP;--3-----;RL;1301;;2312S 04607W
+BR;IGT;Igaratinga;Igaratinga;MG;--3-----;RQ;607;;
+BR;IGJ;Igrejinha;Igrejinha;RS;--3-----;RQ;607;;
+BR;ICG;Iguacu;Iguacu;PR;-----6--;RQ;1001;;2607S 05040W
+BR;IGP;Iguape;Iguape;SP;--3-----;RQ;607;;
+BR;IGV;Iguarapava;Iguarapava;SP;--3-----;RQ;607;;
+BR;ITM;Iguatama;Iguatama;MG;--3-----;RQ;607;;
+BR;IGM;Iguatemi;Iguatemi;MS;--3-----;RQ;607;;
+BR;QIG;Iguatu;Iguatu;CE;---4----;AI;9601;;
+BR;GUI;Ihla Guaíba;Ihla Guaiba;RJ;1-------;RL;1207;;2301S 04402W
+BR;IJA;Ijaci;Ijaci;MG;--3-----;RQ;607;;
+BR;IJU;Ijuí;Ijui;RS;---4----;AI;212;;2823S 05355W
+BR;ICO;Ilha Comprida;Ilha Comprida;SP;--3-----;RQ;607;;
+BR;IDT;Ilha d'Agua Terminal;Ilha d'Agua Terminal;RJ;------7-;RQ;907;;2249S 04303W
+BR;IBP;Ilha de Boipeba;Ilha de Boipeba;BA;--3-----;RQ;607;;
+BR;ICD;Ilha de Comandatuba;Ilha de Comandatuba;BA;--3-----;RQ;607;;
+BR;IDI;Ilha de Itamaracá;Ilha de Itamaraca;PE;--3-----;RL;1301;;0744S 03449W
+BR;IMJ;Ilha de Marajo;Ilha de Marajo;PA;--3-----;RQ;607;;
+BR;ICS;Ilha do Cardoso;Ilha do Cardoso;SP;--3-----;RQ;607;;
+BR;IGO;Ilha do Governador;Ilha do Governador;RJ;--3-----;RQ;607;;
+BR;IME;Ilha do Mel;Ilha do Mel;PR;--3-----;RQ;607;;
+BR;IPP;Ilha do Papagaio;Ilha do Papagaio;SC;--3-----;RQ;607;;
+BR;IGE;Ilha Grande;Ilha Grande;RJ;--3-----;RQ;607;;
+BR;RET;Ilha Redonda Terminal;Ilha Redonda Terminal;;------7-;RQ;907;;2280S 04311W
+BR;ILB;Ilha Solteira;Ilha Solteira;MS;---4----;AI;9912;;
+BR;ISA;Ilha Solteira;Ilha Solteira;SP;--3-----;RQ;607;;
+BR;IBE;Ilhabela;Ilhabela;SP;--3-----;RQ;607;;
+BR;IOS;Ilheus;Ilheus;BA;1--4----;AI;9601;;
+BR;ILH;Ilhota;Ilhota;SC;--3-----;AC;1501;;2654S 04852W
+BR;ISI;Imbassai;Imbassai;BA;--3-----;RQ;607;;
+BR;IMB;Imbe;Imbe;RS;--3-----;RQ;607;;
+BR;IBB;Imbituba;Imbituba;SC;1-------;AI;9401;;
+BR;IBV;Imbituva;Imbituva;PR;-----6--;RQ;1001;;2512S 05035W
+BR;IGR;Imigrante;Imigrante;RS;--3-----;RQ;607;;
+BR;IMP;Imperatriz;Imperatriz;MA;---4----;AI;9601;;
+BR;RJK;Inajá;Inaja;PE;1----6--;RQ;907;;8540N 37490W
+BR;IDA;Indaial;Indaial;SC;--3-----;RQ;607;;
+BR;IDU;Indaiatuba;Indaiatuba;SP;-23-----;RL;701;;2306S 04712W
+BR;IDP;Independencia;Independencia;RS;--3-----;RQ;907;;2751S 05412W
+BR;INA;Indiana;Indiana;SP;--3-----;RQ;607;;
+BR;IND;Indianópolis;Indianopolis;PR;--3-----;AC;1501;;2325S 05244W
+BR;IHU;Inhauma;Inhauma;MG;--3-----;RQ;607;;
+BR;IHS;Inhumas;Inhumas;GO;--3-----;RQ;607;;
+BR;ICE;Inocencia;Inocencia;MS;--3-----;RQ;607;;
+BR;IOM;Iomerê;Iomere;SC;--3-----;AC;1501;;2701S 05115W
+BR;BPM;Ipameri;Ipameri;GO;-----6--;RL;1201;;1743S 04809W
+BR;IPM;Ipanema;Ipanema;MG;--3-----;RQ;607;;
+BR;IGC;Ipanguacu;Ipanguacu;RN;--3-----;RQ;607;;
+BR;IPN;Ipatinga;Ipatinga;MG;---4----;AI;9912;;
+BR;IPQ;Iperó;Ipero;SP;-23-----;RL;701;;2321S 04741W
+BR;IPE;Ipeúna;Ipeuna;SP;--3-----;RL;601;;2226S 04743W
+BR;IPU;Ipiaú;Ipiau;BA;---4----;AI;212;;1408S 03944W
+BR;IPG;Ipiranga;Ipiranga;AM;---4----;AI;9912;;
+BR;IPO;Ipojuca;Ipojuca;PE;1-3-----;RL;607;;0824S 03503W
+BR;IPR;Ipora;Ipora;GO;--3-----;RQ;607;;
+BR;ORA;Ipora;Ipora;PR;--3-----;RL;1207;;2359S 05337W
+BR;IOT;Ipora do Oeste;Ipora do Oeste;SC;--3-----;RQ;607;;
+BR;IRG;Iporanga;Iporanga;SP;--3-----;RQ;607;;
+BR;PUA;Ipua;Ipua;SP;--3-----;RQ;607;;
+BR;IUA;Ipuiúna;Ipuiuna;MG;--3-----;AC;1501;;2206S 04611W
+BR;IPS;Iracemapolis;Iracemapolis;SP;--3-----;RQ;607;;
+BR;RAI;Irai;Irai;RS;--3-----;RQ;607;;
+BR;IAA;Iraja;Iraja;RJ;--3-----;RQ;607;;
+BR;BAI;Iranduba;Iranduba;AM;-----6--;RL;901;;0315N 06006W
+BR;INI;Irani;Irani;SC;--3-----;AA;1507;;2701S 05154W
+BR;PRA;Irapuru;Irapuru;SP;--3-----;RQ;607;;
+BR;IRQ;Iraquara;Iraquara;BA;--3-----;RQ;907;;1215S 04136W
+BR;ATI;Irati;Irati;PR;--3-----;RQ;607;;
+BR;IRE;Irecê;Irece;BA;---4----;AI;212;;1118S 04152W
+BR;IAM;Iretama;Iretama;PR;--3-----;RQ;607;;
+BR;IRR;Iriri;Iriri;ES;--3-----;RQ;607;;
+BR;XTA;Ita;Ita;SC;--3-----;RQ;607;;
+BR;INX;Itabaiana;Itabaiana;SE;--3-----;RQ;607;;
+BR;FIP;Itabapoana;Itabapoana;RJ;--3-----;RL;607;;2119S 04058W
+BR;IBN;Itabatan;Itabatan;BA;--3-----;RQ;607;;
+BR;IAB;Itabera;Itabera;SP;--3-----;RQ;607;;
+BR;IBA;Itaberaba;Itaberaba;BA;-23-----;RL;507;;1232S 04018W
+BR;IAR;Itaberai;Itaberai;GO;--3-----;RQ;607;;
+BR;IIR;Itabira;Itabira;MG;--3-----;RQ;607;;
+BR;IRO;Itabirito;Itabirito;MG;123-----;RL;701;;2015S 04348W
+BR;IOI;Itaborai;Itaborai;RJ;--3-----;RQ;607;;
+BR;ITN;Itabuna;Itabuna;BA;---4----;AI;9601;;
+BR;ITC;Itacare;Itacare;BA;--3-----;RQ;607;;
+BR;ITA;Itacoatiara;Itacoatiara;AM;---4----;AI;9912;;
+BR;IRC;Itacuruca;Itacuruca;RJ;--3-----;RQ;607;;
+BR;ITW;Itagimirim;Itagimirim;BA;--3-----;RL;1401;;1605S 03936W
+BR;IDB;Itaguaçu;Itaguacu;BA;-----6--;RL;1201;;1336S 04154W
+BR;TDB;Itaguaçu;Itaguacu;ES;-----6--;RL;1201;;1948S 04051W
+BR;IGI;Itaguaí;Itaguai;RJ;-23-----;RL;1307;;2252S 04346W
+BR;IAG;Itaguara;Itaguara;MG;--3-----;RQ;607;;
+BR;IAI;Itai;Itai;SP;--3-----;RQ;607;;
+BR;IIM;Itaim;Itaim;MG;--3-----;RL;1301;;2224S 04553W
+BR;IPL;Itaiopolis;Itaiopolis;SC;--3-----;RQ;607;;
+BR;ITV;Itaipava;Itaipava;RJ;--3-----;RQ;607;;
+BR;IPD;Itaipulândia;Itaipulandia;PR;--3-----;AA;1507;;2508S 05418W
+BR;9IT;Itaitinga;Itaitinga;CE;--3-----;RL;1407;;0358S 03831W
+BR;ITB;Itaituba;Itaituba;PA;---4----;AI;9912;;
+BR;ITJ;Itajai;Itajai;SC;1--4----;AI;9601;;
+BR;IJT;Itajibá;Itajiba;BA;--3-----;RL;1301;;1417S 03951W
+BR;IJB;Itajobi;Itajobi;SP;--3-----;RQ;607;;
+BR;IAJ;Itajuba;Itajuba;MG;--3-----;RQ;607;;
+BR;IJP;Itajuipe;Itajuipe;BA;--3-----;RQ;607;;
+BR;IMC;Itamaraca;Itamaraca;PE;--3-----;RQ;607;;
+BR;IRJ;Itamaraju;Itamaraju;BA;--3-----;RQ;607;;
+BR;IMN;Itamarati de Minas;Itamarati de Minas;MG;--3-----;RQ;607;;
+BR;ITI;Itambacuri;Itambacuri;MG;---4----;AI;9912;;
+BR;IAE;Itambe;Itambe;PR;--3-----;RQ;607;;
+BR;IPB;Itambe de Pernambuco;Itambe de Pernambuco;PE;--3-----;RQ;607;;
+BR;IMT;Itamonte;Itamonte;MG;--3-----;RQ;607;;
+BR;ITH;Itanhaem;Itanhaem;SP;--3-----;RQ;607;;
+BR;IHA;Itanhandu;Itanhandu;MG;--3-----;RQ;607;;
+BR;IOC;Itaocara;Itaocara;RJ;--3-----;RQ;607;;
+BR;IPI;Itapagipe;Itapagipe;MG;--3-----;RQ;607;;
+BR;IIC;Itaparica;Itaparica;BA;--3-----;RQ;607;;
+BR;IEB;Itapebi;Itapebi;BA;--3-----;RQ;607;;
+BR;ICC;Itapecerica;Itapecerica;MG;--3-----;RQ;607;;
+BR;ISR;Itapecerica da Serra;Itapecerica da Serra;SP;--3-----;RQ;607;;
+BR;IMM;Itapecuru-Mirim;Itapecuru-Mirim;MA;--3-----;RQ;607;;
+BR;IJW;Itapejara d'Oeste;Itapejara d'Oeste;PR;--3-----;AC;1501;;2557S 05248W
+BR;IEM;Itapema;Itapema;SC;--3-----;RQ;607;;
+BR;ITZ;Itapemirim;Itapemirim;ES;1-3-----;RL;601;;2101S 04050W
+BR;IYT;Itaperucu;Itaperucu;PR;--3--6--;RQ;1001;;2512S 04922W
+BR;ITP;Itaperuna;Itaperuna;RJ;--3-----;RQ;607;;
+BR;ITG;Itapetinga;Itapetinga;BA;--3-----;RL;507;QIT;1515S 04015W
+BR;IIG;Itapetininga;Itapetininga;SP;--3-----;RQ;607;;
+BR;IAV;Itapeva;Itapeva;SP;--3-----;RQ;607;;
+BR;IEV;Itapevi;Itapevi;SP;--3-----;RQ;607;;
+BR;IIP;Itapipoca;Itapipoca;CE;--3-----;RQ;607;;
+BR;TPI;Itapira;Itapira;SP;--3-----;RQ;607;;
+BR;IRN;Itapiranga;Itapiranga;SC;--3-----;RQ;607;;
+BR;ISM;Itapissuma;Itapissuma;PE;--3-----;RQ;607;;
+BR;IOA;Itapoá;Itapoa;SC;1-3-----;RL;1101;;2607S 04836W
+BR;ILS;Itapolis;Itapolis;SP;--3-----;RQ;607;;
+BR;IAO;Itapora;Itapora;MS;--3-----;RQ;607;;
+BR;IOG;Itaporanga;Itaporanga;SP;--3-----;RQ;607;;
+BR;IJJ;Itaporanga d'Ajuda;Itaporanga d'Ajuda;SE;--3-----;AC;1501;;1059S 03718W
+BR;IDW;Itapuã do Oeste;Itapua do Oeste;RO;--3-----;AC;1501;;0912S 06310W
+BR;IUI;Itapuí;Itapui;SP;--3-----;AC;1501;;2214S 04841W
+BR;IUG;Itapuranga;Itapuranga;GO;--3-----;RQ;607;;
+BR;IQU;Itaquaquecetuba;Itaquaquecetuba;SP;--3-----;RQ;607;;
+BR;IQI;Itaqui;Itaqui;MA;1-3-----;RL;407;;0236S 04421W
+BR;ITQ;Itaqui;Itaqui;RS;1--4----;AI;9601;;
+BR;IQR;Itaquirai;Itaquirai;MS;-----6--;RL;1007;;2315S 05402W
+BR;TRA;Itarare;Itarare;SP;--3-----;RQ;607;;
+BR;IEA;Itarema;Itarema;CE;--3-----;AC;1501;;0254S 03958W
+BR;III;Itariri;Itariri;SP;--3-----;RQ;607;;
+BR;ITT;Itatiaia;Itatiaia;RJ;--3-----;RL;501;;2230S 04434W
+BR;IAU;Itatiaiuçu;Itatiaiucu;MG;--3-----;AC;1501;;2012S 04425W
+BR;IIA;Itatiba;Itatiba;SP;--3-----;RL;9911;;
+BR;IAT;Itatinga;Itatinga;SP;--3-----;RQ;607;;
+BR;IUM;Itau de Minas;Itau de Minas;MG;--3-----;RQ;607;;
+BR;AUB;Itauba;Itauba;MT;---4----;AI;9912;;
+BR;IAN;Itauna;Itauna;MG;--3-----;RQ;607;;
+BR;ISO;Itauna Do Sul;Itauna Do Sul;PR;--3-----;RQ;607;;
+BR;INU;Itaunas;Itaunas;ES;--3-----;RQ;607;;
+BR;IDM;Itinga do Maranhão;Itinga do Maranhao;MA;--3-----;RL;701;;0435S 04729W
+BR;IAP;Itirapina;Itirapina;SP;--3-----;RQ;607;;
+BR;IT2;Itirapuã;Itirapua;SP;--3-----;RL;1407;;2038S 04713W
+BR;ITO;Itororo;Itororo;BA;--3-----;RQ;607;;
+BR;ITU;Itu;Itu;SP;--3-----;RQ;607;;
+BR;ITE;Ituberá;Itubera;BA;---4----;AI;212;;1344S 03909W
+BR;IUB;Ituiutaba;Ituiutaba;MG;--3-----;RQ;607;;
+BR;ITR;Itumbiara;Itumbiara;GO;--3-----;RQ;607;;
+BR;IPV;Itupeva;Itupeva;SP;--3-----;RQ;607;;
+BR;ITD;Ituporanga;Ituporanga;SC;--3-----;RQ;607;;
+BR;IRA;Iturama;Iturama;MG;--3-----;RQ;607;;
+BR;IVA;Ituverava;Ituverava;SP;--3-----;RQ;607;;
+BR;IUN;Iúna;Iuna;ES;--3-----;RL;1401;;2021S 04132W
+BR;IOR;Ivaipora;Ivaipora;PR;--3-----;RQ;607;;
+BR;IVT;Ivate;Ivate;PR;--3-----;RQ;607;;
+BR;IHM;Ivinhema;Ivinhema;MS;--3-----;RQ;607;;
+BR;IVO;Ivoti;Ivoti;RS;--3-----;RL;1301;;2936S 05110W
+BR;JAB;Jaboatão;Jaboatao;PE;123-----;RL;601;;0806S 03500W
+BR;JGU;Jaboatao dos Guararapes;Jaboatao dos Guararapes;PE;--3-----;RQ;607;;
+BR;JBC;Jaboticabal;Jaboticabal;SP;--3-----;RQ;607;;
+BR;JCA;Jacaraipe;Jacaraipe;ES;--3-----;RQ;607;;
+BR;JCR;Jacareacanga;Jacareacanga;PA;---4----;AI;9912;;
+BR;JCE;Jacarei;Jacarei;SP;--3-----;RQ;607;;
+BR;JPU;Jacarepagua;Jacarepagua;RJ;--3-----;RQ;607;;
+BR;CZH;Jacarezinho;Jacarezinho;PR;--3-----;RQ;607;;
+BR;JCZ;Jaci;Jaci;SP;--3-----;RL;1401;;2053S 04933W
+BR;JCI;Jaciara;Jaciara;MT;--3-----;RQ;607;;
+BR;JAC;Jacinto;Jacinto;MG;--3-----;RL;401;;1610S 04017W
+BR;JCM;Jacobina;Jacobina;BA;---4----;AI;9912;;
+BR;JCU;Jacuma;Jacuma;PB;--3-----;RQ;607;;
+BR;JCD;Jacunda;Jacunda;PA;--3-----;RQ;607;;
+BR;JPI;Jacupiranga;Jacupiranga;SP;--3-----;RQ;607;;
+BR;JTU;Jacutinga;Jacutinga;MG;--3-----;RQ;607;;
+BR;J22;Jaguapita;Jaguapita;PR;1----6--;RQ;1001;;0237S 05133W
+BR;JGA;Jaguaquara;Jaguaquara;BA;--3-----;RQ;607;;
+BR;JAG;Jaguarao;Jaguarao;RS;--3-----;RL;212;;3233S 05322W
+BR;JRA;Jaguarari;Jaguarari;BA;--3-----;RQ;607;;
+BR;JGI;Jaguarari;Jaguarari;PE;--3-----;RQ;607;;
+BR;JGR;Jaguare;Jaguare;SP;--3-----;RQ;607;;
+BR;JRV;Jaguariaíva;Jaguariaiva;PR;123-----;RL;701;;2415S 04942W
+BR;JGQ;Jaguaripe;Jaguaripe;BA;-----6--;RL;1107;;1255S 03910W
+BR;JGN;Jaguariuna;Jaguariuna;SP;--3-----;RQ;607;;
+BR;JAA;Jaguaruana;Jaguaruana;CE;--3-----;RL;607;;0450S 03747W
+BR;JGG;Jaguaruna;Jaguaruna;SC;--3-----;AC;1501;;2836S 04901W
+BR;JAI;Jaíba;Jaiba;BA;--3-----;RL;1301;;1212S 03853W
+BR;JBA;Jaíba;Jaiba;MG;--3-----;AC;1501;;1520S 04340W
+BR;JPO;Jalapao;Jalapao;TO;--3-----;RQ;607;;
+BR;JLS;Jales;Jales;SP;---4----;AI;9912;;
+BR;JBE;Jambeiro;Jambeiro;SP;--3-----;RQ;607;;
+BR;JNU;Janauba;Janauba;MG;--3-----;RQ;607;;
+BR;JDA;Jandaia;Jandaia;GO;--3-----;RQ;607;;
+BR;JSU;Jandaia do Sul;Jandaia do Sul;PR;--3-----;RQ;607;;
+BR;JDI;Jandira;Jandira;SP;--3-----;RQ;607;;
+BR;JGD;Jangada;Jangada;MT;--3-----;RQ;607;;
+BR;JNA;Januária;Januaria;MG;---4----;AI;212;;1529S 04422W
+BR;SEG;Japoatã;Japoata;SE;--3-----;RL;1301;;1020S 03648W
+BR;JPG;Jaracupiranga;Jaracupiranga;SP;--3-----;RQ;607;;
+BR;JRU;Jaragua;Jaragua;GO;--3-----;RQ;607;;
+BR;QJA;Jaraguá do Sul;Jaragua do Sul;SC;---4----;AI;212;;2629S 04904W
+BR;JDM;Jardim;Jardim;MS;--3-----;RQ;607;;
+BR;JAE;Jardim Alegre;Jardim Alegre;PR;--3-----;RQ;607;;
+BR;JPS;Jardinopolis;Jardinopolis;SP;--3-----;RQ;607;;
+BR;JRI;Jarinu;Jarinu;SP;--3-----;RL;607;;2306S 04644W
+BR;JAR;Jaru;Jaru;RO;--3-----;RQ;607;;
+BR;JTI;Jatai;Jatai;GO;---4----;AI;9912;;
+BR;JAU;Jau;Jau;SP;--3-----;RQ;607;;
+BR;JEC;Jeceaba;Jeceaba;MG;--3-----;AC;1501;;2032S 04359W
+BR;JEQ;Jequié;Jequie;BA;---4----;AI;212;;1351S 04005W
+BR;JQA;Jequitinhonha;Jequitinhonha;MG;--3-----;RQ;607;;
+BR;JCO;Jericoacoara;Jericoacoara;CE;--3-----;RQ;607;;
+BR;JES;Jesuítas;Jesuitas;PR;--3-----;RL;1401;;2423S 05323W
+BR;JPR;Ji-Paraná;Ji-Parana;RO;---4----;AI;212;;1050S 06158W
+BR;JQI;Jiquirica;Jiquirica;BA;--3-----;RQ;607;;
+BR;JCB;Joaçaba;Joacaba;SC;---4----;AI;212;;2710S 05130W
+BR;JOP;Joanopolis;Joanopolis;SP;--3-----;RQ;607;;
+BR;JMV;Joao Monlevade;Joao Monlevade;MG;--3-----;RQ;607;;
+BR;JNI;Joao Neiva;Joao Neiva;ES;--3-----;RQ;607;;
+BR;JPA;Joao Pessoa;Joao Pessoa;PB;1--4----;AI;212;;0707S 03452W
+BR;JPH;Joao Pinheiro;Joao Pinheiro;MG;--3-----;RQ;607;;
+BR;JTB;Joaquim Távora;Joaquim Tavora;PR;--3-----;RL;1301;;2330S 04958W
+BR;JOI;Joinville;Joinville;SC;---4----;AI;9601;;
+BR;JBX;José Boiteux;Jose Boiteux;SC;--3-----;AC;1501;;2655S 04940W
+BR;JBF;Jose Bonifacio;Jose Bonifacio;SP;--3-----;RQ;607;;
+BR;JUA;Juara;Juara;MT;---4----;AI;9912;;
+BR;JUT;Juatuba;Juatuba;;--3-----;RL;901;;1957S 04420W
+BR;JZO;Juazeiro;Juazeiro;BA;--3-----;RQ;607;;
+BR;JDP;Juàzeiro;Juazeiro;PI;-----6--;RL;1201;;0509S 04141W
+BR;JDO;Juazeiro do Norte;Juazeiro do Norte;CE;---4----;QQ;8103;;
+BR;JZP;Juazeiro-Pi;Juazeiro-Pi;PI;--3-----;RL;901;;0509N 04141W
+BR;JIA;Juina;Juina;MT;---4----;AI;9912;;
+BR;JDF;Juiz de Fora;Juiz de Fora;MG;-234----;AI;212;;2145S 04321W
+BR;JCS;Julio de Castilhos;Julio de Castilhos;RS;--3-----;RQ;607;;
+BR;JUN;Jundiaí;Jundiai;SP;-23-----;RL;501;QDV;2311S 04652W
+BR;JRO;Junqueiropolis;Junqueiropolis;SP;--3-----;RQ;607;;
+BR;JQU;Juquia;Juquia;SP;--3-----;RQ;607;;
+BR;JQB;Juquitiba;Juquitiba;SP;--3-----;RQ;607;;
+BR;JBU;Jurubatuba;Jurubatuba;SP;--3-----;RQ;607;;
+BR;JRN;Juruena;Juruena;MT;---4----;AI;9912;;
+BR;JSA;Jussara;Jussara;GO;--3-----;RQ;607;;
+BR;LBR;Lábrea;Labrea;AM;---4----;AI;212;;0716S 06447W
+BR;LFA;Lafaete;Lafaete;MG;--3-----;RQ;607;;
+BR;LGO;Lagarto;Lagarto;SE;--3-----;RQ;607;;
+BR;LAJ;Lages;Lages;SC;---4----;AI;9912;;
+BR;LCU;Lagoa da Confusao;Lagoa da Confusao;TO;--3-----;RQ;607;;
+BR;LPA;Lagoa da Prata;Lagoa da Prata;MG;--3-----;RQ;607;;
+BR;LGP;Lagoa Grande;Lagoa Grande;PE;--3-----;RL;701;;0900S 04017W
+BR;LSA;Lagoa Santa;Lagoa Santa;GO;--3-----;RQ;607;;
+BR;LSN;Lagoa Santa;Lagoa Santa;MG;--3-----;RQ;607;;
+BR;LST;Lagoa Santa;Lagoa Santa;MS;--3-----;RQ;607;;
+BR;LVE;Lagoa Vermelha;Lagoa Vermelha;RS;--3-----;RQ;607;;
+BR;LNG;Laguna;Laguna;SC;--3-----;RL;1307;;2829S 04847W
+BR;QLB;Lajeado;Lajeado;RS;---4----;AI;9601;;
+BR;LJO;Lajeado;Lajeado;TO;--3-----;RQ;607;;
+BR;LJE;Lajes;Lajes;RN;-23-----;AA;1507;;0542S 03614W
+BR;LBA;Lambari;Lambari;MG;--3-----;RQ;607;;
+BR;LAP;Lapa;Lapa;PR;--3-----;RQ;607;;
+BR;LJI;Laranjal do Jari;Laranjal do Jari;AP;--3-----;RQ;607;;
+BR;LPU;Laranjal Paulista;Laranjal Paulista;SP;--3-----;RQ;607;;
+BR;LJS;Laranjeiras;Laranjeiras;SE;--3-----;RQ;607;;
+BR;LSU;Laranjeiras do Sul;Laranjeiras do Sul;PR;--3-----;RQ;607;;
+BR;LJR;Laranjeiras Velha;Laranjeiras Velha;ES;-----6--;RL;1107;;
+BR;LDF;Lauro de Freitas;Lauro de Freitas;BA;1-3-----;RL;601;;1255S 03821W
+BR;LMU;Lauro Muller;Lauro Muller;SC;--3-----;RQ;607;;
+BR;LAV;Lavinia;Lavinia;SP;--3-----;RQ;607;;
+BR;LAR;Lavras;Lavras;MG;--3-----;RQ;607;;
+BR;LAS;Lavras do Sul;Lavras do Sul;RS;--3-----;RQ;607;;
+BR;LAW;Lavras Novas;Lavras Novas;MG;--3-----;RQ;607;;
+BR;LAX;Lavrinhas;Lavrinhas;SP;--3-----;RQ;607;;
+BR;LER;Lebon Regis;Lebon Regis;SC;--3-----;RQ;607;;
+BR;LEM;Leme;Leme;SP;--3-----;RQ;607;;
+BR;LEN;Lencois;Lencois;BA;--3-----;RQ;607;;
+BR;QGC;Lençóis Paulista;Lencois Paulista;SP;---4----;AI;212;;2236S 04847W
+BR;LEP;Leopoldina;Leopoldina;MG;---4----;AI;9912;;
+BR;LMR;Limeira;Limeira;SP;-23-----;RL;601;;2234S 04724W
+BR;LIM;Limoeiro;Limoeiro;PE;--3-----;RQ;607;;
+BR;LDN;Limoeiro do Norte;Limoeiro do Norte;CE;--3-----;RL;1407;;0508S 03805W
+BR;LIN;Lindoia;Lindoia;SP;--3-----;RQ;607;;
+BR;LDS;Lindóia do Sul;Lindoia do Sul;SC;--3-----;AC;1501;;2703S 05204W
+BR;LIC;Lindolfo Collor;Lindolfo Collor;RS;--3-----;RQ;607;;
+BR;LNH;Linhares;Linhares;ES;1-3-----;RL;601;;1923S 04003W
+BR;LIP;Lins;Lins;SP;---4----;AI;9912;;
+BR;LVB;Livramento;Livramento;RS;---4----;AI;9601;;
+BR;LNS;Livramento de Nossa Senhora;Livramento de Nossa Senhora;BA;--3-----;RL;1301;;1338S 04150W
+BR;LBO;Livramento do Brumado;Livramento do Brumado;BA;--3-----;RL;701;;1339S 04151W
+BR;LOD;Loanda;Loanda;PR;--3-----;RQ;607;;
+BR;LDB;Londrina;Londrina;PR;---4----;AI;9601;;
+BR;LOI;Lontras;Lontras;SC;---4----;AI;9912;;
+BR;LOR;Lorena;Lorena;AM;--3-----;RL;607;;0741S 07127W
+BR;LRA;Lorena;Lorena;SP;-23-----;RL;601;;2244S 04507W
+BR;LOU;Lourdes;Lourdes;SP;--3-----;RL;607;;2058S 05013W
+BR;LOZ;Louveira;Louveira;;-23-----;RL;601;;2304S 04658W
+BR;LRV;Lucas do Rio Verde;Lucas do Rio Verde;MT;--3-----;RQ;607;;
+BR;LUC;Lucelia;Lucelia;SP;--3-----;RQ;607;;
+BR;LUA;Lucena;Lucena;PB;--3-----;AC;1501;;0654S 03452W
+BR;LAN;Luis Antonio;Luis Antonio;SP;--3-----;RQ;607;;
+BR;LCI;Luis Correia;Luis Correia;PI;--3-----;RQ;607;;
+BR;LDM;Luis Eduardo Magalhaes;Luis Eduardo Magalhaes;BA;--3-----;RQ;607;;
+BR;LAL;Luiz Alves;Luiz Alves;SC;--3-----;AC;1501;;2642S 04854W
+BR;LZI;Luiziania;Luiziania;SP;--3-----;RQ;607;;
+BR;LUM;Luminárias;Luminarias;MG;--3-----;RL;1407;;2130S 04454W
+BR;LUZ;Luz;Luz;MG;--3-----;RL;1301;;1948S 04540W
+BR;LZB;Luzerna;Luzerna;SC;--3-----;RL;1301;;2707S 05128W
+BR;LZA;Luziania;Luziania;GO;--3-----;RQ;607;;
+BR;MEA;Macaé;Macae;RJ;---4----;AI;212;;2223S 04147W
+BR;MAI;Macaiba;Macaiba;RN;1----6--;RL;901;;0551S 03521W
+BR;MCP;Macapa;Macapa;AP;1--4----;AI;9601;;
+BR;MTU;Macatuba;Macatuba;SP;--3-----;RQ;607;;
+BR;MCU;Macau;Macau;RN;1-------;AI;9401;;
+BR;MCZ;Maceió;Maceio;AL;1--4----;AI;212;;0940S 03543W
+BR;MDW;Machadinho d'Oeste;Machadinho d'Oeste;RO;--3-----;AC;1501;;0925S 06159W
+BR;MCA;Machado;Machado;MG;--3-----;RQ;607;;
+BR;MDD;Madre de Deus;Madre de Deus;;--3-----;RQ;212;;
+BR;MAD;Madre-de-Deus;Madre-de-Deus;MA;--3-----;RL;607;;0633S 04327W
+BR;MRO;Mae do Rio;Mae do Rio;PA;--3-----;RQ;607;;
+BR;QMF;Mafra;Mafra;SC;---4----;AI;9601;;
+BR;MAG;Mage;Mage;RJ;--3-----;RQ;607;;
+BR;MQE;Mairinque;Mairinque;SP;--3-----;RQ;607;;
+BR;QMC;Mairipora;Mairipora;SP;--3-----;RQ;607;;
+BR;MCR;Mal Candido Rondon;Mal Candido Rondon;PR;--3-----;RQ;607;;
+BR;MHA;Malhador;Malhador;SE;--3-----;RQ;607;;
+BR;MAL;Mallet;Mallet;PR;--3-----;RQ;607;;
+BR;MPU;Mamanguape;Mamanguape;PB;--3-----;RQ;607;;
+BR;MPR;Manacapuru;Manacapuru;AM;--3-----;RQ;607;;
+BR;MAO;Manaus;Manaus;AM;1--4----;AI;9601;;
+BR;MGC;Mandaguacu;Mandaguacu;PR;--3-----;RQ;607;;
+BR;MDI;Mandaguari;Mandaguari;PR;--3-----;RQ;607;;
+BR;MAA;Mandirituba;Mandirituba;PR;--3-----;AC;1501;;2546S 04919W
+BR;MNI;Manduri;Manduri;SP;--3-----;RQ;607;;
+BR;MGT;Mangaratiba;Mangaratiba;RJ;--3-----;AC;1501;;2257S 04402W
+BR;MSE;Mangue Seco;Mangue Seco;BA;--3-----;RQ;607;;
+BR;MHU;Manhuacu;Manhuacu;MG;--3-----;RQ;607;;
+BR;MHI;Manhumirim;Manhumirim;MG;--3-----;RQ;607;;
+BR;MNX;Manicoré;Manicore;AM;---4----;AI;212;;0549S 06118W
+BR;MNA;Mantena;Mantena;MG;--3-----;RQ;607;;
+BR;MQI;Maquine;Maquine;RS;--3-----;RQ;607;;
+BR;OSA;Mara Rosa;Mara Rosa;GO;--3-----;RL;1301;;1401S 04910W
+BR;MAB;Marabá;Maraba;PA;---4----;AI;212;;0521S 04907W
+BR;MCI;Maracai;Maracai;SP;--3-----;RQ;607;;
+BR;MJU;Maracaju;Maracaju;MS;--3-----;RQ;607;;
+BR;MCN;Maracanau;Maracanau;CE;--3-----;RQ;607;;
+BR;MAK;Maracas;Maracas;BA;-23-----;RL;1307;;1326S 04027W
+BR;MGO;Maragogi;Maragogi;AL;--3-----;RQ;607;;
+BR;MAR;Maragogipe;Maragogipe;BA;--3-----;RL;407;;1246S 03855W
+BR;MGE;Maranguape;Maranguape;CE;--3-----;RQ;607;;
+BR;MKM;Marapoama;Marapoama;SP;-----6--;RL;1107;;2115S 04908W
+BR;MTZ;Marataizes;Marataizes;ES;--3-----;RQ;607;;
+BR;MAU;Marau;Marau;RS;--3-----;RQ;607;;
+BR;MVA;Maravilha;Maravilha;SC;--3-----;RQ;607;;
+BR;MHS;Maravilhas;Maravilhas;MG;--3-----;RQ;607;;
+BR;MCL;Marcelandia;Marcelandia;MT;--3-----;RQ;607;;
+BR;MRA;Marcelino Ramos;Marcelino Ramos;RS;--3-----;RQ;607;;
+BR;MSC;Marco;Marco;CE;--3-----;RL;1301;;0308S 04009W
+BR;DDM;Marechal Candido Rondon;Marechal Candido Rondon;PR;--3-----;RL;1301;;2434S 05404W
+BR;MDE;Marechal Deodoro;Marechal Deodoro;AL;--3-----;RL;501;;0943S 03554W
+BR;MFO;Marechal Floriano;Marechal Floriano;ES;--3-----;RQ;607;;
+BR;MDF;Maria da Fé;Maria da Fe;MG;--3-----;RL;1301;;2218S 04523W
+BR;MFA;Maria Farinha;Maria Farinha;PE;--3-----;RQ;607;;
+BR;MAV;Marialva;Marialva;PR;--3-----;RQ;607;;
+BR;MRI;Mariana;Mariana;MG;--3-----;RQ;607;;
+BR;MRC;Marica;Marica;RJ;--3-----;RQ;607;;
+BR;MRN;Marilândia;Marilandia;ES;--3-----;RL;1407;;1924S 04032W
+BR;MII;Marília;Marilia;SP;---4----;AI;212;;2213S 04956W
+BR;MGF;Maringá;Maringa;PR;---4----;AI;212;;2325S 05155W
+BR;MCC;Mário Campos;Mario Campos;MG;--3-----;RL;1301;;2003S 04409W
+BR;MTB;Marituba;Marituba;AL;--3-----;RL;1301;;1017S 03624W
+BR;MLM;Marlim;Marlim;;------7-;RQ;907;;2220S 04004W
+BR;MCO;Martinho Campos;Martinho Campos;MG;--3-----;RQ;607;;
+BR;MPO;Martinopolis;Martinopolis;SP;--3-----;RQ;607;;
+BR;MRM;Maruim;Maruim;SE;--3-----;AC;1501;;1045S 03705W
+BR;MSA;Massaranduba;Massaranduba;SC;--3-----;RQ;607;;
+BR;MTA;Mata;Mata;RS;--3-----;RQ;607;;
+BR;MSJ;Mata de Sao Joao;Mata de Sao Joao;BA;--3-----;RQ;607;;
+BR;JMF;Mata Fresca;Mata Fresca;CE;--3-----;RL;1301;;0450S 03724W
+BR;MAT;Matao;Matao;SP;--3-----;RQ;607;;
+BR;MLA;Matelandia;Matelandia;PR;--3-----;RQ;607;;
+BR;MTL;Mateus Leme;Mateus Leme;MG;--3-----;RL;307;;1959S 04425W
+BR;MBA;Matias Barbosa;Matias Barbosa;MG;--3-----;RQ;607;;
+BR;MTO;Matinhos;Matinhos;PR;--3-----;RQ;607;;
+BR;MTP;Matipó;Matipo;MG;--3-----;AC;1501;;2017S 04221W
+BR;MTG;Mato Grosso;Mato Grosso;MT;---4----;AI;9912;;
+BR;LEI;Mato Leitao;Mato Leitao;RS;-----6--;RL;1107;;2931S 05207W
+BR;MZS;Matozinhos;Matozinhos;MG;--3-----;RL;601;;1934S 04407W
+BR;MBK;Matupa;Matupa;MT;---4----;AI;9912;;
+BR;MUT;Matutina;Matutina;MG;--3-----;AC;1501;;1913S 04558W
+BR;MUA;Maua;Maua;SP;--3-----;RQ;607;;
+BR;MSR;Maua da Serra;Maua da Serra;PR;--3-----;RQ;607;;
+BR;MBZ;Maués;Maues;AM;---4----;AI;212;;0324S 05742W
+BR;MXA;Maximiliano de Almeida;Maximiliano de Almeida;RS;--3-----;RQ;607;;
+BR;MNO;Medeiros Neto;Medeiros Neto;BA;--3-----;RQ;607;;
+BR;MDA;Medianeira;Medianeira;PR;--3-----;RQ;607;;
+BR;MDN;Medina;Medina;MG;--3-----;RQ;607;;
+BR;MDS;Mendes;Mendes;RJ;--3-----;RQ;607;;
+BR;MDC;Mendonca;Mendonca;SP;--3-----;RQ;607;;
+BR;MRU;Meruoca;Meruoca;CE;--3-----;RQ;607;;
+BR;MQU;Mesquita;Mesquita;RJ;--3-----;RQ;607;;
+BR;MPE;Miguel Pereira;Miguel Pereira;RJ;--3-----;RQ;607;;
+BR;MPI;Miguelopolis;Miguelopolis;SP;--3-----;RQ;607;;
+BR;MMO;Mimoso;Mimoso;ES;--3-----;RQ;607;;
+BR;MOS;Mimoso do Oeste;Mimoso do Oeste;BA;--3-----;RQ;607;;
+BR;MQH;Minacu;Minacu;GO;---4----;AI;9912;;
+BR;MDL;Minas do Leão;Minas do Leao;RS;--3-----;AC;1501;;3007S 05202W
+BR;MNS;Mineiros;Mineiros;GO;--3-----;RQ;607;;
+BR;MCT;Miracatu;Miracatu;SP;--3-----;RQ;607;;
+BR;MCM;Miracema;Miracema;RJ;--3-----;RQ;607;;
+BR;NTM;Miracema do Norte;Miracema do Norte;TO;---4----;AI;9912;;
+BR;MTN;Miracema do Tocantins;Miracema do Tocantins;TO;--3-----;RQ;607;;
+BR;MIU;Miraguaí;Miraguai;RS;--3-----;AC;1501;;2729S 05341W
+BR;MIA;Mirai;Mirai;MG;--3-----;RQ;607;;
+BR;MRD;Miranda;Miranda;MS;--3-----;RQ;607;;
+BR;MDO;Mirandopolis;Mirandopolis;SP;--3-----;RQ;607;;
+BR;INE;Miranorte;Miranorte;TO;-----6--;RL;1201;;0928S 04828W
+BR;MPM;Mirante do Paranapanema;Mirante do Paranapanema;SP;--3-----;RQ;607;;
+BR;MIR;Mirassol;Mirassol;SP;--3-----;RQ;607;;
+BR;MSO;Mirassol do Oeste;Mirassol do Oeste;MT;--3-----;RQ;607;;
+BR;MRR;Mirim;Mirim;RS;--3--6--;RQ;1001;;3312S 05314W
+BR;MOO;Mococa;Mococa;SP;--3-----;RQ;607;;
+BR;6MO;Moema;Moema;MG;--3-----;RL;1307;;1950S 04524W
+BR;QMI;Mogi das Cruzes;Mogi das Cruzes;SP;---4----;AI;9601;;
+BR;MGG;Mogi Guacu;Mogi Guacu;SP;-23-----;RL;607;;2222S 04656W
+BR;MMI;Mogi Mirim;Mogi Mirim;SP;--3-----;RQ;607;;
+BR;SUL;Moji-Mirim;Moji-Mirim;SP;--3-----;RL;1301;;2225S 04657W
+BR;MBU;Mombuca;Mombuca;SP;--3-----;RQ;607;;
+BR;MOI;Mondaí;Mondai;SC;--3-----;AC;1501;;2706S 05324W
+BR;MNU;Mongagua;Mongagua;SP;--3-----;RQ;607;;
+BR;MPL;Monsenhor Paulo;Monsenhor Paulo;MG;--3-----;RQ;607;;
+BR;MNH;Montanha;Montanha;ES;--3-----;RQ;607;;
+BR;MON;Montauri;Montauri;RS;--3-----;RL;1401;;2839S 05204W
+BR;MTE;Monte Alegre;Monte Alegre;PA;---4----;AI;9601;;
+BR;QGD;Monte Alegre;Monte Alegre;PR;--3-----;RL;907;;2417S 05025W
+BR;MAC;Monte Alegre;Monte Alegre;RN;-----6--;RL;1201;;0552S 03618W
+BR;MAM;Monte Alegre de Minas;Monte Alegre de Minas;MG;--3-----;RQ;607;;
+BR;MAS;Monte Alegre do Sul;Monte Alegre do Sul;SP;--3-----;RQ;607;;
+BR;MTT;Monte Alto;Monte Alto;SP;--3-----;RQ;607;;
+BR;MAZ;Monte Aprazivel;Monte Aprazivel;SP;--3-----;RQ;607;;
+BR;MAP;Monte Azul Paulista;Monte Azul Paulista;SP;--3-----;RQ;607;;
+BR;MOB;Monte Belo;Monte Belo;MG;--3-----;AC;1501;;1731S 04253W
+BR;MBS;Monte Belo do Sul;Monte Belo do Sul;RS;--3-----;AC;1501;;2909S 05138W
+BR;MCE;Monte Carmelo;Monte Carmelo;MG;--3-----;RQ;607;;
+BR;MEU;Monte Dourado;Monte Dourado;PA;---4----;AI;9912;;
+BR;MTM;Monte Mor;Monte Mor;SP;--3-----;RQ;607;;
+BR;MNG;Monte Negro;Monte Negro;SP;--3-----;RQ;607;;
+BR;MSI;Monte Siao;Monte Siao;MG;--3-----;RQ;607;;
+BR;MVE;Monte Verde;Monte Verde;MG;--3-----;RQ;607;;
+BR;MME;Monteiro;Monteiro;PB;--3-----;RQ;607;;
+BR;MLO;Monteiro Lobato;Monteiro Lobato;SP;--3-----;RQ;607;;
+BR;QGF;Montenegro;Montenegro;RS;-234----;RL;207;;2940S 05128W
+BR;MTS;Montes;Montes;MG;--3-----;RQ;607;;
+BR;MOC;Montes Claros;Montes Claros;MG;---4----;AI;9601;;
+BR;MCG;Montes Claros de Goias;Montes Claros de Goias;GO;--3-----;RQ;607;;
+BR;MRV;Morada Nova;Morada Nova;CE;--3-----;RL;1307;;0507S 03823W
+BR;MRE;Moreno;Moreno;PE;--3-----;RQ;607;;
+BR;MMA;Mormaco;Mormaco;RS;--3-----;RQ;607;;
+BR;MRS;Morretes;Morretes;PR;--3-----;RQ;607;;
+BR;MHO;Morrinhos;Morrinhos;GO;--3-----;RQ;607;;
+BR;MOA;Morro Agudo;Morro Agudo;SP;--3-----;RQ;607;;
+BR;MD5;Morro da Fumaça;Morro da Fumaca;SC;--3-----;RL;1207;;2840S 04912W
+BR;MSP;Morro de Sao Paulo;Morro de Sao Paulo;BA;--3-----;RQ;607;;
+BR;MGD;Morro Grande;Morro Grande;SC;--3-----;AC;1501;;2840S 04906W
+BR;MGR;Morro Reuter;Morro Reuter;RS;--3-----;RL;1301;;2932S 05105W
+BR;MRG;Morungaba;Morungaba;SP;--3-----;RQ;607;;
+BR;MQR;Mosqueiro;Mosqueiro;PA;--3-----;RQ;607;;
+BR;MVF;Mossoró;Mossoro;RN;---4----;AI;212;;0511S 03721W
+BR;MTD;Mostardas;Mostardas;RS;--3-----;RQ;607;;
+BR;MZA;Mozarlandia;Mozarlandia;GO;--3-----;RQ;607;;
+BR;MUG;Mucugê;Mucuge;BA;--3-----;RL;1301;;1300S 04123W
+BR;MUM;Muçum;Mucum;RS;--3-----;AC;1501;;2909S 05152W
+BR;MVS;Mucuri;Mucuri;BA;---4----;AI;9912;;
+BR;MUE;Mucuripe;Mucuripe;CE;1----6--;RQ;1001;;0343S 03829W
+BR;MTC;Muitos Capões;Muitos Capoes;RS;--3-----;AA;1601;;2819S 05111W
+BR;MUN;Mundai;Mundai;BA;--3-----;RQ;607;;
+BR;MNV;Mundo Novo;Mundo Novo;MS;--3-----;RQ;607;;
+BR;MVG;Mundo Novo de Goias;Mundo Novo de Goias;GO;--3-----;RQ;607;;
+BR;MGU;Munguba;Munguba;PA;1-------;RL;1307;;0054S 05225W
+BR;MHZ;Munhoz;Munhoz;MG;--3-----;RQ;607;;
+BR;MUR;Muriae;Muriae;MG;--3-----;RQ;607;;
+BR;MRZ;Murici;Murici;AL;--3-----;RL;1301;;0919S 03556W
+BR;MUC;Murucupi;Murucupi;PA;1-------;RQ;901;;0134S 04846W
+BR;MZI;Muzambinho;Muzambinho;MG;--3-----;RQ;607;;
+BR;NNU;Nanuque;Nanuque;MG;0-------;QQ;;;
+BR;NTQ;Nao Me Toque;Nao Me Toque;RS;--3-----;RQ;607;;
+BR;NAT;Natal;Natal;RN;1--4----;AI;9601;;
+BR;NVT;Navegantes;Navegantes;SC;1-34----;AI;1101;;2654S 04839W
+BR;NVI;Navirai;Navirai;MS;--3-----;RQ;607;;
+BR;NZA;Nazare;Nazare;BA;--3-----;RQ;607;;
+BR;NPU;Nazare Paulista;Nazare Paulista;SP;--3-----;RQ;607;;
+BR;8NP;Neropolis;Neropolis;GO;--3-----;RL;1301;;1625S 04914W
+BR;NHA;Nhandeara;Nhandeara;SP;--3-----;RQ;607;;
+BR;NPO;Nilopolis;Nilopolis;RJ;--3-----;RQ;607;;
+BR;NQL;Niquelândia;Niquelandia;GO;---4----;AI;212;;1427S 04827W
+BR;NTR;Niteroi;Niteroi;RJ;1--4----;AI;9401;QNT;
+BR;NFO;Nizia Floresta;Nizia Floresta;RN;--3-----;RQ;607;;
+BR;NBE;Nobres;Nobres;MT;--3-----;RQ;607;;
+BR;NCT;Norte Capixaba Terminal;Norte Capixaba Terminal;ES;------7-;RQ;907;;1859S 03943W
+BR;NTO;Nortolandia;Nortolandia;MT;--3-----;RQ;607;;
+BR;NSS;Nossa Senhora do Socorro;Nossa Senhora do Socorro;SE;--3-----;RQ;607;;
+BR;NAI;Nova Almeida;Nova Almeida;ES;--3-----;RQ;607;;
+BR;NAD;Nova Andradina;Nova Andradina;MS;--3-----;RQ;607;;
+BR;NAC;Nova Apar Campinas;Nova Apar Campinas;SP;--3-----;RQ;607;;
+BR;NOA;Nova Araçá;Nova Araca;RS;--3-----;AC;1501;;2840S 05145W
+BR;NUR;Nova Aurora;Nova Aurora;PR;--3-----;RQ;607;;
+BR;NBA;Nova Bassano;Nova Bassano;RS;--3-----;RQ;607;;
+BR;NCA;Nova Caiaponia;Nova Caiaponia;GO;--3-----;RQ;607;;
+BR;NER;Nova Era;Nova Era;MG;--3-----;RQ;607;;
+BR;NEC;Nova Esperanca;Nova Esperanca;PR;--3-----;RQ;607;;
+BR;NES;Nova Esperança do Sul;Nova Esperanca do Sul;RS;--3-----;AC;1501;;2924S 05449W
+BR;NEU;Nova Europa;Nova Europa;SP;--3-----;RQ;607;;
+BR;NFU;Nova Friburgo;Nova Friburgo;RJ;--3-----;RQ;607;;
+BR;NGO;Nova Gloria;Nova Gloria;GO;--3-----;RQ;607;;
+BR;NGA;Nova Granada;Nova Granada;SP;--3-----;RQ;607;;
+BR;HAR;Nova Hartz;Nova Hartz;RS;1----6--;RL;901;;2934S 05054W
+BR;NIU;Nova Iguacu;Nova Iguacu;RJ;--3-----;RQ;607;;
+BR;NVL;Nova Laranjeiras;Nova Laranjeiras;PR;--3-----;RL;701;;2518S 05232W
+BR;NLI;Nova Lima;Nova Lima;MG;--3-----;RQ;607;;
+BR;NLO;Nova Londrina;Nova Londrina;PR;--3-----;RQ;607;;
+BR;NMU;Nova Mutum;Nova Mutum;MT;--3-----;RQ;607;;
+BR;NOD;Nova Odessa;Nova Odessa;SP;-23-----;RL;607;;2247S 04718W
+BR;NOP;Nova Palma;Nova Palma;RS;--3-----;AC;1501;;2928S 05328W
+BR;NPM;Nova Palmeira;Nova Palmeira;PB;--3-----;AC;1501;;0641S 03625W
+BR;NPE;Nova Petropolis;Nova Petropolis;RS;--3-----;RQ;607;;
+BR;NPT;Nova Ponte;Nova Ponte;MG;--3-----;RQ;607;;
+BR;NPA;Nova Prata;Nova Prata;RS;--3-----;RQ;607;;
+BR;NRE;Nova Resende;Nova Resende;MG;--3-----;AC;1501;;2108S 04625W
+BR;NRS;Nova Roma do Sul;Nova Roma do Sul;RS;--3-----;AC;1501;;2959S 05124W
+BR;NSR;Nova Santa Rita;Nova Santa Rita;RS;--3-----;RQ;607;;
+BR;NSA;Nova Serrana;Nova Serrana;MG;--3-----;RQ;607;;
+BR;NSE;Nova Soure;Nova Soure;BA;--3-----;RL;1301;;1114S 03829W
+BR;NOT;Nova Trento;Nova Trento;SC;--3-----;AC;1501;;2717S 04855W
+BR;NUB;Nova Ubiratã;Nova Ubirata;MT;--3-----;AC;1501;;1259S 05515W
+BR;NVU;Nova União;Nova Uniao;MG;1-3-----;RL;1401;;1941S 04334W
+BR;NVC;Nova Venecia;Nova Venecia;ES;--3-----;RQ;607;;
+BR;NVZ;Nova Veneza;Nova Veneza;GO;-----6--;RQ;1001;;1621S 04918W
+BR;NVE;Nova Veneza;Nova Veneza;SC;--3-----;AC;1501;;2839S 04930W
+BR;NVO;Nova Vicosa;Nova Vicosa;BA;--3-----;RQ;607;;
+BR;NOK;Nova Xavantina;Nova Xavantina;MT;---4----;AI;9912;;
+BR;NVP;Novo Aripuana;Novo Aripuana;AM;---4----;AI;212;;0507S 06023W
+BR;QHV;Novo Hamburgo;Novo Hamburgo;RS;---4----;AI;9601;;
+BR;NHO;Novo Horizonte;Novo Horizonte;SP;--3-----;RQ;607;;
+BR;NOV;Novo Progresso;Novo Progresso;PA;--3-----;RQ;901;;0700S 05526W
+BR;NSJ;Novo Sao Joaquim;Novo Sao Joaquim;MT;--3-----;RQ;607;;
+BR;NPG;Nuporanga;Nuporanga;SP;-----6--;RL;1201;;2044S 04745W
+BR;OBI;Obidos;Obidos;PA;---4----;RL;212;;0155S 05531W
+BR;OCU;Ocauçu;Ocaucu;SP;--3-----;RL;1301;;2226S 04956W
+BR;ODI;Ocidental;Ocidental;GO;--3-----;RQ;607;;
+BR;OYK;Oiapoque;Oiapoque;AP;---4----;AI;9912;;
+BR;OLE;Óleo;Oleo;SP;--3-----;RL;1407;;2256S 04920W
+BR;OLI;Olimpia;Olimpia;SP;--3-----;RQ;607;;
+BR;OLA;Olinda;Olinda;PE;--3-----;RQ;607;;
+BR;OVA;Oliveira;Oliveira;MG;--3-----;RQ;607;;
+BR;ORI;Oriente;Oriente;SP;--3-----;RQ;607;;
+BR;9OV;Orindiúva;Orindiuva;SP;--3-----;RL;1301;;2012S 04922W
+BR;ORX;Oriximiná;Oriximina;PA;---4----;AI;212;;0146S 05552W
+BR;ORL;Orlandia;Orlandia;SP;--3-----;RQ;607;;
+BR;OLS;Orleans;Orleans;SC;--3-----;RQ;607;;
+BR;ORT;Ortigueira;Ortigueira;PR;-----6--;RL;1201;;2412S 05055W
+BR;QOC;Osasco;Osasco;SP;---4----;AI;9601;;
+BR;OSO;Osorio;Osorio;RS;--3-----;RQ;607;;
+BR;OCZ;Osvaldo Cruz;Osvaldo Cruz;SP;--3-----;RQ;607;;
+BR;OCA;Otacilio Costa;Otacilio Costa;SC;--3-----;RQ;607;;
+BR;ONO;Ourilandia do Norte;Ourilandia do Norte;PA;--3-----;RQ;607;;
+BR;OUS;Ourinhos;Ourinhos;SP;---4----;AI;9912;;
+BR;OBR;Ouro Branco;Ouro Branco;MG;--3--6--;RL;607;;2032S 04342W
+BR;OFI;Ouro Fino;Ouro Fino;MG;--3-----;RQ;607;;
+BR;OPO;Ouro Preto;Ouro Preto;MG;--3-----;RQ;607;;
+BR;OPE;Ouro Preto do Oeste;Ouro Preto do Oeste;RO;--3-----;RQ;607;;
+BR;OVD;Ouro Verde;Ouro Verde;SP;--3-----;RQ;607;;
+BR;ORE;Ouroeste;Ouroeste;SP;--3-----;RQ;607;;
+BR;OUR;Ourolandia;Ourolandia;BA;-2------;RL;1207;;1058S 04104W
+BR;OUT;Outeiro;Outeiro;PA;1-3-----;RL;607;;0115S 04826W
+BR;OUV;Ouvidor;Ouvidor;GO;--3-----;AC;1501;;1814S 04750W
+BR;PCU;Pacaembu;Pacaembu;SP;--3-----;RQ;607;;
+BR;PAJ;Pacajá;Pacaja;PA;--3-----;RL;701;;0349S 05055W
+BR;PCJ;Pacajus;Pacajus;CE;--3-----;RQ;607;;
+BR;PTU;Pacatuba;Pacatuba;CE;--3-----;RQ;607;;
+BR;PBE;Padre Bernardo;Padre Bernardo;GO;--3-----;RQ;607;;
+BR;PAI;Paiçandu;Paicandu;PR;--3-----;AC;1501;;2327S 05202W
+BR;PSI;Palestina;Palestina;SP;--3-----;RQ;607;;
+BR;PHO;Palhoca;Palhoca;SC;--3-----;RQ;607;;
+BR;PAS;Palma Sola;Palma Sola;SC;--3-----;AC;1501;;2620S 05316W
+BR;PMS;Palmares;Palmares;PE;--3-----;RQ;607;;
+BR;PAE;Palmares Paulista;Palmares Paulista;SP;--3-----;RQ;607;;
+BR;PMW;Palmas;Palmas;TO;---4----;AI;9912;;
+BR;PPR;Palmas Parana;Palmas Parana;PR;--3-----;RQ;607;;
+BR;PMI;Palmeira;Palmeira;PR;--3-----;RQ;607;;
+BR;PSC;Palmeira;Palmeira;SC;--3-----;RL;1301;;2735S 05009W
+BR;PME;Palmeira das Missoes;Palmeira das Missoes;RS;--3-----;RQ;607;;
+BR;POS;Palmeira do Oeste;Palmeira do Oeste;SP;--3-----;RQ;607;;
+BR;PIS;Palmeira dos Indios;Palmeira dos Indios;AL;--3-----;RQ;607;;
+BR;PMR;Palmeiras;Palmeiras;BA;--3-----;RQ;607;;
+BR;PGI;Palmeiras de Goias;Palmeiras de Goias;GO;--3-----;RL;1107;;1647S 04955W
+BR;PPO;Palmeiropolis;Palmeiropolis;TO;--3-----;RQ;607;;
+BR;PML;Palmital;Palmital;SP;--3-----;RQ;607;;
+BR;PLO;Palmitos;Palmitos;SC;--3-----;RQ;607;;
+BR;PLA;Palotina;Palotina;PR;--3-----;RQ;607;;
+BR;PLU;Pampulha;Pampulha;MG;---4----;AI;9912;;
+BR;PNI;Panambi;Panambi;RS;--3-----;RQ;607;;
+BR;PNA;Panorama;Panorama;SP;--3-----;RQ;607;;
+BR;PNL;Pantanal;Pantanal;MS;--3-----;RQ;607;;
+BR;PNT;Pantanal;Pantanal;MT;--3-----;RQ;607;;
+BR;PAP;Papagaios;Papagaios;MG;--3-----;RL;601;;1932S 04445W
+BR;PAN;Papanduva;Papanduva;;-----6--;RQ;1001;;2625S 05009W
+BR;PAR;Pará;Para;PA;1-3--6--;RL;307;;0127S 04829W
+BR;PMN;Para de Minas;Para de Minas;MG;--3-----;RQ;607;;
+BR;PAB;Paracambi;Paracambi;RJ;--3-----;AC;1501;;2236S 04342W
+BR;PCT;Paracatu;Paracatu;MG;--3-----;RQ;607;;
+BR;PRU;Paracuru;Paracuru;CE;--3-----;RQ;607;;
+BR;PGO;Paragominas;Paragominas;PA;--3-----;RQ;607;;
+BR;PUC;Paraguacu;Paraguacu;MG;--3-----;RQ;607;;
+BR;PPI;Paraguacu Paulista;Paraguacu Paulista;SP;--3-----;RQ;607;;
+BR;PRJ;Paraí;Parai;RS;1----6--;RL;1107;;
+BR;PSU;Paraiba do Sul;Paraiba do Sul;RJ;--3-----;RQ;607;;
+BR;PBU;Paraibuna;Paraibuna;SP;--3-----;RQ;607;;
+BR;AAB;Paraipaba;Paraipaba;CE;--3-----;RL;1207;;0326S 03907W
+BR;PRI;Paraiso;Paraiso;SP;--3-----;RQ;607;;
+BR;PUL;Paraiso do Sul;Paraiso do Sul;RS;--3-----;RQ;607;;
+BR;PTI;Paraiso do Tocantins;Paraiso do Tocantins;TO;--3-----;RQ;607;;
+BR;PRO;Paraisopolis;Paraisopolis;MG;--3-----;RQ;607;;
+BR;P8R;Parana;Parana;CE;1-------;RL;1401;;0405S 04014W
+BR;PNN;Paranã;Parana;TO;1-3--6--;RL;607;;1233S 04751W
+BR;PNG;Paranaguá;Paranagua;PR;1--4----;AI;212;;2531S 04830W
+BR;PBB;Paranaiba;Paranaiba;MS;--3-----;RQ;607;;
+BR;PRT;Paranaita;Paranaita;MT;--3-----;RQ;607;;
+BR;PPM;Paranapanema;Paranapanema;SP;--3-----;RQ;607;;
+BR;PTG;Paranatinga;Paranatinga;MT;--3-----;RQ;607;;
+BR;PNU;Paranauna;Paranauna;GO;--3-----;RQ;607;;
+BR;PVI;Paranavaí;Paranavai;PR;---4----;AI;212;;2304S 05228W
+BR;PNO;Paranoa;Paranoa;DF;--3-----;RQ;607;;
+BR;PPE;Paraopeba;Paraopeba;MG;--3-----;RQ;607;;
+BR;PPU;Parapua;Parapua;SP;--3-----;RQ;607;;
+BR;PAT;Parati;Parati;RJ;--3-----;RQ;607;;
+BR;PRS;Parauapebas;Parauapebas;PA;--3-----;RQ;607;;
+BR;PRN;Parauna;Parauna;GO;--3-----;RQ;607;;
+BR;PRD;Pardinho;Pardinho;SP;--3-----;RL;1301;;2306S 04823W
+BR;PAH;Parelhas;Parelhas;RN;--3-----;RL;1307;;0641N 03639W
+BR;PIN;Parintins;Parintins;AM;---4----;AI;9912;;
+BR;PAC;Pariquera-Acu;Pariquera-Acu;SP;--3-----;RQ;607;;
+BR;PHB;Parnaíba;Parnaiba;PI;1--4----;AI;212;;0255S 04146W
+BR;PMM;Parnamirim;Parnamirim;RN;--3-----;RQ;607;;
+BR;PRE;Parobe;Parobe;RS;--3-----;RQ;607;;
+BR;PQO;Passa Quatro;Passa Quatro;MG;--3-----;RQ;607;;
+BR;PFB;Passo Fundo;Passo Fundo;RS;---4----;AI;9601;;
+BR;PSW;Passos;Passos;MG;---4----;AI;9601;;
+BR;PAF;Pati dos Alferes;Pati dos Alferes;RJ;--3-----;RL;1101;;2225S 04325W
+BR;PTO;Pato Branco;Pato Branco;PR;---4----;AI;9601;;
+BR;PTN;Patolina;Patolina;PR;--3-----;RQ;607;;
+BR;PTS;Patos;Patos;PB;--3-----;RQ;607;;
+BR;POJ;Patos de Minas;Patos de Minas;MG;--3-----;RQ;607;;
+BR;PCO;Patrocinio;Patrocinio;MG;--3-----;RQ;607;;
+BR;PPS;Patrocinio Paulista;Patrocinio Paulista;SP;--3-----;RQ;607;;
+BR;PFT;Paula Freitas;Paula Freitas;PR;-23-----;RL;701;;2612S 05057W
+BR;PUI;Paulinia;Paulinia;SP;--3-----;RQ;607;;
+BR;PAL;Paulista;Paulista;PE;--3-----;RQ;607;;
+BR;PAV;Paulo Afonso;Paulo Afonso;BA;---4----;AI;9601;;
+BR;PFA;Paulo de Faria;Paulo de Faria;SP;--3-----;RQ;607;;
+BR;PVA;Pavao;Pavao;MG;--3-----;RQ;607;;
+BR;PAM;Paverama;Paverama;RS;--3-----;RL;1307;;2933S 05146W
+BR;PVU;Pavuna;Pavuna;RJ;--3-----;RQ;607;;
+BR;PEC;Pecém;Pecem;CE;1-3-----;RL;201;;0331S 03852W
+BR;PNS;Pederneiras;Pederneiras;SP;--3-----;RQ;607;;
+BR;PAZ;Pedra Azul;Pedra Azul;MG;--3-----;RL;1307;;1601S 04116W
+BR;PEP;Pedra Preta;Pedra Preta;MT;--3-----;AC;1501;;1637S 05428W
+BR;PFG;Pedras de Fogo;Pedras de Fogo;PB;--3-----;RL;1301;;0723S 03507W
+BR;PEN;Pedras Negras;Pedras Negras;RO;1-3-----;RL;607;;1251S 06254W
+BR;PGU;Pedregulho;Pedregulho;SP;--3-----;RQ;607;;
+BR;PDI;Pedreira;Pedreira;SP;--3-----;RQ;607;;
+BR;PDA;Pedreiras;Pedreiras;MA;--3-----;RQ;607;;
+BR;PPT;Pedrinhas Paulista;Pedrinhas Paulista;SP;--3-----;RQ;607;;
+BR;PCA;Pedro Canario;Pedro Canario;ES;--3-----;RQ;607;;
+BR;PED;Pedro de Toledo;Pedro de Toledo;SP;-----6--;RL;1107;;2417S 04714W
+BR;PLE;Pedro Leopoldo;Pedro Leopoldo;MG;--3-----;RQ;607;;
+BR;PXA;Peixoto de Azevedo;Peixoto de Azevedo;MT;--3-----;RQ;607;;
+BR;PET;Pelotas;Pelotas;RS;1--4----;AI;9601;;
+BR;PNP;Penapolis;Penapolis;SP;--3-----;RQ;607;;
+BR;PNE;Penedo;Penedo;AL;--3-----;RQ;607;;
+BR;PDO;Penedo;Penedo;RJ;--3-----;RQ;607;;
+BR;PHA;Penha;Penha;SC;--3-----;RQ;607;;
+BR;PZS;Perdizes;Perdizes;MG;--3-----;RQ;607;;
+BR;PDS;Perdoes;Perdoes;MG;--3-----;RQ;607;;
+BR;PBA;Pereira Barreto;Pereira Barreto;SP;--3-----;RQ;607;;
+BR;PER;Pereiras;Pereiras;SP;--3-----;RL;601;;2307S 04758W
+BR;PES;Peres;Peres;GO;--3-----;RQ;607;;
+BR;PRL;Perola;Perola;PR;--3-----;RQ;607;;
+BR;PUB;Peruibe;Peruibe;SP;--3-----;RQ;607;;
+BR;PQE;Pesqueira;Pesqueira;PE;--3-----;RQ;607;;
+BR;PNZ;Petrolina;Petrolina;PE;---4----;AI;9912;;
+BR;QPE;Petrópolis;Petropolis;RJ;---4----;AI;212;;2231S 04311W
+BR;PIT;Piacatu;Piacatu;SP;--3-----;RQ;607;;
+BR;PIC;Picada Café;Picada Cafe;RS;--3-----;AC;1501;;2927S 05108W
+BR;PRR;Picarras;Picarras;SC;--3-----;RQ;607;;
+BR;PCS;Picos;Picos;PI;---4----;AI;9912;;
+BR;PDD;Piedade;Piedade;MG;--3-----;RQ;607;;
+BR;PIE;Piedade;Piedade;SP;--3-----;RQ;607;;
+BR;PYN;Piên;Pien;PR;--3-----;AC;1501;;2606S 04925W
+BR;PSL;Pilar do Sul;Pilar do Sul;SP;--3-----;RQ;607;;
+BR;PMT;Pimenta;Pimenta;MG;--3-----;RQ;607;;
+BR;PBQ;Pimenta Bueno;Pimenta Bueno;RO;---4----;AI;9912;;
+BR;PSO;Pimenteiras do Oeste;Pimenteiras do Oeste;RO;--3-----;RQ;607;;
+BR;PEL;Pimentel;Pimentel;MA;--3-----;RL;212;;0343S 04530W
+BR;PNM;Pindamonhangaba;Pindamonhangaba;SP;--3-----;RQ;607;;
+BR;PND;Pindorama;Pindorama;SP;--3-----;RQ;607;;
+BR;PIH;Pinhais;Pinhais;PR;--3-----;RQ;607;;
+BR;PHS;Pinhais;Pinhais;RS;--3-----;RQ;607;;
+BR;PHZ;Pinhalzinho;Pinhalzinho;SC;--3-----;AC;1501;;2648S 05257W
+BR;PZI;Pinhalzinho;Pinhalzinho;SP;--3-----;RQ;607;;
+BR;PHW;Pinhão;Pinhao;PR;--3-----;AC;1501;;2543S 05138W
+BR;PHI;Pinheiro;Pinheiro;MA;---4----;AI;9401;;
+BR;PRC;Pinheiro Machado;Pinheiro Machado;RS;--3-----;RQ;607;;
+BR;PCI;Piracaia;Piracaia;SP;--3-----;RQ;607;;
+BR;PJU;Piracanjuba;Piracanjuba;GO;--3-----;RQ;607;;
+BR;QHB;Piracicaba;Piracicaba;SP;---4----;AI;9601;;
+BR;PIR;Pirai;Pirai;RJ;--3-----;RQ;607;;
+BR;PRZ;Piraí do Sul;Pirai do Sul;PR;--3-----;AC;1501;;2431S 04956W
+BR;PJA;Piraju;Piraju;SP;--3-----;RQ;607;;
+BR;PJR;Pirajui;Pirajui;SP;--3-----;RQ;607;;
+BR;PRG;Pirangi;Pirangi;SP;--3-----;RQ;607;;
+BR;PNH;Piranhas;Piranhas;GO;--3-----;RQ;607;;
+BR;PTA;Pirapetinga;Pirapetinga;MG;--3-----;RQ;607;;
+BR;PTT;Pirapitingui;Pirapitingui;SP;1----6--;RL;1201;;2322S 04720W
+BR;PIV;Pirapora;Pirapora;MG;---4----;AI;9912;;
+BR;PBJ;Pirapora do Bom Jesus;Pirapora do Bom Jesus;SP;--3-----;RL;607;;2324S 04700W
+BR;PZO;Pirapozinho;Pirapozinho;SP;--3-----;RQ;607;;
+BR;PQA;Piraquara;Piraquara;PR;-23-----;RL;607;;2527S 04904W
+BR;QPS;Pirassununga;Pirassununga;SP;---4----;AI;9601;;
+BR;PIA;Piratini;Piratini;RS;--3-----;RQ;607;;
+BR;PRB;Piratuba;Piratuba;SC;--3-----;RQ;607;;
+BR;PIB;Pirauba;Pirauba;MG;--3-----;RQ;607;;
+BR;PLS;Pirenopolis;Pirenopolis;GO;--3-----;RQ;607;;
+BR;PSR;Pires do Rio;Pires do Rio;GO;--3-----;RQ;607;;
+BR;PIP;Piripiri;Piripiri;PI;--3-----;RQ;607;;
+BR;PTB;Pirituba;Pirituba;SP;--3-----;RQ;607;;
+BR;TGA;Pitanga;Pitanga;PR;--3-----;RQ;607;;
+BR;PGA;Pitangueiras;Pitangueiras;SP;--3-----;RQ;607;;
+BR;PAG;Pitangui;Pitangui;MG;--3-----;RQ;607;;
+BR;PMU;Pitimbu;Pitimbu;PB;--3-----;RQ;607;;
+BR;PIG;Pitinga;Pitinga;AM;---4----;AI;9912;;
+BR;PUM;Piuma;Piuma;ES;--3-----;RQ;607;;
+BR;PUH;Piumhi;Piumhi;MG;--3-----;RQ;607;;
+BR;PLT;Planalto;Planalto;RS;--3-----;RQ;607;;
+BR;PLN;Planura;Planura;MG;--3-----;RQ;607;;
+BR;PQZ;Poa;Poa;SP;--3-----;RQ;607;;
+BR;PCF;Poco Fundo;Poco Fundo;MG;--3-----;RQ;607;;
+BR;POC;Pocoes;Pocoes;BA;--3-----;RQ;607;;
+BR;PCN;Pocone;Pocone;MT;--3-----;RQ;607;;
+BR;POO;Poços de Caldas;Pocos de Caldas;MG;---4----;AI;212;;2148S 04634W
+BR;PJC;Pojuca;Pojuca;BA;--3-----;RQ;607;;
+BR;POM;Pomerode;Pomerode;SC;1-3-----;RL;601;;2645S 04910W
+BR;PPA;Pompéia;Pompeia;SP;--3-----;RL;607;;2206S 05010W
+BR;PMA;Ponta da Madeira;Ponta da Madeira;MA;1-------;RL;1307;;0233S 04422W
+BR;PFX;Ponta do Félix/Antonina;Ponta do Felix/Antonina;PR;1-------;RL;407;;2527S 04840W
+BR;PGZ;Ponta Grossa;Ponta Grossa;PR;---4----;AI;9601;;
+BR;PLL;Ponta Pelada;Ponta Pelada;AM;---4----;AI;9912;;
+BR;POP;Ponta Pora;Ponta Pora;MG;--3-----;RQ;607;;
+BR;PMG;Ponta Pora;Ponta Pora;MS;---4----;AI;212;;2232S 05543W
+BR;POU;Ponta Ubu;Ponta Ubu;ES;12----7-;RQ;212;;2046S 04034W
+BR;PTL;Pontal;Pontal;SP;--3-----;RQ;607;;
+BR;PLI;Pontalina;Pontalina;GO;--3-----;RQ;607;;
+BR;PNV;Ponte Nova;Ponte Nova;MG;--3-----;RQ;607;;
+BR;LCB;Pontes e Lacerda;Pontes e Lacerda;MT;---4----;AI;212;;1512S 05922W
+BR;RGT;Porangatu;Porangatu;GO;--3-----;RQ;607;;
+BR;PNC;Porciuncula;Porciuncula;RJ;--3-----;RQ;607;;
+BR;POT;Porecatu;Porecatu;PR;--3-----;RQ;607;;
+BR;PAO;Portao;Portao;RS;--3-----;RQ;607;;
+BR;PTH;Porteirinha;Porteirinha;MG;--3-----;RQ;607;;
+BR;POA;Pôrto Alegre;Porto Alegre;RS;1--4----;AI;9601;;
+BR;PBX;Porto Alegre do Nort;Porto Alegre do Nort;MT;---4----;AI;9912;;
+BR;PBO;Porto Belo;Porto Belo;SC;--3-----;RQ;607;;
+BR;PCB;Porto de cebedelo;Porto de cebedelo;PB;1-3-----;RQ;901;;
+BR;PGS;Porto de Galinhas;Porto de Galinhas;PE;--3-----;RQ;607;;
+BR;SPB;Porto de Itaguaí;Porto de Itaguai;RJ;123--6--;AI;1307;;2255S 04349W
+BR;PTQ;Pôrto de Moz;Porto de Moz;PA;---4----;AI;212;;0145S 05214W
+BR;CSI;Pôrto de Sauípe;Porto de Sauipe;BA;1-3-----;RL;607;;1224S 03755W
+BR;PEG;Porto do Engenho da Pedra;Porto do Engenho da Pedra;RJ;1----6--;RL;1201;;2250S 04316W
+BR;PTM;Porto do Mangue;Porto do Mangue;CE;--3-----;RQ;607;;
+BR;PBV;Pôrto dos Gaúchos;Porto dos Gauchos;MT;---4----;AI;212;;1129S 05722W
+BR;PTZ;Porto Feliz;Porto Feliz;SP;--3-----;RQ;607;;
+BR;PTF;Porto Ferreira;Porto Ferreira;SP;--3-----;RQ;607;;
+BR;PTC;Porto Franco;Porto Franco;MA;--3-----;RQ;607;;
+BR;PMH;Porto Murtinho;Porto Murtinho;MS;--3-----;RQ;607;;
+BR;PNB;Porto Nacional;Porto Nacional;TO;---4----;AI;9601;;
+BR;PTV;Porto Novo;Porto Novo;SP;-----6--;RQ;1001;;2341S 04526W
+BR;PTE;Porto Real;Porto Real;RJ;--3-----;RQ;607;;
+BR;PTR;Porto Rico;Porto Rico;PR;--3-----;RQ;607;;
+BR;BPS;Porto Seguro;Porto Seguro;BA;1-34----;RL;9805;;
+BR;BTB;Porto Trombetas;Porto Trombetas;PA;--3-----;RQ;607;;
+BR;PUN;Porto Uniao;Porto Uniao;SC;--3-----;RQ;607;;
+BR;PVH;Pôrto Velho;Porto Velho;RO;1--4----;AI;9601;;
+BR;PVT;Porto Vitoria;Porto Vitoria;PR;-----6--;RL;1107;;2609S 05113W
+BR;PXI;Porto Xavier;Porto Xavier;RS;--3-----;RQ;607;;
+BR;PCL;Portocel;Portocel;ES;1-------;RQ;9506;;
+BR;PSS;Posse;Posse;GO;--3-----;RQ;607;;
+BR;PTD;Posto da Mata;Posto da Mata;BA;--3-----;RQ;607;;
+BR;POI;Potim;Potim;SP;1-3-----;RL;1307;;2250S 04515W
+BR;POD;Potirendaba;Potirendaba;SP;--3-----;RQ;607;;
+BR;PPY;Pouso Alegre;Pouso Alegre;MG;---4----;QQ;8103;;
+BR;PST;Pouso Alto;Pouso Alto;MG;--3-----;RQ;607;;
+BR;PDF;Prado;Prado;BA;---4----;AI;9912;;
+BR;PPL;Pradopolis;Pradopolis;SP;--3-----;RQ;607;;
+BR;PBI;Praia da Baleia;Praia da Baleia;CE;--3-----;RQ;607;;
+BR;PPP;Praia da Pipa;Praia da Pipa;RN;--3-----;RQ;607;;
+BR;PMB;Praia de Tambaba;Praia de Tambaba;PB;--3-----;RQ;607;;
+BR;PFR;Praia do Forte;Praia do Forte;BA;--3-----;RQ;607;;
+BR;PFC;Praia do Frances;Praia do Frances;AL;--3-----;RQ;607;;
+BR;PIO;Praia do Rosa;Praia do Rosa;SC;--3-----;RQ;607;;
+BR;PGR;Praia Grande;Praia Grande;SP;--3-----;RQ;607;;
+BR;PRM;Praia Mole;Praia Mole;ES;1-------;RL;101;;2015S 04015W
+BR;PAA;Prata;Prata;MG;--3-----;RQ;607;;
+BR;PA6;Presidente Alves;Presidente Alves;SP;--3-----;RL;1301;;2205S 04927W
+BR;PBR;Presidente Bernardes;Presidente Bernardes;SP;--3-----;RQ;607;;
+BR;PDR;Presidente Dutra;Presidente Dutra;MA;---4----;AI;9912;;
+BR;PEO;Presidente Epitacio;Presidente Epitacio;SP;--3-----;RQ;607;;
+BR;PFU;Presidente Figueiredo;Presidente Figueiredo;AM;--3-----;RQ;607;;
+BR;PGL;Presidente Getulio;Presidente Getulio;SC;--3-----;RQ;607;;
+BR;PMC;Presidente Medici;Presidente Medici;RO;--3-----;RQ;607;;
+BR;PPB;Presidente Prudente;Presidente Prudente;SP;---4----;QQ;8103;;
+BR;PVE;Presidente Venceslau;Presidente Venceslau;SP;--3-----;RQ;607;;
+BR;PMV;Primavera;Primavera;SP;--3-----;RQ;607;;
+BR;PIL;Primavera do Leste;Primavera do Leste;MT;--3-----;RQ;607;;
+BR;PGG;Progresso;Progresso;PA;---4----;AI;9912;;
+BR;PMO;Promissao;Promissao;SP;--3-----;RQ;607;;
+BR;PRP;Propria;Propria;SE;--3-----;RQ;607;;
+BR;PUO;Prudentopolis;Prudentopolis;PR;--3-----;RQ;607;;
+BR;QRA;Quarai;Quarai;RS;--3-----;RQ;607;;
+BR;QTA;Quata;Quata;SP;--3-----;RQ;607;;
+BR;QTS;Quatis;Quatis;RJ;--3-----;RQ;607;;
+BR;QBA;Quatro Barras;Quatro Barras;PR;--3-----;RQ;607;;
+BR;QPT;Quatro Pontes;Quatro Pontes;PR;--3-----;AC;1501;;2434S 05358W
+BR;QRO;Quatro Rodas;Quatro Rodas;PR;--3-----;RQ;607;;
+BR;QDI;Quedas do Iguaçu;Quedas do Iguacu;PR;--3-----;AC;1501;;2527S 05254W
+BR;QMA;Queimados;Queimados;RJ;--3-----;RQ;607;;
+BR;QLU;Queluz;Queluz;SP;--3-----;RQ;607;;
+BR;QUN;Quintana;Quintana;SP;--3-----;RL;1401;;2203S 05018W
+BR;QPO;Quirinopolis;Quirinopolis;GO;--3-----;RQ;607;;
+BR;QTR;Quiterianópolis;Quiterianopolis;CE;--3-----;RL;1407;;0550N 04042W
+BR;QXA;Quixada;Quixada;CE;--3-----;RQ;607;;
+BR;QIX;Quixada Apt;Quixada Apt;CE;--34----;RL;901;;
+BR;QMO;Quixeramobim;Quixeramobim;CE;--3-----;RQ;607;;
+BR;QUI;Quixere;Quixere;CE;1----6--;RL;901;;0505S 03759W
+BR;RFA;Rafard;Rafard;SP;--3-----;RQ;607;;
+BR;RCA;Rancharia;Rancharia;SP;--3-----;RQ;607;;
+BR;RPO;Raposo;Raposo;RJ;--3-----;RQ;607;;
+BR;RZA;Realeza;Realeza;PR;--3-----;RQ;607;;
+BR;REC;Recife;Recife;PE;1--4----;AI;9601;;
+BR;RDC;Redencao;Redencao;PA;0-------;QQ;;;
+BR;REO;Redenção;Redencao;CE;--3-----;RL;601;;0413S 03844W
+BR;RFJ;Regente Feijo;Regente Feijo;SP;--3-----;RQ;607;;
+BR;RGI;Registro;Registro;SP;--3-----;RQ;607;;
+BR;RMA;Remanso;Remanso;BA;--3-----;RQ;607;;
+BR;QRZ;Resende;Resende;RJ;1234----;AI;601;;2228S 04427W
+BR;RSE;Reserva;Reserva;PR;--3-----;RQ;607;;
+BR;RES;Restinga;Restinga;SP;--3-----;RL;1401;;2036S 04729W
+BR;RSA;Restinga Seca;Restinga Seca;RS;--3-----;AC;1501;;2949S 05323W
+BR;REL;Retirolandia;Retirolandia;BA;--3-----;AC;1501;;1134S 03919W
+BR;RIJ;Riachão do Jacuípe;Riachao do Jacuipe;BA;--3-----;AC;1501;;1148S 03921W
+BR;RRP;Ribas do Rio Pardo;Ribas do Rio Pardo;MS;--3-----;RQ;607;;
+BR;RPM;Ribeira do Pombal;Ribeira do Pombal;BA;--3-----;RQ;607;;
+BR;RBE;Ribeirão;Ribeirao;PE;-23-----;AA;1507;;0830S 03522W
+BR;RBI;Ribeirao Bonito;Ribeirao Bonito;SP;--3-----;RQ;607;;
+BR;RIB;Ribeirão Branco;Ribeirao Branco;SP;--3-----;AC;1501;;2413S 04845W
+BR;RCR;Ribeirao Cascalheira;Ribeirao Cascalheira;MT;--3-----;RQ;607;;
+BR;RNV;Ribeirao das Neves;Ribeirao das Neves;MG;--3-----;RQ;607;;
+BR;RSU;Ribeirao do Sul;Ribeirao do Sul;SP;--3-----;RQ;607;;
+BR;RGA;Ribeirao Grande;Ribeirao Grande;SP;--3-----;RQ;607;;
+BR;RPI;Ribeirao Pires;Ribeirao Pires;SP;--3-----;RQ;607;;
+BR;RAO;Ribeirao Prêto;Ribeirao Preto;SP;---4----;AI;212;;2110S 04748W
+BR;RVO;Ribeirao Vermelho;Ribeirao Vermelho;MG;--3-----;RQ;607;;
+BR;RBL;Ribeirópolis;Ribeiropolis;SE;-23-----;RL;1401;;1032S 03726W
+BR;RFI;Rifaina;Rifaina;SP;--3-----;RQ;607;;
+BR;RCO;Rincao;Rincao;SP;--3-----;RQ;607;;
+BR;RPS;Rinopolis;Rinopolis;SP;--3-----;RQ;607;;
+BR;RAC;Rio Acima;Rio Acima;MG;--3-----;RQ;607;;
+BR;RAZ;Rio Azul;Rio Azul;PR;--3-----;AC;1501;;2543S 05047W
+BR;RBO;Rio Bonito;Rio Bonito;RJ;--3-----;RQ;607;;
+BR;RBR;Rio Branco;Rio Branco;AC;---4----;AI;9601;;
+BR;RBS;Rio Branco do Sul;Rio Branco do Sul;PR;--3-----;AC;1501;;2510S 04918W
+BR;RBA;Rio Brilhante;Rio Brilhante;MS;--3-----;RQ;607;;
+BR;RCS;Rio Casca;Rio Casca;MG;--3-----;RQ;607;;
+BR;RCL;Rio Claro;Rio Claro;SP;--3-----;RQ;607;;
+BR;RDF;Rio das Flores;Rio das Flores;RJ;--3-----;AA;1601;;2210S 04335W
+BR;RTA;Rio das Ostras;Rio das Ostras;RJ;--3-----;RQ;607;;
+BR;RPE;Rio das Pedras;Rio das Pedras;SP;--3-----;RQ;607;;
+BR;RCN;Rio de Contas;Rio de Contas;BA;--3-----;AA;1507;;1335S 04149W
+BR;RIO;Rio de Janeiro;Rio de Janeiro;RJ;1--45---;AI;9601;;
+BR;RJO;Rio de Janeiro Gig;Rio de Janeiro Gig;RJ;--3-----;RQ;607;;
+BR;GIG;Rio de Janeiro Internacional Apt;Rio de Janeiro Internacional Apt;RJ;---4----;AI;9701;;
+BR;RJS;Rio de Janeiro Sdu;Rio de Janeiro Sdu;RJ;--3-----;RQ;607;;
+BR;RDA;Rio do Antonio;Rio do Antonio;BA;-----6--;RL;1107;;1424S 04205W
+BR;RIC;Rio do Campo;Rio do Campo;SC;--3-----;AC;1501;;2658S 05009W
+BR;RFO;Rio do Fogo;Rio do Fogo;RN;--3-----;RQ;607;;
+BR;QRU;Rio do Sul;Rio do Sul;SC;---4----;AI;9601;;
+BR;RCD;Rio dos Cedros;Rio dos Cedros;SC;-----6--;RQ;1001;;2644S 04916W
+BR;RIG;Rio Grande;Rio Grande;RS;1--4----;AI;9601;;
+BR;RGS;Rio Grande da Serra;Rio Grande da Serra;SP;--3-----;RQ;607;;
+BR;GSU;Rio Grande do Sul;Rio Grande do Sul;PR;--3-----;RQ;607;;
+BR;RLO;Rio Largo;Rio Largo;AL;--3-----;RQ;607;;
+BR;RMI;Rio Maria;Rio Maria;PA;--3-----;RQ;607;;
+BR;QNE;Rio Negrinho;Rio Negrinho;SC;---4----;AI;9601;;
+BR;RNO;Rio Negro;Rio Negro;PR;--3-----;RQ;607;;
+BR;NVV;Rio Novo Do Sul;Rio Novo Do Sul;ES;--3-----;RL;1101;;2052S 04056W
+BR;RPA;Rio Paranaiba;Rio Paranaiba;MG;--3-----;RQ;607;;
+BR;RPB;Rio Pomba;Rio Pomba;MG;--3-----;RQ;607;;
+BR;RPV;Rio Preto da Eva;Rio Preto da Eva;AM;--3-----;AC;1501;;0241S 05942W
+BR;RQE;Rio Quente;Rio Quente;GO;--3-----;RQ;607;;
+BR;ROR;Rio Real;Rio Real;BA;--3-----;RL;1401;;1128S 03756W
+BR;RTT;Rio Tinto;Rio Tinto;PB;--3-----;RL;1301;;0648S 03505W
+BR;RVD;Rio Verde;Rio Verde;GO;---4----;AI;9912;;
+BR;VMG;Rio Verde de Mato Grosso;Rio Verde de Mato Grosso;MS;--3-----;RQ;607;;
+BR;RLA;Riolandia;Riolandia;SP;--3-----;RQ;607;;
+BR;RIZ;Riozinho;Riozinho;RS;--3-----;RL;1401;;2939S 05027W
+BR;ROD;Rodeio;Rodeio;SC;--3-----;AC;1501;;2657S 04923W
+BR;ROL;Rolandia;Rolandia;PR;--3-----;RQ;607;;
+BR;LTE;Rolante;Rolante;RS;-----6--;RL;1107;;2940S 05034W
+BR;RMU;Rolim de Moura;Rolim de Moura;RO;--3-----;RL;701;;1304S 06218W
+BR;RND;Rondon;Rondon;PR;--3-----;RL;1207;;2323S 05248W
+BR;RPR;Rondon do Para;Rondon do Para;PA;--3-----;RQ;607;;
+BR;ROO;Rondonópolis;Rondonopolis;MT;---4----;AI;212;;1628S 05438W
+BR;ROS;Rosana;Rosana;SP;--3-----;RQ;607;;
+BR;RSC;Rosário do Catete;Rosario do Catete;SE;-----6--;RL;1201;;1041S 03702W
+BR;RIV;Rosario do Ivai;Rosario do Ivai;PR;--3-----;RQ;607;;
+BR;RSO;Rosario do Sul;Rosario do Sul;RS;--3-----;RQ;607;;
+BR;RSR;Roseira;Roseira;SP;--3-----;AC;1501;;2254S 04518W
+BR;RUB;Rubiataba;Rubiataba;GO;--3-----;RQ;607;;
+BR;RNB;Rural Paranaiba;Rural Paranaiba;MG;--3-----;RQ;607;;
+BR;RUS;Russas;Russas;CE;-----6--;RQ;907;;0456S 03758W
+BR;RYB;Ruy Barbosa;Ruy Barbosa;BA;--3-----;RQ;607;;
+BR;SAB;Sabara;Sabara;MG;--3-----;RQ;607;;
+BR;SBZ;Sabáudia;Sabaudia;PR;--3-----;RL;1301;;2318S 05133W
+BR;SMO;Sacramento;Sacramento;MG;--3-----;RQ;607;;
+BR;SOV;Sales Oliveira;Sales Oliveira;SP;--3-----;RQ;607;;
+BR;SPO;Salesopolis;Salesopolis;SP;--3-----;RQ;607;;
+BR;SEE;Salete;Salete;SC;--3-----;AC;1501;;2658S 05000W
+BR;SSX;Salgado de São Félix;Salgado de Sao Felix;PB;--3-----;RL;1301;;0721S 03526W
+BR;SGU;Salgueiro;Salgueiro;PE;--3-----;RQ;607;;
+BR;SAA;Salinas;Salinas;MG;--3-----;RQ;607;;
+BR;SAT;Salto;Salto;SP;--3-----;RQ;607;;
+BR;SAF;Salto de Pirapora;Salto de Pirapora;SP;--3-----;RQ;607;;
+BR;SAL;Salto Grande;Salto Grande;SP;1-3-----;RL;601;;2257S 04958W
+BR;SSA;Salvador;Salvador;BA;1--4----;AI;9601;;
+BR;SAD;Salvador do Sul;Salvador do Sul;RS;--3-----;RQ;607;;
+BR;SLV;Salvaterra;Salvaterra;PA;1-------;RL;212;;0046S 04831W
+BR;SNB;Sana;Sana;RJ;--3-----;RQ;607;;
+BR;SNU;Sananduva;Sananduva;RS;--3-----;RQ;607;;
+BR;SNC;Sanclerlandia;Sanclerlandia;GO;--3-----;RQ;607;;
+BR;SA2;Sangão;Sangao;SC;--3-----;RL;1301;;2838S 04908W
+BR;SNL;Santa Adelia;Santa Adelia;SP;--3-----;RQ;607;;
+BR;SNR;Santa Barbara;Santa Barbara;MG;--3-----;RQ;607;;
+BR;SNT;Santa Barbara do Para;Santa Barbara do Para;PA;--3-----;RQ;607;;
+BR;BDA;Santa Bárbara do Pará;Santa Barbara do Para;PR;--3-----;RL;607;;0112S 04816W
+BR;SBD;Santa Bárbara d'Oeste;Santa Barbara d'Oeste;SP;-23-----;RL;601;;2245S 04725W
+BR;SBW;Santa Bárbara d'Oeste;Santa Barbara d'Oeste;SP;--3-----;AC;1501;;2244S 04724W
+BR;SBR;Santa Branca;Santa Branca;SP;--3-----;RQ;607;;
+BR;SNV;Santa Carmem;Santa Carmem;MT;--3-----;RQ;607;;
+BR;CJT;Santa Catarina;Santa Catarina;;1----6--;RL;1107;;
+BR;SCC;Santa Cecília;Santa Cecilia;SC;--3-----;AC;1501;;2656S 05027W
+BR;SCS;Santa Clara do Sul;Santa Clara do Sul;RS;---4----;RL;212;;2927S 05205W
+BR;SCD;Santa Clara d'Oeste;Santa Clara d'Oeste;SP;--3-----;RL;1301;;2006S 05056W
+BR;SRJ;Santa Cruz;Santa Cruz;RJ;1-3-----;RL;1401;;2255S 04341W
+BR;SNZ;Santa Cruz;Santa Cruz;RN;---4----;AI;9912;;
+BR;SNW;Santa Cruz Cabralia;Santa Cruz Cabralia;BA;--3-----;RQ;607;;
+BR;SNY;Santa Cruz das Palmeiras;Santa Cruz das Palmeiras;SP;--3-----;RQ;607;;
+BR;SNF;Santa Cruz do Capibaribe;Santa Cruz do Capibaribe;PE;--3-----;RQ;607;;
+BR;SNQ;Santa Cruz do Rio Pardo;Santa Cruz do Rio Pardo;SP;--3-----;RQ;607;;
+BR;DSU;Santa Cruz do Sul;Santa Cruz do Sul;RS;-23-----;RL;601;;2943S 05226W
+BR;SFE;Santa Fé de Goiás;Santa Fe de Goias;GO;--3-----;AA;1507;;1546S 05106W
+BR;SFV;Santa Fé do Sul;Santa Fe do Sul;SP;---4----;AI;212;;2013S 05056W
+BR;SGR;Santa Gertrudes;Santa Gertrudes;SP;-23-----;RL;601;;2228S 04731W
+BR;SNH;Santa Helena;Santa Helena;PR;--3-----;RQ;607;;
+BR;SHG;Santa Helena de Goias;Santa Helena de Goias;GO;--3-----;RQ;607;;
+BR;SIN;Santa Ines;Santa Ines;MA;--3-----;RQ;607;;
+BR;SIB;Santa Isabel;Santa Isabel;SP;--3-----;RQ;607;;
+BR;SII;Santa Isabel do Ivai;Santa Isabel do Ivai;PR;--3-----;RQ;607;;
+BR;IDO;Santa Isabel do Morro;Santa Isabel do Morro;TO;---4----;AI;9601;;
+BR;SIP;Santa Isabel do Para;Santa Isabel do Para;PA;--3-----;RL;1101;;0116S 04811W
+BR;BRJ;Santa Juliana;Santa Juliana;MG;--3-----;RL;1301;;1919S 04732W
+BR;LPN;Santa Leopoldina;Santa Leopoldina;ES;--3-----;RL;1301;;2006S 04032W
+BR;SLU;Santa Luz;Santa Luz;;--3-----;AC;1501;;0857S 04407W
+BR;SLA;Santa Luzia;Santa Luzia;MG;--3-----;RQ;607;;
+BR;SLN;Santa Luzia do Norte;Santa Luzia do Norte;AL;--3-----;AC;1501;;0936S 03549W
+BR;RIA;Santa Maria;Santa Maria;RS;---4----;AI;9601;;
+BR;SMA;Santa Maria Boa Vista;Santa Maria Boa Vista;PE;--3-----;RQ;607;;
+BR;SMV;Santa Maria da Vitória;Santa Maria da Vitoria;BA;--3-----;RL;607;;1324S 04412W
+BR;SMY;Santa Maria de Jetibá;Santa Maria de Jetiba;ES;--3-----;AC;1501;;2001S 04044W
+BR;MMM;Santa Maria do Suaçuí;Santa Maria do Suacui;MG;--3-----;RL;1301;;1812S 04225W
+BR;SMM;Santa Maria Madalena;Santa Maria Madalena;RJ;--3-----;RQ;607;;
+BR;SMN;Santa Mariana;Santa Mariana;PR;--3-----;RQ;607;;
+BR;SRR;Santa Rita;Santa Rita;PB;--3-----;RQ;607;;
+BR;SRG;Santa Rita do Araguaia;Santa Rita do Araguaia;GO;--3-----;RQ;607;;
+BR;SRO;Santa Rita do Oeste;Santa Rita do Oeste;SP;--3-----;RQ;607;;
+BR;SRS;Santa Rita do Passa Quatro;Santa Rita do Passa Quatro;SP;--3-----;RQ;607;;
+BR;SRW;Santa Rita do Sapucai;Santa Rita do Sapucai;MG;--3-----;RQ;607;;
+BR;SRA;Santa Rosa;Santa Rosa;RS;---4----;AI;9912;;
+BR;SRV;Santa Rosa de Viterbo;Santa Rosa de Viterbo;SP;--3-----;RQ;607;;
+BR;SRU;Santa Rosa do Sul;Santa Rosa do Sul;SC;--3-----;RQ;607;;
+BR;STE;Santa Teresa;Santa Teresa;ES;--3-----;RQ;607;;
+BR;STW;Santa Tereza do Oeste;Santa Tereza do Oeste;PR;--3-----;AC;1501;;2503S 05337W
+BR;STZ;Santa Terezinha;Santa Terezinha;MT;---4----;AI;9601;;
+BR;STG;Santa Terezinha de Goias;Santa Terezinha de Goias;GO;--3-----;RQ;607;;
+BR;STU;Santa Terezinha de Itaipu;Santa Terezinha de Itaipu;PR;--3-----;AC;1501;;2544S 05440W
+BR;SVI;Santa Vitoria;Santa Vitoria;MG;--3-----;RQ;607;;
+BR;CTQ;Santa Vitoria;Santa Vitoria;RS;---4----;AI;9912;;
+BR;SVP;Santa Vitoria do Palmar;Santa Vitoria do Palmar;ES;--3-----;RQ;607;;
+BR;SAN;Santana;Santana;AP;1-------;RL;1307;;0002S 05151W
+BR;STB;Santana;Santana;AP;--3-----;RQ;607;;
+BR;PSA;Santana de Parnaíba;Santana de Parnaiba;SP;1-3-----;RL;601;;2327S 04655W
+BR;CMP;Santana Do Araguaia;Santana Do Araguaia;PA;---4----;AI;9912;;
+BR;SDM;Santana do Ipanema;Santana do Ipanema;AL;--3-----;RL;1407;;0922S 03714W
+BR;SLI;Santana do Livramento;Santana do Livramento;RS;--3-----;RQ;607;;
+BR;SNP;Santana do Paraiso;Santana do Paraiso;MG;--3-----;RQ;607;;
+BR;SRC;Santana do Riacho;Santana do Riacho;MG;--3-----;RQ;607;;
+BR;STM;Santarem;Santarem;PA;---4----;AI;9601;;
+BR;SGO;Santiago;Santiago;RS;--3-----;RQ;607;;
+BR;SAG;Santo Agostinho;Santo Agostinho;PE;--3-----;RL;307;;0821S 03456W
+BR;SAM;Santo Amaro;Santo Amaro;BA;--3-----;RQ;607;;
+BR;SRM;Santo Amaro da Imperatriz;Santo Amaro da Imperatriz;SC;--3-----;RL;607;;2741S 04847W
+BR;SUN;Santo Anastacio;Santo Anastacio;SP;--3-----;RQ;607;;
+BR;SAR;Santo Andre;Santo Andre;BA;--3-----;RQ;607;;
+BR;QSE;Santo André;Santo Andre;SP;---4----;AI;212;;2340S 04631W
+BR;GEL;Santo Angelo;Santo Angelo;RS;---4----;AI;9601;;
+BR;SPU;Santo Antonio da Patrulha;Santo Antonio da Patrulha;RS;--3-----;RQ;607;;
+BR;SPN;Santo Antonio da Platina;Santo Antonio da Platina;PR;--3-----;RQ;607;;
+BR;AJE;Santo Antônio de Jesus;Santo Antonio de Jesus;BA;-23-----;RL;607;;1258S 03916W
+BR;SAJ;Santo Antônio de Jesus;Santo Antonio de Jesus;BA;--3-----;RL;1207;;1254S 03915W
+BR;STA;Santo Antônio de Pádua;Santo Antonio de Padua;RJ;123-----;RL;601;;2134S 04211W
+BR;SAS;Santo Antônio de Posse;Santo Antonio de Posse;SP;--3-----;AC;1501;;2236S 04655W
+BR;STP;Santo Antônio do Amparo;Santo Antonio do Amparo;MG;--3-----;RL;701;;2057S 04455W
+BR;STJ;Santo Antonio do Jardim;Santo Antonio do Jardim;SP;--3-----;RQ;607;;
+BR;STN;Santo Antonio do Monte;Santo Antonio do Monte;MG;--3-----;RQ;607;;
+BR;SAW;Santo Antônio do Paraiso;Santo Antonio do Paraiso;PR;--3-----;RL;1301;;2332S 05040W
+BR;SPL;Santo Antonio do Pinhal;Santo Antonio do Pinhal;SP;--3-----;RQ;607;;
+BR;SAV;Santo Antonio Leverger;Santo Antonio Leverger;MT;--3-----;RQ;607;;
+BR;SCO;Santo Cristo;Santo Cristo;RJ;--3-----;RQ;607;;
+BR;SCT;Santo Cristo;Santo Cristo;RS;--3-----;RQ;607;;
+BR;SET;Santo Estevao;Santo Estevao;BA;-----6--;RQ;1001;;1242S 03836W
+BR;SSZ;Santos;Santos;SP;1234----;AI;1207;;2357S 04620W
+BR;SDO;Santos Dumont;Santos Dumont;MG;--3-----;RQ;607;;
+BR;SDU;Santos Dumont Apt/Rio de Janeiro;Santos Dumont Apt/Rio de Janeiro;RJ;---4----;AI;;;
+BR;SBE;Sao Benedito;Sao Benedito;CE;--3-----;RQ;607;;
+BR;SBT;Sao Bento;Sao Bento;PB;--3-----;RQ;607;;
+BR;SBN;São Bento do Norte;Sao Bento do Norte;RN;--3-----;AC;1501;;0510S 03605W
+BR;SBS;Sao Bento do Sapucai;Sao Bento do Sapucai;SP;--3-----;RQ;607;;
+BR;QHE;São Bento do Sul;Sao Bento do Sul;SC;--34----;AI;207;;2612S 04924W
+BR;QSB;Sao Bernardo do Campo;Sao Bernardo do Campo;SP;---4----;AI;212;;2342S 04633W
+BR;BJA;Sao Borja;Sao Borja;RS;--3-----;RQ;607;;
+BR;QCX;Sao Caetano do Sul;Sao Caetano do Sul;SP;---4----;AI;212;;2336S 04634W
+BR;SCL;Sao Carlos;Sao Carlos;SC;--3-----;RQ;607;;
+BR;QSC;Sao Carlos;Sao Carlos;SP;---4----;AI;9601;;
+BR;SCI;São Carlos do Ivaí;Sao Carlos do Ivai;PR;--3-----;AA;1507;;2318S 05228W
+BR;SCV;Sao Cristovao;Sao Cristovao;SE;--3-----;RQ;607;;
+BR;SDD;São Desidério;Sao Desiderio;BA;--3-----;AC;1501;;1222S 04458W
+BR;SDN;São Domingos do Norte;Sao Domingos do Norte;ES;--3-----;AC;1501;;1901S 04032W
+BR;SFX;Sao Felix;Sao Felix;BA;--3-----;RQ;607;;
+BR;SXO;Sao Felix Do Araguaia;Sao Felix Do Araguaia;MT;---4----;AI;9912;;
+BR;SFG;Sao Felix do Xingu;Sao Felix do Xingu;PA;--3-----;RQ;607;;
+BR;SFI;Sao Fidelis;Sao Fidelis;RJ;--3-----;RQ;607;;
+BR;SFO;Sao Francisco;Sao Francisco;ES;--3-----;RL;907;;1959S 04107W
+BR;SFR;Sao Francisco;Sao Francisco;MA;--3-----;RQ;607;;
+BR;SFC;São Francisco;Sao Francisco;SP;-----6--;RL;1201;;2159S 05113W
+BR;SFA;Sao Francisco de Assis;Sao Francisco de Assis;RS;--3-----;RQ;607;;
+BR;SFP;Sao Francisco de Paula;Sao Francisco de Paula;MG;--3-----;RQ;607;;
+BR;SRP;Sao Francisco de Paula;Sao Francisco de Paula;RS;--3-----;RQ;607;;
+BR;SFN;Sao Francisco do Conde;Sao Francisco do Conde;BA;--3-----;RQ;607;;
+BR;DOG;São Francisco do Guaporé;Sao Francisco do Guapore;RO;--3-----;RL;1401;;1203S 06334W
+BR;SFS;São Francisco do Sul;Sao Francisco do Sul;SC;1-------;AI;9401;;
+BR;SXV;Sao Francisco Xavier;Sao Francisco Xavier;SP;--3-----;RQ;607;;
+BR;QFS;Sao Franciso do Sul;Sao Franciso do Sul;SC;1-------;RL;907;;2617S 04838W
+BR;SGA;Sao Gabriel;Sao Gabriel;RS;--3-----;RQ;607;;
+BR;SJL;Sao Gabriel da Cachoeira;Sao Gabriel da Cachoeira;AM;---4----;AI;212;;0008S 06705W
+BR;SGP;Sao Gabriel da Palha;Sao Gabriel da Palha;ES;--3-----;RQ;607;;
+BR;SGS;Sao Gabriel do Oeste;Sao Gabriel do Oeste;MS;--3-----;RQ;607;;
+BR;SGL;Sao Geraldo;Sao Geraldo;MG;--3-----;RQ;607;;
+BR;QSD;Sao Goncalo;Sao Goncalo;RJ;---4----;AI;9601;;
+BR;SGE;Sao Goncalo do Amarante;Sao Goncalo do Amarante;CE;--3-----;RQ;607;;
+BR;SAZ;São Gonçalo do Amarante;Sao Goncalo do Amarante;RN;--3-----;RL;501;QTE;0546S 03520W
+BR;SDR;São Gonçalo do Rio Abaixo;Sao Goncalo do Rio Abaixo;MG;--3-----;RL;1301;;1949S 04321W
+BR;GSI;São Gonçalo do Sapucaí;Sao Goncalo do Sapucai;MG;--3-----;RL;1101;;2154S 04536W
+BR;SGC;Sao Goncalo dos Campos;Sao Goncalo dos Campos;BA;--3-----;RQ;607;;
+BR;SGT;Sao Gotardo;Sao Gotardo;MG;--3-----;RQ;607;;
+BR;SJO;Sao Jeronimo;Sao Jeronimo;RS;--3-----;RQ;607;;
+BR;SJW;São João Batista;Sao Joao Batista;SC;--3-----;AC;1501;;2716S 04850W
+BR;SJA;Sao Joao da Alianca;Sao Joao da Alianca;GO;--3-----;RQ;607;;
+BR;SJG;São João da Araguaia;Sao Joao da Araguaia;PA;--3-----;AC;1501;;0614S 04826W
+BR;9SB;São João da Barra;Sao Joao da Barra;RJ;--3-----;RL;1307;;2138S 04103W
+BR;SJV;Sao Joao da Boa Vista;Sao Joao da Boa Vista;SP;--3-----;RQ;607;;
+BR;SBV;São João da Boa Vista;Sao Joao da Boa Vista;SP;--3-----;RL;1301;;2158S 04647W
+BR;SPI;São João de Pirabas;Sao Joao de Pirabas;PA;--3-----;AC;1501;;0046S 04710W
+BR;QSJ;Sao Joao del Rei;Sao Joao del Rei;MG;---4----;AI;212;;2109S 04416W
+BR;SJC;Sao Joao do Caiua;Sao Joao do Caiua;PR;--3-----;RQ;607;;
+BR;SJM;Sao Joao do Meriti;Sao Joao do Meriti;RJ;--3-----;RQ;607;;
+BR;SJN;Sao Joao Nepomucemo;Sao Joao Nepomucemo;MG;--3-----;RQ;607;;
+BR;SJQ;Sao Joaquim;Sao Joaquim;SC;--3-----;RQ;607;;
+BR;SJB;Sao Joaquim da Barra;Sao Joaquim da Barra;SP;--3-----;RQ;607;;
+BR;SBC;São Joaquim de Bicas;Sao Joaquim de Bicas;MG;--3-----;AC;1501;;2002S 04416W
+BR;SJE;Sao Jose;Sao Jose;SC;--3-----;RQ;607;;
+BR;SZB;São José da Barra;Sao Jose da Barra;MG;--3-----;AC;1501;;2043S 04608W
+BR;SJH;São José da Laje;Sao Jose da Laje;AL;--3-----;RL;1401;;0900S 03602W
+BR;SSL;Sao Jose da Lapa;Sao Jose da Lapa;MG;--3-----;RQ;607;;
+BR;SSM;Sao Jose de Mipibo;Sao Jose de Mipibo;RN;--3-----;RQ;607;;
+BR;SJI;Sao Jose do Barreiro;Sao Jose do Barreiro;SP;--3-----;RQ;607;;
+BR;SJD;Sao Jose do Cedro;Sao Jose do Cedro;SC;--3-----;RQ;607;;
+BR;SDJ;São José do Jacuri;Sao Jose do Jacuri;MG;--3-----;RL;1301;;1816S 04240W
+BR;SNN;São José do Norte;Sao Jose do Norte;RS;--3-----;AC;1501;;3201S 05203W
+BR;SJR;Sao Jose do Rio Claro;Sao Jose do Rio Claro;MT;--3-----;RQ;607;;
+BR;JRP;Sao Jose do Rio Pardo;Sao Jose do Rio Pardo;SP;--3-----;RQ;607;;
+BR;SJP;Sao José do Rio Prêto;Sao Jose do Rio Preto;SP;---4----;AI;212;;2048S 04923W
+BR;SRT;Sao Jose do Vale Rio Preto;Sao Jose do Vale Rio Preto;RJ;--3-----;RQ;607;;
+BR;SJT;Sao Jose dos Ausentes;Sao Jose dos Ausentes;RS;--3-----;RQ;607;;
+BR;SJK;Sao José dos Campos;Sao Jose dos Campos;SP;---4----;AI;212;;2311S 04553W
+BR;SJS;São José dos Pinhais;Sao Jose dos Pinhais;PR;--3-----;RL;601;;2534S 04910W
+BR;SQC;Sao Jose Quatro Marcos;Sao Jose Quatro Marcos;MT;--3-----;RQ;607;;
+BR;QLL;Sao Leopoldo;Sao Leopoldo;RS;---4----;AI;212;;2946S 05109W
+BR;SLO;Sao Lourenco;Sao Lourenco;MG;--3-----;RQ;607;;
+BR;SLM;Sao Lourenco da Mata;Sao Lourenco da Mata;PE;--3-----;RQ;607;;
+BR;SLS;Sao Lourenco da Serra;Sao Lourenco da Serra;SP;--3-----;RQ;607;;
+BR;SLT;Sao Lourenco do Oeste;Sao Lourenco do Oeste;SC;--3-----;RQ;607;;
+BR;SQY;Sao Lourenço do Sul;Sao Lourenco do Sul;RS;---4----;AI;212;;3122S 05158W
+BR;SLG;Sao Ludgero;Sao Ludgero;SC;--3-----;RQ;607;;
+BR;SLZ;São Luís;Sao Luis;MA;1-34----;AI;207;;0230S 04418W
+BR;SMB;Sao Luis de Montes Belos;Sao Luis de Montes Belos;GO;--3-----;RQ;607;;
+BR;SLP;Sao Luis do Paraitinga;Sao Luis do Paraitinga;SP;--3-----;RQ;607;;
+BR;SLQ;São Luís do Quitunde;Sao Luis do Quitunde;AL;--3-----;AC;1501;;0919S 03533W
+BR;SZG;Sao Luiz Gonzaga;Sao Luiz Gonzaga;RS;--3-----;RQ;607;;
+BR;SML;Sao Manuel;Sao Manuel;SP;--3-----;RQ;607;;
+BR;SMC;Sao Marcos;Sao Marcos;RS;--3-----;RQ;607;;
+BR;SBJ;Sao Mateus;Sao Mateus;ES;---4----;AI;212;;1844S 03951W
+BR;SMS;Sao Mateus do Sul;Sao Mateus do Sul;PR;--3-----;RQ;607;;
+BR;SMJ;Sao Miguel Arcanjo;Sao Miguel Arcanjo;SP;--3-----;RQ;607;;
+BR;SMI;Sao Miguel das Missoes;Sao Miguel das Missoes;RS;--3-----;RQ;607;;
+BR;SQM;Sao Miguel do Araguaia;Sao Miguel do Araguaia;GO;---4----;AI;212;;1319S 05013W
+BR;SMG;Sao Miguel do Gostoso;Sao Miguel do Gostoso;RN;--3-----;RQ;607;;
+BR;MDG;São Miguel do Guaporé;Sao Miguel do Guapore;RO;--3-----;RL;1301;;1141S 06242W
+BR;MIG;São Miguel do Iguaçu;Sao Miguel do Iguacu;PR;--3-----;RL;1101;;2521S 05410W
+BR;SMT;Sao Miguel do Oeste;Sao Miguel do Oeste;SC;--3-----;RQ;607;;
+BR;SMZ;São Miguel d'Oeste;Sao Miguel d'Oeste;SC;--3-----;RL;1301;;2645S 05334W
+BR;SMP;Sao Miguel dos Campos;Sao Miguel dos Campos;AL;--3-----;RQ;607;;
+BR;SMR;Sao Miguel dos Touros;Sao Miguel dos Touros;RN;--3-----;RQ;607;;
+BR;SUM;Sao Miguel Milagres;Sao Miguel Milagres;AL;--3-----;RQ;607;;
+BR;SPT;Sao Miguel Paulista;Sao Miguel Paulista;SP;--3-----;RQ;607;;
+BR;SAO;Sao Paulo;Sao Paulo;SP;-2-45---;AI;9601;;
+BR;SPC;Sao Paulo Cgh;Sao Paulo Cgh;SP;--3-----;RQ;607;;
+BR;SPV;Sao Paulo de Olivenca;Sao Paulo de Olivenca;AM;--3-----;RQ;607;;
+BR;SPG;Sao Paulo Gru;Sao Paulo Gru;SP;--3-----;RQ;607;;
+BR;SPD;Sao Pedro;Sao Pedro;SP;--3-----;RQ;607;;
+BR;SPE;Sao Pedro Alcantara;Sao Pedro Alcantara;SC;--3-----;RQ;607;;
+BR;SRL;Sao Pedro da Aldeia;Sao Pedro da Aldeia;RJ;--3-----;RQ;607;;
+BR;SDI;Sao Pedro do Ivai;Sao Pedro do Ivai;PR;--3-----;RQ;607;;
+BR;SCU;Sao Pedro do Suacui;Sao Pedro do Suacui;MG;--3-----;RQ;607;;
+BR;SDS;Sao Pedro do Sul;Sao Pedro do Sul;RS;--3-----;RQ;607;;
+BR;SDT;Sao Pedro do Turvo;Sao Pedro do Turvo;SP;--3-----;RQ;607;;
+BR;SRN;Sao Raimundo Nonato;Sao Raimundo Nonato;PI;--3-----;RQ;607;;
+BR;SRQ;Sao Roque;Sao Roque;SP;--3-----;RQ;607;;
+BR;SQN;Sao Roque de Minas;Sao Roque de Minas;MG;--3-----;RQ;607;;
+BR;SQA;Sao Roque do Canaa;Sao Roque do Canaa;ES;--3-----;RQ;607;;
+BR;SSB;São Sebastião;Sao Sebastiao;MG;-----6--;RL;1201;;2022S 04330W
+BR;SSO;São Sebastião;Sao Sebastiao;SP;1-------;AI;9401;;
+BR;SSG;Sao Sebastiao da Grama;Sao Sebastiao da Grama;SP;--3-----;RQ;607;;
+BR;QHF;Sao Sebastiao do Caí;Sao Sebastiao do Cai;RS;---4----;AI;212;;2935S 05123W
+BR;SSP;Sao Sebastiao do Paraiso;Sao Sebastiao do Paraiso;MG;--3-----;RQ;607;;
+BR;SSR;Sao Sebastiao do Paraiso;Sao Sebastiao do Paraiso;SP;--3-----;RQ;607;;
+BR;SPA;São Sebastião do Passé;Sao Sebastiao do Passe;BA;--3-----;RQ;1101;;
+BR;SSE;Sao Sepe;Sao Sepe;RS;--3-----;RQ;607;;
+BR;SSI;Sao Simao;Sao Simao;GO;--3-----;RQ;607;;
+BR;SOS;Sao Simao;Sao Simao;SP;--3-----;RQ;607;;
+BR;SOM;São Tomé;Sao Tome;PR;1----6--;RL;1201;;2252S 05108W
+BR;STL;Sao Tome das Letras;Sao Tome das Letras;MG;--3-----;RQ;607;;
+BR;SVT;São Vicente;Sao Vicente;SP;123-----;RL;601;;2357S 04623W
+BR;SLE;Sap Leopoldo;Sap Leopoldo;RS;--3-----;RQ;607;;
+BR;SAE;Sape;Sape;PB;--3-----;RQ;607;;
+BR;SAU;Sapeaçu;Sapeacu;BA;--3-----;AC;1501;;1244S 03913W
+BR;SPZ;Sapezal;Sapezal;MT;--3-----;RQ;607;;
+BR;SAP;Sapiranga;Sapiranga;RS;---4----;RL;207;;2937S 02505W
+BR;SUS;Sapucaia do Sul;Sapucaia do Sul;RS;--3-----;RQ;607;;
+BR;SPM;Sapucaí-Mirim;Sapucai-Mirim;MG;--3-----;RL;701;;2244S 04545W
+BR;SQR;Saquarema;Saquarema;RJ;--3-----;RQ;607;;
+BR;SNI;Sarandi;Sarandi;PR;--3-----;RQ;607;;
+BR;SND;Sarandi;Sarandi;RS;--3-----;RQ;607;;
+BR;SVA;Saranduva;Saranduva;RS;--3-----;RQ;607;;
+BR;SRI;Sarapuí;Sarapui;SP;--3-----;RL;601;;2338S 04748W
+BR;SGZ;Sardoa;Sardoa;MG;--3-----;RL;1307;;1846S 04223W
+BR;SZD;Sarzedo;Sarzedo;MG;--3-----;AA;1601;;2002S 04409W
+BR;SRD;Sátiro Dias;Satiro Dias;BA;--3-----;RL;1301;;1136S 03836W
+BR;SUD;Saudades;Saudades;SC;--3--6--;RQ;1001;;2714S 05241W
+BR;SUP;Sauipe;Sauipe;BA;--3-----;RQ;607;;
+BR;SDE;Schroeder;Schroeder;SC;--3-----;RQ;607;;
+BR;SEB;Seabra;Seabra;BA;--3-----;AC;1501;;1225S 04146W
+BR;SLJ;Sebastião Laranjeiras;Sebastiao Laranjeiras;BA;--3-----;AA;1507;;1434S 04256W
+BR;SR2;Seberi;Seberi;RS;-----6--;RL;1201;;2729S 05324W
+BR;SBH;Selbach;Selbach;RS;--3-----;RQ;607;;
+BR;ZMD;Sena Madureira;Sena Madureira;AC;---4----;AI;9912;;
+BR;SEC;Senador Canedo;Senador Canedo;GO;--3-----;AC;1501;;1643S 04905W
+BR;9SE;Sengés;Senges;PR;--3-----;RL;1407;;2406S 04929W
+BR;SEI;Senhor do Bonfim;Senhor do Bonfim;BA;---4----;AI;9912;;
+BR;SOI;Senhora de Oliveira;Senhora de Oliveira;MG;--3-----;RQ;607;;
+BR;STS;Sento Sé;Sento Se;BA;1-3-----;RL;701;;0943S 04117W
+BR;SEP;Sepetiba;Sepetiba;RJ;-23-----;RL;1307;;2258S 04342W
+BR;SCE;Serafina Correa;Serafina Correa;RS;--3-----;RQ;607;;
+BR;SGI;Sergipe;Sergipe;SE;--3-----;RQ;607;;
+BR;SDC;Seropedica;Seropedica;RJ;--3-----;RQ;607;;
+BR;SER;Serra;Serra;ES;--3-----;RL;601;;2008S 04019W
+BR;SEA;Serra;Serra;SP;-----6--;RQ;1001;;2122S 04713W
+BR;SCN;Serra da Canastra;Serra da Canastra;MG;--3-----;RQ;607;;
+BR;SEV;Serra da Capivara;Serra da Capivara;PI;--3-----;RQ;607;;
+BR;SIO;Serra do Cipo;Serra do Cipo;MG;--3-----;RQ;607;;
+BR;SST;Serra do Salitre;Serra do Salitre;MG;--3-----;RQ;607;;
+BR;SNG;Serra Negra;Serra Negra;SP;--3-----;RQ;607;;
+BR;RRN;Serra Norte;Serra Norte;PA;---4----;AI;9912;;
+BR;RSG;Serra Pelada;Serra Pelada;PA;---4----;AI;9912;;
+BR;STD;Serra Talhada;Serra Talhada;PE;--3-----;RQ;607;;
+BR;SNA;Serrana;Serrana;SP;--3-----;RQ;607;;
+BR;SIA;Serrania;Serrania;MG;--3-----;RQ;607;;
+BR;SNO;Serranopolis;Serranopolis;GO;--3-----;RQ;607;;
+BR;SHA;Serrinha;Serrinha;BA;--3-----;RQ;607;;
+BR;SEO;Serro;Serro;MG;--3-----;RQ;607;;
+BR;SNS;Sertanopolis;Sertanopolis;PR;--3-----;RQ;607;;
+BR;SZO;Sertãozinho;Sertaozinho;SP;-23-----;RL;601;;2108S 04759W
+BR;SBA;Sete Barras;Sete Barras;SP;--3-----;RQ;901;;
+BR;QHG;Sete Lagoas;Sete Lagoas;MG;---4----;AI;9601;;
+BR;SVE;Severinia;Severinia;SP;--3-----;RQ;607;;
+BR;SIS;Siderópolis;Sideropolis;SC;--3-----;AC;1501;;2835S 04926W
+BR;SLD;Sidrolandia;Sidrolandia;MS;--3-----;RQ;607;;
+BR;SIV;Silves;Silves;AM;--3-----;RQ;607;;
+BR;SVL;Silvianopolis;Silvianopolis;MG;--3-----;RQ;607;;
+BR;SID;Simão Dias;Simao Dias;SE;--3-----;RL;1407;;1044S 03749W
+BR;SOP;Simao Pereira;Simao Pereira;MG;--3-----;RQ;607;;
+BR;SSF;Simoes Filho;Simoes Filho;BA;--3-----;RQ;607;;
+BR;SIM;Simplício Mendes;Simplicio Mendes;PI;--3-----;AC;1501;;0751S 04154W
+BR;SBU;Sinimbu;Sinimbu;SC;--3-----;RQ;607;;
+BR;OPS;Sinop;Sinop;MT;---4----;AI;9912;;
+BR;SQP;Siqueira Campos;Siqueira Campos;PR;-23-----;RL;1407;;2341S 04950W
+BR;SNE;Sirinhaem;Sirinhaem;PE;--3-----;RQ;607;;
+BR;STC;Sitio do Conde;Sitio do Conde;BA;--3-----;RQ;607;;
+BR;SOB;Sobradinho;Sobradinho;AL;--3-----;RL;607;;0924S 03634W
+BR;JSB;Sobradinho;Sobradinho;BA;--3-----;RL;1301;;1609S 03952W
+BR;SRH;Sobradinho;Sobradinho;DF;--3-----;RQ;607;;
+BR;QBX;Sobral;Sobral;CE;---4----;AI;9601;;
+BR;SBL;Sobralia;Sobralia;MG;--3-----;RQ;607;;
+BR;SOC;Socorro;Socorro;SP;--3-----;RQ;607;;
+BR;SDA;Soledade;Soledade;RS;--3-----;RQ;607;;
+BR;SBI;Sombrio;Sombrio;SC;--3-----;RQ;607;;
+BR;SOA;Sonora;Sonora;MS;--3-----;RQ;607;;
+BR;SOR;Sooretama;Sooretama;ES;--3-----;RL;501;;1911S 04005W
+BR;SOD;Sorocaba;Sorocaba;SP;---4----;AI;9912;;
+BR;SOO;Sorriso;Sorriso;MT;--3-----;RQ;607;;
+BR;STV;Sotave;Sotave;;1-------;RL;901;;0200S 04430W
+BR;SFK;Soure;Soure;PA;---4----;AI;9912;;
+BR;SOU;Sousa;Sousa;PB;--3-----;RQ;607;;
+BR;SUA;Suape;Suape;PE;1-------;RQ;9506;;
+BR;SMU;Sud Mennucci;Sud Mennucci;SP;--3-----;RQ;607;;
+BR;SWM;Suia-Missu;Suia-Missu;MT;---4----;AI;9912;;
+BR;SME;Sumaré;Sumare;SP;--3-----;RL;201;;2247S 04717W
+BR;SRB;Surubim;Surubim;PE;--3-----;RQ;607;;
+BR;SZN;Suzano;Suzano;SP;-23-----;RL;601;;2332S 04618W
+BR;TPU;Tabapua;Tabapua;SP;--3-----;RQ;607;;
+BR;TBT;Tabatinga;Tabatinga;AM;---4----;AI;9601;;
+BR;TSA;Taboao da Serra;Taboao da Serra;SP;--3-----;RQ;607;;
+BR;TBV;Tabocas do Brejo Velho;Tabocas do Brejo Velho;BA;--3-----;AA;1601;;1243S 04401W
+BR;TNO;Tabuleiro do Norte;Tabuleiro do Norte;CE;--3-----;RQ;607;;
+BR;TGU;Taguatinga;Taguatinga;DF;--3-----;RQ;607;;
+BR;TAI;Taio;Taio;SC;--3-----;RQ;607;;
+BR;TBE;Taiobeiras;Taiobeiras;MG;--3-----;RQ;607;;
+BR;TUV;Taiuva;Taiuva;SP;--3-----;RQ;607;;
+BR;TMA;Tamandare;Tamandare;PE;--3-----;RQ;607;;
+BR;TMN;Tamarana;Tamarana;PR;-----6--;RL;1007;;2341S 05106W
+BR;TBU;Tambau;Tambau;SP;--3-----;RQ;607;;
+BR;TBO;Tamboara;Tamboara;PR;--3-----;RQ;607;;
+BR;TNA;Tanabi;Tanabi;SP;--3-----;RQ;607;;
+BR;TNE;Tancredo Neves;Tancredo Neves;PA;--3-----;RL;607;;0619S 05202W
+BR;TGR;Tangara;Tangara;SC;--3-----;RQ;607;;
+BR;TGQ;Tangará da Serra;Tangara da Serra;MT;--3-----;RL;607;;1438S 05729W
+BR;TAG;Tanguá;Tangua;RJ;--3-----;AC;1501;;2244S 04243W
+BR;TPJ;Tapejara;Tapejara;PR;--3-----;RQ;607;;
+BR;TAJ;Tapejara;Tapejara;RS;--3-----;AC;1501;;2803S 05200W
+BR;TPE;Tapera;Tapera;RS;------7-;RL;1007;;2737S 05252W
+BR;TPR;Taperoá;Taperoa;BA;1-3-----;RL;901;;1331S 03906W
+BR;TAP;Tapes;Tapes;RS;--3-----;RQ;607;;
+BR;TPA;Tapirai;Tapirai;SP;--3-----;RQ;607;;
+BR;TTA;Tapiratiba;Tapiratiba;SP;--3-----;RQ;607;;
+BR;TQU;Taquara;Taquara;RS;--3-----;RQ;607;;
+BR;TAQ;Taquari;Taquari;RS;--3-----;AC;1501;;2948S 05151W
+BR;TQA;Taquaritinga;Taquaritinga;SP;--3-----;RQ;607;;
+BR;TQN;Taquaritinga do Norte;Taquaritinga do Norte;PE;--3-----;RQ;607;;
+BR;TQB;Taquarituba;Taquarituba;SP;--3-----;RQ;607;;
+BR;TRQ;Tarauacá;Tarauaca;AC;---4----;AI;212;;0810S 07046W
+BR;TRU;Taruma;Taruma;SP;--3-----;RQ;607;;
+BR;TAT;Tatui;Tatui;SP;--3-----;RQ;607;;
+BR;TAU;Taua;Taua;CE;--3-----;RQ;607;;
+BR;TBA;Taubate;Taubate;SP;--3-----;RQ;607;;
+BR;TVR;Tavares;Tavares;RS;--3-----;RL;1207;;3112S 05101W
+BR;TFF;Tefé;Tefe;AM;---4----;AI;212;;0322S 06442W
+BR;TXF;Teixeira de Freitas;Teixeira de Freitas;BA;---4----;AI;9912;;
+BR;TEC;Telêmaco Borba;Telemaco Borba;PR;---4----;AI;212;;2421S 05037W
+BR;TPO;Tenente Portela;Tenente Portela;RS;--3-----;RQ;607;;
+BR;TSO;Teodoro Sampaio;Teodoro Sampaio;SP;--3-----;RQ;607;;
+BR;TFL;Teófilo Otoni;Teofilo Otoni;MG;---4----;AI;212;;1751S 04130W
+BR;TRE;Terenos;Terenos;MS;--3-----;RQ;607;;
+BR;THE;Teresina;Teresina;PI;--34----;AI;207;;0506S 04248W
+BR;QHT;Teresópolis;Teresopolis;RJ;--34----;AI;307;;2226S 04259W
+BR;TET;Termisa Terminal;Termisa Terminal;;0-------;RQ;9506;;
+BR;TRB;Terra Boa;Terra Boa;PR;--3-----;RQ;607;;
+BR;TAR;Terra de Areia;Terra de Areia;RS;--3-----;RQ;607;;
+BR;TNV;Terra Nova;Terra Nova;BA;--3-----;AC;1501;;1222S 04040W
+BR;TRO;Terra Roxa;Terra Roxa;PR;-23-----;RL;1401;;2351S 05001W
+BR;TRX;Terra Roxa;Terra Roxa;SP;--3-----;RQ;607;;
+BR;TEU;Teutônia;Teutonia;RS;---4----;RL;207;;2925S 05148W
+BR;TGN;Tiangua;Tiangua;CE;--3-----;RQ;607;;
+BR;TGI;Tibagi;Tibagi;PR;--3-----;RQ;607;;
+BR;TBS;Tibau do Sul;Tibau do Sul;RN;--3-----;RQ;607;;
+BR;TIE;Tiete;Tiete;SP;--3-----;RQ;607;;
+BR;TJS;Tijuca do Sul;Tijuca do Sul;PR;--3-----;RQ;607;;
+BR;TJA;Tijucas;Tijucas;SC;--3-----;RQ;607;;
+BR;TMB;Timbauba;Timbauba;PE;--3-----;RQ;607;;
+BR;TMO;Timbó;Timbo;SC;1-3-----;RL;701;;2651S 04917W
+BR;TIM;Timon;Timon;MA;--3-----;RQ;607;;
+BR;TTO;Timoteo;Timoteo;MG;--3-----;RQ;607;;
+BR;TDE;Tiradentes;Tiradentes;MG;--3-----;RQ;607;;
+BR;TCT;Tocantins;Tocantins;MG;--3-----;RQ;607;;
+BR;TOW;Toledo;Toledo;PR;---4----;AI;9401;;
+BR;TMS;Tombos;Tombos;MG;--3-----;RQ;607;;
+BR;TAC;Tome-Acu;Tome-Acu;PA;--3-----;RQ;607;;
+BR;TRT;Toritama;Toritama;PE;--3-----;RL;1301;;0801S 03604W
+BR;TSQ;Torres;Torres;RS;---4----;AI;9912;;
+BR;THA;Torrinha;Torrinha;SP;--3-----;RQ;607;;
+BR;TOS;Touros;Touros;RN;--3-----;RQ;607;;
+BR;TCU;Tracunhaem;Tracunhaem;PE;--3-----;RQ;607;;
+BR;TRI;Trairi;Trairi;CE;--3-----;RQ;607;;
+BR;TRM;Tramandaí;Tramandai;RS;1-------;AI;212;;2958S 05008W
+BR;TCO;Trancoso;Trancoso;BA;--3-----;RQ;607;;
+BR;TME;Tremembe;Tremembe;SP;--3-----;RQ;607;;
+BR;TRS;Tres Barras;Tres Barras;SC;--3-----;RQ;907;;2606S 05019W
+BR;QID;Três Coraçoes;Tres Coracoes;MG;---4----;AI;212;;2142S 04516W
+BR;ROA;Três Coroas;Tres Coroas;RS;1-3-----;RL;901;;2932S 05048W
+BR;TMI;Tres de Maio;Tres de Maio;RS;--3-----;RQ;607;;
+BR;TLA;Tres Lagoas;Tres Lagoas;MG;--3-----;RQ;607;;
+BR;TLG;Tres Lagoas;Tres Lagoas;MS;--3-----;RQ;607;;
+BR;TMR;Tres Marias;Tres Marias;MG;--3-----;RQ;607;;
+BR;TPS;Tres Passos;Tres Passos;RS;--3-----;RQ;607;;
+BR;TRP;Tres Pontas;Tres Pontas;MG;--3-----;RQ;607;;
+BR;TRR;Tres Ranchos;Tres Ranchos;GO;--3-----;RQ;607;;
+BR;QIH;Três Rios;Tres Rios;RJ;---4----;AI;212;;2207S 04312W
+BR;TRZ;Treze de Maio;Treze de Maio;SC;--3-----;RL;1201;;2835S 04910W
+BR;TZT;Treze Tilias;Treze Tilias;SC;--3-----;RQ;607;;
+BR;TIN;Trindade;Trindade;GO;--3-----;RQ;607;;
+BR;TFO;Triunfo;Triunfo;PE;--3-----;RQ;607;;
+BR;TRF;Triunfo;Triunfo;RS;--3-----;RL;307;;2956S 05143W
+BR;TMT;Trombetas;Trombetas;PA;---4----;AI;9601;;
+BR;SAC;Trombudo Central;Trombudo Central;SC;--3-----;RL;1301;;2718S 04947W
+BR;TTE;Tubarão;Tubarao;ES;123-----;RL;1101;;2017S 04014W
+BR;TUB;Tubarão;Tubarao;SC;1--4----;AI;9401;QTB;
+BR;TUZ;Tucuma;Tucuma;PA;---4----;AI;212;;0011S 05003W
+BR;TUR;Tucuruí;Tucurui;PA;---4----;AI;212;;0342S 04942W
+BR;TVU;Tucuruvi;Tucuruvi;PA;--3-----;RQ;607;;
+BR;TUN;Tunas;Tunas;PR;--3-----;RL;1301;;2458S 04906W
+BR;TUP;Tupa;Tupa;SP;--3-----;RQ;607;;
+BR;TCI;Tupaciguara;Tupaciguara;MG;--3-----;RQ;607;;
+BR;TPC;Tupancireta;Tupancireta;RS;--3-----;RQ;607;;
+BR;TUI;Tupandi;Tupandi;RS;--3-----;AC;1501;;2928S 05125W
+BR;TDI;Tuparendi;Tuparendi;RS;--3-----;AA;1507;;2745S 05428W
+BR;TIP;Tupi Paulista;Tupi Paulista;SP;--3-----;RQ;607;;
+BR;TVA;Turvânia;Turvania;GO;--3-----;AC;1501;;1639S 05009W
+BR;TVG;Turvo;Turvo;PR;-----6--;RL;1201;;2503S 05133W
+BR;TVO;Turvo;Turvo;SC;--3-----;RQ;607;;
+BR;TUT;Tutóia;Tutoia;MA;1-------;RL;212;;0245S 04216W
+BR;UAU;Uaua;Uaua;BA;--3-----;RQ;607;;
+BR;UBQ;Uba;Uba;MG;--3-----;RQ;607;;
+BR;UTA;Ubaitaba;Ubaitaba;BA;--3-----;RQ;607;;
+BR;UBJ;Ubajara;Ubajara;CE;--3-----;RQ;607;;
+BR;UTB;Ubata;Ubata;BA;--3-----;RQ;607;;
+BR;UBT;Ubatuba;Ubatuba;SP;---4----;AI;9601;;
+BR;UBA;Uberaba;Uberaba;MG;---4----;AI;9601;;
+BR;UDI;Uberlândia;Uberlandia;MG;---4----;AI;212;;1855S 04818W
+BR;UJR;Ubirajara;Ubirajara;SP;-----6--;RL;1201;;2234S 04939W
+BR;UBI;Ubirata;Ubirata;PR;--3-----;RQ;607;;
+BR;UCH;Uchoa;Uchoa;SP;--3-----;RQ;607;;
+BR;UMU;Umuarama;Umuarama;PR;---4----;AI;9601;;
+BR;UNA;Una;Una;BA;--3-----;RQ;607;;
+BR;UNI;Unai;Unai;MG;--3-----;RQ;607;;
+BR;QVB;Uniao da Vitória;Uniao da Vitoria;PR;---4----;AI;212;;2613S 05105W
+BR;UPA;Uniao dos Palmares;Uniao dos Palmares;AL;--3-----;RQ;607;;
+BR;URA;Urai;Urai;PR;--3-----;RL;1301;;2312S 05049W
+BR;URU;Uruacu;Uruacu;GO;--3-----;RQ;607;;
+BR;UBC;Urubici;Urubici;SC;--3-----;RQ;607;;
+BR;URB;Urubupunga;Urubupunga;SP;---4----;AI;9912;;
+BR;URG;Uruguaiana;Uruguaiana;RS;---4----;AI;9601;;
+BR;UPE;Urupes;Urupes;SP;--3-----;RQ;607;;
+BR;USS;Urussanga;Urussanga;SC;--3-----;RQ;607;;
+BR;PSB;Usiba Pt.;Usiba Pt.;BA;1-3-----;RL;1307;;1246S 03829W
+BR;VCA;Vacaria;Vacaria;RS;--3-----;RQ;607;;
+BR;VSO;Vale do Sol;Vale do Sol;RS;--3-----;RQ;607;;
+BR;VAL;Valenca;Valenca;BA;---4----;AI;9912;;
+BR;VLA;Valenca;Valenca;RJ;--3-----;RQ;607;;
+BR;VLT;Valente;Valente;BA;--3-----;AC;1501;;1134S 03927W
+BR;VAH;Valinhos;Valinhos;SP;--3-----;RL;401;;2257S 04701W
+BR;VPO;Valparaiso;Valparaiso;SP;--3-----;RQ;607;;
+BR;VGO;Valparaiso de Goias;Valparaiso de Goias;GO;--3-----;RQ;607;;
+BR;VPA;Valparaizo;Valparaizo;GO;--3-----;RQ;607;;
+BR;RGV;Vargem Alta;Vargem Alta;ES;-23-----;RL;601;;2040S 04100W
+BR;VBO;Vargem Bonita;Vargem Bonita;SC;--3-----;AC;1501;;2700S 05144W
+BR;VGA;Vargem Grande;Vargem Grande;RJ;--3-----;RQ;607;;
+BR;VGS;Vargem Grande do Sul;Vargem Grande do Sul;SP;--3-----;RQ;607;;
+BR;VGP;Vargem Grande Paulista;Vargem Grande Paulista;SP;--3-----;RQ;607;;
+BR;VAG;Varginha;Varginha;MG;---4----;AI;9912;;
+BR;VJO;Varjota;Varjota;CE;--3-----;RQ;607;;
+BR;VPM;Varzea da Palma;Varzea da Palma;MG;--3-----;RQ;607;;
+BR;VGR;Varzea Grande;Varzea Grande;MT;--3-----;RQ;607;;
+BR;VPU;Varzea Paulista;Varzea Paulista;SP;--3-----;RQ;607;;
+BR;VAS;Vassouras;Vassouras;RJ;--3-----;RQ;607;;
+BR;VZA;Vazante;Vazante;MG;--3-----;RQ;607;;
+BR;VZY;Velizy;Velizy;PA;--3-----;RQ;607;;
+BR;VCE;Venancio Aires;Venancio Aires;RS;--3-----;RQ;607;;
+BR;VNI;Venda Nova do Imigrante;Venda Nova do Imigrante;ES;--3-----;RQ;607;;
+BR;VET;Ventania;Ventania;PR;--3-----;AC;1501;;2416S 05014W
+BR;9VN;Ventania;Ventania;SP;--3-----;RL;1301;;2146S 04640W
+BR;VER;Vera;Vera;MT;--3-----;RQ;607;;
+BR;VZC;Vera Cruz;Vera Cruz;BA;1-------;RL;1407;;1257S 03836W
+BR;VCZ;Vera Cruz;Vera Cruz;RN;--3-----;RL;1207;;0603S 03526W
+BR;VRC;Vera Cruz;Vera Cruz;SP;--3-----;RQ;607;;
+BR;VOP;Veranopolis;Veranopolis;RS;--3-----;RQ;607;;
+BR;VSA;Vespasiano;Vespasiano;MG;--3-----;RQ;607;;
+BR;VMA;Viamao;Viamao;RS;--3-----;RQ;607;;
+BR;VNA;Viana;Viana;ES;--3-----;RQ;607;;
+BR;VPS;Vianopolis;Vianopolis;GO;--3-----;RQ;607;;
+BR;VIS;Vicosa;Vicosa;MG;--3-----;RQ;607;;
+BR;VRA;Vidal Ramos;Vidal Ramos;SC;--3-----;AC;1501;;2723S 04921W
+BR;VIA;Videira;Videira;SC;--34----;AI;9903;;
+BR;VLC;Vila do Conde;Vila do Conde;PA;1-3-----;RL;407;;0132S 04845W
+BR;VIC;Vila do Conde;Vila do Conde;PB;--3-----;RL;401;;0716S 03454W
+BR;VLI;Vila Livieira;Vila Livieira;SP;--3-----;RQ;607;;
+BR;VLP;Vila Rica;Vila Rica;MT;---4----;AI;9912;;
+BR;VVE;Vila Velha;Vila Velha;ES;--3-----;RQ;607;;
+BR;BVH;Vilhena;Vilhena;RO;---4----;AI;9912;;
+BR;VIH;Vilhena;Vilhena;RR;--3-----;RQ;607;;
+BR;VIN;Vinhedo;Vinhedo;SP;-23-----;RL;601;;2301S 04659W
+BR;VCP;Viracopos Apt/Sao Paolo;Viracopos Apt/Sao Paolo;SP;---4----;AI;;;
+BR;VDO;Viradouro;Viradouro;SP;--3-----;RQ;607;;
+BR;VGL;Virgem da Lapa;Virgem da Lapa;MG;--3-----;RQ;607;;
+BR;VIG;Virginópolis;Virginopolis;MG;--3-----;AC;1501;;1845S 04245W
+BR;VID;Virmond;Virmond;PR;--3-----;AC;1501;;2522S 05212W
+BR;VMU;Visconce de Maua;Visconce de Maua;RJ;--3-----;RQ;607;;
+BR;VRB;Visconde do Rio Branco;Visconde do Rio Branco;MG;--3-----;RQ;607;;
+BR;VAA;Vista Alegra do Alto;Vista Alegra do Alto;SP;--3-----;RL;901;;2111S 04837W
+BR;VSE;Vista Serrana;Vista Serrana;PB;--3-----;RL;1101;;0645S 03734W
+BR;VIX;Vitoria;Vitoria;ES;1--4----;AI;9601;;
+BR;VIT;Vitória;Vitoria;ES;1-------;RL;1407;;2019S 04021W
+BR;VDC;Vitória da Conquista;Vitoria da Conquista;BA;--34----;AI;212;;1451S 04051W
+BR;VDS;Vitória de Santo Antão;Vitoria de Santo Antao;PE;-23-----;RL;501;;0807S 03518W
+BR;VSN;Vitória de Santo Antão;Vitoria de Santo Antao;RS;--3-----;RQ;607;;
+BR;VAJ;Vitoria do Jari;Vitoria do Jari;AP;--3-----;RQ;607;;
+BR;QVR;Volta Redonda;Volta Redonda;RJ;---4----;AI;9601;;
+BR;VTM;Votorantim;Votorantim;SP;--3-----;RQ;607;;
+BR;VOT;Votuporanga;Votuporanga;SP;---4----;AI;9601;;
+BR;WAN;Wanderlândia;Wanderlandia;TO;--3-----;RL;1407;;0650S 04757W
+BR;WBZ;Wenceslau Braz;Wenceslau Braz;PR;--3-----;RQ;607;;
+BR;WGR;Wenceslau Guimarães;Wenceslau Guimaraes;BA;-23-----;RL;1401;;1341S 03928W
+BR;WTF;Westfália;Westfalia;RS;--3-----;RL;1301;;2925S 05145W
+BR;WIT;Witmarsum;Witmarsum;SC;--3-----;AC;1501;;2655S 04947W
+BR;XGA;Xangrila;Xangrila;RS;--3-----;RQ;607;;
+BR;AXE;Xanxere;Xanxere;SC;--3-----;RQ;607;;
+BR;XAX;Xaxim;Xaxim;SC;--3-----;RQ;607;;
+BR;XIG;Xinguara;Xinguara;PA;---4----;AI;9912;;
+BR;XQI;Xique-Xique;Xique-Xique;BA;--3-----;RQ;607;;

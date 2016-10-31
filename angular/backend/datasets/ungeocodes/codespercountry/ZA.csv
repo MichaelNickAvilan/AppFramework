@@ -1,0 +1,662 @@
+ZA;ZAB;Adelaide;Adelaide;FS;-----6--;RL;901;;3242S 02618E
+ZA;AET;Aeroton;Aeroton;GT;--3-----;RL;1307;;2615S 02758E
+ZA;AGZ;Aggeneys;Aggeneys;;---4----;AI;1;;
+ZA;ABT;Alberton;Alberton;;--3-----;RL;201;;2615S 02807E
+ZA;ALJ;Alexander Bay;Alexander Bay;;---4----;AF;9501;;
+ZA;ZBW;Alexandria;Alexandria;EC;-----6--;RL;901;;3339S 02625E
+ZA;AOB;Algoa Bay;Algoa Bay;;1-------;AF;9501;;
+ZA;ADY;Alldays;Alldays;;---4----;AI;1;;
+ZA;ALR;Alrode;Alrode;;--3-----;RL;201;;2617S 02808E
+ZA;ALN;Alton;Alton;NL;-----6--;RL;1201;;2846S 03201E
+ZA;ZFP;Amalgam;Amalgam;GT;-----6--;RL;901;;2621S 02800E
+ZA;ZAD;Amalinda;Amalinda;EC;-----6--;RL;901;;3258S 02751E
+ZA;AMZ;Amanzimtoti;Amanzimtoti;;--3-----;RL;201;;3005S 03051E
+ZA;AME;Amersfoort;Amersfoort;MP;--3-----;RL;1401;;2701S 02952E
+ZA;ZAE;Amsterdam;Amsterdam;EC;-----6--;RL;901;;3137S 02537E
+ZA;THR;Arcadia;Arcadia;EC;1-------;RQ;901;;
+ZA;ZAF;Ashton;Ashton;WC;-----6--;RL;901;;3349S 02003E
+ZA;ATN;Athlone;Athlone;WC;--3--6--;RL;1207;;3358S 01830E
+ZA;ATL;Atlantis;Atlantis;;--3-----;RL;201;;3333S 01828E
+ZA;HBL;Babelegi;Babelegi;;---4----;AI;1;;
+ZA;BAL;Ballito Bay;Ballito Bay;NL;-23-----;RL;1501;;2932S 03113E
+ZA;ZAN;Bapsfontein;Bapsfontein;GT;-----6--;RL;901;;2601S 02825E
+ZA;BAB;Barberton;Barberton;MP;-2------;RL;1201;;2547S 03103E
+ZA;BAR;Barrydale;Barrydale;WC;--3-----;RL;212;;3353S 02043E
+ZA;BHD;Bayhead;Bayhead;NL;-23-----;RL;701;;2953S 03058E
+ZA;BNF;Baynesfield;Baynesfield;;--3-----;RL;901;;2946S 03021E
+ZA;ZAG;Beacon Bay;Beacon Bay;EC;-----6--;RL;901;;3258S 02756E
+ZA;BEA;Beaconsfield;Beaconsfield;NC;--3-----;RL;1207;;2845S 02446E
+ZA;BEW;Beaufort West;Beaufort West;;--3-----;RQ;607;;3221S 02234E
+ZA;BDF;Bedford;Bedford;EC;--3-----;RL;1207;;3241S 02605E
+ZA;BFV;Bedfordview;Bedfordview;GT;-23-----;RL;501;;2610S 02809E
+ZA;BBR;Beit Bridge;Beit Bridge;;0-------;AF;9501;;
+ZA;ZCD;Belfast;Belfast;LP;-----6--;RL;901;;2455S 03122E
+ZA;BKN;Bellair;Bellair;NL;--3-----;RL;1501;;2953S 03057E
+ZA;BEL;Bellville;Bellville;;--3-----;RL;201;;3355S 01839E
+ZA;ZAQ;Ben Schoeman Dock;Ben Schoeman Dock;WC;-----6--;RL;901;;3355S 01826E
+ZA;BNI;Benoni;Benoni;;--3-----;RL;201;;2610S 02818E
+ZA;ZFO;Benrose;Benrose;GT;-----6--;RL;901;;2611S 02807E
+ZA;ZFQ;Berea;Berea;GT;-----6--;RL;901;;2618S 02805E
+ZA;BVL;Bergville;Bergville;;--3--6--;RL;1107;;2844S 02922E
+ZA;BRL;Berlin;Berlin;;--3-----;RL;201;;3252S 02734E
+ZA;BET;Bethal;Bethal;GT;--3-----;RL;1107;;
+ZA;BTH;Bethlehem;Bethlehem;;--3-----;RL;201;;2813S 02818E
+ZA;BTY;Betty's Bay;Betty's Bay;WC;--3-----;RL;1601;;3422S 01856E
+ZA;BIY;Bisho;Bisho;;---4----;AI;1;;
+ZA;BSX;Bishopscourt;Bishopscourt;WC;-----6--;RL;1601;;3359S 01827E
+ZA;ZAK;Blackheath;Blackheath;WC;-----6--;RL;901;;3357S 01841E
+ZA;BFN;Bloemfontein;Bloemfontein;FS;-2345---;AF;1601;;2908S 02612E
+ZA;ZAL;Bloemfontein Industria;Bloemfontein Industria;FS;-----6--;RL;901;;2907S 02611E
+ZA;BOG;Blouberg;Blouberg;NC;-----6--;RL;1201;;2307S 02859E
+ZA;ZAI;Bloubergstrand;Bloubergstrand;WC;-----6--;RL;901;;3348S 01828E
+ZA;BOC;Bochum;Bochum;NC;--3-----;RL;1207;;2317S 02907E
+ZA;BKP;Bokpoort;Bokpoort;EC;--3-----;RL;1307;;3247S 02800E
+ZA;BOK;Boksburg;Boksburg;;--3-----;RL;201;;2611S 02815E
+ZA;ZAM;Bonaero Park;Bonaero Park;GT;-----6--;RL;901;;2607S 02815E
+ZA;BNN;Bonnievale;Bonnievale;WC;--3-----;RL;1507;;3356S 02006E
+ZA;BYS;Booysens;Booysens;;--3-----;RQ;9901;;
+ZA;ZAR;Bothasig;Bothasig;WC;-----6--;RL;901;;3351S 01833E
+ZA;BTV;Bothaville;Bothaville;;--3-----;RQ;607;;2723S 02637E
+ZA;BOT;BotrivIer;BotrivIer;;--3-----;RL;201;;3413S 01912E
+ZA;BWA;Botswana;Botswana;EC;1-3-----;RQ;901;;
+ZA;8GT;Bottelary;Bottelary;WC;1----6--;RL;1601;;3308S 01806E
+ZA;ZAO;Braamfontein;Braamfontein;GT;-----6--;RL;901;;2610S 02804E
+ZA;ZAJ;Brackenfell;Brackenfell;WC;-----6--;RL;901;;3352S 01841E
+ZA;BRK;Brakpan;Brakpan;;--3-----;RL;9805;;
+ZA;ZFR;Bramley View;Bramley View;GT;-----6--;RL;901;;2601S 02801E
+ZA;ZCS;Bredasdorp;Bredasdorp;WC;-----6--;RL;901;;3432S 02002E
+ZA;BRV;Breërivier;Breerivier;WC;--3-----;RL;1601;;3332S 01913E
+ZA;ZAH;Briardene;Briardene;NL;-----6--;RL;901;;2946S 03101E
+ZA;BRT;Brits;Brits;;--3-----;RL;201;;2537S 02746E
+ZA;BHT;Bronkhorstspruit;Bronkhorstspruit;GT;-23-----;RL;212;;2549S 02844E
+ZA;BMA;Bruma;Bruma;;--3-----;RQ;1207;;2610S 02806E
+ZA;ZFT;Brummeria;Brummeria;GT;-----6--;RL;901;;2544S 02817E
+ZA;BSN;Bryanston;Bryanston;GT;--3-----;RL;501;;2603S 02802E
+ZA;BRR;Burgersdorp;Burgersdorp;EC;--3-----;RL;1507;;3059S 02619E
+ZA;BUR;Burgersfort;Burgersfort;LP;--3-----;RL;1207;;2440S 03019E
+ZA;UTE;Butterworth;Butterworth;;---4----;AI;1;;
+ZA;CAD;Caledon;Caledon;WC;--3-----;RL;1601;;3413S 01925E
+ZA;CZP;Calitzdorp;Calitzdorp;WC;--3-----;RL;1601;;3332S 02141E
+ZA;ZAU;Cambridge;Cambridge;EC;-----6--;RL;901;;3258S 02753E
+ZA;CMN;Camperdown;Camperdown;;--3-----;RL;201;;2943S 03031E
+ZA;CPB;Camps Bay;Camps Bay;WC;--3-----;RL;1307;;3357S 01823E
+ZA;ZAS;Canelands;Canelands;NL;-----6--;RL;901;;2937S 03103E
+ZA;CAS;Cape Agulhas;Cape Agulhas;WC;--3-----;RL;1601;;3450S 02000E
+ZA;CPT;Cape Town;Cape Town;WC;12345---;AF;1207;;3355S 01825E
+ZA;ZAT;Capital Park;Capital Park;GT;-23--6--;RL;901;;2544S 02812E
+ZA;CTV;Carletonville;Carletonville;GT;--3-----;RL;1507;;2622S 02724E
+ZA;CAR;Carolina;Carolina;MP;--3-----;RL;1107;;
+ZA;CAT;Cato Ridge;Cato Ridge;;--3-----;RL;201;;2943S 03035E
+ZA;ZAY;Centurion;Centurion;GT;-----6--;RL;901;;2552S 02810E
+ZA;CRS;Ceres;Ceres;;--3-----;RL;207;;3321S 01918E
+ZA;ZFS;Chamdor;Chamdor;GT;-----6--;RL;901;;2607S 02749E
+ZA;CTH;Chatsworth;Chatsworth;NL;--3-----;RL;1401;;2954S 03053E
+ZA;ZAV;Chiselhurst;Chiselhurst;EC;-----6--;RL;901;;3258S 02752E
+ZA;CHP;Chloorkop;Chloorkop;;--3-----;RL;601;;2803S 02812E
+ZA;CIT;Citrusdal;Citrusdal;WC;--3-----;RL;212;;3235S 01900E
+ZA;CTT;City Centre;City Centre;EC;--3-----;RQ;901;;
+ZA;ZFU;City Centre;City Centre;NL;-----6--;RL;901;;2935S 03022E
+ZA;CTD;City Deep;City Deep;;0-------;AF;9501;;
+ZA;ZBD;Clairwood;Clairwood;NL;-----6--;RL;901;;2955S 03059E
+ZA;ZCT;Clanwilliam;Clanwilliam;WC;-----6--;RL;901;;3210S 01853E
+ZA;ZAX;Claremont;Claremont;WC;-----6--;RL;901;;3358S 01828E
+ZA;CLV;Clayville;Clayville;GT;--3-----;RL;1401;;2557S 02813E
+ZA;ZBA;Coega;Coega;EC;-----6--;RL;901;;3346S 02540E
+ZA;ZFV;Colleen Glen;Colleen Glen;EC;-----6--;RL;901;;3358S 02522E
+ZA;ZFX;Collondale;Collondale;EC;-----6--;RL;901;;3301S 02750E
+ZA;CMT;Compensation;Compensation;NL;-----6--;RL;1201;;2930S 03111E
+ZA;CGN;Congella;Congella;NL;-23-----;RL;307;;2952S 03100E
+ZA;ZBC;Constantia;Constantia;WC;-----6--;RL;901;;3401S 01827E
+ZA;SBY;Cordon's Bay;Cordon's Bay;WC;--3-----;RL;1507;;3410S 01852E
+ZA;CDO;Cradock;Cradock;;---4----;AI;1;;
+ZA;ZBB;Craighall;Craighall;GT;-----6--;RL;901;;2607S 02801E
+ZA;CHL;Craighall Park;Craighall Park;GT;-----6--;RQ;1007;;2608S 02801E
+ZA;CGH;Creighton;Creighton;NL;-----6--;RL;1601;;3002S 02950E
+ZA;ZAW;Crown Mines;Crown Mines;GT;-----6--;RL;901;;2613S 02758E
+ZA;ZFW;Culemborg;Culemborg;WC;-----6--;RL;901;;3354S 01833E
+ZA;CNA;Cullinan;Cullinan;GT;-23-----;RL;401;;2540S 02831E
+ZA;ZGE;Dainfern;Dainfern;GT;-----6--;RL;901;;2558S 02801E
+ZA;DON;Dalton;Dalton;;--3-----;RL;201;;2919S 03037E
+ZA;ZBG;Dan Pienaar;Dan Pienaar;FS;-----6--;RL;901;;2905S 02613E
+ZA;DAN;Danielskuil;Danielskuil;NC;--3-----;RL;1207;;2811S 02332E
+ZA;DAR;Darling;Darling;WC;--3-----;RL;1601;;3323S 01823E
+ZA;DSS;Dassenberg;Dassenberg;WC;--3--6--;RQ;1001;;3332S 01833E
+ZA;ZBI;Dawn;Dawn;EC;-----6--;RL;901;;3258S 02749E
+ZA;DAC;De Aar;De Aar;NC;--3-----;RL;1207;;3039S 02401E
+ZA;DDR;De Deur;De Deur;GT;-----6--;RQ;1007;;2632S 02756E
+ZA;DEA;Deal Party;Deal Party;;--3-----;RQ;907;;3354S 02538E
+ZA;DLM;Delmas;Delmas;;--3-----;RL;201;;2608S 02840E
+ZA;ZBE;Denver;Denver;GT;-----6--;RL;901;;2613S 02806E
+ZA;ZBH;Dieprivier;Dieprivier;WC;-----6--;RL;901;;3402S 01828E
+ZA;DIU;Dimbaza;Dimbaza;;--3-----;RL;201;;3249S 02713E
+ZA;ZBF;Doornfontein;Doornfontein;GT;-----6--;RL;901;;2624S 02720E
+ZA;DOU;Douglas;Douglas;NC;--3-----;RL;1307;;2904S 02346E
+ZA;DUK;Dukuduk;Dukuduk;;---4----;AI;1;;
+ZA;DCV;Duncanville/Vereeniging;Duncanville/Vereeniging;;-23-----;RL;601;;2639S 02756E
+ZA;DNN;Dunnottar;Dunnottar;;--3-----;RL;201;;2620S 02824E
+ZA;DUN;Dunswart/Boksburg;Dunswart/Boksburg;;-23-----;RL;601;;2612S 02816E
+ZA;DUR;Durban;Durban;NL;12345---;AI;1601;;2951S 03101E
+ZA;DVI;Durbanville;Durbanville;;--3-----;RL;201;;3349S 01839E
+ZA;DWA;Dwaalboom;Dwaalboom;LP;--3-----;RL;1401;;2443S 02649E
+ZA;ZBK;East End;East End;FS;-----6--;RL;901;;2607S 02610E
+ZA;ELS;East London;East London;;1234----;AF;9501;;
+ZA;CTP;Eastern Cape;Eastern Cape;EC;1----6--;RL;1201;;3217S 02625E
+ZA;EDE;Edenvale;Edenvale;;--3-----;RL;201;;2607S 02809E
+ZA;EDM;Edgemead;Edgemead;WC;--3-----;RL;1601;;3353S 01832E
+ZA;ZBL;Eikenhof;Eikenhof;GT;-----6--;RL;901;;2620S 02758E
+ZA;ZBJ;Ekandustria;Ekandustria;GT;-----6--;RL;901;;2542S 02842E
+ZA;EBY;Elands Bay;Elands Bay;WC;1-------;RL;1601;;3218S 01819E
+ZA;ELA;Elandsfontein;Elandsfontein;;--3-----;RL;9805;;
+ZA;EPK;Elarduspark;Elarduspark;GT;--3-----;RL;1601;;2250S 02818E
+ZA;EDK;Eldoradopark;Eldoradopark;;--3-----;RL;1207;;2618S 02754E
+ZA;ELG;Elgin;Elgin;;--3-----;RL;201;;2744S 03202E
+ZA;ELM;Elim;Elim;WC;-----6--;RL;1201;;3435S 01945E
+ZA;ELL;Ellisras;Ellisras;;---4----;AI;1;;
+ZA;ESB;Elsenburg;Elsenburg;WC;--3-----;RL;1601;;3351S 01850E
+ZA;ZBM;Elsiesriver;Elsiesriver;WC;-----6--;RL;901;;3355S 01834E
+ZA;EMG;Empangeni;Empangeni;;---4----;AI;1;;
+ZA;EPP;Epping;Epping;WC;--3-----;RQ;901;;3355S 01833E
+ZA;ERM;Ermelo;Ermelo;MP;-23-5---;AI;501;;2632S 02959E
+ZA;ECE;Escombe;Escombe;NL;-----6--;RL;1201;;2952S 03054E
+ZA;EHW;Eshowe;Eshowe;;--3-----;RL;1207;;2853S 03128E
+ZA;EST;Estcourt;Estcourt;;--3-----;RL;201;;2900S 02953E
+ZA;EZK;Ezakheni;Ezakheni;NL;--3-----;RL;1201;;2836N 02955E
+ZA;FRG;Faerie Glen;Faerie Glen;NL;-----6--;RQ;1007;;3051S 03020E
+ZA;FAU;Faure;Faure;WC;--3-----;RL;1601;;3402S 01844E
+ZA;ZBR;Felixton;Felixton;NL;-----6--;RL;901;;2849S 03153E
+ZA;FCB;Ficksburg;Ficksburg;;---4----;AF;9501;;
+ZA;ZBN;Firgrove;Firgrove;WC;-----6--;RL;901;;3402S 01846E
+ZA;FHK;Fish Hoek;Fish Hoek;WC;1-3-----;RQ;901;;
+ZA;ZBP;Florida;Florida;GT;-----6--;RL;901;;2610S 02755E
+ZA;FBG;Fordsburg;Fordsburg;;--3-----;RQ;9806;;
+ZA;FBE;Fort Beaufort;Fort Beaufort;;--3-----;RL;201;;3246S 02637E
+ZA;ZBO;Fort Jackson;Fort Jackson;EC;-----6--;RL;901;;3253S 02741E
+ZA;ZBQ;Four Ways;Four Ways;GT;-----6--;RL;901;;2602S 02759E
+ZA;OFG;Fouriesburg;Fouriesburg;FS;--3-----;RL;1407;;2837S 02813E
+ZA;ZCI;Franschoek;Franschoek;WC;-----6--;RL;901;;3355S 01908E
+ZA;FFE;Fresnaye;Fresnaye;WC;--3-----;RL;1401;;3355S 01823E
+ZA;GNB;Gans Bay;Gans Bay;WC;--3-----;RQ;901;;
+ZA;GAA;Gansbaai;Gansbaai;WC;--3-----;RL;1301;;3435S 01921E
+ZA;ZBS;Garankuwa;Garankuwa;GT;-----6--;RL;901;;2535S 02800E
+ZA;GAR;Gardens;Gardens;WC;--3-----;RL;1601;;3356S 01824E
+ZA;GSF;Garsfontein;Garsfontein;GT;1-------;RL;1601;;2547S 02817E
+ZA;GTY;Gately;Gately;EC;1-------;RQ;901;;
+ZA;GAU;Gauteng;Gauteng;GT;-23-----;RQ;901;;
+ZA;GRJ;George;George;;---4----;AF;9501;;
+ZA;GRM;Germiston;Germiston;;-23-----;AF;9501;;
+ZA;GZN;Gezina;Gezina;GT;-----6--;RQ;1007;;2542S 02812E
+ZA;GIV;Gingindlovu;Gingindlovu;;--3-----;RL;1207;;2901S 03135E
+ZA;GIY;Giyani;Giyani;;---4----;AI;1;;
+ZA;GAY;Glenashley;Glenashley;NL;--3-----;RL;701;;2945S 03103E
+ZA;GWD;Glenwood;Glenwood;NL;-----6--;RL;1007;;2952S 03059E
+ZA;GLE;Golela;Golela;MP;--3-----;RL;701;;2719S 03152E
+ZA;ZBU;Goodwood;Goodwood;WC;-----6--;RL;901;;3354S 01833E
+ZA;GBY;Gordon's Bay;Gordon's Bay;WC;--3-----;RL;1601;;3410S 01852E
+ZA;ZCJ;Gouda;Gouda;WC;-----6--;RL;901;;3318S 01902E
+ZA;3WC;Goudiniweg;Goudiniweg;WC;1----6--;RL;1601;;3436S 01919E
+ZA;ZCB;Graaff Reinet;Graaff Reinet;EC;-----6--;RL;901;;3215S 02433E
+ZA;GRW;Graafwater;Graafwater;;--3-----;RQ;607;;3215S 01860E
+ZA;GRB;Grabouw;Grabouw;;--3-----;RL;201;;3409S 01900E
+ZA;GRH;Grahamstown;Grahamstown;EC;1-------;RQ;901;;
+ZA;GPT;Green Point;Green Point;WC;--3-----;RL;1601;;3355S 01824E
+ZA;GHN;Greenhaven;Greenhaven;WC;-----6--;RL;1201;;3402S 02212E
+ZA;GYT;Greyton;Greyton;WC;--3-----;RL;1601;;3403S 01937E
+ZA;GRY;Greytown;Greytown;;--3-----;RL;201;;2903S 03035E
+ZA;ZBT;Groblersdal;Groblersdal;MP;-----6--;RL;901;;2509S 02923E
+ZA;GBU;Groenbult;Groenbult;EC;--3-----;RL;701;;2335S 02956E
+ZA;BRA;Groot-Brakrivier;Groot-Brakrivier;WC;--3-----;RL;1207;;3402S 02213E
+ZA;GTV;Grootvlei;Grootvlei;MP;--3-----;RL;1301;;2646N 02829E
+ZA;GLU;Guguletu;Guguletu;WC;--3-----;RL;1501;;3359S 01834E
+ZA;HAL;Halfway House;Halfway House;;--3-----;RL;201;;2558S 02806E
+ZA;HAM;Hamilton;Hamilton;FS;--3-----;RQ;901;;
+ZA;HSL;Hammanskraal;Hammanskraal;;--3-----;RL;201;;2524S 02815E
+ZA;HMM;Hammarsdale;Hammarsdale;;--3-----;RL;201;;2947S 03038E
+ZA;HOK;Hanover Park;Hanover Park;WC;--3-----;RL;1501;;3359S 01832E
+ZA;HRS;Harrismith;Harrismith;;---4----;AI;1;;
+ZA;HAT;Hartbeesfontein;Hartbeesfontein;NW;--3-----;RL;1407;;2646S 02625E
+ZA;HAR;Hartebeespoort;Hartebeespoort;GT;--3-----;RQ;901;;
+ZA;ZCH;Hartswater;Hartswater;NC;-----6--;RL;901;;2746S 02449E
+ZA;HZV;Hazyview;Hazyview;;---4----;AI;1;;
+ZA;HEI;Heidelberg;Heidelberg;;--3-----;RL;9805;;
+ZA;HEL;Helderberg;Helderberg;WC;--3-----;RL;1601;;3402S 01850E
+ZA;HNP;Hennopspark;Hennopspark;GT;--3-----;RL;901;;2550S 02810E
+ZA;HBA;Herbertsdale;Herbertsdale;WC;--3-----;RL;1507;;3401S 02146E
+ZA;HDL;Heriotdale/Johannesburg;Heriotdale/Johannesburg;;-23-----;RL;601;;2612S 02807E
+ZA;ZGF;Hermanstad;Hermanstad;GT;-----6--;RL;901;;2542S 02811E
+ZA;HMS;Hermanus;Hermanus;WC;--3-----;RQ;901;;
+ZA;ZCR;Hex River;Hex River;NC;-----6--;RL;901;;3058S 02301E
+ZA;HXR;Hexrivier;Hexrivier;WC;-23--6--;RL;1601;;3329S 01935E
+ZA;HI9;Hibberdene;Hibberdene;NL;-2------;RL;1301;;3035S 03035E
+ZA;HIL;Hillcrest;Hillcrest;;--3-----;RL;201;;2945S 03045E
+ZA;HLW;Hluhluwe;Hluhluwe;;---4----;AI;1;;
+ZA;HDS;Hoedspruit;Hoedspruit;;---4----;AI;1;;
+ZA;HDW;Honeydew;Honeydew;GT;-----6--;RL;901;;2604S 02756E
+ZA;HOO;Hoopstad;Hoopstad;FS;--3-----;RL;1207;;2750S 02555E
+ZA;HPF;Hopefield;Hopefield;WC;--3-----;RL;1201;;3304S 01821E
+ZA;HST;Houghton Estate;Houghton Estate;GT;--3-----;RL;1301;;2609S 02803E
+ZA;ZCF;Hout Bay;Hout Bay;WC;-----6--;RL;901;;3402S 01821E
+ZA;HOW;Howick;Howick;;--3-----;RL;201;;2929S 03013E
+ZA;HGT;Huguenot;Huguenot;;--3-----;RL;601;;3105S 02636E
+ZA;ZCG;Humansdorp;Humansdorp;EC;-----6--;RL;901;;3402S 02446E
+ZA;HYD;Hyde Park;Hyde Park;GT;--3-----;RQ;901;;
+ZA;ILV;Illovo;Illovo;GT;--3-----;RQ;901;;
+ZA;INY;Inyati;Inyati;;---4----;AI;1;;
+ZA;ZCN;Irene;Irene;GT;-----6--;RL;901;;2552S 02812E
+ZA;ISD;Isando;Isando;;--3-----;RL;201;;2608S 02812E
+ZA;ISP;Isipingo Beach;Isipingo Beach;NL;--3-----;RL;1207;;2959S 03057E
+ZA;ISB;Isithebe;Isithebe;;-23-----;RL;601;;2906S 03125E
+ZA;IVI;Island View;Island View;NL;1-------;RL;701;;2953S 03102E
+ZA;RSS;Izmit;Izmit;NL;1-------;RQ;901;;
+ZA;ZCP;Jacobs;Jacobs;NL;-----6--;RL;901;;2956S 03059E
+ZA;JSV;Jansenville;Jansenville;EC;-----6--;RL;901;;3256S 02440E
+ZA;JEF;Jeffreys Bay;Jeffreys Bay;;--3-----;RL;201;;3403S 02455E
+ZA;ZFY;Jeppestown;Jeppestown;GT;-----6--;RL;901;;2611S 02805E
+ZA;JTP;Jet Park;Jet Park;GT;1-------;RL;901;;2610S 02814E
+ZA;JNB;Johannesburg;Johannesburg;GT;-2345---;AF;1207;;2612S 02805E
+ZA;JUP;Jupiter;Jupiter;NC;-----6--;RL;1201;;2352S 02902E
+ZA;KPM;Kaapmuiden;Kaapmuiden;;--3-----;RL;201;;2531S 03118E
+ZA;KAK;Kakamas;Kakamas;NC;--3-----;RL;1601;;2845S 02038E
+ZA;KLD;Kanoneiland;Kanoneiland;NC;--3-----;RL;1507;;2839S 02105E
+ZA;ZCY;Kaserne;Kaserne;GT;-----6--;RL;1001;;2613S 02804E
+ZA;KUU;Kasulu;Kasulu;;1----6--;RQ;1001;;0434S 03006E
+ZA;KTU;Kathu;Kathu;NC;--3-----;RQ;607;;2742S 02330E
+ZA;ZAA;Kayalami;Kayalami;FS;-----6--;RL;901;;2901S 02604E
+ZA;KEI;Keimoes;Keimoes;NC;--3-----;RL;1601;;2842S 02058E
+ZA;KLV;Kelvin;Kelvin;;-----6--;RL;901;;2657S 29150E
+ZA;KMP;Kempton Park;Kempton Park;;--3-----;RL;9901;;
+ZA;ZCU;Kensington;Kensington;GT;-----6--;RL;901;;2612S 02806E
+ZA;KOS;Kenton-on-Sea;Kenton-on-Sea;EC;1-------;RL;1601;;3340S 02639E
+ZA;KEW;Kew;Kew;;--3-----;RL;607;;2607S 02806E
+ZA;KKA;Khayelitsha;Khayelitsha;WC;--3-----;RL;1501;;3403S 01840E
+ZA;KHO;Khoka Moya;Khoka Moya;;---4----;AI;1;;
+ZA;KHU;Khuma;Khuma;NW;--3-----;RL;1207;;2651S 02652E
+ZA;KDB;Kidd's Beach;Kidd's Beach;;--3-----;RL;201;;3308S 02741E
+ZA;ZCV;Kiepersol;Kiepersol;MP;-----6--;RL;901;;2504S 03102E
+ZA;KIL;Killarney Gardens;Killarney Gardens;WC;--3-----;RQ;901;;
+ZA;KIM;Kimberley;Kimberley;;-234----;AF;9501;;
+ZA;KWT;King William's Town;King William's Town;;--3-----;RL;201;;3252S 02723E
+ZA;BGR;Kingsford;Kingsford;;1----6--;RL;1107;;
+ZA;KIR;Kirkwood;Kirkwood;EC;--3-----;RL;212;;3324S 02525E
+ZA;KTH;Kirstenhof (Kirstenbosch);Kirstenhof (Kirstenbosch);WC;-----6--;RQ;1007;;3404S 01820E
+ZA;KLX;Klapmuts;Klapmuts;WC;-----6--;RL;1601;;3348S 01852E
+ZA;KSR;Klaserie;Klaserie;LP;--3-----;RQ;901;;2433S 03102E
+ZA;KLA;Klawer;Klawer;WC;-23-----;RL;212;;3146S 01836E
+ZA;KMD;Kleinmond;Kleinmond;WC;--3-----;RL;1601;;3421S 01902E
+ZA;KLZ;Kleinzee;Kleinzee;;---4----;AF;9501;;
+ZA;KXE;Klerksdorp;Klerksdorp;;---4----;AI;1;;
+ZA;2WC;Klipheuwel;Klipheuwel;WC;1----6--;RL;1601;;3342S 01842E
+ZA;KLI;Kliprivier;Kliprivier;GT;--3-----;RL;1401;;2635S 02801E
+ZA;NLK;Kloof;Kloof;NL;-----6--;RL;1107;;
+ZA;KNY;Knysna;Knysna;WC;--3-----;RL;212;;3402S 02304E
+ZA;KOB;Koeberg;Koeberg;;--3-----;RL;901;;2946S 02109E
+ZA;KIG;Koiingnaas;Koiingnaas;NC;--34----;AF;212;;3012S 01717E
+ZA;KKD;Kokstad;Kokstad;NL;-----6--;RQ;1007;;3033S 02925E
+ZA;KOF;Komatipoort;Komatipoort;;-234----;AF;9501;;
+ZA;KKN;Komkans;Komkans;WC;1-------;RL;901;;3113S 18030E
+ZA;KOM;Kommetjie;Kommetjie;WC;1-3-----;RL;1207;;3408S 01819E
+ZA;KTN;Korsten;Korsten;EC;--3--6--;RL;1601;;3355S 02534E
+ZA;KST;Koster;Koster;;--3-----;RQ;9704;;
+ZA;ZCW;Kraaifontein;Kraaifontein;WC;-----6--;RL;901;;3351S 01843E
+ZA;KRI;Kriel;Kriel;MP;--3--6--;RL;1107;;2616S 02914E
+ZA;KRO;Kroonstad;Kroonstad;FS;--3-----;RL;1207;;2739S 02714E
+ZA;KDP;Krugersdorp;Krugersdorp;;--3-----;RL;9805;;
+ZA;KUI;Kuils River;Kuils River;;--3-----;RL;207;;3355S 01841E
+ZA;KMH;Kuruman;Kuruman;;---4----;AI;1;;
+ZA;KWM;Kwamashu;Kwamashu;NL;-23-----;RL;1401;;2945S 03059E
+ZA;ZKS;Kya Sands;Kya Sands;;-----6--;RL;901;;2601S 02756E
+ZA;KYA;Kyalami;Kyalami;GT;1-3-----;RQ;407;;
+ZA;LUC;La Lucia;La Lucia;NL;--3--6--;RQ;1001;;2945S 03104E
+ZA;ZDG;Laaiplek;Laaiplek;WC;-----6--;RL;901;;3246S 01809E
+ZA;LAD;Ladismith;Ladismith;WC;-23-----;RL;1307;;3329S 02116E
+ZA;LAY;Ladysmith;Ladysmith;;---4----;AI;1;;
+ZA;LKD;Lakeside;Lakeside;WC;--3-----;RL;1601;;3405S 01827E
+ZA;KOO;Langkloof;Langkloof;EC;1-------;RQ;901;;
+ZA;ZDE;Langlaagte;Langlaagte;GT;-----6--;RL;901;;2622S 02803E
+ZA;LDE;Lansdowne;Lansdowne;;-23-----;RL;601;;3359S 01829E
+ZA;HLA;Lanseria;Lanseria;;---4----;AI;9501;;
+ZA;ZDF;Lenasia;Lenasia;GT;-----6--;RL;901;;2619S 02750E
+ZA;HLE;Lephalale;Lephalale;LP;--3-----;RL;1301;;2340S 02745E
+ZA;LER;Lerato;Lerato;NC;1-3-----;RL;1401;;2934S 02131E
+ZA;ZDH;Letsitele;Letsitele;;-----6--;RL;901;;2353S 03024E
+ZA;LEB;Levubu;Levubu;NC;--3-----;RL;1301;;2305S 03017E
+ZA;LIC;Lichtenburg;Lichtenburg;NW;--3-----;RL;1107;;2609S 02610E
+ZA;LMR;Lime Acres;Lime Acres;;---4----;AI;1;;
+ZA;LIM;Limpopo;Limpopo;LP;--3-----;RL;1301;;2400S 02930E
+ZA;ION;Lions River;Lions River;NL;-----6--;RL;1201;;2928S 03009E
+ZA;LDZ;Londolozi;Londolozi;;---4----;AI;1;;
+ZA;ZDA;Longmeadow East;Longmeadow East;;-----6--;RL;901;;2543S 02758E
+ZA;ALH;Lothair;Lothair;MP;--3--6--;RL;1601;;2623S 03026E
+ZA;LCD;Louis Trichardt;Louis Trichardt;;---4----;AI;1;;
+ZA;ZCA;Louterwater;Louterwater;EC;-----6--;RL;901;;3348S 02340E
+ZA;LUJ;Lusikisiki;Lusikisiki;;---4----;AI;1;;
+ZA;LTZ;Lutzville;Lutzville;WC;--3-----;RL;1107;;3133S 01821E
+ZA;LYD;Lydenburg;Lydenburg;MP;--3-----;RL;1207;;2506S 03027E
+ZA;ZDI;Lyndhurst;Lyndhurst;GT;-----6--;RL;901;;2608S 02807E
+ZA;ZDJ;Lynnwood;Lynnwood;GT;-----6--;RL;901;;2545S 02816E
+ZA;ZDK;Lyttleton;Lyttleton;GT;-----6--;RL;901;;2549S 02812E
+ZA;MD3;Madantsane;Madantsane;EC;1-3-----;RL;1401;;3257S 02746E
+ZA;MFK;Mafikeng;Mafikeng;;-234----;AF;9501;;
+ZA;MGL;Magaliesburg;Magaliesburg;;--3-----;RL;201;;2559S 02733E
+ZA;MAS;Maidstone;Maidstone;;--3-----;RL;201;;2933S 03108E
+ZA;MLD;Maitland;Maitland;WC;--3-----;RQ;901;;
+ZA;AAM;Mala Mala;Mala Mala;;---4----;AI;1;;
+ZA;LLE;Malelane;Malelane;;---4----;AI;1;;
+ZA;ZCO;Malmesbury;Malmesbury;WC;-----6--;RL;901;;3327S 01844E
+ZA;ZDO;Malvern East;Malvern East;GT;-----6--;RL;1001;;2611S 02804E
+ZA;MNI;Mandeni;Mandeni;NL;--3-----;RL;1301;;2909S 03124E
+ZA;MND;Mandileni;Mandileni;;--3-----;RL;201;;3048S 02841E
+ZA;ZDN;Maraisburg;Maraisburg;GT;-----6--;RL;901;;2610S 02756E
+ZA;MAH;Marble Hall;Marble Hall;MP;-23-----;RL;212;;2457S 02918E
+ZA;MRC;Marchand;Marchand;NC;--3-----;RL;1507;;2843S 02030E
+ZA;MGH;Margate;Margate;;---4----;AF;9501;;
+ZA;MRH;Mariannhill;Mariannhill;NL;--3-----;RL;1207;;2951S 03050E
+ZA;MKM;Markman;Markman;;------7-;RQ;907;;3348S 02537E
+ZA;LBR;Marlboro;Marlboro;EC;--3-----;RQ;901;;
+ZA;MQD;Marquard;Marquard;FS;-----6--;RL;1201;;2840S 02726E
+ZA;MST;Marshalltown;Marshalltown;GT;--3-----;RL;1301;;2612S 02805E
+ZA;MDL;Martindale;Martindale;EC;--3-----;RL;1301;;3140S 02633E
+ZA;MSU;Maseru;Maseru;NW;--3--6--;RL;1201;;2625S 02254E
+ZA;MHW;Matshewe;Matshewe;EC;-23-----;RQ;901;;
+ZA;MWT;Maydon Whart;Maydon Whart;NL;1-3-----;RQ;901;;
+ZA;MGR;McGregor;McGregor;WC;--3-----;RL;1601;;3357S 01950E
+ZA;AS3;Mdantsane;Mdantsane;EC;--3-----;RL;1501;;3257S 02746E
+ZA;MDE;Meadowdale;Meadowdale;GT;1-3-----;RQ;901;;
+ZA;MKD;Melkbosstrand;Melkbosstrand;WC;-----6--;RL;1201;;3344S 01826E
+ZA;MEM;Memel;Memel;FS;--3-----;RL;1107;;2741S 02934E
+ZA;MPA;Menlo Park;Menlo Park;GT;-23-----;RL;501;;2546S 02818E
+ZA;MBK;Merebank;Merebank;;--3-----;RL;1207;;2958N 03058E
+ZA;ZDL;Merebank East;Merebank East;NL;-----6--;RL;901;;2955S 03056E
+ZA;MRV;Merrivale;Merrivale;NL;--3-----;RL;1301;;2931S 03014E
+ZA;MEZ;Messina;Messina;;-234----;AF;9501;;
+ZA;MEY;Meyerton;Meyerton;;--3-----;RL;201;;2634S 02800E
+ZA;MDB;Middelburg;Middelburg;;--3-----;RL;201;;2546S 02928E
+ZA;MID;Middelkraal;Middelkraal;FS;--3-----;RL;1107;;3314S 01866E
+ZA;MRD;Midrand;Midrand;;--3-----;RL;601;;2600S 02806E
+ZA;MDV;Midvaal;Midvaal;GT;--3-----;RQ;1001;;2634S 02797E
+ZA;ZDQ;Milnerton;Milnerton;WC;-----6--;RL;901;;3352S 01829E
+ZA;MBM;Mkambati;Mkambati;;---4----;AI;1;;
+ZA;MZQ;Mkuze;Mkuze;;---4----;AI;1;;
+ZA;MBD;Mmabatho;Mmabatho;;--34----;AF;9501;;
+ZA;MOB;Mobeni;Mobeni;NL;-23-----;RL;501;;2957S 03057E
+ZA;ZDM;Modderfontein;Modderfontein;GT;-----6--;RL;901;;2606S 02809E
+ZA;MOD;Modimolle;Modimolle;LP;--3-----;RL;1201;;2442S 02824E
+ZA;MON;Montagu;Montagu;WC;--3-----;RL;212;;3347S 02006E
+ZA;ZDP;Montague Gardens;Montague Gardens;WC;-----6--;RL;901;;3352S 01831E
+ZA;NAB;Mookgophong;Mookgophong;LP;-----6--;RQ;1007;;2431S 02843E
+ZA;MOR;Moorreesburg;Moorreesburg;WC;--3-----;RL;1107;;3390S 01840E
+ZA;MNG;Morningside;Morningside;GT;-----6--;RL;1107;;2604N 02803E
+ZA;MSE;Morningside;Morningside;NL;--3-----;RL;1601;;2949S 03101E
+ZA;MZY;Mossel Bay;Mossel Bay;;1--4----;AF;9501;;
+ZA;MWR;Motswari;Motswari;;---4----;AI;1;;
+ZA;EDG;Mount Edgecombe;Mount Edgecombe;NL;1-------;RQ;901;;
+ZA;MBY;Mowbray;Mowbray;WC;--3-----;RL;1601;;3356S 01828E
+ZA;MPM;Mpumalanga;Mpumalanga;NL;--3-----;RL;1107;;
+ZA;MTW;Mtwalume;Mtwalume;NL;--3-----;RL;1301;;3029S 03038E
+ZA;MUL;Muldersdrif;Muldersdrif;GT;--3-----;RL;901;;2602N 02751E
+ZA;MUR;Murraysburg;Murraysburg;WC;-----6--;RL;1601;;3157S 02346E
+ZA;MGE;Musgrave;Musgrave;NL;--3-----;RL;1601;;2951S 03100E
+ZA;MZF;Mzamba(Wild Coast Sun);Mzamba(Wild Coast Sun);;---4----;AI;1;;
+ZA;ZCC;Naboomspruit;Naboomspruit;LP;-----6--;RL;901;;2431S 02843E
+ZA;NPR;Napier;Napier;WC;--3-----;RL;1601;;3428S 01954E
+ZA;NAL;Natala;Natala;EC;--3-----;RL;1601;;3045S 02913E
+ZA;NDB;Ndabeni;Ndabeni;NL;--3-----;RL;1401;;2656S 03201E
+ZA;NNB;Ndabeni;Ndabeni;WC;--3-----;RL;1401;;3355S 01829E
+ZA;NEA;Neave;Neave;;--3-----;RQ;907;;3355S 02535E
+ZA;NLP;Nelspruit;Nelspruit;;---4----;AF;9501;;
+ZA;ZAP;New Brighton West;New Brighton West;;-----6--;RL;901;;3353S 02536E
+ZA;ZGA;New Centre;New Centre;GT;-----6--;RL;901;;2612S 02803E
+ZA;NGG;New Germany;New Germany;NL;1-3--6--;RL;901;;2948S 03053E
+ZA;NCS;Newcastle;Newcastle;;---4----;AI;1;;
+ZA;ZDT;Newlands;Newlands;GT;-----6--;RL;901;;2610S 02758E
+ZA;LWD;Newlands;Newlands;WC;--3-----;RL;1401;;3358S 01827E
+ZA;ZDU;Newton Park;Newton Park;EC;-----6--;RL;901;;3357S 02534E
+ZA;NGL;Ngala;Ngala;;---4----;AI;1;;
+ZA;NGW;Ngodwana;Ngodwana;MP;--3-----;RL;1507;;2534S 03040E
+ZA;ZDS;Nigel;Nigel;GT;-----6--;RL;901;;2625S 02828E
+ZA;NCC;Noblesfontein;Noblesfontein;NC;--3-----;RL;1401;;3147S 02310E
+ZA;NDW;Noordheuwel;Noordheuwel;GT;--3-----;RL;1301;;2605S 02747E
+ZA;NOO;Noordhoek;Noordhoek;WC;--3-----;RL;1507;;3406S 01822E
+ZA;ZDR;North End;North End;EC;-----6--;RL;901;;3356S 02536E
+ZA;ZDV;North Riding;North Riding;;-----6--;RL;901;;2621S 02802E
+ZA;NCF;Northcliff;Northcliff;GT;-23-----;RL;501;;2608S 02757E
+ZA;NNL;Nottingham Road;Nottingham Road;NL;1----6--;RL;1601;;2921S 03000E
+ZA;NUF;Nuffield Springs;Nuffield Springs;;1-------;RQ;407;;
+ZA;NYL;Nylstroom;Nylstroom;;-23-----;RL;212;;2441S 02824E
+ZA;OBS;Observatory;Observatory;WC;--3-----;RQ;901;;
+ZA;OLI;Olifantsfontein;Olifantsfontein;;--3-----;RL;201;;2557S 02813E
+ZA;NDR;Onderstepoort;Onderstepoort;GT;-----6--;RL;1107;;2539S 02811E
+ZA;ZDY;Ongelegen;Ongelegen;WC;-----6--;RL;901;;3344S 02324E
+ZA;OUS;Onrus;Onrus;WC;--3-----;RL;1507;;3424S 01911E
+ZA;ZDW;Op-die-Berg;Op-die-Berg;WC;-----6--;RL;901;;3301S 01917E
+ZA;ZGB;Ophirton;Ophirton;GT;-----6--;RL;901;;2612S 02802E
+ZA;ZEA;Orange Grove;Orange Grove;GT;-----6--;RL;901;;2610S 02805E
+ZA;ZDX;Oranjezicht;Oranjezicht;WC;-----6--;RL;901;;3356S 01825E
+ZA;ORK;Orkney;Orkney;NW;--3-----;RQ;901;;
+ZA;OSH;Oshoek;Oshoek;;0-------;AF;9501;;
+ZA;ZED;Ottery;Ottery;WC;-----6--;RL;901;;3401S 01829E
+ZA;OUH;Oudtshoorn;Oudtshoorn;;---4----;AF;9501;;
+ZA;RPT;Overport;Overport;;--3-----;RL;1207;;2950N 03100E
+ZA;PNL;Paardeneiland;Paardeneiland;;1-3-----;RL;701;;3355S 01828E
+ZA;PAA;Paarl;Paarl;;--3-----;RL;201;;3343S 01857E
+ZA;ZGC;Paarl Wpk;Paarl Wpk;WC;-----6--;RL;901;;3343S 01900E
+ZA;ZEG;Parktown;Parktown;GT;-----6--;RL;901;;2610S 02802E
+ZA;PRW;Parow;Parow;;--3-----;RL;201;;3353S 01837E
+ZA;ZEE;Parys;Parys;FS;-----6--;RL;901;;2654S 02727E
+ZA;ZBV;Patensie;Patensie;EC;-----6--;RL;901;;3345S 02449E
+ZA;PAU;Paulshof;Paulshof;GT;--3-----;RQ;901;;
+ZA;PLD;Pelindaba;Pelindaba;NC;--3--6--;RQ;901;;2900S 02400E
+ZA;PDE;Pelindaba East;Pelindaba East;NW;-----6--;RQ;901;;
+ZA;PEN;Pennington;Pennington;NL;1----6--;RL;1601;;3023S 03042E
+ZA;ZEF;Perseverance;Perseverance;EC;-----6--;RL;901;;3349S 02531E
+ZA;PHW;Phalaborwa;Phalaborwa;;---4----;AF;9501;;
+ZA;PDZ;Philidelphia;Philidelphia;WC;-----6--;RL;1601;;3339S 01834E
+ZA;PH4;Philippi;Philippi;WC;--3-----;RL;1501;;3401S 01833E
+ZA;PHX;Phoenix;Phoenix;EC;1-------;RQ;901;;
+ZA;PHU;Phuthaditjhaba;Phuthaditjhaba;;--3-----;RL;201;;2831S 02848E
+ZA;PRF;Piet Retief;Piet Retief;MP;-23-5---;AI;501;;2700S 03048E
+ZA;PZB;Pietermaritzburg;Pietermaritzburg;;---45---;AF;9501;;
+ZA;PTG;Pietersburg;Pietersburg;;---4----;AF;9501;;
+ZA;PIK;Piketberg;Piketberg;WC;-23-----;RL;212;;3254S 01844E
+ZA;PLN;Pinelands;Pinelands;WC;----5---;RL;1107;;3355N 01830E
+ZA;PNT;Pinetown;Pinetown;;--3-----;RQ;9705;;
+ZA;PBZ;Plettenberg Bay;Plettenberg Bay;;---4----;AF;9501;;
+ZA;PTD;Plumstead;Plumstead;WC;--3-----;RL;1301;;3401S 01828E
+ZA;POF;Pofadder;Pofadder;NC;--3-----;RL;1207;;2908S 01923E
+ZA;PIT;Point;Point;EC;1-------;RQ;901;;
+ZA;POL;Polokwane;Polokwane;;--3-----;RL;1107;;
+ZA;PON;Pongola;Pongola;NL;--3-----;RL;212;;2722S 03136E
+ZA;AFD;Port Alfred;Port Alfred;;---4----;AI;1;;
+ZA;PED;Port Edward;Port Edward;;1-3-56--;RL;601;;3103S 03013E
+ZA;PLZ;Port Elizabeth;Port Elizabeth;;1--45---;AF;9501;;
+ZA;NOL;Port Nolloth;Port Nolloth;;1-------;AF;9501;;
+ZA;NGQ;Port of Ngqura;Port of Ngqura;;-----6--;RQ;1001;;3346S 25400E
+ZA;JOH;Port Saint John's;Port Saint John's;EC;1-34----;AI;212;;3138S 02932E
+ZA;ZCK;Port Shepstone;Port Shepstone;NL;--3-----;RL;1101;;3045S 03027E
+ZA;POR;Porterville;Porterville;WC;-23-----;RL;212;;3300S 01859E
+ZA;ZEH;Potchefstroom;Potchefstroom;NW;-----6--;RL;901;;2643S 02706E
+ZA;ZCE;Potgietersrus;Potgietersrus;LP;-----6--;RL;901;;2410S 02901E
+ZA;PRY;Pretoria;Pretoria;GT;-23456--;AF;1207;;2542S 02813E
+ZA;PRK;Prieska;Prieska;;---4----;AI;1;;
+ZA;ZEI;Primrose;Primrose;GT;-----6--;RL;901;;2611S 02810E
+ZA;PAT;Prince Albert;Prince Albert;WC;--3-----;RL;1601;;3313S 02202E
+ZA;PTN;Prospecton;Prospecton;;--3-----;RL;9805;;
+ZA;PUT;Putfontein;Putfontein;GT;--3-----;RL;1201;;2607S 02824E
+ZA;QBG;Queensburgh;Queensburgh;NL;--3-----;RQ;1001;;2952S 03056E
+ZA;UTW;Queenstown;Queenstown;;---4----;AI;1;;
+ZA;RMB;Ramatlhabama;Ramatlhabama;;0-------;AF;9501;;
+ZA;RGE;Ramsgate;Ramsgate;NL;--3-----;RL;1601;;3054S 03020E
+ZA;RDB;Randburg;Randburg;;--3-----;RL;201;;2605S 02758E
+ZA;RFT;Randfontein;Randfontein;;--3-----;RL;201;;2609S 02742E
+ZA;RAN;Randjesfontein;Randjesfontein;GT;--3-----;RL;1301;;2557S 02808E
+ZA;ZEJ;Randvaal;Randvaal;GT;-----6--;RL;901;;2629S 02803E
+ZA;RTD;Ratanda;Ratanda;GT;--3-----;RL;1301;;2633S 02820E
+ZA;RAW;Rawsonville;Rawsonville;WC;--3--6--;RQ;1001;;3341S 01919E
+ZA;ZEK;Red Hill;Red Hill;EC;-----6--;RL;901;;3220S 02814E
+ZA;RHL;Red Hill;Red Hill;NL;--3-----;RL;1601;;2946S 03101E
+ZA;RVO;Reivilo;Reivilo;;---4----;AI;1;;
+ZA;RVH;Reservoir Hills;Reservoir Hills;NL;-23-----;RL;1301;;2948S 03056E
+ZA;RTT;Retreat;Retreat;NL;--3-----;RL;901;;3155S 02658E
+ZA;ZEM;Retreat;Retreat;WC;-----6--;RL;901;;3403S 01827E
+ZA;RHS;Rhodes;Rhodes;EC;--3-----;RL;1107;;3047S 02757E
+ZA;RCB;Richards Bay;Richards Bay;;1--4----;AF;9501;;
+ZA;RBD;Riebeeckstad;Riebeeckstad;FS;-----6--;RQ;1007;;2755S 02649E
+ZA;RWC;Riebeek West;Riebeek West;WC;1----6--;RL;1601;;3321S 01852E
+ZA;RKL;Riebeek-Kasteel;Riebeek-Kasteel;WC;--3-----;RL;1601;;3323S 01854E
+ZA;RDL;Riversdale;Riversdale;WC;--3-----;RL;1407;;3406S 02116E
+ZA;7WC;Riviersonderend;Riviersonderend;WC;1----6--;RL;1601;;3409S 01954E
+ZA;RVA;Rivonia;Rivonia;GT;--3-----;RL;407;;2603S 02803E
+ZA;SHM;Robertsham;Robertsham;EC;1-3-----;RL;901;;2615N 02801E
+ZA;ROD;Robertson;Robertson;;---4----;AI;1;;
+ZA;RBT;Robertville;Robertville;;--3--6--;RQ;1001;;2651S 02857E
+ZA;RKD;Rocky's Drift;Rocky's Drift;MP;--3-----;RQ;901;;
+ZA;RDK;Roodekop;Roodekop;FS;-----6--;RL;901;;2911S 02646E
+ZA;RDP;Roodepoort;Roodepoort;;--3-----;RL;201;;2608S 02752E
+ZA;ZEL;Rooihuiskraal;Rooihuiskraal;GT;-----6--;RL;901;;2554S 02806E
+ZA;RBK;Rosebank;Rosebank;WC;-----6--;RL;1201;;3357S 01828E
+ZA;ZEN;Rosettenville;Rosettenville;GT;-----6--;RL;901;;2615S 02803E
+ZA;ZEO;Rosherville;Rosherville;GT;-----6--;RL;901;;2610S 02808E
+ZA;RSH;Rossburgh;Rossburgh;NL;--3-----;RL;1301;;2954S 03058E
+ZA;ROS;Rosslyn;Rosslyn;GT;--3-----;RL;407;;2537S 02805E
+ZA;RSB;Rustenburg;Rustenburg;NW;--3-----;RL;1101;;2539S 02714E
+ZA;RUS;Rustenburg, Thabazimbi;Rustenburg, Thabazimbi;LP;--3-----;RL;1101;;2455S 02709E
+ZA;GSS;Sabi Sabi;Sabi Sabi;;---4----;AI;1;;
+ZA;ZAC;Saint Albans;Saint Albans;EC;--3-----;RL;1101;;3355S 02521E
+ZA;SFB;Saint Francis Bay;Saint Francis Bay;;--3-----;RL;1101;;3411S 02451E
+ZA;ZER;Saint Helena Bay;Saint Helena Bay;WC;--3-----;RL;1101;;3246S 01802E
+ZA;SDB;Saldanha Bay;Saldanha Bay;;1--4----;AF;9501;;
+ZA;ZEP;Salt River;Salt River;WC;-----6--;RL;901;;3355S 01827E
+ZA;SAN;Sandhurst;Sandhurst;;-----6--;RL;1107;;2607S 02803E
+ZA;SDT;Sandton;Sandton;;--3-----;RL;201;;2604S 02804E
+ZA;ZCQ;Saron;Saron;WC;-----6--;RL;901;;3310S 01901E
+ZA;SAS;Sasolburg;Sasolburg;;--3-----;RL;201;;2649S 02750E
+ZA;ZGD;Saxonwold;Saxonwold;GT;-----6--;RL;901;;2609S 02803E
+ZA;SCT;Scottburgh;Scottburgh;;--3-----;RL;201;;3016S 03045E
+ZA;ZEW;Sea Point;Sea Point;WC;-----6--;RL;901;;3355S 01823E
+ZA;ZEC;Secunda;Secunda;;---4----;AF;9501;;
+ZA;SEL;Selby;Selby;GT;-----6--;RQ;901;;
+ZA;SHG;Seshego;Seshego;NC;-----6--;RL;1201;;2351N 02923E
+ZA;ZE4;Sezela;Sezela;NL;1-3-----;RL;1401;;3025S 03041E
+ZA;SHS;Shakaskraal;Shakaskraal;;--3-----;RL;201;;2926S 03113E
+ZA;SHO;Shongweni;Shongweni;NL;--3-----;RQ;901;;
+ZA;SID;Sidwell;Sidwell;EC;1-3-----;RQ;901;;
+ZA;STN;Silverton;Silverton;;--3-----;RL;201;;2543N 02817E
+ZA;ZES;Simondium;Simondium;WC;-----6--;RL;901;;3349S 01856E
+ZA;SMN;Simon's Town;Simon's Town;WC;1-3-----;AF;212;;3411S 01826E
+ZA;SLW;Sir Lowry's Pass Village;Sir Lowry's Pass Village;WC;--3-----;RL;1401;;3407S 01854E
+ZA;SIS;Sishen;Sishen;;---4----;AF;9501;;
+ZA;SZK;Skukuza;Skukuza;;---4----;AF;9501;;
+ZA;SLU;Slurry;Slurry;NW;--3-----;RL;1401;;2549S 02551E
+ZA;ZBX;Somerset East;Somerset East;EC;-----6--;RL;901;;3243S 02535E
+ZA;SOM;Somerset West;Somerset West;;--3-----;RL;201;;3404S 01850E
+ZA;SNL;Southbroom;Southbroom;NL;1----6--;RL;1601;;3055S 03019E
+ZA;SD7;Southdale;Southdale;GT;--3-----;RL;1501;;2614S 02801E
+ZA;ZEV;Soweto;Soweto;GT;-----6--;RL;901;;2616S 02752E
+ZA;SBU;Springbok;Springbok;;---4----;AF;9501;;
+ZA;ZEQ;Springfield;Springfield;EC;-----6--;RL;901;;3359S 02533E
+ZA;SPR;Springs;Springs;;-23-----;RQ;9704;;
+ZA;SHL;Stamford Hill;Stamford Hill;NL;-----6--;RQ;1007;;2949S 03101E
+ZA;STC;Standerton;Standerton;MP;--3-----;RL;501;;2657S 02915E
+ZA;SFD;Stanford;Stanford;WC;--3-----;RL;1601;;3426S 01927E
+ZA;SGR;Stanger;Stanger;;--3-----;RL;201;;2920S 03117E
+ZA;STP;Steelpoort;Steelpoort;MP;--3-----;RQ;1007;;2443S 03012E
+ZA;SNG;Steenberg;Steenberg;WC;--3-----;RL;1601;;3404S 01828E
+ZA;SLB;Stellenberg;Stellenberg;WC;--3--6--;RL;1201;;3352S 01839E
+ZA;STH;Stellenbosch;Stellenbosch;;--3-----;RL;201;;3355S 01851E
+ZA;ZET;Stikland;Stikland;WC;-----6--;RL;901;;3353S 01838E
+ZA;SBI;Stilbaai;Stilbaai;WC;--3-----;RL;1601;;3422S 02125E
+ZA;ZEX;Stompneus;Stompneus;WC;-----6--;RL;901;;3122S 01753E
+ZA;STD;Strand;Strand;WC;123-----;RL;507;;3407S 01850E
+ZA;STR;Struandale;Struandale;EC;1-------;RQ;901;;
+ZA;AVL;Strubenvale;Strubenvale;GT;-----6--;RQ;1007;;2625S 02846E
+ZA;STU;Stutterheim;Stutterheim;;--3-----;RL;201;;3233S 02725E
+ZA;SPL;Suider-Paarl;Suider-Paarl;WC;--3-----;RL;1601;;3346S 01857E
+ZA;ZEU;Summerstrand;Summerstrand;EC;-----6--;RL;901;;3359S 02539E
+ZA;NTY;Sun City;Sun City;;---4----;AI;1;;
+ZA;SUN;Sun Valley;Sun Valley;WC;--3-----;RQ;901;;
+ZA;SNI;Sunningdale;Sunningdale;;-----6--;RL;1201;;2420S 02917E
+ZA;SNN;Sunninghill;Sunninghill;GT;-----6--;RQ;1007;;2602S 02803E
+ZA;SYD;Sunnyridge;Sunnyridge;EC;--3-----;RL;1307;;3302S 02751E
+ZA;ZEY;Suurbekom;Suurbekom;GT;-----6--;RL;901;;2618S 02745E
+ZA;SWG;Swartruggens;Swartruggens;NW;--3-----;RL;1301;;2539S 02642E
+ZA;SWE;Swellendam;Swellendam;;0-------;RQ;9601;;
+ZA;SDH;Sydenham;Sydenham;EC;--3-----;RL;1207;;3355S 02536E
+ZA;SYH;Sydenham;Sydenham;NL;-----6--;RQ;1007;;2949S 03059E
+ZA;TVW;Table View;Table View;WC;--3-----;RL;1601;;3349S 01829E
+ZA;TDT;Tanda Tula;Tanda Tula;;---4----;AI;1;;
+ZA;TLT;Tarlton;Tarlton;GT;--3-----;RQ;901;;
+ZA;TCU;Thaba Nchu;Thaba Nchu;;---4----;AI;1;;
+ZA;THY;Thohoyandou;Thohoyandou;;---4----;AI;1;;
+ZA;ZFA;Tokai;Tokai;WC;-----6--;RL;901;;3404S 01826E
+ZA;TNT;Tongaat;Tongaat;;--3-----;RL;201;;2934S 03107E
+ZA;TDD;Trichardt;Trichardt;MP;--3-----;RL;1501;;2629S 02914E
+ZA;TSD;Tshipise;Tshipise;;---4----;AI;1;;
+ZA;TUL;Tulbagh;Tulbagh;WC;--3-----;RL;212;;3316S 01908E
+ZA;ZFB;Tulisa Park;Tulisa Park;GT;-----6--;RL;901;;2615S 02803E
+ZA;ZFC;Turffontein;Turffontein;GT;-----6--;RL;901;;2615S 02803E
+ZA;LTA;Tzaneen;Tzaneen;;---4----;AF;9501;;
+ZA;ZFD;Ugie Ec;Ugie Ec;EC;-----6--;RL;901;;3111S 02811E
+ZA;UHG;Uitenhage;Uitenhage;;-23-----;RQ;9709;;
+ZA;ULC;Ulco;Ulco;NC;--3-----;RL;1301;;2819S 02413E
+ZA;ULD;Ulundi;Ulundi;;---4----;AI;1;;
+ZA;ULX;Ulusaba;Ulusaba;;---4----;AI;1;;
+ZA;ZFE;Umbilo;Umbilo;NL;-----6--;RL;901;;2954S 03059E
+ZA;UMB;Umbogintwini;Umbogintwini;NL;-23-----;RL;701;;3001S 03055E
+ZA;UDI;Umdloti;Umdloti;NL;--3-----;RL;1601;;2939S 03107E
+ZA;ZFF;Umgeni Dam;Umgeni Dam;NL;-----6--;RL;901;;2935S 03037E
+ZA;UMR;Umhlanga Rocks;Umhlanga Rocks;NL;-23-----;RL;501;;2943S 03105E
+ZA;UMK;Umkomaas;Umkomaas;;--3-----;RL;201;;3011S 03047E
+ZA;UTT;Umtata;Umtata;;---4----;AF;9501;;
+ZA;UMZ;Umzinto;Umzinto;;--3-----;RL;201;;3018S 03040E
+ZA;UTN;Upington;Upington;;---4----;AF;9501;;
+ZA;VAL;Vaal;Vaal;;--3-----;RL;201;;2646S 02756E
+ZA;VAC;Vaalcon;Vaalcon;FS;123-----;RQ;407;;
+ZA;VDP;Vanderbijlpark;Vanderbijlpark;;--3-----;RL;201;;2641S 02749E
+ZA;FVS;Ventersburg;Ventersburg;FS;--3-----;RL;1601;;2805S 02708E
+ZA;VEN;Ventersdorp;Ventersdorp;NW;--3-----;RL;1301;;2619S 02649E
+ZA;VGG;Vereeniging;Vereeniging;;--3-----;RL;201;;2639S 02758E
+ZA;VRG;Vereeniging;Vereeniging;;--3-----;RL;201;;3131S 02611E
+ZA;VEU;Verulam;Verulam;;--3-----;RL;201;;2938S 03103E
+ZA;VXD;Viljoensdrif;Viljoensdrif;;--3-----;RL;201;;2643S 02754E
+ZA;VIL;Viljoenskroon;Viljoenskroon;FS;-----6--;RL;1601;;2713S 02657E
+ZA;ZFH;Villiersdorp;Villiersdorp;WC;-----6--;RL;901;;3359S 01917E
+ZA;VOL;Volksrust;Volksrust;MP;--3-----;RL;1201;;2722S 02953E
+ZA;VDB;Vredenburg;Vredenburg;WC;--3-----;RL;1301;;3254S 01759E
+ZA;VRE;Vredendal;Vredendal;;---4----;AF;9501;;
+ZA;VRU;Vryburg;Vryburg;;---4----;AF;9501;;
+ZA;VYD;Vryheid;Vryheid;;---4----;AF;9501;;
+ZA;ZFG;Vyeboom;Vyeboom;WC;-----6--;RL;901;;3404S 01907E
+ZA;WDV;Wadeville;Wadeville;;--3-----;RL;201;;2615S 02811E
+ZA;WKB;Walker Bay;Walker Bay;WC;--3-----;RQ;901;;
+ZA;WLM;Walmer;Walmer;EC;--3-----;RL;1301;;3359S 02535E
+ZA;ZFK;Waltloo;Waltloo;GT;-----6--;RL;901;;2543S 02820E
+ZA;WBK;Wandsbeck;Wandsbeck;NL;-----6--;RQ;1007;;2834S 03125E
+ZA;ZCL;Wartburg;Wartburg;NL;-----6--;RL;901;;2926S 03035E
+ZA;WAT;Waterfront;Waterfront;WC;1-------;RQ;901;;
+ZA;ZFI;Waterkloof;Waterkloof;GT;-----6--;RL;901;;2546S 02814E
+ZA;ZFM;Waterkloof Ridge;Waterkloof Ridge;GT;-----6--;RL;901;;3018S 02517E
+ZA;WGD;Welgemoed;Welgemoed;WC;-----6--;RL;1201;;3352S 01837E
+ZA;WEL;Welkom;Welkom;;---4----;AF;9501;;
+ZA;WLT;Wellington;Wellington;;--3-----;RL;207;;3338S 01859E
+ZA;ZFJ;Weltevredenpark;Weltevredenpark;GT;-----6--;RL;901;;2607S 02756E
+ZA;WWC;Wemmershoek;Wemmershoek;WC;1----6--;RL;1601;;3352S 01902E
+ZA;WBN;West Bank;West Bank;EC;--3-----;RL;1207;;3302S 02754E
+ZA;U7S;Westlake;Westlake;WC;--3-----;RL;1501;;3405S 01826E
+ZA;WMD;Westmead;Westmead;NL;--3-----;RQ;901;;
+ZA;ZFN;Westonaria;Westonaria;GT;-----6--;RL;1001;;2619S 02739E
+ZA;WVE;Westville;Westville;NL;-----6--;RL;1201;;2950S 03056E
+ZA;WHR;White River;White River;;--3-----;RL;212;;2519S 03101E
+ZA;WDM;Windermere;Windermere;WC;--3-----;RL;1301;;3355S 01831W
+ZA;WML;Windmeul;Windmeul;WC;--3-----;RL;1601;;3339S 01855E
+ZA;WTN;Winterton;Winterton;NL;1-------;RQ;901;;
+ZA;WIT;Witbank;Witbank;;--3-----;RL;201;;2551S 02912E
+ZA;WFD;Witfield;Witfield;GT;-23-----;RL;501;;2611S 02812E
+ZA;WSY;Wolseley;Wolseley;WC;--3-----;RL;1601;;3325S 01912E
+ZA;WBR;Woodbrook;Woodbrook;EC;--3-----;RQ;901;;
+ZA;ZFL;Woodmead;Woodmead;GT;-----6--;RL;901;;2601S 02805E
+ZA;WDS;Woodstock;Woodstock;WC;--3-----;RQ;901;;
+ZA;WOR;Worcester;Worcester;;--3-----;RL;201;;3338S 01926E
+ZA;WNB;Wynberg;Wynberg;;--3-----;RL;201;;3359S 01827E
+ZA;WYN;Wynberg;Wynberg;GT;--3-----;RQ;901;;2808S 02610E
+ZA;YFT;Yzerfontein;Yzerfontein;WC;--3-----;RL;307;;3320S 01810E
+ZA;ZEB;Zebediela;Zebediela;;--3-----;RL;212;;2417S 02914E
+ZA;EUS;Zeerust;Zeerust;NW;-----6--;RL;1007;;2532S 02605E

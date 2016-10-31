@@ -1,0 +1,61 @@
+BO;AQL;Aiquile;Aiquile;C;-----6--;RL;1201;;1810S 06510W
+BO;APB;Apolo;Apolo;L;--34----;AI;407;;1443S 06825W
+BO;ASC;Ascensión;Ascension;S;--34----;AI;407;;1542S 06305W
+BO;ABA;Avaroa;Avaroa;P;-2------;RL;1007;;2120S 06821W
+BO;BVL;Baures;Baures;B;--34----;AI;407;;1335S 06335W
+BO;BJO;Bermejo;Bermejo;T;--34----;AI;407;;2239S 06422W
+BO;CAO;Calacoto;Calacoto;L;--3-----;RL;1501;;1718S 06839W
+BO;CCM;Calacoto;Calacoto;L;--3-----;RL;1501;;1632S 06806W
+BO;CCO;Calacoto;Calacoto;L;--3-----;RL;1501;;1717S 06748W
+BO;CAM;Camiri;Camiri;S;--34----;AI;407;;2006S 06332W
+BO;CAR;Carrasco;Carrasco;;--3-----;RL;701;;1540S 06733W
+BO;CIJ;Cobija;Cobija;N;--34----;AI;407;;1102S 06844W
+BO;CBB;Cochabamba;Cochabamba;C;--345---;AI;407;;1723S 06609W
+BO;COL;Collpani;Collpani;L;--3-----;RL;1101;;1709S 06738W
+BO;CLN;Collpani;Collpani;P;--3-----;RL;1101;;2055S 06701W
+BO;CEP;Concepción;Concepcion;S;--34----;AI;407;;1608S 06202W
+BO;ALT;El Alto;El Alto;L;-23-----;RL;1101;;1630S 06810W
+BO;GUQ;Guaqui;Guaqui;L;1-3-----;AI;407;;1635S 06852W
+BO;GYA;Guayaramerín;Guayaramerin;B;---4----;AI;212;;1048S 06523W
+BO;BVK;Huacaraje;Huacaraje;B;--34----;AI;407;;1333S 06345W
+BO;LPB;La Paz;La Paz;L;-2345---;AI;407;;1630S 06809W
+BO;MGD;Magdalena;Magdalena;B;--34----;AI;407;;1314S 06412W
+BO;MHW;Monteagudo;Monteagudo;H;---4----;RL;907;;1949S 06358W
+BO;OBS;Obrajes;Obrajes;L;--3-----;RL;1501;;1632S 06807W
+BO;ORU;Oruro;Oruro;O;-234----;AI;407;;1759S 06709W
+BO;POI;Potosí;Potosi;P;--34----;AI;407;;1935S 06545W
+BO;PBU;Puerto Busch;Puerto Busch;S;1-3-----;AI;407;;2002S 05758W
+BO;QJR;Puerto Quijarro;Puerto Quijarro;S;1-3-----;AI;501;;1747S 05746W
+BO;PUR;Puerto Rico;Puerto Rico;N;1-34----;RL;407;;1105S 06738W
+BO;PSZ;Puerto Suárez;Puerto Suarez;S;1--4----;AI;212;;1857S 05748W
+BO;QUO;Quillacollo;Quillacollo;C;--3-----;RL;1501;;1724S 06617W
+BO;REY;Reyes;Reyes;B;--34----;AI;407;;1419S 06723W
+BO;RIB;Riberalta;Riberalta;B;1-34----;AI;407;;1059S 06606W
+BO;RBO;Roboré;Robore;S;--34----;AI;407;;1820S 05945W
+BO;RBQ;Rurrenabaque;Rurrenabaque;B;1-34----;AI;407;;1428S 06734W
+BO;SRJ;San Borja;San Borja;B;--34----;AI;407;;1449S 06651W
+BO;SNM;San Ignacio de Moxo;San Ignacio de Moxo;B;---4----;AI;212;;1500S 06539W
+BO;SNG;San Ignacio de Velasco;San Ignacio de Velasco;S;--34----;AI;407;;1622S 06057W
+BO;SJV;San Javier;San Javier;S;--34----;AI;407;;1620S 06238W
+BO;SJB;San Joaquín;San Joaquin;B;--34----;AI;407;;1304S 06449W
+BO;SJS;San José;San Jose;S;--34----;AI;407;;1751S 06045W
+BO;MQK;San Matias;San Matias;B;---4----;RL;907;;1141S 06639W
+BO;SRD;San Ramón;San Ramon;B;--34----;AI;407;;1317S 06443W
+BO;SBL;Santa Ana;Santa Ana;B;--34----;AI;407;;1345S 06526W
+BO;SRZ;Santa Cruz;Santa Cruz;L;-2345---;AI;407;;1747S 06311W
+BO;SCS;Santa Cruz de la Sierra;Santa Cruz de la Sierra;S;--3-----;RQ;907;;1748S 63100W
+BO;SRB;Santa Rosa;Santa Rosa;;---4----;AI;9912;;
+BO;SAN;Santiváñez;Santivanez;;--3-----;RL;701;;1733S 06615W
+BO;SIP;Sipe Sipe;Sipe Sipe;C;-----6--;RL;1107;;1727S 06623W
+BO;SRE;Sucre;Sucre;H;-234----;AI;407;;1902S 06515W
+BO;TJA;Tarija;Tarija;T;--34----;AI;407;;2131S 06445W
+BO;TQY;Tiquipaya;Tiquipaya;C;--3-----;RL;1507;;1720S 06613W
+BO;TDD;Trinidad;Trinidad;B;1-34----;AI;407;;1450S 06454W
+BO;UYU;Uyuni;Uyuni;P;--3-----;RL;901;;2027S 06649W
+BO;VAH;Vallegrande;Vallegrande;S;--34----;AI;407;;1829S 06406W
+BO;VLM;Villamontes;Villamontes;T;--34----;AI;407;;2115S 06330W
+BO;VL2;Villazon;Villazon;H;--3-----;RL;1501;;2032S 06216W
+BO;VLL;Villazón;Villazon;P;-23-----;RL;1407;;2205S 06535W
+BO;VVI;Viru Viru;Viru Viru;H;---4----;AI;212;;1823S 06539W
+BO;BYC;Yacuiba;Yacuiba;T;-234----;AI;407;;2202S 06341W
+BO;YUO;Yucumo;Yucumo;B;--3-----;RL;1401;;1508S 06702W

@@ -1,0 +1,464 @@
+SI;8SI;Adlesici;Adlesici;17;--3-----;RL;1507;;4532N 01519E
+SI;AJD;Ajdovscina;Ajdovscina;;--3-----;RL;207;;4553N 01354E
+SI;ANH;Anhovo;Anhovo;;--3-----;RL;9901;;
+SI;AKN;Ankaran;Ankaran;50;--3-----;RL;1507;;4534N 01344E
+SI;APA;Apace;Apace;29;--3-----;RL;1201;;4642N 01555E
+SI;9SI;Artice;Artice;9;--3-----;RL;1507;;4557N 01535E
+SI;BNG;Begunje na Gorenjskem;Begunje na Gorenjskem;;--3-----;RL;207;;4622N 01412E
+SI;LZA;Begunje pri Cerknici;Begunje pri Cerknici;13;--3--6--;RL;901;;4549N 01423E
+SI;BTN;Beltinci;Beltinci;2;--3-----;RL;1301;;4636N 01614E
+SI;LSI;Benedikt;Benedikt;58;--3-----;RL;1507;;4636N 01553E
+SI;BIS;Bistrica ob Dravi;Bistrica ob Dravi;108;-----6--;RL;1007;;4633N 01533E
+SI;PD9;Bistrica Ob Sotli;Bistrica Ob Sotli;92;--3-----;RL;1507;;4603N 01539E
+SI;BSI;Bizeljsko;Bizeljsko;9;--3-----;RL;1507;;4600N 01541E
+SI;L68;Blagovica;Blagovica;68;--3-----;RL;1507;;4610N 01448E
+SI;BLE;Bled;Bled;;--3-----;RL;207;;4622N 01406E
+SI;BJD;Blejska Dobrava;Blejska Dobrava;;--3-----;RQ;907;;4624N 01406E
+SI;BLO;Bloke;Bloke;150;--3-----;RL;1601;;4547N 01429E
+SI;P97;Bodonci;Bodonci;97;--3-----;RL;1507;;4644N 01605E
+SI;M78;Bogojina;Bogojina;80;--3-----;RL;1507;;4640N 01617E
+SI;BS3;Bohinjska Bela;Bohinjska Bela;3;--3-----;RL;1507;;4620N 01403E
+SI;BS4;Bohinjska Bistrica;Bohinjska Bistrica;4;--3-----;RL;1507;;4616N 01357E
+SI;SI5;Borovnica;Borovnica;5;--3-----;RL;1507;;4554N 01421E
+SI;SEV;Bostanj;Bostanj;110;--3-----;RL;1507;;4600N 01516E
+SI;BVC;Bovec;Bovec;;--3-----;RQ;9806;;
+SI;S84;Branik;Branik;84;--3-----;RL;1507;;4551N 01347E
+SI;BRA;Braslovce;Braslovce;190;--3-----;RL;1507;;4617N 01502E
+SI;BRD;Brda;Brda;7;--3-----;RL;1601;;4559N 01331E
+SI;BPK;Brdo pri Kranju;Brdo pri Kranju;;--3-----;AI;1207;;4616N 01422E
+SI;K46;Breginj;Breginj;46;--3-----;RL;1507;;4615N 01325E
+SI;S54;Brestanica;Brestanica;54;--3-----;RL;1507;;4559N 01529E
+SI;BZC;Brezice;Brezice;9;--3--6--;RQ;1001;;4554N 01535E
+SI;RAD;Brezje;Brezje;102;--3-----;RL;1507;;4620N 01414E
+SI;BR8;Brezovica;Brezovica;8;--3-----;RL;1507;;4602N 01424E
+SI;BRN;Brnik;Brnik;12;--3-----;RL;701;;4613N 01429E
+SI;SK5;Buce;Buce;51;--3-----;RL;1507;;4606N 01535E
+SI;SK2;Bucka;Bucka;121;--3-----;RL;1507;;4556N 01519E
+SI;C52;Cankova;Cankova;152;--3-----;RL;1507;;4643N 01601E
+SI;BR9;Catez Ob Savi;Catez Ob Savi;9;--3-----;RL;1507;;4553N 01536E
+SI;CJE;Celje;Celje;;-23-----;RL;307;;4615N 01516E
+SI;N84;Cepovan;Cepovan;84;--3-----;RL;1507;;4602N 01347E
+SI;CNG;Cerklje na Gorenjskem;Cerklje na Gorenjskem;12;--3-----;RL;1301;;4615N 01429E
+SI;SBR;Cerklje Ob Krki;Cerklje Ob Krki;9;--3-----;RL;1507;;4553N 01531E
+SI;CKC;Cerknica;Cerknica;13;--3-----;RL;501;;4548N 01422E
+SI;CER;Cerkno;Cerkno;14;--3-----;RL;901;;4607N 01359E
+SI;L58;Cerkvenjak;Cerkvenjak;58;--3-----;RL;1507;;4634N 01556E
+SI;CSK;Cersak;Cersak;118;-----6--;RL;1201;;4641N 01540E
+SI;K45;Cirkovce;Cirkovce;45;--3-----;RL;1507;;4624N 01545E
+SI;CIK;Cirkulane;Cirkulane;196;--3-----;RL;1601;;4620N 01559E
+SI;V36;Col;Col;136;--3-----;RL;1507;;4552N 01400E
+SI;CR5;Crensovci;Crensovci;15;--3-----;RL;1507;;4634N 01617E
+SI;P96;Crna Na Koroskem;Crna Na Koroskem;96;--3-----;RL;1507;;4628N 01551E
+SI;CRK;Crni Kal;Crni Kal;50;--3-----;RL;1507;;4533N 01352E
+SI;I36;Crni Vrh;Crni Vrh;36;--3-----;RL;1507;;4555N 01402E
+SI;CRE;Crnice;Crnice;;--3-----;RL;601;;4555N 01347E
+SI;LZL;Crnomelj;Crnomelj;17;-----6--;RL;901;;4534N 01511E
+SI;SDE;Dekani;Dekani;50;--3-----;RL;1507;;4532N 01348E
+SI;DES;Deskle;Deskle;44;--3-----;RL;1301;;4603N 01337E
+SI;DE8;Destrnik;Destrnik;18;--3-----;RL;1507;;4630N 01552E
+SI;DVC;Divaca;Divaca;;--3-----;RL;1201;;4541N 01358E
+SI;D23;Dob;Dob;23;--3-----;RL;1507;;4609N 01437E
+SI;DOJ;Dobje (Obcina);Dobje (Obcina);154;--3-----;RL;1601;;4608N 01523E
+SI;SNO;Dobje Pri Planini;Dobje Pri Planini;120;--3-----;RL;1507;;4608N 01524E
+SI;DOB;Dobova;Dobova;9;#¿NOMBRE?;AA;701;;4553N 01540E
+SI;T29;Dobovec;Dobovec;129;--3-----;RL;1507;;4606N 01503E
+SI;DVL;Dobravlje;Dobravlje;111;--3-----;RL;1507;;4546N 01352E
+SI;DBJ;Dobrepolje;Dobrepolje;20;--3-----;RL;1601;;4551N 01442E
+SI;DBR;Dobrna;Dobrna;155;--3-----;RL;1601;;4620N 01513E
+SI;TR3;Dobrnic;Dobrnic;130;--3-----;RL;1507;;4552N 01458E
+SI;DBP;Dobrova-Polhov Gradec;Dobrova-Polhov Gradec;21;--3-----;RL;1601;;4603N 01418E
+SI;L59;Dobrovnik;Dobrovnik;59;--3-----;RL;1507;;4639N 01621E
+SI;DBO;Dobrovo;Dobrovo;7;1----6--;RL;901;;4559N 13315E
+SI;LZE;Dol pri Hrastniku;Dol pri Hrastniku;34;-----6--;RL;901;;4608N 01506E
+SI;D22;Dol Pri Ljubljani;Dol Pri Ljubljani;22;--3-----;RL;1507;;4605N 01436E
+SI;LI6;Dole Pri Litiji;Dole Pri Litiji;60;--3-----;RL;1507;;4602N 01501E
+SI;DOV;Dolenja Vas;Dolenja Vas;104;--3-----;RL;1501;;4542N 01445E
+SI;N85;Dolenjske Toplice;Dolenjske Toplice;85;--3-----;RL;1507;;4546N 01504E
+SI;DOL;Dolnja Kosana;Dolnja Kosana;;-----6--;RL;1201;;4539N 01407E
+SI;DZE;Domzale;Domzale;;--3-----;RL;9805;;
+SI;D24;Dornava;Dornava;24;--3-----;RL;1507;;4626N 01557E
+SI;NG8;Dornberk;Dornberk;84;--3-----;RL;1507;;4553N 01344E
+SI;L66;Draga;Draga;66;--3-----;RL;1507;;4538N 01439E
+SI;CR7;Dragatus;Dragatus;17;--3-----;RL;1507;;4531N 01510E
+SI;SPC;Dramlje;Dramlje;120;--3-----;RL;1507;;4616N 01523E
+SI;D25;Dravograd;Dravograd;25;--3-----;RL;1507;;4635N 01501E
+SI;SZN;Dutovlje;Dutovlje;111;--3-----;RL;1507;;4545N 01349E
+SI;S85;Dvor;Dvor;85;--3-----;RL;1507;;4548N 01458E
+SI;RS8;Fala;Fala;108;--3-----;RL;1507;;4632N 01526E
+SI;SMT;Fokovci;Fokovci;78;--3-----;RL;1507;;4644N 01616E
+SI;FRA;Fram;Fram;;--3-----;RL;207;;4627N 01537E
+SI;V89;Frankolovo;Frankolovo;139;--3-----;RL;1507;;4619N 01518E
+SI;GL6;Gabrovka;Gabrovka;60;--3-----;RL;1507;;4601N 01500E
+SI;GSH;Gemerská Horka;Gemerska Horka;;-23--6--;RL;901;;4832N 02023E
+SI;SI3;Godovic;Godovic;36;--3-----;RL;1507;;4557N 01405E
+SI;K52;Golnik;Golnik;52;--3-----;RL;1507;;4620N 01420E
+SI;ZA9;Gomilsko;Gomilsko;190;--3-----;RL;1507;;4615N 01502E
+SI;GSZ;Gorenja Straza;Gorenja Straza;;-23-----;RL;607;;4547N 01505E
+SI;GVP;Gorenja Vas;Gorenja Vas;27;--3-----;RL;1507;;4606N 01408E
+SI;GVJ;Gorenja Vas-Poljane;Gorenja Vas-Poljane;27;--3-----;RL;1601;;4605N 01403E
+SI;SP2;Gorica Pri Slivnici;Gorica Pri Slivnici;120;--3-----;RL;1507;;4611N 01525E
+SI;G28;Gorisnica;Gorisnica;28;--3-----;RL;1601;;4624N 01600E
+SI;COJ;Gorje;Gorje;207;--3-----;RL;1601;;4623N 01358E
+SI;GDN;Gornja Radgona;Gornja Radgona;;--3-----;RL;1207;;4640N 01559E
+SI;GG3;Gornji Grad;Gornji Grad;30;--3-----;RL;1601;;4617N 01448E
+SI;GIP;Gornji Petrovci;Gornji Petrovci;31;--3-----;RL;1601;;4648N 01613E
+SI;K53;Gozd Martuljek;Gozd Martuljek;53;--3-----;RL;1601;;4629N 01350E
+SI;GR5;Gracisce;Gracisce;50;--3-----;RL;1601;;4530N 01352E
+SI;GRA;Grad;Grad;158;--3-----;RL;1601;;4648N 01605E
+SI;SC7;Gradac;Gradac;17;--3-----;RL;1601;;4537N 01515E
+SI;CR3;Grahovo;Grahovo;13;--3-----;RL;1601;;4546N 01425E
+SI;T28;Grahovo;Grahovo;128;--3-----;RL;1601;;4609N 01351E
+SI;GRG;Grgar;Grgar;84;--3-----;RL;1601;;4559N 01340E
+SI;GSE;Grize;Grize;111;-----6--;RL;1201;;4545N 01356E
+SI;GZA;Grize;Grize;190;-----6--;RL;1201;;4613N 01509E
+SI;SPJ;Grobelno;Grobelno;124;--3-----;RL;1601;;4612N 01526E
+SI;GJS;Grosuplje;Grosuplje;32;--3-----;RL;701;;4557N 01439E
+SI;GRK;Gruskovje;Gruskovje;69;--3-----;AA;907;;4617N 01552E
+SI;HAJ;Hajdina;Hajdina;159;--3-----;RL;1601;;4625N 01551E
+SI;NM8;Hinje;Hinje;85;--3-----;RL;1601;;4545N 01452E
+SI;HOS;Hoce-Slivnica;Hoce-Slivnica;160;--3-----;RL;1601;;4629N 01540E
+SI;HOD;Hodos;Hodos;161;--3-----;RL;1601;;4649N 01619E
+SI;DHP;Horjul;Horjul;21;--3-----;RL;1601;;4601N 01417E
+SI;LZH;Hrastnik;Hrastnik;34;--3--6--;RL;901;;4609N 01505E
+SI;HRK;Hrpelje-Kozina;Hrpelje-Kozina;35;--3-----;RL;1601;;4535N 01359E
+SI;P94;Hrusevje;Hrusevje;94;--3-----;RL;1601;;4545N 01406E
+SI;SJ4;Hrusica;Hrusica;41;--3-----;RL;1601;;4626N 01401E
+SI;LZI;Idrija;Idrija;36;--3--6--;RL;901;;4600N 01402E
+SI;I37;Ig;Ig;37;--3-----;RL;1601;;4557N 01431E
+SI;IBS;Ilirska Bistrica;Ilirska Bistrica;38;-23-----;RL;901;;4534N 01414E
+SI;IVG;Ivancna Gorica;Ivancna Gorica;39;--3-----;RL;1307;;4556N 01448E
+SI;OIV;Ivanjkovci;Ivanjkovci;87;-----6--;RL;1007;;4628N 01609E
+SI;AZX;Izlake;Izlake;142;--3-----;RL;1507;;4609N 01457E
+SI;IZO;Izola;Izola;;1-------;RL;201;;
+SI;JAR;Jarenina;Jarenina;1;1-------;RQ;901;;
+SI;JLN;Jelsane;Jelsane;38;--3-----;AA;907;;4530N 01416E
+SI;JCE;Jesenice;Jesenice;41;123-----;RL;701;;4625N 01404E
+SI;JEZ;Jezersko;Jezersko;163;--3-----;RL;1601;;4623N 01429E
+SI;SL5;Jurovski Dol;Jurovski Dol;58;--3-----;RL;1601;;4636N 01547E
+SI;JUR;Jursinci;Jursinci;42;--3-----;RL;1601;;4629N 01558E
+SI;PC2;Kalobje;Kalobje;120;--3-----;RL;1601;;4610N 01523E
+SI;SRD;Kamna Gorica;Kamna Gorica;102;--3-----;RL;1601;;4619N 01412E
+SI;SM7;Kamnica;Kamnica;70;--3-----;RL;1601;;4634N 01536E
+SI;KNK;Kamnik;Kamnik;;--3-----;RL;9901;;
+SI;K44;Kanal;Kanal;44;--3-----;RL;1601;;4605N 01338E
+SI;AEE;Kapele;Kapele;9;--3-----;RL;901;;4556N 01541E
+SI;SZ9;Kapla;Kapla;190;--3-----;RL;1601;;4614N 01500E
+SI;KID;Kidricevo;Kidricevo;45;-23-----;RL;901;;4624N 01547E
+SI;IB3;Knezak;Knezak;38;--3-----;RL;1601;;4537N 01415E
+SI;KOB;Kobarid;Kobarid;46;-----6--;RL;1007;;4615N 01335E
+SI;K47;Kobilje;Kobilje;47;--3-----;RL;1601;;4641N 01623E
+SI;KCV;Kocevje;Kocevje;;--3-----;RL;9901;;
+SI;K48;Kocevska Reka;Kocevska Reka;48;--3-----;RL;1601;;4534N 01447E
+SI;O87;Kog;Kog;87;--3-----;RL;1601;;4628N 01615E
+SI;KJK;Kojsko;Kojsko;7;--3-----;RL;1507;;4600N 01334E
+SI;KOM;Komen;Komen;;-----6--;RL;1107;;4548N 13445E
+SI;KMD;Komenda;Komenda;164;--3-----;RL;1507;;4612N 01432E
+SI;KOP;Koper;Koper;;1-------;RL;201;;
+SI;M75;Kostanjevica na Krasu;Kostanjevica na Krasu;75;--3-----;RL;1601;;4550N 01338E
+SI;KST;Kostanjevica na Krki;Kostanjevica na Krki;;--3-----;RL;601;;4551N 01525E
+SI;KOS;Kostel;Kostel;165;--3-----;RL;1601;;4530N 01454E
+SI;MK3;Kotlje;Kotlje;103;--3-----;RL;1601;;4631N 01459E
+SI;KOZ;Kozina;Kozina;35;-23-----;RL;901;;4337N 01356E
+SI;KO5;Kozje;Kozje;51;--3-----;RL;1601;;4604N 01533E
+SI;KRJ;Kranj;Kranj;;--3-----;RL;9901;;
+SI;KRA;Kranjska Gora;Kranjska Gora;53;-----6--;RL;1007;;4629N 01347E
+SI;M77;Kresnice;Kresnice;77;--3-----;RL;1601;;4607N 01447E
+SI;KRI;Krize;Krize;131;-----6--;RL;1201;;4620N 01418E
+SI;KRZ;Krizevci;Krizevci;166;--3-----;RL;1601;;4633N 01608E
+SI;L63;Krizevci pri Ljutomeru;Krizevci pri Ljutomeru;63;--3-----;RL;1601;;4634N 01608E
+SI;KRM;Krmelj;Krmelj;110;--3-----;RL;1601;;4559N 01511E
+SI;KRO;Kropa;Kropa;102;--3-----;RQ;907;;4617N 14120E
+SI;BZ9;Krska Vas;Krska Vas;9;--3-----;RL;1601;;4554N 01534E
+SI;KRK;Krsko;Krsko;54;-23-----;RL;901;;4557N 01529E
+SI;KUN;Kungota;Kungota;55;--3-----;RL;1601;;4625N 01547E
+SI;K56;Kuzma;Kuzma;56;--3-----;RL;1601;;4650N 01605E
+SI;LPJ;Laporje;Laporje;113;-----6--;RL;1107;;4620N 01535E
+SI;LAS;Lasko;Lasko;57;-23-----;RL;901;;4609N 01514E
+SI;K43;Laze v Tuhinju;Laze v Tuhinju;43;--3-----;RL;1601;;4613N 01445E
+SI;LVS;Lenart v Slovenskih Goricah;Lenart v Slovenskih Goricah;;--3-----;RL;201;;4633N 01550E
+SI;DAV;Lendava;Lendava;59;-23-----;RL;901;;4634N 01627E
+SI;LSE;Lesce;Lesce;102;--3-----;RL;1007;;4122N 01409E
+SI;KL5;Lesicno;Lesicno;51;--3-----;RL;1601;;4606N 01530E
+SI;SKS;Leskovec pri Krskem;Leskovec pri Krskem;54;--3-----;RL;1601;;4556N 01528E
+SI;DR5;Libelice;Libelice;25;--3-----;RL;1601;;4637N 01456E
+SI;LBU;Limbus;Limbus;70;--3-----;RL;1301;;4633N 01535E
+SI;LZJ;Litija;Litija;60;-----6--;RL;901;;4603N 01449E
+SI;LBC;Ljubecna;Ljubecna;11;--3-----;RL;1507;;4614N 01519E
+SI;LJU;Ljubljana;Ljubljana;;---45---;AI;9601;;
+SI;LJA;Ljubljana;Ljubljana;61;--3-----;RL;1601;;4603N 01430E
+SI;LJB;Ljubno;Ljubno;62;--3-----;RL;1601;;4612N 04130E
+SI;L8L;Ljubno Ob Savinji;Ljubno Ob Savinji;62;--3-----;RL;1507;;4620N 01450E
+SI;LJR;Ljutomer;Ljutomer;;--3-----;RL;201;;
+SI;LOC;Loce;Loce;9;--3-----;RL;1301;;4553N 01540E
+SI;BOV;Log pod Mangartom;Log pod Mangartom;6;--3-----;RL;1601;;4624N 01335E
+SI;VR4;Log pri Brezovici;Log pri Brezovici;140;--3-----;RL;1601;;4601N 01422E
+SI;LOG;Logatec;Logatec;;--3-----;RL;307;;4555N 01411E
+SI;LOD;Log-Dragomer;Log-Dragomer;208;--3-----;RL;1601;;4600N 01422E
+SI;SV8;Loka pri Zidanem Mostu;Loka pri Zidanem Mostu;110;--3-----;RL;1601;;4603N 01512E
+SI;SEZ;Lokev;Lokev;111;--3-----;RL;1601;;4539N 01355E
+SI;LSK;Loska Dolina;Loska Dolina;65;--3-----;RL;1601;;4542N 01425E
+SI;LSP;Loski Potok;Loski Potok;66;--3-----;RL;1601;;4542N 01435E
+SI;LND;Lovrenc na Dravskem Polju;Lovrenc na Dravskem Polju;45;--3-----;RL;1601;;4622N 01546E
+SI;LNP;Lovrenc na Pohorju;Lovrenc na Pohorju;108;--3-----;RL;1601;;4632N 01523E
+SI;L67;Luce;Luce;67;--3-----;RL;1601;;4621N 01444E
+SI;LCJ;Lucija;Lucija;;--3-----;RL;1207;;4529N 01336E
+SI;SLV;Lukovica pri Domzalah;Lukovica pri Domzalah;;1----6--;RL;1107;;4610N 14420W
+SI;LUK;Lukovica pri Domzalah;Lukovica pri Domzalah;68;--3-----;RL;1101;;4610N 01442E
+SI;SP9;Mackovci;Mackovci;97;--3-----;RL;1601;;4646N 01610E
+SI;MAJ;Majsperk;Majsperk;69;--3-----;RL;1601;;4621N 05144E
+SI;MAK;Makole;Makole;113;--3-----;RL;1407;;4619N 01540E
+SI;SML;Mala Nedelja;Mala Nedelja;63;1-3-----;RL;1401;;4631N 01603E
+SI;MLN;Malecnik;Malecnik;;--3-----;RL;1207;;4633N 01542E
+SI;KJN;Marezige;Marezige;50;--3-----;RL;1307;;4530N 01348E
+SI;MBX;Maribor;Maribor;;---4----;AI;9601;;
+SI;ST5;Marjeta na Dravskem Polju;Marjeta na Dravskem Polju;115;--3-----;RL;1601;;4627N 01544E
+SI;VCI;Markovci;Markovci;161;--3-----;RL;901;;4651N 01614E
+SI;SM8;Martjanci;Martjanci;78;--3-----;RL;1601;;4641N 01611E
+SI;H35;Materija;Materija;35;--3-----;RL;1601;;4534N 01359E
+SI;ME7;Mavcice;Mavcice;71;--3-----;RL;1601;;4611N 01425E
+SI;MDE;Medvode;Medvode;;--3-----;RL;207;;4608N 01424E
+SI;MGS;Menges;Menges;72;--3-----;RL;701;;4610N 01434E
+SI;MET;Metlika;Metlika;;-----6--;RL;1201;;4538N 01518E
+SI;MZA;Mezica;Mezica;;-23-----;RL;507;;4631N 01451E
+SI;MDP;Miklavz Na Dravskem Polju;Miklavz Na Dravskem Polju;70;--3-----;RL;1301;;4630N 01541E
+SI;SO8;Miklavz pri Ormozu;Miklavz pri Ormozu;87;--3-----;RL;1601;;4627N 01612E
+SI;LZK;Miren;Miren;75;-----6--;RL;901;;4553N 01336E
+SI;MRN;Mirna;Mirna;157;--3-----;RL;1407;;4556N 01503E
+SI;MIP;Mirna Pec;Mirna Pec;85;--3-----;RL;1601;;4551N 01505E
+SI;MIS;Mislinja;Mislinja;76;--3-----;RL;1601;;4626N 01511E
+SI;KG5;Mojstrana;Mojstrana;53;--3-----;RL;1601;;4627N 01356E
+SI;ST3;Mokronog;Mokronog;130;--3-----;RL;1601;;4556N 01508E
+SI;MOR;Moravce;Moravce;77;--3-----;RL;1601;;4608N 01444E
+SI;MVT;Moravske Toplice;Moravske Toplice;78;--3-----;RL;1601;;4641N 01613E
+SI;MNS;Most na Soci;Most na Soci;128;--3-----;RL;1601;;4608N 01344E
+SI;M43;Motnik;Motnik;43;--3-----;RL;1601;;4612N 01453E
+SI;M79;Mozirje;Mozirje;79;--3-----;RL;1601;;4620N 01457E
+SI;MUS;Murska Sobota;Murska Sobota;;--3-----;RL;212;;4640N 01610E
+SI;MUT;Muta;Muta;81;--3-----;RL;1601;;4636N 01509E
+SI;NKO;Naklo;Naklo;;-23--6--;RL;607;;4617N 01419E
+SI;NAZ;Nazarje;Nazarje;83;--3-----;RL;1601;;4619N 01457E
+SI;NGO;Notranje Gorice;Notranje Gorice;8;--3-----;RL;1601;;4559N 01423E
+SI;NCV;Nova Cerkev;Nova Cerkev;139;--3-----;RL;1601;;4618N 01517E
+SI;NOG;Nova Gorica;Nova Gorica;;-23-----;RL;307;;4558N 01343E
+SI;NOV;Nova Vas;Nova Vas;;-----6--;RL;1107;;4556N 01445E
+SI;NMO;Novo Mesto;Novo Mesto;;-23-----;RL;307;;4548N 01511E
+SI;OBR;Obrezje;Obrezje;9;--3-----;AA;701;;4552N 01540E
+SI;HKO;Obrov;Obrov;35;--3-----;RL;1601;;4532N 01405E
+SI;O86;Odranci;Odranci;86;--3-----;RL;1601;;4635N 01616E
+SI;OPN;Oplotnica;Oplotnica;113;--3-----;RL;1007;;4623N 01527E
+SI;ORZ;Ormoz;Ormoz;;-23-----;RL;607;;4624N 01610E
+SI;RIB;Ortnek;Ortnek;104;--3-----;RL;1601;;4547N 01441E
+SI;OSI;Osilnica;Osilnica;88;--3-----;RL;1601;;4533N 01444E
+SI;OTO;Otocec;Otocec;85;--3-----;RL;1601;;4552N 01516E
+SI;P93;Ozbalt;Ozbalt;93;--3-----;RL;1601;;4635N 01523E
+SI;P89;Pernica;Pernica;89;--3-----;RL;1601;;4634N 01543E
+SI;PPM;Pesnica pri Mariboru;Pesnica pri Mariboru;89;--3-----;RL;1601;;4636N 01540E
+SI;PTV;Petrovce;Petrovce;;-23-----;RL;407;;4614N 01511E
+SI;PIR;Piran;Piran;;1-------;RL;201;;
+SI;LZG;Pivka;Pivka;91;-23--6--;RL;901;;4541N 01412E
+SI;PLA;Planina;Planina;94;--3-----;RL;1601;;4550N 01415E
+SI;PPS;Planina pri Sevnici;Planina pri Sevnici;120;--3-----;RL;1601;;4606N 01524E
+SI;POB;Pobegi;Pobegi;50;--3-----;RL;1601;;4532N 01347E
+SI;POD;Podbocje;Podbocje;54;--3-----;RL;1601;;4552N 01528E
+SI;MIN;Podbrdo;Podbrdo;128;--3-----;RL;1601;;4612N 01357E
+SI;P92;Podcetrtek;Podcetrtek;92;--3-----;RL;1601;;4609N 01535E
+SI;P87;Podgorci;Podgorci;87;--3-----;RL;1601;;4625N 01603E
+SI;PGD;Podgrad;Podgrad;38;-----6--;RL;1007;;4531N 01409E
+SI;ZOS;Podkum;Podkum;142;--3-----;RL;1601;;4604N 01501E
+SI;V35;Podlehnik;Podlehnik;135;--3-----;RL;1601;;4620N 01552E
+SI;POV;Podnanos;Podnanos;136;-----6--;RL;901;;4547N 01358E
+SI;N82;Podnart;Podnart;82;--3-----;RL;1601;;4618N 01416E
+SI;PDP;Podplat;Podplat;106;-23-----;RL;907;;4615N 01535E
+SI;KP5;Podsreda;Podsreda;51;--3-----;RL;1601;;4602N 01535E
+SI;PDK;Podvelka;Podvelka;93;--3-----;RL;1601;;4635N 01519E
+SI;POL;Polensak;Polensak;24;--3-----;RL;1601;;4627N 01601E
+SI;PG2;Polhov Gradec;Polhov Gradec;21;--3-----;RL;1601;;4604N 01418E
+SI;PNS;Poljane nad Skofjo Loko;Poljane nad Skofjo Loko;27;--3-----;RL;1601;;4608N 01412E
+SI;LZM;Poljcane;Poljcane;113;-----6--;RL;901;;4618N 01534E
+SI;ZP9;Polzela;Polzela;190;--3-----;RL;1601;;4617N 01504E
+SI;PON;Ponikva;Ponikva;120;--3-----;RL;1601;;4615N 01526E
+SI;POW;Portoroz;Portoroz;;1--4----;AI;8103;;
+SI;POS;Postojna;Postojna;94;--3-----;RL;501;;4547N 01410E
+SI;PRA;Pragersko;Pragersko;113;--3-----;RL;901;;4623N 01539E
+SI;PBL;Prebold;Prebold;174;--3-----;RL;1301;;4614N 01505E
+SI;P95;Preddvor;Preddvor;95;--3-----;RL;1601;;4618N 01425E
+SI;PRM;Prem;Prem;38;--3-----;RL;1601;;4536N 01410E
+SI;PPR;Preserje pri Radomljah;Preserje pri Radomljah;72;--3-----;RL;1601;;4610N 01435E
+SI;PR4;Prestranek;Prestranek;94;--3-----;RL;1601;;4543N 01410E
+SI;PRE;Prevalje;Prevalje;175;-----6--;RL;1201;;4632N 01455E
+SI;PRI;Pristava pri Mestinju;Pristava pri Mestinju;92;--3-----;RL;1601;;4611N 01535E
+SI;PRO;Prosenjakovci;Prosenjakovci;78;--3-----;RL;1601;;4644N 01619E
+SI;PRV;Prvacina;Prvacina;84;--3-----;RL;1601;;4553N 01343E
+SI;PTU;Ptuj;Ptuj;96;-23-----;RL;901;;4625N 01552E
+SI;P69;Ptujska Gora;Ptujska Gora;69;--3-----;RL;1601;;4621N 01545E
+SI;PCI;Puconci;Puconci;97;--3-----;RL;1301;;4642N 01609E
+SI;RAC;Race;Race;98;--3-----;RL;1601;;4627N 01540E
+SI;RAF;Race-Fram;Race-Fram;98;--3-----;RL;1601;;4627N 01537E
+SI;LZO;Radece;Radece;99;-----6--;RL;901;;4604N 01511E
+SI;RDC;Radenci;Radenci;100;--3-----;RL;1301;;4638N 01602E
+SI;ROD;Radlje ob Dravi;Radlje ob Dravi;101;--3-----;RL;1601;;4636N 01513E
+SI;LZN;Radomlje;Radomlje;23;-----6--;RL;901;;4610N 01436E
+SI;RDO;Radovljica;Radovljica;102;--3-----;RL;1601;;4620N 01410E
+SI;RAK;Raka;Raka;54;--3-----;RL;1601;;4555N 01523E
+SI;RKK;Rakek;Rakek;13;--3-----;RL;1601;;4548N 01418E
+SI;RAT;Ratece;Ratece;53;--3-----;RL;1601;;4629N 01343E
+SI;RNK;Ravne na Koroskem;Ravne na Koroskem;;--3-----;RL;201;;4632N 01455E
+SI;RAZ;Razkrizje;Razkrizje;176;--3-----;RL;1601;;4631N 01618E
+SI;ROS;Recica ob Savinji;Recica ob Savinji;101;--3-----;RL;1601;;4619N 01455E
+SI;RNC;Rence;Rence;84;--3-----;RL;701;;4553N 01340E
+SI;RNA;Ribnica;Ribnica;;-23-----;RL;601;;4546N 01443E
+SI;RNP;Ribnica na Pohorju;Ribnica na Pohorju;93;--3-----;RL;1601;;4632N 01516E
+SI;RIM;Rimske Toplice;Rimske Toplice;57;--3-----;RL;1601;;4608N 01512E
+SI;ROB;Rob;Rob;134;--3-----;RL;1601;;4550N 01434E
+SI;ROC;Rocinj;Rocinj;44;--3-----;RL;1601;;4606N 01340E
+SI;RSA;Rogaska Slatina;Rogaska Slatina;;--3-----;RL;9901;;
+SI;ROG;Rogasovci;Rogasovci;105;1----6--;RL;901;;4648N 01602E
+SI;RO3;Rogatec;Rogatec;107;--3-----;RL;1501;;4613N 01542E
+SI;ROV;Rovte;Rovte;64;--3-----;RL;1601;;4559N 01410E
+SI;LZF;Ruse;Ruse;108;-----6--;RL;901;;4632N 01530E
+SI;SAL;Salovci;Salovci;87;--3-----;RL;1601;;4625N 01613E
+SI;SAV;Sava;Sava;60;--3-----;RL;1601;;4605N 01454E
+SI;SEC;Secovlje;Secovlje;90;1----6--;RL;901;;4528N 01337E
+SI;S8L;Selca;Selca;146;1-------;RL;1401;;4613N 01412E
+SI;SOD;Selnica ob Dravi;Selnica ob Dravi;108;--3-----;RL;1601;;4632N 01529E
+SI;LZB;Semic;Semic;17;-----6--;RL;901;;4538N 01510E
+SI;SPS;Sempas;Sempas;84;--3-----;RL;1601;;4555N 01344E
+SI;SEM;Sempeter pri Gorici;Sempeter pri Gorici;84;-23-----;RL;901;;4556N 01338E
+SI;SPR;Sempeter v Savinjski Dolini;Sempeter v Savinjski Dolini;190;-23-----;RL;901;;4615N 01507E
+SI;SPV;Sempeter-Vrtojba;Sempeter-Vrtojba;183;--3-----;RL;1601;;4555N 01339E
+SI;SNR;Sencur;Sencur;117;--3-----;RL;1307;;4614N 01425E
+SI;SEN;Senovo;Senovo;54;--3-----;RL;1601;;4601N 01528E
+SI;SZC;Senozece;Senozece;19;--3--6--;RQ;1001;;4543N 01402E
+SI;SET;Sentilj;Sentilj;118;--3-----;RL;1601;;4640N 01539E
+SI;SE3;Sentjanz;Sentjanz;130;--3-----;RL;1601;;4600N 01510E
+SI;LZQ;Sentjanz pri Dravogradu;Sentjanz pri Dravogradu;25;-----6--;RL;901;;4633N 01502E
+SI;SEJ;Sentjernej;Sentjernej;119;--3-----;RL;1007;;4550N 01520E
+SI;4SS;Sentjur;Sentjur;120;--3-----;RL;1501;;4613N 01523E
+SI;SE9;Sentrupert;Sentrupert;190;--3-----;RL;1601;;4615N 01504E
+SI;SEP;Sentrupert;Sentrupert;211;--3-----;RL;1601;;4558N 01505E
+SI;IVA;Sentvid pri Sticni;Sentvid pri Sticni;39;--3-----;RL;1601;;4556N 01449E
+SI;SVC;Sevnica;Sevnica;110;--3-----;RL;901;;4600N 01518E
+SI;SZA;Sezana;Sezana;;--3-----;RL;501;;4544N 01353E
+SI;SKO;Skocjan;Skocjan;121;--3-----;RL;1601;;4554N 01517E
+SI;LZP;Skofja Loka;Skofja Loka;122;-----6--;RL;901;;4610N 01418E
+SI;SKV;Skofja Vas;Skofja Vas;11;--3-----;RL;1601;;4616N 01517E
+SI;SKF;Skofljica;Skofljica;123;--3-----;RL;1601;;4559N 01434E
+SI;VTT;Sladki Vrh;Sladki Vrh;29;--3-----;RL;901;;4642N 01548E
+SI;SOI;Slap ob Idrijci;Slap ob Idrijci;128;--3-----;RL;1601;;4607N 01348E
+SI;SLG;Slovenj Gradec;Slovenj Gradec;;--3-----;RL;212;;4631N 01505E
+SI;SBA;Slovenska Bistrica;Slovenska Bistrica;;--3-----;RQ;101;;
+SI;SLK;Slovenske Konjice;Slovenske Konjice;;--3-----;RL;407;;4619N 01527E
+SI;SMR;Smarje;Smarje;50;--3-----;RL;1601;;4530N 01343E
+SI;SMA;Smarje pri Jelsah;Smarje pri Jelsah;124;--3-----;RL;701;;4613N 01530E
+SI;SAP;Smarje-Sap;Smarje-Sap;123;--3-----;RL;1601;;4558N 01436E
+SI;SJT;Smarjeske Toplice;Smarjeske Toplice;206;--3-----;RL;1601;;4551N 01513E
+SI;SNP;Smartno na Pohorju;Smartno na Pohorju;113;--3-----;RL;1601;;4626N 01532E
+SI;N83;Smartno ob Dreti;Smartno ob Dreti;83;--3-----;RL;1601;;4617N 01453E
+SI;SOP;Smartno ob Paki;Smartno ob Paki;125;--3-----;RL;1601;;4620N 01502E
+SI;SPL;Smartno pri Litiji;Smartno pri Litiji;60;--3-----;RL;1601;;4602N 01450E
+SI;PSG;Smartno pri Slovenj Gradcu;Smartno pri Slovenj Gradcu;112;--3-----;RL;1601;;4629N 01506E
+SI;SVD;Smartno v Rozni Dolini;Smartno v Rozni Dolini;11;--3-----;RL;1601;;4617N 01514E
+SI;MED;Smlednik;Smlednik;71;--3-----;RL;1601;;4609N 01425E
+SI;SOC;Soca;Soca;6;--3-----;RL;1601;;4620N 01339E
+SI;SZ5;Sodrazica;Sodrazica;104;--3-----;RL;1301;;4545N 01438E
+SI;SOL;Solcava;Solcava;67;--3-----;RL;1601;;4625N 01441E
+SI;S47;Solkan;Solkan;84;--3-----;RL;1601;;4558N 01338E
+SI;STJ;Sostanj;Sostanj;126;-23-----;RL;901;;4623N 01503E
+SI;SOV;Sovodenj;Sovodenj;27;--3-----;RL;1601;;4605N 01402E
+SI;SPO;Spodnja Idrija;Spodnja Idrija;36;--3-----;RL;1601;;4601N 01401E
+SI;SHC;Spodnje Hoce;Spodnje Hoce;160;--3-----;RL;1601;;4629N 01538E
+SI;DUP;Spodnji Duplek;Spodnji Duplek;26;--3-----;RL;1601;;4630N 01544E
+SI;SGR;Spodnji Ivanjci;Spodnji Ivanjci;29;--3-----;RL;1601;;4635N 01558E
+SI;SRE;Sredisce ob Dravi;Sredisce ob Dravi;87;--3-----;RL;1601;;4623N 01616E
+SI;SVB;Srednja Vas v Bohinju;Srednja Vas v Bohinju;4;--3-----;RL;1601;;4617N 01355E
+SI;SRO;Sromlje;Sromlje;9;--3-----;RL;1601;;4559N 01536E
+SI;SRP;Srpenica;Srpenica;6;--3-----;RL;901;;4617N 01330E
+SI;KMK;Stahovica;Stahovica;43;--3-----;RL;901;;4616N 01436E
+SI;STA;Stanjel;Stanjel;49;--3-----;RL;1601;;4549N 01350E
+SI;STC;Stara Cerkev;Stara Cerkev;48;--3-----;RL;1601;;4540N 01450E
+SI;STK;Stari Trg ob Kolpi;Stari Trg ob Kolpi;17;--3-----;RL;1601;;4530N 01505E
+SI;LZD;Stari Trg pri Lozu;Stari Trg pri Lozu;57;--3--6--;RL;901;;4543N 01428E
+SI;SR5;Starse;Starse;115;--3-----;RL;1601;;4627N 01546E
+SI;STP;Stoperce;Stoperce;69;--3-----;RL;1601;;4617N 01543E
+SI;STO;Store;Store;;-----6--;RL;1201;;4613N 01518E
+SI;SZR;Stranice;Stranice;144;--3-----;RL;1601;;4621N 01521E
+SI;LZR;Straza;Straza;85;-----6--;RL;901;;4546N 01504E
+SI;STR;Straza na Gori;Straza na Gori;120;--3-----;RQ;907;;4617N 15230E
+SI;STU;Studenec;Studenec;110;--3-----;RL;1601;;4558N 01521E
+SI;SUH;Suhadole;Suhadole;;-----6--;RL;1201;;4611N 01433E
+SI;SVN;Svenica;Svenica;;--3-----;RQ;1001;;4602N 15185E
+SI;SAS;Sveta Ana v Slovenskih Goricah;Sveta Ana v Slovenskih Goricah;58;--3-----;RL;1601;;4638N 01550E
+SI;STS;Sveta Trojica v Slovenskih goricah;Sveta Trojica v Slovenskih goricah;204;--3-----;RL;1601;;4634N 01552E
+SI;SNS;Sveti Andraz v Slovenskih goricah;Sveti Andraz v Slovenskih goricah;182;--3-----;RL;1601;;4631N 01558E
+SI;SJS;Sveti Jurij ob Scavnici;Sveti Jurij ob Scavnici;116;--3-----;RL;1601;;4634N 01601E
+SI;SJU;Sveti Jurij v Slovenskih goricah;Sveti Jurij v Slovenskih goricah;210;--3-----;RL;1601;;4636N 01547E
+SI;SVT;Sveti Tomaz;Sveti Tomaz;205;--3-----;RL;1601;;4629N 01604E
+SI;TAB;Tabor;Tabor;190;--3-----;RL;1601;;4614N 01501E
+SI;TEH;Teharje;Teharje;11;--3-----;RL;1601;;4613N 01518E
+SI;TEP;Tepanje;Tepanje;114;--3-----;RQ;907;;4620N 15283E
+SI;TIS;Tisina;Tisina;152;--3-----;RL;1601;;4639N 01605E
+SI;TOL;Tolmin;Tolmin;128;1-------;RL;701;;4610N 01343E
+SI;TOP;Topolsica;Topolsica;126;--3-----;RL;1601;;4624N 01501E
+SI;TRD;Trbonje;Trbonje;25;--3-----;RL;1601;;4636N 01506E
+SI;TRB;Trbovlje;Trbovlje;129;--3-----;RL;1501;;4609N 01503E
+SI;TRJ;Trebelno;Trebelno;130;--3-----;RL;1601;;4555N 01509E
+SI;TRE;Trebnje;Trebnje;;--3-----;RL;1107;;4551N 15118E
+SI;TRN;Trnovo;Trnovo;84;--3-----;RL;1601;;4558N 01344E
+SI;TRV;Trnovska Vas;Trnovska Vas;18;--3-----;RL;1601;;4631N 01554E
+SI;LU6;Trojane;Trojane;68;1-3-----;RL;1401;;4611N 01452E
+SI;TZI;Trzic;Trzic;;--3-----;RL;307;;4622N 01419E
+SI;TRZ;Trzin;Trzin;;--3-----;RL;207;;4608N 01433E
+SI;T3R;Trzisce;Trzisce;130;--3-----;RL;1601;;4557N 01511E
+SI;TUR;Turjak;Turjak;134;--3-----;RL;1601;;4552N 01436E
+SI;TR2;Turnisce;Turnisce;132;--3-----;RL;1601;;4637N 01619E
+SI;URS;Ursna Sela;Ursna Sela;85;--3-----;RL;1601;;4544N 01508E
+SI;VAC;Vace;Vace;60;--3-----;RL;1601;;4607N 01450E
+SI;VAS;Vas;Vas;;#¿NOMBRE?;RL;701;;4528N 01452E
+SI;VEL;Velenje;Velenje;;--3-----;RL;9901;;
+SI;VL3;Velika Loka;Velika Loka;32;--3-----;RL;1601;;4556N 01443E
+SI;VND;Velika Nedelja;Velika Nedelja;;--3-----;RL;1207;;4625N 01606E
+SI;VLP;Velika Polana;Velika Polana;15;--3-----;RL;1601;;4634N 01620E
+SI;BRE;Velike Brusnice;Velike Brusnice;148;--3-----;RL;901;;4549N 01515E
+SI;VLL;Velike Lasce;Velike Lasce;134;--3-----;RL;1601;;4549N 01438E
+SI;VLG;Veliki Gaber;Veliki Gaber;130;--3-----;RL;1601;;4556N 01454E
+SI;VER;Verzej;Verzej;63;--3-----;RL;1601;;4635N 01609E
+SI;VID;Videm;Videm;20;--3-----;RL;1601;;4551N 01441E
+SI;VPT;Videm pri Ptuju;Videm pri Ptuju;135;--3-----;RL;1601;;4622N 01554E
+SI;VIN;Vinica;Vinica;17;--3-----;RL;1601;;4528N 01515E
+SI;VPV;Vipava;Vipava;136;--3-----;RL;1307;;4550N 01357E
+SI;VIS;Visnja Gora;Visnja Gora;39;--3-----;RL;1601;;4557N 01444E
+SI;VKO;Visoko;Visoko;117;--3-----;RL;1601;;4616N 01425E
+SI;VIT;Vitanje;Vitanje;137;--3-----;RL;1601;;4622N 01517E
+SI;VTO;Vitomarci;Vitomarci;18;--3-----;RL;1601;;4631N 01556E
+SI;VDC;Vodice;Vodice;1;--3-----;RL;1301;;4552N 01440E
+SI;VOJ;Vojnik;Vojnik;139;1----6--;RL;1601;;4617N 01518E
+SI;VDR;Volcja Draga;Volcja Draga;;-----6--;RL;1201;;4554N 01340E
+SI;VRA;Vransko;Vransko;190;1----6--;RL;1601;;4614N 01457E
+SI;VB9;Vremski Britof;Vremski Britof;19;1----6--;RL;1601;;4539N 01401E
+SI;VRH;Vrhnika;Vrhnika;;--3-----;RL;201;;4558N 01417E
+SI;VUH;Vuhred;Vuhred;101;1----6--;RL;1601;;4635N 01514E
+SI;VUZ;Vuzenica;Vuzenica;141;-23-----;RL;701;;4635N 01510E
+SI;ZAB;Zabnica;Zabnica;52;1----6--;RL;1601;;4611N 01419E
+SI;ZBU;Zabukovje nad Sevnico;Zabukovje nad Sevnico;110;1----6--;RL;1601;;4603N 01522E
+SI;Z42;Zagorje ob Savi;Zagorje ob Savi;142;1----6--;RL;1601;;4608N 01500E
+SI;ZAG;Zagradec;Zagradec;39;1----6--;RL;1601;;4551N 01450E
+SI;ZAL;Zalec;Zalec;;--3-----;RL;9901;;
+SI;ZAV;Zavrc;Zavrc;28;1----6--;RL;1601;;4623N 01602E
+SI;ZDO;Zdole;Zdole;54;1----6--;RL;1601;;4558N 01532E
+SI;ZEL;Zelezniki;Zelezniki;146;--3-----;RL;701;;4614N 01410E
+SI;ZET;Zetale;Zetale;69;1----6--;RL;1601;;4616N 01547E
+SI;ZGB;Zgornja Besnica;Zgornja Besnica;52;1----6--;RL;1601;;4616N 01417E
+SI;ZGK;Zgornja Korena;Zgornja Korena;26;1----6--;RL;1601;;4631N 01545E
+SI;ZGO;Zgornja Kungota;Zgornja Kungota;55;-----6--;RL;901;;4638N 01536E
+SI;ZGL;Zgornja Loznica;Zgornja Loznica;113;1----6--;RL;1601;;4620N 01539E
+SI;ZGP;Zgornja Polskava;Zgornja Polskava;113;1----6--;RL;1601;;4625N 01536E
+SI;ZGV;Zgornja Velka;Zgornja Velka;118;1----6--;RL;1601;;4640N 01546E
+SI;ZGJ;Zgornje Gorje;Zgornje Gorje;3;--3-----;RL;1307;;4623N 01405E
+SI;Z95;Zgornje Jezersko;Zgornje Jezersko;95;1----6--;RL;1601;;4623N 01428E
+SI;XZA;Zgornji Jakobski Dol;Zgornji Jakobski Dol;89;1-3-----;RL;1401;;4638N 01545E
+SI;Z35;Zgornji Leskovec;Zgornji Leskovec;135;1----6--;RL;1601;;4619N 01556E
+SI;ZID;Zidani Most;Zidani Most;57;1----6--;RL;1601;;4605N 01510E
+SI;LZC;Ziri;Ziri;147;-----6--;RL;901;;4602N 01402E
+SI;ZIR;Zirovnica;Zirovnica;41;1----6--;RL;1601;;4624N 01408E
+SI;ZRE;Zrece;Zrece;;--3-----;RQ;201;;
+SI;ZUZ;Zuzemberk;Zuzemberk;85;1----6--;RL;1601;;4550N 01455E

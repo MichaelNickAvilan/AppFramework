@@ -1,0 +1,635 @@
+TR;ACI;Acibadem;Acibadem;34;0-------;RN;9710;;
+TR;APY;Acipayam;Acipayam;20;0-------;RN;9710;;
+TR;ADA;Adana;Adana;1;1--4----;AI;9601;;
+TR;ADZ;Adapazari;Adapazari;54;--3-----;RQ;8103;;
+TR;ADI;Adiyaman;Adiyaman;2;0-------;RN;9811;;
+TR;AFY;Afyonkarahisar;Afyonkarahisar;3;--34----;AI;601;;
+TR;AJI;Agri;Agri;4;---4----;AI;9710;;
+TR;AHM;Ahmetli;Ahmetli;45;0-------;RN;9710;;
+TR;AKB;Akçaabat;Akcaabat;61;1-------;RL;212;;4101N 03934E
+TR;KKC;Akçakoca;Akcakoca;14;--3-----;RL;1301;;4105N 03106E
+TR;AKC;Akcansa;Akcansa;17;1-------;RQ;901;;4006N 02623E
+TR;GKV;Akçapinar;Akcapinar;48;1-------;RL;212;;3701N 02822E
+TR;AKY;Akçay;Akcay;10;1-------;RL;212;;3935N 02656E
+TR;AKD;Akdeniz;Akdeniz;;1-------;RL;1201;;3652N 03442E
+TR;AHS;Akhisar;Akhisar;45;0-------;RN;9710;;
+TR;AKS;Aksaray;Aksaray;34;0-------;RN;9710;;
+TR;ARY;Aksaray;Aksaray;68;0-------;RN;9710;;
+TR;AHR;Aksehir;Aksehir;42;0-------;RN;9710;;
+TR;AKI;Akseki;Akseki;7;0-------;RN;9710;;
+TR;AKZ;Akyazi;Akyazi;54;0-------;RN;9710;;
+TR;ALA;Alanya;Alanya;7;1-------;QQ;8103;;
+TR;API;Alapli;Alapli;67;0-------;RN;9710;;
+TR;ASH;Alasehir;Alasehir;45;0-------;RN;9710;;
+TR;ALE;Alemdag;Alemdag;34;0-------;RN;9710;;
+TR;ALI;Aliaga;Aliaga;35;1-------;RQ;9506;;
+TR;ABK;Alibeyköy;Alibeykoy;34;--3-----;RL;601;;4105N 02856E
+TR;ANC;Alsancak;Alsancak;35;--3-----;RL;212;;3826N 02711E
+TR;AYD;Altinkum;Altinkum;9;1-------;RQ;8103;;
+TR;ATV;Altinova;Altinova;41;-----6--;RL;1201;;4041N 02930E
+TR;ATS;Altinsehir;Altinsehir;34;--3-----;RL;607;;4103N 02845E
+TR;ALT;Altintepe;Altintepe;34;0-------;RN;9710;;
+TR;AIZ;Altinusagi;Altinusagi;23;--3-----;RL;307;;3834N 03828E
+TR;AMA;Amasra;Amasra;67;1-------;RQ;9506;;
+TR;AMY;Amasya;Amasya;5;0-------;RN;9710;;
+TR;AMB;Ambarli;Ambarli;8;--3-----;RL;401;;4119N 04141E
+TR;AMR;Ambarli;Ambarli;34;--3-----;RL;701;;4058N 02842E
+TR;PAM;Ambarli;Ambarli;66;1-3-----;RL;601;;4103N 03908E
+TR;ADK;Anadolukavagi;Anadolukavagi;34;0-------;RN;9811;;
+TR;ANA;Anamur;Anamur;33;1-------;RQ;9506;;
+TR;ANK;Ankara;Ankara;6;-2345---;AI;9601;;
+TR;AKA;Antakya;Antakya;31;--3-----;RL;207;;3611N 03610E
+TR;AYT;Antalya;Antalya;7;1--4----;AI;9601;;
+TR;UZE;Antalya Free Zone;Antalya Free Zone;7;-----6--;RL;901;;3650N 03036E
+TR;ARE;Arifiye;Arifiye;54;--3-----;RL;1407;;4043N 03022E
+TR;ARM;Armutlu;Armutlu;58;-----6--;RL;1201;;3934N 03718E
+TR;ARN;Arnavutköy/Istambul;Arnavutkoy/Istambul;34;--3-----;RL;607;;4104N 02902E
+TR;AVN;Artvin;Artvin;8;0-------;RN;9710;;
+TR;ATA;Atakoy;Atakoy;21;-----6--;RL;1107;;3755N 04031E
+TR;STR;Atasehir;Atasehir;34;--3-----;RL;1301;;4059N 02907E
+TR;AVE;Avcilar;Avcilar;24;--3-----;RL;1307;;3937N 03949E
+TR;AVC;Avcilar;Avcilar;34;--3-----;RL;401;;4058N 02842E
+TR;AYA;Ayancik;Ayancik;57;1-------;QQ;8103;;
+TR;AYS;Ayas;Ayas;6;0-------;RN;9710;;
+TR;AYZ;Ayazaga;Ayazaga;34;0-------;RN;9710;;
+TR;ADN;Aydin;Aydin;9;0-------;RN;9710;;
+TR;UZA;Aydinlik Koy;Aydinlik Koy;5;-----6--;RL;901;;4043N 03551E
+TR;AYK;Aydinlikoy;Aydinlikoy;34;0-------;RN;9710;;
+TR;ARI;Ayranci;Ayranci;70;0-------;RN;9710;;
+TR;AYV;Ayvalik;Ayvalik;10;1-------;QQ;8103;;
+TR;BBP;Baba Point;Baba Point;17;1-------;RQ;901;;3928N 02604E
+TR;BBD;Babadag;Babadag;20;0-------;RN;9710;;
+TR;BAB;Babaeski;Babaeski;39;0-------;RN;9710;;
+TR;BAF;Bafra;Bafra;55;0-------;RN;9811;;
+TR;BAG;Bagcilar;Bagcilar;34;0-------;RN;9710;;
+TR;BGB;Baglarbasi;Baglarbasi;47;--3-----;RL;1301;;3727N 04127E
+TR;BAH;Bahçelievler;Bahcelievler;34;--3-----;RN;212;;3956N 03250E
+TR;BAC;Bahçesaray;Bahcesaray;65;--3-----;RL;212;;3808N 04248E
+TR;BAK;Bakirköy;Bakirkoy;34;--3-----;RN;212;;4059N 02852E
+TR;BLA;Balâ;Bala;6;--3-----;RN;212;;3934N 03308E
+TR;BZI;Balikesir;Balikesir;10;1--4----;AI;9710;MQJ;
+TR;BLY;Balya;Balya;10;0-------;RN;9710;;
+TR;BAN;Banaz;Banaz;64;0-------;RN;9710;;
+TR;BDM;Bandirma;Bandirma;10;1234----;AI;212;;4021N 02758E
+TR;BTN;Bartin;Bartin;74;0-------;RN;9710;;
+TR;ABH;Basaksehir;Basaksehir;34;--3-----;RL;1301;;4105N 02849E
+TR;BKY;Basköy;Baskoy;16;--3-----;RL;607;;4012N 02845E
+TR;BAS;Basmahane;Basmahane;35;-23-----;RL;212;;3825N 02709E
+TR;BKC;Basmakçi;Basmakci;3;--3-----;RN;212;;3754N 03001E
+TR;YOJ;Baspinar;Baspinar;66;--3-----;RL;1507;;4007N 03533E
+TR;BAL;Batman;Batman;72;---4----;AI;9710;;
+TR;IGT;Battalgazi;Battalgazi;44;--3-----;RL;1407;;3825N 03821E
+TR;BYT;Bayburt;Bayburt;69;0-------;RN;9710;;
+TR;BYN;Bayindir;Bayindir;35;0-------;RN;9710;;
+TR;JBB;Bayrakli;Bayrakli;47;--3-----;RL;1301;;3716N 04016E
+TR;BYM;Bayramic;Bayramic;17;0-------;RN;9710;;
+TR;BYR;Bayramoglu;Bayramoglu;41;0-------;RN;9710;;
+TR;BAY;Bayrampasa;Bayrampasa;34;0-------;RN;9710;;
+TR;BER;Bergama;Bergama;35;0-------;RN;9710;;
+TR;BTS;Besiktas;Besiktas;34;1-3-----;RL;407;;4103N 02901E
+TR;BYD;Beydag;Beydag;35;0-------;RN;9710;;
+TR;BEY;Beykoz;Beykoz;34;1-------;RN;9710;;
+TR;BBI;Beylerbeyi;Beylerbeyi;34;1-3-----;RL;407;;4103N 02903E
+TR;BYL;Beylikduzu;Beylikduzu;34;0-------;RN;9710;;
+TR;BYO;Beyoglu;Beyoglu;34;--3-----;RL;901;;4102N 02859E
+TR;BPZ;Beypazari;Beypazari;6;0-------;RN;9710;;
+TR;BYS;Beysehir;Beysehir;42;0-------;RN;9710;;
+TR;BIG;Biga;Biga;17;0-------;RN;9710;;
+TR;BGD;Bigadiç;Bigadic;10;--3-----;RN;212;;3923N 02808E
+TR;BIL;Bilecik;Bilecik;11;0-------;RN;9710;;
+TR;BIN;Bingöl;Bingol;12;--3-----;RN;212;;3853N 04029E
+TR;BXN;Bodrum;Bodrum;48;1--4----;AI;9601;;
+TR;BOG;Bogazagzi;Bogazagzi;67;1-------;QQ;8103;;
+TR;BON;Bogazliyan;Bogazliyan;66;--3-----;RL;1207;;3911N 03514E
+TR;BOL;Bolu;Bolu;14;1-------;RN;9710;;
+TR;BVN;Bolvadin;Bolvadin;3;0-------;RN;9710;;
+TR;BOR;Bornova;Bornova;35;0-------;RN;9710;;
+TR;BNI;Bornova/Izmir;Bornova/Izmir;35;--34----;RL;1301;;3828N 02713E
+TR;BOS;Bostanci;Bostanci;34;0-------;RN;9710;;
+TR;BOT;Botas;Botas;;1-------;AI;201;;3649N 03610E
+TR;HAD;Boyalik;Boyalik;34;-23-----;RN;601;;4110N 02837E
+TR;BZB;Bozburun;Bozburun;48;1-------;QQ;8103;;
+TR;BZC;Bozcaada;Bozcaada;17;1-------;QQ;8103;;
+TR;BDG;Bozdogan;Bozdogan;9;0-------;RN;9710;;
+TR;BZY;Bozüyük;Bozuyuk;11;--3-----;RN;212;;3954N 03003E
+TR;BUC;Buca;Buca;35;0-------;RN;9710;;
+TR;BCK;Bucak;Bucak;15;0-------;RN;9710;;
+TR;BUH;Buharkent;Buharkent;9;0-------;RN;9710;;
+TR;BDN;Buldan;Buldan;20;0-------;RN;9710;;
+TR;BDR;Burdur;Burdur;15;0-------;RN;9710;;
+TR;BHN;Burhaniye;Burhaniye;10;1-------;RN;9710;;
+TR;BTZ;Bursa;Bursa;16;--3-----;AI;9601;;
+TR;BCE;Buyukcekmece;Buyukcekmece;34;0-------;RN;9710;;
+TR;BUY;Büyükçukur;Buyukcukur;16;1-------;RL;212;;4104N 03558E
+TR;BKA;Büyükkaristiran;Buyukkaristiran;39;--3-----;RL;901;;4118N 02733E
+TR;CAK;Cakmak;Cakmak;27;-----6--;RL;1107;;3713N 03650E
+TR;CAL;Cal;Cal;20;0-------;RN;9710;;
+TR;CAM;Çamalti;Camalti;35;1-------;RL;212;;4139N 03223E
+TR;CMB;Çamdibi;Camdibi;16;--3-----;RL;601;;4024N 02945E
+TR;CML;Çamlica;Camlica;34;--3-----;RN;212;;3755N 03145E
+TR;CDR;Çamlidere;Camlidere;6;--3-----;RN;212;;4030N 03229E
+TR;CAN;Çan;Can;17;--3-----;RN;212;;4002N 02703E
+TR;CKZ;Çanakkale;Canakkale;17;1-------;AI;212;;4009N 02624E
+TR;ZCA;Cankaya;Cankaya;6;--3-----;RL;1007;;3955N 03253E
+TR;CKR;Çankiri;Cankiri;18;--3-----;RN;212;;4036N 03337E
+TR;CAR;Çardak;Cardak;20;--3-----;RN;212;;3748N 02940E
+TR;SZF;Carsamba Apt/Samsun;Carsamba Apt/Samsun;55;---4----;AI;9901;;
+TR;CAT;Çatalca;Catalca;34;--3-----;RN;212;;4108N 02828E
+TR;CVD;Çavdir;Cavdir;15;--3-----;RN;212;;3709N 02942E
+TR;CCY;Çay;Cay;3;--3-----;RN;212;;3835N 03102E
+TR;CAB;Çaybasi;Caybasi;16;--3-----;RL;607;;4003N 02905E
+TR;CUM;Çaycuma;Caycuma;67;--3-----;RN;212;;4125N 03205E
+TR;CAY;Çayirova;Cayirova;41;--3-----;RN;212;;3913N 03705E
+TR;CKO;Cekmekoy;Cekmekoy;34;--3-----;RL;1501;;4102N 02910E
+TR;CTK;Celtik;Celtik;42;0-------;RN;9710;;
+TR;CEM;Cemberlitas;Cemberlitas;62;-----6--;RL;1107;;3918N 03921E
+TR;CKY;Çerkezköy;Cerkezkoy;59;--3-----;RL;212;;4117N 02800E
+TR;CES;Çesme;Cesme;35;1-------;RL;212;;3819N 02618E
+TR;CEV;Cevizli;Cevizli;34;0-------;RN;9710;;
+TR;CEY;Ceyhan;Ceyhan;1;0-------;RQ;9506;;
+TR;CID;Cide;Cide;37;1-------;RQ;9506;;
+TR;CIF;Ciftehavuzlar;Ciftehavuzlar;34;0-------;RN;9710;;
+TR;CTR;Cifteler;Cifteler;26;--3-----;RL;1507;;3922N 03102E
+TR;CIG;Cigli;Cigli;35;0-------;RN;9710;;
+TR;CNE;Cigne;Cigne;9;0-------;RN;9710;;
+TR;CHB;Cihanbeyli;Cihanbeyli;42;0-------;RN;9710;;
+TR;CIR;Cihangir;Cihangir;13;-----6--;RL;1201;;3855N 04236E
+TR;CIN;Cine;Cine;9;0-------;RN;9710;;
+TR;CIV;Çivril;Civril;;-23-----;RL;607;;3817N 02944E
+TR;CZE;Cizre;Cizre;73;--3-----;RL;407;;3719N 04211E
+TR;CNR;Çobanlar;Cobanlar;3;--3-----;RN;212;;3841N 03047E
+TR;CKG;Colakoglu;Colakoglu;44;--3-----;RQ;907;;3826N 03825E
+TR;COR;Çorlu;Corlu;59;-23-----;RL;607;;4110N 02748E
+TR;COM;Corum;Corum;19;--3-----;RL;407;;4032N 03457E
+TR;CUB;Cubuklu;Cubuklu;34;1-------;QQ;8103;;
+TR;CMR;Çumra;Cumra;42;--3-----;RN;212;;3734N 03248E
+TR;DLM;Dalaman;Dalaman;48;---4----;AI;9710;;
+TR;DAN;Dardanelles;Dardanelles;;--3-----;RL;1407;;4012N 02624E
+TR;DAR;Darica;Darica;41;1-------;RQ;9506;;
+TR;DAT;Datça;Datca;48;1-------;RL;212;;3645N 02740E
+TR;DAV;Davutpasa;Davutpasa;34;-23--6--;RL;901;;4100N 02856E
+TR;DPS;Davutpasa;Davutpasa;37;--3-----;RL;901;;4134N 03411E
+TR;DAZ;Dazkiri;Dazkiri;3;0-------;RN;9710;;
+TR;DCI;Demirci;Demirci;45;0-------;RN;9710;;
+TR;DMR;Demirciler;Demirciler;41;--3-----;RL;1407;;4051N 02947E
+TR;DMK;Demirkapi;Demirkapi;49;-----6--;RL;1107;;3905N 04154E
+TR;DEM;Demirköy;Demirkoy;39;--3-----;RN;212;;4149N 02745E
+TR;DMT;Demirtas;Demirtas;16;--3-----;RL;901;;4016N 02906E
+TR;DNZ;Denizli;Denizli;20;--3-----;RQ;9705;;
+TR;DEK;Dereköy;Derekoy;39;--3-----;RL;212;;4156N 02721E
+TR;DRC;Derince;Derince;41;1-3-----;QQ;8103;;
+TR;DRK;Devrek;Devrek;67;0-------;RN;9710;;
+TR;DDM;Didim;Didim;9;0-------;RN;9710;;
+TR;DIK;Dikili;Dikili;35;1-------;QQ;8103;;
+TR;DIL;Diliskelesi;Diliskelesi;41;1-------;RN;9710;;
+TR;DLV;Dilovasi;Dilovasi;41;0-------;RN;9710;;
+TR;DNR;Dinar;Dinar;3;0-------;RN;9710;;
+TR;DIY;Diyarbakir;Diyarbakir;21;--34----;AI;9601;;
+TR;DHN;Doganhisar;Doganhisar;42;0-------;RN;9710;;
+TR;DOG;Dogubayazit;Dogubayazit;;-----6--;RL;1201;;3932N 04405E
+TR;DOL;Dolayoba;Dolayoba;34;0-------;RN;9710;;
+TR;DMC;Domaniç Kozluca;Domanic Kozluca;43;--3-----;RN;212;;3948N 02937E
+TR;DYL;Dörtyol;Dortyol;31;1-------;RN;212;;3652N 03612E
+TR;DUD;Dudullu;Dudullu;34;0-------;RN;9710;;
+TR;DPR;Dumlupinar;Dumlupinar;43;0-------;RN;9710;;
+TR;DRY;Dursunbey;Dursunbey;10;0-------;RN;9710;;
+TR;DUZ;Düzce;Duzce;14;--3-----;RN;212;;4050N 03110E
+TR;ECE;Eceabat;Eceabat;17;0-------;RN;9710;;
+TR;EDK;Edincik;Edincik;10;0-------;RQ;9506;;
+TR;EDI;Edirne;Edirne;22;1-------;RQ;8103;;
+TR;EDO;Edremit;Edremit;10;--34----;AI;1207;;3935N 02701E
+TR;EGI;Egirdir;Egirdir;32;0-------;RN;9710;;
+TR;EZS;Elazig;Elazig;23;---4----;AI;9710;;
+TR;EBN;Elbistan;Elbistan;;-----6--;RL;1107;;3812N 03711E
+TR;LMG;Elmadag;Elmadag;;-----6--;RL;1107;;3955N 03313E
+TR;ELM;Elmali;Elmali;7;0-------;RN;9710;;
+TR;EEK;Emek;Emek;65;-----6--;RL;1107;;3835N 04358E
+TR;EME;Emet;Emet;43;0-------;RN;9710;;
+TR;EMI;Eminönü;Eminonu;34;--3-----;RL;212;;4100N 02856E
+TR;EMG;Emirdag;Emirdag;3;0-------;RN;9710;;
+TR;EGZ;Emirgazi;Emirgazi;42;0-------;RN;9710;;
+TR;ENE;Enez;Enez;22;1-------;QQ;8103;;
+TR;RCS;Ercis;Ercis;65;-----6--;RL;1107;;3901N 04321E
+TR;ERK;Erdek;Erdek;10;1-------;RN;9710;;
+TR;ELI;Eregli;Eregli;42;1-------;RN;9710;;
+TR;ERE;Eregli;Eregli;67;1-------;QQ;8103;;
+TR;ERN;Erenkoy;Erenkoy;34;--3-----;RN;9710;;
+TR;D8T;Erenler;Erenler;54;--3-----;RL;1501;;4045N 03024E
+TR;EMK;Ermenek;Ermenek;70;--3-----;RL;307;;3638N 03253E
+TR;ZIN;Erzin;Erzin;31;--3-----;RL;1307;;3657N 03612E
+TR;ERC;Erzincan;Erzincan;24;--34----;AI;1101;;3945N 03929E
+TR;ERZ;Erzurum;Erzurum;25;-234----;AI;9601;;
+TR;ESB;Esenboga Apt/Ankara;Esenboga Apt/Ankara;6;---4----;AI;9601;;
+TR;ESE;Esenler;Esenler;34;0-------;RN;9710;;
+TR;ESY;Esenyurt;Esenyurt;34;0-------;RN;9710;;
+TR;ESK;Eskisehir;Eskisehir;26;-234----;AI;9601;AOE;
+TR;ESM;Esme;Esme;64;0-------;RN;9710;;
+TR;ETI;Etiler;Etiler;34;0-------;RN;9710;;
+TR;KOK;Evrensekiz;Evrensekiz;39;--3-----;RL;1507;;4122N 02729E
+TR;EYP;Evyap Port /Kocaeli;Evyap Port /Kocaeli;41;123-----;RL;1207;;4046N 02942E
+TR;EVY;Evyapan;Evyapan;36;--3-----;RL;601;;4002N 04303E
+TR;EYU;Eyüp;Eyup;34;--3-----;RN;212;;4103N 02855E
+TR;EZI;Ezine;Ezine;17;0-------;RN;9710;;
+TR;FAT;Fatih;Fatih;34;-2--5---;QQ;212;;
+TR;FAS;Fatsa;Fatsa;52;1-------;QQ;8103;;
+TR;FET;Fethiye;Fethiye;48;1-------;QQ;8103;;
+TR;FIK;Fikirtepe;Fikirtepe;34;0-------;RN;9710;;
+TR;FIN;Finike;Finike;7;1-------;QQ;8103;;
+TR;FRZ;Firuzköy;Firuzkoy;34;1-3-----;RL;1301;;4100N 02842E
+TR;FLO;Florya;Florya;34;0-------;RN;9710;;
+TR;FOC;Foça;Foca;35;1-------;RL;212;;3840N 02645E
+TR;GTA;Galata;Galata;34;1-------;RQ;8103;;
+TR;GAY;Gayrettepe;Gayrettepe;34;0-------;RN;9710;;
+TR;GZT;Gaziantep;Gaziantep;27;--34----;AI;9601;;
+TR;GZM;Gaziemir;Gaziemir;35;-23-----;RL;407;;3819N 02707E
+TR;GZR;Gaziler;Gaziler;18;-----6--;RL;1107;;4054N 03337E
+TR;GAZ;Gaziosmanpasa;Gaziosmanpasa;34;0-------;RN;9710;;
+TR;GEB;Gebze;Gebze;41;123-----;RL;1101;;4047N 02925E
+TR;GDZ;Gediz;Gediz;43;0-------;RN;9710;;
+TR;GEL;Gelibolu;Gelibolu;17;1-3-----;QQ;8103;;
+TR;GEM;Gemlik;Gemlik;16;1-------;QQ;8103;;
+TR;GER;Gerede;Gerede;14;0-------;RN;9710;;
+TR;GRK;Germencik;Germencik;9;0-------;RN;9710;;
+TR;GZE;Gerze;Gerze;;1-------;AI;201;;4138N 03611E
+TR;GEY;Geyve;Geyve;54;0-------;RN;9710;;
+TR;GIR;Giresun;Giresun;28;1-------;QQ;8103;;
+TR;GCK;Gocek;Gocek;48;1-------;QQ;212;;
+TR;GBS;Gölbasi;Golbasi;6;--3-----;RN;212;;3948N 03248E
+TR;GOK;Gölcük;Golcuk;41;--3-----;RL;212;;4043N 02950E
+TR;GMA;Gölmarmara;Golmarmara;45;--3-----;RN;212;;3842N 02756E
+TR;GLP;Gölpazari;Golpazari;11;--3-----;RN;212;;4017N 03019E
+TR;GON;Gönen;Gonen;10;--3-----;RN;212;;4006N 02739E
+TR;GDS;Gördes;Gordes;45;--3-----;RN;212;;3854N 02818E
+TR;GOR;Görele;Gorele;28;1-------;RL;212;;4102N 03900E
+TR;GYN;Göynük;Goynuk;14;--3-----;RN;212;;4024N 03047E
+TR;GOZ;Göztepe;Goztepe;34;--3-----;RN;212;;4058N 02906E
+TR;GUL;Güllük;Gulluk;48;1-------;RL;212;;3714N 02736E
+TR;GHN;Gümüshane;Gumushane;29;--3-----;RN;212;;4027N 03929E
+TR;GMS;Gümüsova;Gumusova;14;--3--6--;RL;1201;;4050N 03056E
+TR;GUM;Gümüssuyu;Gumussuyu;57;--3-----;RL;1301;;4157N 03456E
+TR;GUN;Gunesli;Gunesli;34;0-------;RN;9710;;
+TR;GYB;Gunesli Yenibosna;Gunesli Yenibosna;34;--3-----;RL;1301;;4101N 02849E
+TR;GUG;Güngören;Gungoren;34;--3-----;RN;212;;4102N 02851E
+TR;GPR;Gürpinar;Gurpinar;34;--3-----;RQ;901;;4100N 02836E
+TR;GRS;Gürsu;Gursu;16;--3-----;RN;212;;4013N 02912E
+TR;GUZ;Güzelbahçe;Guzelbahce;35;-----6--;RL;1201;;3821N 02653E
+TR;HAB;Habibler;Habibler;34;0-------;RN;9710;;
+TR;HMY;Hadimkoy;Hadimkoy;34;--3-----;RQ;901;;
+TR;HAK;Hakkari;Hakkari;30;0-------;RN;9710;;
+TR;HAL;Halkali;Halkali;34;-23-----;RN;9710;;
+TR;HAR;Haramidere;Haramidere;34;1-------;QQ;212;;
+TR;HAE;Harbiye;Harbiye;31;-----6--;RL;1107;;3608N 03608E
+TR;HSG;Hasanoglan;Hasanoglan;;-----6--;RL;1107;;4000N 03311E
+TR;HAP;Hasanpasa;Hasanpasa;34;0-------;RN;9710;;
+TR;HAS;Hasköy;Haskoy;34;1-------;RN;212;;4102N 02858E
+TR;HAT;Hatay;Hatay;31;0-------;RN;9710;;
+TR;HVR;Havran;Havran;10;0-------;RN;9710;;
+TR;HAV;Havsa;Havsa;22;0-------;RN;9710;;
+TR;HAY;Haydarpasa;Haydarpasa;34;1-3-----;QQ;8103;;
+TR;HMA;Haymana;Haymana;6;0-------;RN;9710;;
+TR;HYR;Hayrabolu;Hayrabolu;59;0-------;RN;9710;;
+TR;HEN;Hendek;Hendek;54;0-------;RN;9710;;
+TR;HER;Hereke;Hereke;41;1-------;QQ;8103;;
+TR;HIS;Hisarönü;Hisaronu;48;1-3-----;RL;212;;3647N 02808E
+TR;HOP;Hopa;Hopa;8;1-3-----;QQ;8103;;
+TR;IDS;Icdas Jetty;Icdas Jetty;;1-------;RL;1201;;4027N 02718E
+TR;ICE;Icerenkoy;Icerenkoy;34;0-------;RN;9710;;
+TR;MGL;Içmeler;Icmeler;48;-2------;RL;1301;;3647N 02813E
+TR;IGD;Igdir;Igdir;76;0-------;RN;9710;;
+TR;IGN;Igneada;Igneada;39;1-------;QQ;8103;;
+TR;IHY;Ihsaniye;Ihsaniye;3;--3-----;RQ;901;;
+TR;IKI;Ikitelli;Ikitelli;34;0-------;RN;9710;;
+TR;ILG;Ilgin;Ilgin;42;0-------;RN;9710;;
+TR;ILI;Ilic;Ilic;24;--3-----;RL;901;;3927N 03833E
+TR;GCA;Imroz;Imroz;17;1-------;RL;212;;4011N 02555E
+TR;INC;Incirlik;Incirlik;1;--3-----;RL;207;;3659N 03526E
+TR;ICO;Incirliova;Incirliova;9;0-------;RN;9710;;
+TR;INE;Inebolu;Inebolu;37;1-------;QQ;8103;;
+TR;INL;Inegöl;Inegol;16;--3-----;RN;212;;4005N 02931E
+TR;INH;Inhisar;Inhisar;11;0-------;RN;9710;;
+TR;INO;Inonu;Inonu;26;--3-----;RN;212;;
+TR;IPS;Ipsala;Ipsala;22;--3-----;QQ;8103;;
+TR;IDM;Isdemir;Isdemir;31;1-------;RL;901;;3643N 03611E
+TR;SKK;Isikkent;Isikkent;35;--3-----;RL;1301;;4013N 02858E
+TR;ISK;Iskenderun;Iskenderun;31;1-3-----;QQ;8103;;
+TR;ISE;Isparta;Isparta;32;---4----;AI;9710;;
+TR;IST;Istanbul;Istanbul;34;1-345---;AI;9601;;
+TR;ITY;Istinye/Istambul;Istinye/Istambul;34;--3-----;RL;601;;4106N 02903E
+TR;IZM;Izmir;Izmir;35;12345---;AI;601;;3825N 02709E
+TR;ADB;Izmir Adnan Menderes International Airport;Izmir Adnan Menderes International Airport;35;---4----;RL;1407;;3824N 02709E
+TR;IZT;Izmit;Izmit;41;123-----;RL;907;;4047N 02957E
+TR;IZK;Iznik;Iznik;16;0-------;RN;9710;;
+TR;KBS;Kabatas;Kabatas;;123--6--;RL;901;;4102N 02900E
+TR;KTS;Kabatas;Kabatas;63;-----6--;RL;901;;3654N 03905E
+TR;KAD;Kadikoy;Kadikoy;34;0-------;RN;9710;;
+TR;KHN;Kadinhani;Kadinhani;42;0-------;RN;9710;;
+TR;KAG;Kâgithane;Kagithane;34;--3-----;RN;212;;4105N 02858E
+TR;KCM;Kahramanmaras;Kahramanmaras;46;---4----;AI;9710;;
+TR;KAL;Kalekoy;Kalekoy;;0-------;RQ;9811;;
+TR;KAN;Kandira;Kandira;41;0-------;RN;9710;;
+TR;KPY;Kapiköy;Kapikoy;65;-2------;RL;212;;3830N 04418E
+TR;KPU;Kapikule;Kapikule;22;--3-----;QQ;8103;;
+TR;KRB;Karabiga;Karabiga;17;1-------;QQ;8103;;
+TR;KBK;Karabük;Karabuk;78;--3-----;RN;401;;4115N 03230E
+TR;KBN;Karaburun;Karaburun;35;0-------;RN;9710;;
+TR;KBY;Karacabey;Karacabey;16;1-------;RN;9710;;
+TR;KCU;Karacasu;Karacasu;9;0-------;RN;9710;;
+TR;KGK;Karagedik;Karagedik;6;--3--6--;RQ;1001;;3934N 03248E
+TR;KRH;Karahanli;Karahanli;64;0-------;RN;9710;;
+TR;KKY;Karaköy/Istambul;Karakoy/Istambul;34;1-3-----;RL;601;;4102N 02859E
+TR;KMN;Karaman;Karaman;70;0-------;RN;9710;;
+TR;KRM;Karamürsel;Karamursel;41;--3-----;RN;212;;4041N 02937E
+TR;KPN;Karapinar;Karapinar;42;0-------;RN;9710;;
+TR;KRP;Karapürçek;Karapurcek;54;--3-----;RL;1301;;4038N 03032E
+TR;KRS;Karasu;Karasu;54;--3-----;RN;1207;;4104N 03047E
+TR;KRT;Karatas;Karatas;80;-----6--;RL;1107;;3804N 03925E
+TR;KLU;Karpuzlu;Karpuzlu;9;0-------;RN;9710;;
+TR;KSY;Kars;Kars;36;---4----;AI;9710;;
+TR;JKS;Karsiyaka;Karsiyaka;35;--3-----;RL;1301;;3827N 02706E
+TR;KAR;Kartal;Kartal;34;1-------;QQ;8103;;
+TR;KPE;Kartepe;Kartepe;41;1-3-----;RL;1301;;4044N 02958E
+TR;KAS;Kas;Kas;7;1-------;QQ;8103;;
+TR;KMP;Kasimpasa;Kasimpasa;34;--3-----;RL;1301;;4102N 02857E
+TR;KTM;Kastamonu;Kastamonu;37;---4----;RN;9710;KFS;
+TR;KAV;Kavacik;Kavacik;34;--3-----;RQ;607;;4105N 02905E
+TR;KIS;Kayisdagi;Kayisdagi;;--3-----;RQ;607;;4059N 02909E
+TR;KAY;Kaynarca;Kaynarca;34;0-------;RN;9710;;
+TR;KCA;Kaynarca;Kaynarca;54;0-------;RN;9710;;
+TR;KNL;Kaynasli;Kaynasli;14;-----6--;RL;1201;;4046N 03119E
+TR;ASR;Kayseri;Kayseri;38;-234----;RL;201;;3843N 03528E
+TR;KZZ;Kazan;Kazan;6;0-------;RN;9710;;
+TR;KZI;Kazanli;Kazanli;33;-23-----;RL;407;;3650N 03445E
+TR;KKB;Kâzimkarabekir;Kazimkarabekir;70;--3-----;RN;212;;3714N 03259E
+TR;KAZ;Kazlicesme;Kazlicesme;34;0-------;RN;9710;;
+TR;KEB;Keban;Keban;23;0-------;RN;9710;;
+TR;KCB;Keçiborlu;Keciborlu;32;--3-----;RN;212;;3757N 03018E
+TR;KFK;Kefken;Kefken;;1-------;AI;201;;4112N 03015E
+TR;KLS;Keles;Keles;16;0-------;RN;9710;;
+TR;KPS;Kemalpasa;Kemalpasa;35;0-------;RN;9710;;
+TR;KMR;Kemer;Kemer;7;0-------;RN;1207;;3635N 03033E
+TR;KEM;Kemerburgaz;Kemerburgaz;34;0-------;RN;9710;;
+TR;KOY;Kemerkoy;Kemerkoy;;--3-----;RQ;907;;4107N 04046E
+TR;KST;Kepsut;Kepsut;10;0-------;RN;9710;;
+TR;KES;Kesan;Kesan;22;0-------;RN;9710;;
+TR;KSL;Kestel;Kestel;16;0-------;RN;9710;;
+TR;KIL;Kilis;Kilis;;--3-----;RQ;607;;3643N 03707E
+TR;KNK;Kinik;Kinik;35;0-------;RN;9710;;
+TR;KRC;Kirac;Kirac;;--3-----;RQ;607;;4103N 02837E
+TR;KRZ;Kiraz;Kiraz;35;0-------;RN;9710;;
+TR;KRK;Kirikkale;Kirikkale;71;--3-----;RQ;9705;;
+TR;KIC;Kirkagaç;Kirkagac;45;--3-----;RN;212;;3906N 02740E
+TR;KIR;Kirklareli;Kirklareli;39;0-------;RN;9710;;
+TR;KSH;Kirsehir;Kirsehir;40;0-------;RN;9710;;
+TR;KZM;Kizilcahamam;Kizilcahamam;6;0-------;RN;9710;;
+TR;KZE;Kiziltepe;Kiziltepe;47;--3-----;RL;407;;3711N 04035E
+TR;KIZ;Kiziltoprak;Kiziltoprak;34;-----6--;RL;1201;;4059N 02902E
+TR;KCS;Kocabas;Kocabas;20;-----6--;RL;1201;;3748N 02919E
+TR;KCO;Kocaeli;Kocaeli;41;---4----;AI;9811;;
+TR;KCL;Koçarli;Kocarli;9;--3-----;RN;212;;3745N 02742E
+TR;KKL;Konakli;Konakli;31;-----6--;RL;1107;;
+TR;KYA;Konya;Konya;42;-234----;AI;9601;;
+TR;ERG;Konya Ereglisi;Konya Ereglisi;42;0-------;RN;9710;;
+TR;KPR;Kopru;Kopru;21;-----6--;RL;1007;;3749N 04057E
+TR;KFZ;Körfez;Korfez;42;123-----;RL;901;;4047N 02944E
+TR;KOR;Korkuteli;Korkuteli;7;0-------;RN;9710;;
+TR;KSK;Kösk;Kosk;9;--3-----;RN;212;;3751N 02803E
+TR;KCZ;Koycegiz;Koycegiz;48;0-------;RN;9710;;
+TR;KYR;Koyundere;Koyundere;35;--3-----;RL;1301;;3834N 02704E
+TR;KZN;Kozan;Kozan;1;0-------;RN;9710;;
+TR;KOZ;Kozyatagi;Kozyatagi;34;0-------;RN;9710;;
+TR;KUC;Küçükbakkal;Kucukbakkal;34;--3-----;RL;607;;4059N 02908E
+TR;KCE;Küçükçekmece;Kucukcekmece;34;--3-----;RN;212;;4059N 02846E
+TR;KUK;Küçükköy;Kucukkoy;34;--3-----;RN;212;;4103N 02854E
+TR;KUY;Küçükyali;Kucukyali;34;--3-----;RN;212;;4057N 02907E
+TR;KLA;Kula;Kula;45;0-------;RN;9710;;
+TR;KLL;Kullar;Kullar;41;--3-----;RL;1601;;4043N 02959E
+TR;KUL;Kulu;Kulu;42;0-------;RN;9710;;
+TR;KBG;Kumburgaz;Kumburgaz;;--3-----;RQ;607;;4102N 02827E
+TR;KUM;Kumluca;Kumluca;7;0-------;RN;9710;;
+TR;KMX;Kumport;Kumport;34;123-----;RQ;401;;4057N 02849E
+TR;KUE;Küre;Kure;37;--3-----;RL;1207;;4148N 03343E
+TR;KUR;Kurtköy;Kurtkoy;34;--3-----;RN;212;;4055N 02918E
+TR;KUS;Kusadasi;Kusadasi;9;1-3-----;RL;307;;3751N 02715E
+TR;KOC;Kusukkuyu;Kusukkuyu;10;1-------;RQ;8103;;
+TR;KTY;Kütahya;Kutahya;43;--3-----;RN;212;;3925N 02959E
+TR;KUB;Kuyubasi;Kuyubasi;31;-----6--;RL;1107;;3558N 03616E
+TR;KCK;Kuyucak;Kuyucak;9;0-------;RN;9710;;
+TR;KUZ;Kuzuluk;Kuzuluk;54;--3-----;RL;901;;4038N 03039E
+TR;LAL;Lâlapasa;Lalapasa;22;--3-----;RN;212;;4150N 02644E
+TR;LAP;Lapseki;Lapseki;17;0-------;RN;9710;;
+TR;LEV;Levent;Levent;34;0-------;RN;9710;;
+TR;LMA;Limas;Limas;35;1-------;RQ;501;;3845N 02655E
+TR;LUL;Lüleburgaz;Luleburgaz;39;--3-----;RN;212;;4124N 02721E
+TR;MHM;Mahmudiye;Mahmudiye;26;0-------;RN;9710;;
+TR;MAH;Mahmutbey;Mahmutbey;34;0-------;RN;9710;;
+TR;MLX;Malatya;Malatya;44;---4----;AI;9710;;
+TR;MLK;Malkara;Malkara;59;0-------;RN;9710;;
+TR;MAL;Maltepe;Maltepe;34;1-------;RN;9710;;
+TR;MVG;Manavgat;Manavgat;7;0-------;RN;9710;;
+TR;MAM;Manisa;Manisa;45;-23-----;RQ;8103;;
+TR;MYS;Manyas;Manyas;10;0-------;RN;9710;;
+TR;MAD;Mardas;Mardas;34;123-----;RQ;607;;4101N 02857E
+TR;MDN;Mardin;Mardin;47;0-------;RN;9710;;
+TR;MRA;Marmara;Marmara;10;1-------;RL;601;;
+TR;MAR;Marmara Ereglisi;Marmara Ereglisi;59;0-------;RN;9710;;
+TR;MRM;Marmaris;Marmaris;48;1-------;QQ;8103;;
+TR;MPT;Marport;Marport;34;123-----;RQ;607;;
+TR;MAS;Maslak;Maslak;34;0-------;RQ;9307;;
+TR;MKG;Melikgazi;Melikgazi;38;--3-----;RL;1207;;3843N 03613E
+TR;MEN;Menderes;Menderes;35;0-------;RN;9710;;
+TR;MNM;Menemen;Menemen;35;0-------;RN;9710;;
+TR;MRC;Meriç;Meric;22;--3-----;RN;212;;4111N 02625E
+TR;MQJ;Merkez Apt/Balikesir;Merkez Apt/Balikesir;10;---4----;AI;9811;;
+TR;MER;Mersin;Mersin;33;123-----;RL;501;;3643N 03438E
+TR;MFZ;Mersin-Free Zone;Mersin-Free Zone;33;123-----;RL;501;;3648N 03438E
+TR;MRT;Merter;Merter;34;0-------;RN;9710;;
+TR;MZH;Merzifon;Merzifon;5;---4----;AI;9710;;
+TR;MEK;Mevlanakapi;Mevlanakapi;34;0-------;RN;9710;;
+TR;MIL;Milas;Milas;48;0-------;RN;9710;;
+TR;MIM;Mimarsinan;Mimarsinan;34;1-------;RL;1201;;4101N 02833E
+TR;MUD;Mudanya;Mudanya;16;1-3-----;QQ;8103;;
+TR;MDR;Mudurnu;Mudurnu;14;0-------;RN;9710;;
+TR;MUG;Mugla;Mugla;48;0-------;RN;9710;;
+TR;MDY;Muradiye;Muradiye;45;-23-----;RL;901;;3839N 02720E
+TR;MUR;Muratli;Muratli;59;0-------;RN;9710;;
+TR;MSR;Mus;Mus;49;---4----;AI;9710;;
+TR;MKP;Mustafa Kemalpasa;Mustafa Kemalpasa;16;--3-----;RN;601;;
+TR;MUT;Mut;Mut;70;0-------;RN;9710;;
+TR;NAL;Nallihan;Nallihan;6;0-------;RN;9710;;
+TR;NZL;Nazilli;Nazilli;9;0-------;RN;9710;;
+TR;NEM;Nemrut Bay;Nemrut Bay;35;1-------;RQ;9506;;
+TR;NEV;Nevsehir;Nevsehir;50;---4----;RN;9710;NAV;
+TR;NIG;Nigde;Nigde;51;0-------;RN;9710;;
+TR;NIL;Nilüfer;Nilufer;16;--3-----;RL;701;;4016N 02856E
+TR;M47;Nusaybin;Nusaybin;47;1-3-----;RL;1401;;3704N 04113E
+TR;ODE;Ödemis;Odemis;35;--3-----;RN;212;;3813N 02759E
+TR;ODU;Odunluk;Odunluk;17;1-------;QQ;8103;;
+TR;OKM;Okmeydani;Okmeydani;34;0-------;RN;9710;;
+TR;OME;Omerli;Omerli;34;0-------;RN;9710;;
+TR;ORD;Ordu;Ordu;52;1-------;QQ;8103;;
+TR;OHL;Orhaneli;Orhaneli;16;0-------;RN;9710;;
+TR;OGZ;Orhangazi;Orhangazi;16;0-------;RN;9710;;
+TR;ORH;Orhanli;Orhanli;34;0-------;RN;9710;;
+TR;ORN;Ornektepe;Ornektepe;34;0-------;RN;9710;;
+TR;ORT;Ortaca;Ortaca;48;0-------;RN;9710;;
+TR;OKY;Ortakoy;Ortakoy;34;-----6--;RL;1107;;4103N 02901E
+TR;OMB;Osmanbey;Osmanbey;54;--3-----;RL;1207;;4045N 03037E
+TR;OLI;Osmaneli;Osmaneli;11;0-------;RN;9710;;
+TR;OSZ;Osmangazi;Osmangazi;16;0-------;RN;9710;;
+TR;OSE;Osmaniye;Osmaniye;80;--3-----;RL;307;;3715N 03615E
+TR;POV;Pamukova;Pamukova;54;0-------;RN;9710;;
+TR;PAS;Pasabahçe;Pasabahce;34;--3-----;RN;212;;4107N 02906E
+TR;9AK;Pasaköy;Pasakoy;34;1-3-----;RL;1301;;4101N 02916E
+TR;PAY;Payas;Payas;31;0-------;RN;9811;;
+TR;PZR;Pazar;Pazar;;1-------;AI;201;;4110N 04053E
+TR;PAZ;Pazarkule,;Pazarkule,;22;--3-----;QQ;8103;;
+TR;PYI;Pazaryeri;Pazaryeri;11;0-------;RN;9710;;
+TR;PEH;Pehlivanköy;Pehlivankoy;39;--3-----;RN;212;;4121N 02655E
+TR;PEN;Pendik;Pendik;34;1-------;AI;9710;;
+TR;UZC;Pinarbasi;Pinarbasi;35;-----6--;RL;901;;3825N 02716E
+TR;PIN;Pinarhisar;Pinarhisar;39;0-------;RN;9710;;
+TR;PTL;Polatli;Polatli;6;0-------;RN;9710;;
+TR;PLP;Poliport;Poliport;41;1-------;RL;1507;;3759N 04203E
+TR;ESP;Porsuk;Porsuk;26;-2------;RL;1107;;0001S 00001W
+TR;PUR;Pursaklar;Pursaklar;6;--3-----;RL;1307;;4001N 03253E
+TR;RAH;Rahmanlar;Rahmanlar;34;0-------;RN;9710;;
+TR;RAM;Raman;Raman;21;--3-----;RQ;8103;;
+TR;RAI;Rami;Rami;34;0-------;RN;9710;;
+TR;RES;Resadiye;Resadiye;60;0-------;RN;9811;;
+TR;REY;Reyhanli;Reyhanli;31;--3-----;RL;1401;;3616N 03634E
+TR;RIZ;Rize;Rize;53;1-------;QQ;8103;;
+TR;RZY;Rota-Izmit Bay;Rota-Izmit Bay;35;1-------;RL;1301;;2943N 04046E
+TR;SAW;Sabiha Gokcen Apt/Istanbul;Sabiha Gokcen Apt/Istanbul;34;---4----;RL;901;;4053N 02918E
+TR;SAF;Safranbolu;Safranbolu;;--3-----;RQ;607;;4115N 03241E
+TR;GHY;Sahinbey;Sahinbey;27;--3-----;RL;1507;;3653N 03721E
+TR;SAK;Sakarya;Sakarya;54;--3-----;RL;701;;4047N 03024E
+TR;SAL;Salihli;Salihli;45;--3-----;RQ;9501;;
+TR;SAM;Samandira;Samandira;34;0-------;RN;9710;;
+TR;SSX;Samsun;Samsun;55;1--4----;AI;9601;SZF;
+TR;SKP;Sancaktepe;Sancaktepe;69;--3-----;RL;1301;;4012N 04007E
+TR;SFQ;Sanliurfa;Sanliurfa;63;---4----;AI;9710;;
+TR;SCA;Sapanca;Sapanca;54;0-------;RN;9710;;
+TR;SHN;Saphane;Saphane;43;0-------;RN;9710;;
+TR;SAR;Saray;Saray;59;0-------;RN;9710;;
+TR;SKY;Sarayköy;Saraykoy;20;--3-----;RN;212;;3755N 02856E
+TR;SRL;Saraylar;Saraylar;10;1-------;RQ;901;;4040N 02740E
+TR;SNU;Sarayönü;Sarayonu;42;--3-----;RN;212;;3817N 03225E
+TR;SRG;Sarigazi;Sarigazi;34;0-------;RN;9710;;
+TR;SGL;Sarigöl;Sarigol;45;--3-----;RN;212;;3814N 02843E
+TR;SRS;Sariseki;Sariseki;31;123-----;RL;407;;3640N 03613W
+TR;SRY;Sariyer;Sariyer;34;0-------;RN;9710;;
+TR;SKR;Sarkikaraagaç;Sarkikaraagac;32;--3-----;RN;601;;
+TR;SRK;Sarköy;Sarkoy;59;--3-----;RN;212;;4037N 02706E
+TR;SRC;Sarnic;Sarnic;35;--3-----;RL;1307;;3832N 02716E
+TR;SHL;Saruhanli;Saruhanli;45;0-------;RN;9710;;
+TR;SAS;Sasalli;Sasalli;35;--3-----;RL;701;;3829N 02657E
+TR;SEF;Sefakoy;Sefakoy;34;0-------;RN;9710;;
+TR;SFH;Seferihisar;Seferihisar;35;--3-----;RN;601;;
+TR;SHK;Sehitlik;Sehitlik;25;--3-----;RL;1301;;4029N 04044E
+TR;UZD;Sekerpinar;Sekerpinar;41;-----6--;RL;901;;4051N 02922E
+TR;SCK;Selçuk;Selcuk;35;--3-----;RN;212;;3757N 02722E
+TR;SEL;Selimiye;Selimiye;34;0-------;RN;9710;;
+TR;SEN;Senirkent;Senirkent;32;0-------;RN;9710;;
+TR;SKH;Sereflikoçhisar;Sereflikochisar;6;--3-----;RN;212;;3856N 03333E
+TR;SEI;Serik;Serik;7;0-------;RN;9710;;
+TR;SER;Serviburun;Serviburun;34;1-------;QQ;8103;;
+TR;SEY;Seydisehir;Seydisehir;42;--3-----;QQ;8103;;
+TR;SYT;Seyitgazi;Seyitgazi;26;0-------;RN;9710;;
+TR;SYR;Seyrantepe;Seyrantepe;34;0-------;RN;9710;;
+TR;SXZ;Siirt;Siirt;56;---4----;AI;9710;;
+TR;SLE;Sile;Sile;;1-------;AI;201;;4110N 02936E
+TR;SIL;Silivri;Silivri;34;--3-----;RL;1207;;4104N 02815E
+TR;SMV;Simav;Simav;43;0-------;RN;9710;;
+TR;SCN;Sincan;Sincan;6;0-------;RN;9710;;
+TR;SDG;Sindirgi;Sindirgi;10;0-------;RN;9710;;
+TR;SIC;Sinop;Sinop;57;1--4----;AI;9601;;
+TR;SRN;Sirinevler;Sirinevler;34;0-------;RN;9710;;
+TR;SIR;Sirkeci;Sirkeci;34;-2------;QQ;8103;;
+TR;SNK;Sirnak;Sirnak;;--3-----;RQ;607;;3731N 04227E
+TR;SIS;Sisli;Sisli;34;0-------;RN;9710;;
+TR;STL;Siteler;Siteler;6;--3-----;RL;1301;;3958N 03254E
+TR;VAS;Sivas;Sivas;58;--34----;AI;9601;;
+TR;SVS;Sivasli;Sivasli;64;0-------;RN;9710;;
+TR;SVR;Sivrihisar;Sivrihisar;26;0-------;RN;9710;;
+TR;SGT;Sögüt;Sogut;11;--3-----;RN;212;;4000N 03011E
+TR;SOG;Sögütlü;Sogutlu;54;--3-----;RL;1301;;4054N 03029E
+TR;SKE;Soke;Soke;9;0-------;RN;9710;;
+TR;SMA;Soma;Soma;45;0-------;RN;9710;;
+TR;SUA;Suadiye;Suadiye;34;0-------;RN;9710;;
+TR;YLI;Sultanbeyli;Sultanbeyli;34;--3-----;RQ;907;;4057N 02916E
+TR;SDI;Sultandagi;Sultandagi;3;0-------;RN;9710;;
+TR;SHR;Sultanhisar;Sultanhisar;9;0-------;RN;9710;;
+TR;SUR;Surmene;Surmene;61;1-------;RQ;9506;;
+TR;SSL;Susurluk;Susurluk;10;0-------;RN;9710;;
+TR;SSZ;Susuz;Susuz;6;--3-----;RL;1301;;4021N 03307E
+TR;SUT;Sutluce;Sutluce;34;1-------;RN;9710;;
+TR;TAK;Taksim/Istambul;Taksim/Istambul;34;--3-----;RL;601;;4102N 02859E
+TR;TBY;Tarabya;Tarabya;34;0-------;RN;9710;;
+TR;TAR;Tarsus;Tarsus;33;-23-----;RQ;8103;;
+TR;TSD;Tasdelen;Tasdelen;34;0-------;RN;9710;;
+TR;TSK;Taskent;Taskent;42;--3-----;RL;1301;;3655N 03229E
+TR;TAS;Tasucu;Tasucu;33;1-------;QQ;8103;;
+TR;TAV;Tavas;Tavas;20;0-------;RN;9710;;
+TR;TVS;Tavsanli;Tavsanli;43;0-------;RN;9710;;
+TR;TFN;Tefenni;Tefenni;15;0-------;RN;9710;;
+TR;TEK;Tekirdag;Tekirdag;59;1234----;AI;9901;TEQ;
+TR;TPI;Tepebasi;Tepebasi;34;--3-----;RL;701;;4102N 02859E
+TR;TRE;Tire;Tire;35;0-------;RN;9710;;
+TR;TIR;Tirebolu;Tirebolu;28;1-------;QQ;8103;;
+TR;TJK;Tokat;Tokat;60;---4----;AI;9710;;
+TR;TOC;Topcular;Topcular;34;0-------;RN;9710;;
+TR;TOK;Topkapi;Topkapi;24;--3-----;RL;1207;;3906N 03838E
+TR;TOP;Topkapi;Topkapi;34;--3-----;RN;1207;;4102N 02854E
+TR;TOR;Torbali;Torbali;35;0-------;RN;9710;;
+TR;TGT;Toros Gubre Terminal, Gubre;Toros Gubre Terminal, Gubre;31;123-----;RL;607;;3655N 03559E
+TR;TZX;Trabzon;Trabzon;61;1-34----;AI;9601;;
+TR;TUN;Tunceli;Tunceli;62;0-------;RN;9710;;
+TR;TUR;Turan;Turan;35;1-------;QQ;8103;;
+TR;TKY;Turanköy;Turankoy;16;--3-----;RL;901;;4012N 02921E
+TR;TGL;Turgutlu;Turgutlu;45;0-------;RN;9710;;
+TR;TUT;Tutunciftlik;Tutunciftlik;41;1-------;QQ;8103;;
+TR;TUZ;Tuzla;Tuzla;34;1-------;RN;9710;;
+TR;TFZ;Tuzla Free Zone;Tuzla Free Zone;34;--3-----;RL;901;;4049N 02918E
+TR;ULA;Ula;Ula;48;0-------;RN;9710;;
+TR;ULU;Ulubey;Ulubey;64;0-------;RN;9710;;
+TR;UUS;Ulus;Ulus;6;--3-----;RL;1207;;3956N 03252E
+TR;UMR;Umraniye;Umraniye;34;0-------;RN;9710;;
+TR;UNY;Ünye;Unye;52;1-------;RL;212;;4108N 03717E
+TR;URL;Urla;Urla;35;1-------;RN;9710;;
+TR;USA;Usak;Usak;64;---4----;RN;9710;USQ;
+TR;USK;Üsküdar;Uskudar;34;1-------;RN;212;;4101N 02903E
+TR;UZU;Uzunköprü;Uzunkopru;22;-2------;RL;212;;4116N 02641E
+TR;ZNT;Uzuntarla;Uzuntarla;41;-----6--;RL;1107;;4044N 03009E
+TR;VAK;Vakfikebir;Vakfikebir;;1-------;AI;201;;4102N 03916E
+TR;VAN;Van;Van;65;-234----;AI;9601;;
+TR;VIZ;Vize;Vize;39;0-------;RN;9710;;
+TR;YAK;Yakacik;Yakacik;34;0-------;RN;9710;;
+TR;YKP;Yakuplu;Yakuplu;34;--3-----;RL;607;;4059N 02839E
+TR;YLA;Yalova;Yalova;17;--3-----;RL;701;;4016N 02624E
+TR;YAL;Yalova;Yalova;77;1-3-----;RQ;1101;;4016N 02624E
+TR;YLV;Yalvaç;Yalvac;32;--3-----;RN;212;;3817N 03111E
+TR;YAR;Yarimca;Yarimca;41;1-------;QQ;8103;;
+TR;YTG;Yatagan;Yatagan;48;0-------;RN;9710;;
+TR;YYL;Yayalar;Yayalar;34;-----6--;RL;1201;;4053N 02915E
+TR;YBS;Yenibosna;Yenibosna;34;0-------;RN;9710;;
+TR;YCA;Yeniçaga;Yenicaga;14;--3-----;RL;407;;4045N 03201E
+TR;YEN;Yenice;Yenice;17;0-------;RN;9710;;
+TR;YDG;Yenidogan;Yenidogan;34;--3-----;RQ;901;;
+TR;JYN;Yenikoy;Yenikoy;34;-----6--;RL;1007;;4107N 02939E
+TR;YEK;Yenikoy;Yenikoy;41;--3--6--;RQ;1001;;4042N 02954E
+TR;AUT;Yeniköy-Autoport;Yenikoy-Autoport;41;1-------;RQ;1301;;4043N 02952E
+TR;YEH;Yenimahalle;Yenimahalle;6;--3-----;RL;901;;3958N 03248E
+TR;YPZ;Yenipazar;Yenipazar;9;0-------;RN;9710;;
+TR;YEZ;Yenipazar;Yenipazar;11;0-------;RN;9710;;
+TR;YSR;Yenisehir;Yenisehir;16;0-------;RN;9710;;
+TR;YAT;Yesilköy;Yesilkoy;1;--3-----;RL;1301;;3640N 03529E
+TR;YES;Yesilköy;Yesilkoy;34;--3-----;RL;1501;;4057N 02849E
+TR;YIK;Yesilovacik;Yesilovacik;33;1-------;RL;1507;;3612N 03340E
+TR;YYT;Yesilyurt;Yesilyurt;44;-----6--;RL;1107;;3817N 03814E
+TR;YPO;Yilport;Yilport;41;1-3-----;RL;701;;4046N 02932E
+TR;YOZ;Yozgat;Yozgat;66;0-------;RN;9710;;
+TR;YUK;Yüksekova;Yuksekova;30;--3-----;RL;901;;3734N 04417E
+TR;ADY;Yumurtalik;Yumurtalik;;1-------;RL;1107;;0010S 00001E
+TR;YUM;Yumurtalik Bay;Yumurtalik Bay;1;0-------;RQ;9506;;
+TR;ZEY;Zeytinburnu;Zeytinburnu;34;1-------;RN;9710;;
+TR;ZON;Zonguldak;Zonguldak;67;1-------;QQ;8103;;

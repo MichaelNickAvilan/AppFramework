@@ -1,0 +1,2441 @@
+AU;ABP;Abbot Point;Abbot Point;QLD;1-------;AC;9511;;
+AU;ABA;Abbotsfort;Abbotsfort;VIC;--3-----;RL;1501;;3748S 14500E
+AU;ALP;Abell Point;Abell Point;QLD;1-3-----;AC;1401;;2016S 14843E
+AU;ABD;Aberdeen;Aberdeen;NSW;--3-----;RL;1507;;3210S 15054E
+AU;S4A;Aberfoyle Park;Aberfoyle Park;SA;--3-----;RL;1507;;3504S 13836E
+AU;ABG;Abingdon;Abingdon;QLD;---4----;AI;9601;;
+AU;ACA;Acacia Ridge;Acacia Ridge;QLD;--3-----;RL;607;;2735S 15301E
+AU;ADL;Adelaide;Adelaide;SA;12345---;AC;307;;3455S 13835E
+AU;ADA;Adelaide Apt;Adelaide Apt;SA;---4----;AC;9511;;
+AU;ALO;Adelong;Adelong;NSW;--3-----;RL;607;;3519S 14804E
+AU;ANB;Agnes Bank;Agnes Bank;NSW;--3-----;RL;1501;;3336S 15042E
+AU;AGW;Agnew;Agnew;QLD;---4----;AI;9601;;
+AU;WSY;Airlie Beach;Airlie Beach;QLD;---4----;AI;9912;;
+AU;AIR;Airlie Terminal;Airlie Terminal;WA;1-------;RL;212;;2120S 11510E
+AU;APW;Airport West;Airport West;VIC;--3-----;RL;1207;;3744S 14453E
+AU;ALH;Albany;Albany;WA;1--4----;AC;9511;;
+AU;ACK;Albany Creek;Albany Creek;QLD;-----6--;RL;1107;;2721S 15259E
+AU;APK;Albion Park;Albion Park;NSW;--3-----;RL;607;;3434S 15047E
+AU;ABX;Albury;Albury;NSW;-234----;AI;307;;3605S 14655E
+AU;ALD;Aldgate;Aldgate;SA;1----6--;RL;1107;;3501S 13844E
+AU;ADG;Aldinga;Aldinga;SA;--3-----;RL;1507;;3517S 13829E
+AU;AVA;Alexandra;Alexandra;VIC;-----6--;RL;1201;;3711S 14542E
+AU;ALX;Alexandria;Alexandria;NSW;--3-----;RL;201;;3354S 15113E
+AU;AXL;Alexandria;Alexandria;NT;---4----;AI;9601;;
+AU;ASP;Alice Springs;Alice Springs;NT;---4----;AI;9601;;
+AU;ALB;Allambie Heights;Allambie Heights;NSW;--3-----;RL;1207;;3345S 15115E
+AU;AFD;Allansford;Allansford;VIC;--3-----;RQ;1101;;3824S 14235E
+AU;ABH;Alpha;Alpha;QLD;---4----;AI;9601;;
+AU;APT;Alphington;Alphington;VIC;-----6--;RL;1201;;3746S 14501E
+AU;ALN;Alpine;Alpine;NSW;--3-----;RL;1407;;3424S 15030E
+AU;AYD;Alroy Downs;Alroy Downs;NT;---4----;AI;9912;;
+AU;AVI;Alstonville;Alstonville;NSW;--3-----;RL;607;;2850S 15326E
+AU;AWN;Alton Downs;Alton Downs;SA;---4----;AI;9912;;
+AU;ALT;Altona;Altona;VIC;--3-----;RL;1407;;3752S 14450E
+AU;ATO;Altona North;Altona North;VIC;-----6--;RL;601;;3749S 14450E
+AU;ALV;Alvie;Alvie;VIC;-----6--;RL;1201;;3814S 14330E
+AU;AYG;Alyangula;Alyangula;NT;--3-----;RL;1501;;1351S 13625E
+AU;AMT;Amata;Amata;NT;---4----;AI;9912;;
+AU;ABL;Amberley;Amberley;QLD;---4----;AC;9709;;
+AU;RCN;American River;American River;SA;---4----;AI;9912;;
+AU;AMX;Ammaroo;Ammaroo;NT;---4----;AI;9912;;
+AU;ADO;Andamooka;Andamooka;SA;---4----;AI;9601;;
+AU;AND;Andrews;Andrews;QLD;-23-----;RL;607;;3336S 13838E
+AU;ZCB;Angas Plains;Angas Plains;SA;--3-----;RL;1501;;3521S 13900E
+AU;ANG;Angaston;Angaston;SA;--3-----;RQ;907;;3430S 13902E
+AU;AVE;Angle Vale;Angle Vale;SA;--3-----;RL;1001;;3438S 13839E
+AU;ASE;Anglesea;Anglesea;VIC;--3-----;RL;1507;;3825S 14410E
+AU;ANZ;Angus Downs;Angus Downs;NT;---4----;AI;9912;;
+AU;ANN;Annandale;Annandale;NSW;1----6--;RL;1107;;3353S 15110E
+AU;ANL;Annerley;Annerley;QLD;--3-----;RL;1207;;2729S 15301E
+AU;AYL;Anthony Lagoon;Anthony Lagoon;NT;---4----;AI;9912;;
+AU;APP;Applecross;Applecross;WA;1----6--;RL;1107;;3201S 11550E
+AU;AXC;Aramac;Aramac;QLD;---4----;AI;9601;;
+AU;ARY;Ararat;Ararat;VIC;---4----;AI;9912;;
+AU;R5T;Arawata;Arawata;VIC;--3-----;RL;1601;;3824S 14552E
+AU;ACD;Arcadia;Arcadia;NSW;--3-----;RL;1601;;3337S 15102E
+AU;AFL;Archerfield;Archerfield;QLD;-23-----;RL;701;;2734S 15301E
+AU;ATA;Ardlethan;Ardlethan;NSW;-23-----;RL;607;;3421S 14654E
+AU;AHK;Ardross;Ardross;WA;--3-----;RL;1507;;3201S 11550E
+AU;ARD;Ardrossan;Ardrossan;SA;1-------;AC;9511;;
+AU;GYL;Argyle;Argyle;WA;---4----;AI;9912;;
+AU;AGY;Argyle Downs;Argyle Downs;WA;---4----;AI;9912;;
+AU;AMD;Armadale;Armadale;VIC;--3-----;RL;1207;;3751S 14501E
+AU;AUA;Armadale;Armadale;WA;1-------;RL;1101;;3209S 11600E
+AU;ARM;Armidale;Armidale;NSW;---4----;AI;9601;;
+AU;ARC;Arncliffe;Arncliffe;NSW;--3-----;RL;307;;3356S 15108E
+AU;DLP;Arndell Park;Arndell Park;NSW;123-----;RL;901;;3378N 15087E
+AU;AAB;Arrabury;Arrabury;QLD;---4----;AI;9912;;
+AU;ART;Artarmon;Artarmon;NSW;--3-----;RL;1207;;3349S 15111E
+AU;T6C;Arthurs Creek;Arthurs Creek;VIC;--3-----;RL;1601;;3735S 14512E
+AU;AMN;Arumbera;Arumbera;NT;--3-----;RL;1501;;2345S 13351E
+AU;ARL;Arundel;Arundel;QLD;--3-----;RQ;207;;
+AU;ACO;Ascot;Ascot;WA;-----6--;RL;601;;3156S 11555E
+AU;FFH;Ashfield;Ashfield;NSW;--3-----;RL;1601;;3353S 15107E
+AU;ASF;Ashfield;Ashfield;WA;-23-----;RQ;1101;;3155S 11556E
+AU;ASC;Ashgrove/Brisbane;Ashgrove/Brisbane;QLD;--3-----;RL;106;;2726S 15258E
+AU;ASH;Ashton;Ashton;SA;1----6--;RL;1107;;3456S 13844E
+AU;AWD;Ashwood;Ashwood;VIC;-----6--;RQ;907;;3752S 14560E
+AU;P6D;Aspendale;Aspendale;VIC;1-3-----;RL;1601;;3802S 14506E
+AU;ASQ;Asquith;Asquith;NSW;-----6--;RL;901;;3341S 15106E
+AU;ATH;Athelstone;Athelstone;SA;--3-----;RL;901;;3452S 13842E
+AU;ATN;Atherton;Atherton;QLD;-23-----;RQ;1001;;1716S 14528E
+AU;APR;Athol Park;Athol Park;SA;--3-----;RL;901;;3451S 13832E
+AU;ATT;Attadale;Attadale;WA;1----6--;RL;1107;;3201S 11547E
+AU;WWG;Aubin Grove;Aubin Grove;WA;--3-----;RL;1307;;3210S 11551E
+AU;AUB;Auburn;Auburn;NSW;--3-----;RL;1101;;3351S 15102E
+AU;ABN;Auburn;Auburn;SA;--3-----;RL;1101;;3401S 13841E
+AU;AGS;Augusta;Augusta;WA;1-3-----;RL;607;;3419S 11510E
+AU;AUD;Augustus Downs;Augustus Downs;QLD;---4----;AI;9912;;
+AU;ALA;Auldana;Auldana;SA;-----6--;RQ;901;;
+AU;A7A;Aura;Aura;VIC;--3-----;RL;1601;;3756S 14525E
+AU;RSE;Au-Rose Bay;Au-Rose Bay;NSW;---4----;AI;9912;;
+AU;AUU;Aurukun Mission;Aurukun Mission;QLD;---4----;AI;9912;;
+AU;AWP;Austral Downs;Austral Downs;NT;---4----;AI;9912;;
+AU;ALI;Australind;Australind;WA;1-3-----;RL;607;;3317S 11543E
+AU;AVG;Auvergne;Auvergne;NT;---4----;AI;9912;;
+AU;AVV;Avalon;Avalon;VIC;---4----;AC;9701;;
+AU;AYQ;Ayers Rock;Ayers Rock;NT;---4----;AI;9601;;
+AU;AYR;Ayr;Ayr;QLD;---4----;AI;9912;;
+AU;BMS;Bacchus Marsh;Bacchus Marsh;VIC;--3-----;RL;1207;;3740S 14426E
+AU;BCE;Badger Creek;Badger Creek;VIC;--3-----;RL;1301;;3742S 14531E
+AU;BDD;Badu Island;Badu Island;QLD;---4----;AI;9912;;
+AU;BAE;Baerami;Baerami;NSW;1----6--;RL;1107;;3224S 15029E
+AU;BSJ;Bairnsdale;Bairnsdale;VIC;---4----;AI;9601;;
+AU;BAK;Bakers Creek;Bakers Creek;QLD;--3-----;UR;9701;;
+AU;BLK;Balaklava;Balaklava;SA;--3-----;RL;1301;;3409S 13825E
+AU;LCN;Balcanoona;Balcanoona;SA;---4----;AI;9912;;
+AU;BTT;Balcatta;Balcatta;WA;--3-----;RL;601;;3151S 11551E
+AU;A6L;Balcombe;Balcombe;VIC;--3-----;RL;1601;;3815S 14501E
+AU;BQW;Balgo Hills;Balgo Hills;WA;---4----;AI;9601;;
+AU;BWL;Balgowlah;Balgowlah;NSW;--3-----;RL;607;;3348S 15115E
+AU;BEG;Balgowlah Heights;Balgowlah Heights;NSW;--3-----;RL;1601;;3348S 15115E
+AU;BAA;Balhannah;Balhannah;SA;1----6--;RL;1107;;3459S 13850E
+AU;LLD;Ballandean;Ballandean;QLD;--3-----;RL;1507;;2848S 15150E
+AU;BQA;Ballarat;Ballarat;VIC;-23-----;UR;9701;;
+AU;BAH;Ballast Head;Ballast Head;SA;1-------;AC;8203;;
+AU;BNK;Ballina;Ballina;NSW;1--4----;AC;9511;;
+AU;BLM;Balmain;Balmain;NSW;--3-----;RQ;901;;3352S 15111E
+AU;BAL;Balnarring;Balnarring;VIC;1----6--;RL;1107;;3822S 14508E
+AU;R4A;Balnarring Beach;Balnarring Beach;VIC;--3-----;RL;1601;;3821S 14508E
+AU;BZD;Balranald;Balranald;NSW;---4----;AI;9912;;
+AU;BWN;Balwyn;Balwyn;VIC;-----6--;RL;1201;;3748S 14504E
+AU;ABM;Bamaga;Bamaga;QLD;---4----;AI;9912;;
+AU;BAN;Bandiana;Bandiana;VIC;--3-----;RL;1207;;3609S 14656E
+AU;BGW;Bangalow;Bangalow;NSW;-23-----;RL;607;;2841S 15331E
+AU;LME;Bangholme;Bangholme;VIC;1-------;RQ;901;;
+AU;GBH;Bangor;Bangor;NSW;--3-----;RL;1601;;3401S 15102E
+AU;BYX;Baniyala;Baniyala;NT;---4----;AI;9912;;
+AU;BMO;Banksmeadow;Banksmeadow;NSW;--3-----;RL;901;;3357S 15113E
+AU;BWU;Bankstown;Bankstown;NSW;---4----;AC;9511;;
+AU;BNN;Bannockburn;Bannockburn;VIC;1----6--;RL;1107;;3803S 14410E
+AU;BYD;Banyo;Banyo;QLD;--3-----;RL;1207;;2722S 15304E
+AU;BCI;Barcaldine;Barcaldine;QLD;---4----;AI;9601;;
+AU;BRL;Barellan;Barellan;NSW;-23-----;RL;607;;3418S 14634E
+AU;BKP;Barkly Downs;Barkly Downs;QLD;---4----;AI;9912;;
+AU;BRE;Barmera;Barmera;SA;--3-----;RL;1507;;3415S 14028E
+AU;BNW;Barnawartha;Barnawartha;VIC;-----6--;RL;1201;;3606S 14640E
+AU;BPT;Barney Point;Barney Point;QLD;--3-----;RL;1301;;2350S 15116E
+AU;RNG;Barongarook;Barongarook;VIC;--3-----;RL;1507;;3825S 14336E
+AU;RTA;Baroota;Baroota;SA;--3-----;RL;1507;;3251S 13802E
+AU;BWB;Barrow Island;Barrow Island;WA;1--4----;AC;9511;;
+AU;BAR;Barry Beach;Barry Beach;VIC;1-3-----;RQ;901;;3842S 14623E
+AU;RBG;Barunga;Barunga;SA;--3-----;RL;1501;;3343S 13808E
+AU;BRH;Barwon Heads;Barwon Heads;VIC;--3-----;RL;1307;;3817S 14430E
+AU;BR7;Basket Range;Basket Range;SA;--3-----;RL;1501;;3456S 13846E
+AU;BSH;Bass Hill;Bass Hill;NSW;--3-----;RQ;1101;;3358S 15100E
+AU;BAS;Bassendean;Bassendean;WA;--3-----;RL;901;;3154S 11556E
+AU;BVW;Batavia Downs;Batavia Downs;QLD;---4----;AI;9912;;
+AU;BUB;Bateau Bay;Bateau Bay;NSW;--3-----;RL;1507;;3322S 15129E
+AU;QBW;Batemans Bay;Batemans Bay;NSW;--3-----;RL;901;;3543S 15011E
+AU;BHS;Bathurst;Bathurst;NSW;---4----;AI;9601;;
+AU;BRT;Bathurst Island;Bathurst Island;NT;1--4----;AI;9601;;
+AU;BTO;Batlow;Batlow;NSW;--3-----;RL;607;;3531S 14808E
+AU;BKH;Baulkham Hills;Baulkham Hills;NSW;--3-----;RL;607;;3345S 15100E
+AU;BXT;Baxter;Baxter;VIC;-23--6--;RL;607;;3812S 14509E
+AU;BDN;Bayindeen;Bayindeen;VIC;-23-----;RL;1601;;3719S 14310E
+AU;BYN;Baynton;Baynton;WA;--3-----;RL;1501;;2053S 11640E
+AU;BYS;Bayswater;Bayswater;VIC;--3-----;RL;201;;3750S 14519E
+AU;BYW;Bayswater;Bayswater;WA;--3-----;RL;901;;3154N 11555E
+AU;BYV;Bayview;Bayview;SA;--3-----;RQ;1101;;3339S 15117E
+AU;BCH;Beachport;Beachport;SA;1-------;AC;9511;;
+AU;BOH;Beacon Hill;Beacon Hill;NSW;--3-----;RQ;1101;;3345S 15115E
+AU;BEA;Beaconsfield;Beaconsfield;TAS;--3-----;RL;901;;4112S 14649E
+AU;BPR;Beaconsfield Upper;Beaconsfield Upper;VIC;-----6--;RL;901;;3800N 14525E
+AU;BEE;Beagle Bay;Beagle Bay;WA;---4----;AI;9912;;
+AU;BDS;Beaudesert;Beaudesert;QLD;0-------;RQ;9601;;
+AU;BYP;Beauty Point;Beauty Point;TAS;1-------;AC;9511;;
+AU;BEC;Beckenham;Beckenham;WA;--3-----;RL;901;;3102S 11557E
+AU;BKO;Beckom;Beckom;NSW;-23-----;RL;607;;3420S 14658E
+AU;BDW;Bedford Downs;Bedford Downs;WA;---4----;AI;9912;;
+AU;BDF;Bedford Park;Bedford Park;SA;--3--6--;RL;1107;;3502S 13834E
+AU;BEU;Bedourie;Bedourie;QLD;---4----;AI;9912;;
+AU;BHH;Beechworth;Beechworth;VIC;-----6--;RL;1107;;3622N 14643E
+AU;BBL;Beelbangera;Beelbangera;NSW;1-------;RL;1107;;3416S 14606E
+AU;BLG;Beenleigh;Beenleigh;QLD;-23-----;RL;607;;2743S 15312E
+AU;BEW;Beerwah;Beerwah;QLD;--3-----;RL;901;;2685S 15296E
+AU;QBE;Bega;Bega;NSW;--3-----;RL;901;;3640S 14950E
+AU;LFD;Belford;Belford;NSW;--3-----;RL;1507;;3240S 15117E
+AU;L7E;Belgrave;Belgrave;VIC;-23-----;RL;1601;;3754S 14521E
+AU;R5H;Belgrave Heights;Belgrave Heights;VIC;--3-----;RL;1601;;3755S 14521E
+AU;A5T;Belgrave South;Belgrave South;VIC;--3-----;RL;1601;;3756S 14520E
+AU;BEL;Bell Bay;Bell Bay;TAS;123-----;AC;9511;;
+AU;BLV;Bella Vista;Bella Vista;NSW;--3-----;RQ;1101;;3344S 15057E
+AU;BEX;Bellevue;Bellevue;WA;--3-----;RL;901;;3154S 11601E
+AU;IUH;Bellevue Hill;Bellevue Hill;NSW;--3-----;RL;1407;;3352S 15115E
+AU;NS3;Bellingen;Bellingen;NSW;--3-----;RL;1601;;3027S 15253E
+AU;BEO;Belmont;Belmont;NSW;---4----;AI;9912;;
+AU;BQ9;Belmont;Belmont;QLD;--3-----;RL;1507;;2730S 15307E
+AU;BET;Belmont;Belmont;WA;--3-----;RL;1207;;3156S 11555E
+AU;BEM;Belmore;Belmore;NSW;-23-----;RL;701;;3355S 15106E
+AU;BE9;Belrose;Belrose;NSW;1----6--;RL;1107;;3344S 15113E
+AU;BVD;Belvidere;Belvidere;SA;1----6--;RL;1107;;3518S 13856E
+AU;BMK;Bemboka;Bemboka;NSW;--3-----;RL;607;;3638S 14934E
+AU;BLN;Benalla;Benalla;VIC;-2------;RL;9901;;
+AU;BCB;Bencubbin;Bencubbin;WA;-23-----;RL;607;;3049S 11751E
+AU;BM5;Bendemeer;Bendemeer;NSW;--3-----;RL;1507;;3053S 15110E
+AU;BMU;Bendick Murrell;Bendick Murrell;NSW;-23-----;RL;607;;3410S 14827E
+AU;BDG;Bendigo;Bendigo;VIC;--34----;AI;9701;BXG;
+AU;BGN;Bennetts Green;Bennetts Green;NSW;--3-----;RQ;901;;
+AU;BEY;Bentley;Bentley;NSW;--3-----;RL;1501;;2846S 15307E
+AU;BEN;Bentliegh Vic;Bentliegh Vic;VIC;--3-----;RL;901;;3755S 14502E
+AU;WRG;Berambing;Berambing;NSW;--3-----;RL;1601;;3332S 15026E
+AU;BFD;Beresfield;Beresfield;NSW;1----6--;RL;901;;3248S 15139E
+AU;BKE;Berkeley Vale;Berkeley Vale;NSW;1----6--;RL;1201;;3321S 15126E
+AU;ZAA;Berowra;Berowra;NSW;--3-----;RL;1601;;3338S 15109E
+AU;BER;Berri;Berri;SA;--3-----;AC;1401;;3417S 14036E
+AU;BRD;Berridale;Berridale;NSW;--3-----;RL;607;;3622S 14849E
+AU;TTM;Berriedale;Berriedale;TAS;--3-----;RL;1507;;4249S 14715E
+AU;BRG;Berrigan;Berrigan;NSW;--3-----;RL;607;;3540S 14549E
+AU;VRB;Berrima;Berrima;NSW;--3-----;RL;1507;;3429S 15020E
+AU;BRM;Berrimah;Berrimah;NT;--3-----;RQ;907;;1225S 13055E
+AU;BIB;Berrinba;Berrinba;QLD;--3-----;RL;1301;;2739S 15305E
+AU;BRR;Berrys Creek;Berrys Creek;VIC;1----6--;RL;1107;;3825S 14604E
+AU;WV5;Berwick;Berwick;VIC;--3-----;RL;1507;;3802S 14521E
+AU;BTX;Betoota;Betoota;QLD;---4----;AI;9912;;
+AU;ABC;Beulah;Beulah;VIC;--3-----;RL;1507;;3556S 14225E
+AU;BVV;Beverford;Beverford;VIC;--3-----;RL;1507;;3514S 14328E
+AU;BVS;Beverley;Beverley;SA;-23-----;RL;601;;3453S 13832E
+AU;BVZ;Beverley Springs;Beverley Springs;WA;---4----;AI;9912;;
+AU;XBY;Bexley;Bexley;NSW;--3-----;RL;1407;;3357S 15107E
+AU;BBU;Bibbenluke;Bibbenluke;NSW;--3-----;RL;607;;3649S 14917E
+AU;BLA;Bibra Lake;Bibra Lake;WA;-23--6--;RL;607;;3204S 11549E
+AU;BIC;Bicheno;Bicheno;TAS;1----6--;RL;1107;;4152S 14817E
+AU;BCZ;Bickerton Island;Bickerton Island;NT;---4----;AI;9912;;
+AU;BNT;Bicton;Bicton;WA;-----6--;RQ;1001;;3201S 11546E
+AU;BBE;Big Bell;Big Bell;WA;---4----;AI;9912;;
+AU;BGG;Biggera Waters;Biggera Waters;QLD;--3-----;RL;1207;;2755S 15323E
+AU;BIW;Billiluna;Billiluna;WA;---4----;AI;9912;;
+AU;BLO;Biloela;Biloela;QLD;--34----;AC;9511;;
+AU;BNG;Binalong;Binalong;NSW;-23-----;RL;607;;3440S 14838E
+AU;BBG;Bing Bong;Bing Bong;NT;1-------;RL;212;;1536S 13621E
+AU;BBR;Binna Burra;Binna Burra;NSW;-23-----;RL;607;;2842S 15330E
+AU;BIN;Binningup;Binningup;WA;--3-----;RL;1107;;3309S 11541E
+AU;BNM;Binnum;Binnum;SA;-----6--;RQ;1007;;3648S 14056E
+AU;BYA;Binya;Binya;NSW;-23-----;RL;607;;3414S 14621E
+AU;BVI;Birdsville;Birdsville;QLD;---4----;AC;9511;;
+AU;VRR;Birdwood;Birdwood;SA;--3-----;RL;1507;;3449S 13858E
+AU;BIR;Birkenhead;Birkenhead;SA;-----6--;RQ;1007;;3450S 13830E
+AU;T6T;Bittern;Bittern;VIC;--3-----;RL;1601;;3820S 14510E
+AU;BZP;Bizant;Bizant;QLD;---4----;AI;9912;;
+AU;BLP;Black Point;Black Point;NT;1-------;RL;1401;;1109S 13209E
+AU;BKQ;Blackall;Blackall;QLD;---4----;AI;9601;;
+AU;TTS;Blackmans Bay;Blackmans Bay;TAS;1-3-----;RL;1307;;4259S 14719E
+AU;BOV;Blacktip Terminal;Blacktip Terminal;NT;1-------;RQ;1001;;1424S 12921E
+AU;BCO;Blacktown;Blacktown;NSW;-23--6--;RL;607;;3346S 15054E
+AU;BLT;Blackwater;Blackwater;QLD;---4----;AI;9601;;
+AU;BWD;Blackwood;Blackwood;;-----6--;RL;1107;;3501S 13836E
+AU;ZZK;Blakehurst;Blakehurst;NSW;--3-----;RL;1601;;3359S 15106E
+AU;BW5;Blanche Town;Blanche Town;SA;--3-----;RL;1507;;3421S 13936E
+AU;BNY;Blayney;Blayney;NSW;123--6--;RL;601;;3332S 14915E
+AU;WW3;Blewitts Springs;Blewitts Springs;SA;--3-----;RL;1507;;3510S 13836E
+AU;BWS;Blewitts Springs;Blewitts Springs;SA;1----6--;RL;1107;;3510S 13836E
+AU;BGY;Blighty;Blighty;NSW;--3-----;RL;607;;3535S 14521E
+AU;BFC;Bloomfield;Bloomfield;QLD;---4----;AI;9912;;
+AU;BOB;Bobin;Bobin;NSW;1-----7-;RL;1107;;3143S 15217E
+AU;BLE;Bohle;Bohle;QLD;--3-----;RQ;1001;;1912S 14643E
+AU;GIC;Boigu Island;Boigu Island;QLD;---4----;AI;9912;;
+AU;BLS;Bollon;Bollon;QLD;---4----;AI;9601;;
+AU;BCK;Bolwarra;Bolwarra;QLD;---4----;AI;9912;;
+AU;BDY;Bomaderry;Bomaderry;NSW;1----6--;RL;1201;;3451S 15037E
+AU;BMA;Bombala;Bombala;NSW;--3-----;RL;607;;3655S 14914E
+AU;7BM;Bomen;Bomen;NSW;--3-----;RL;1501;;3504S 14720E
+AU;B3B;Bonbeach;Bonbeach;VIC;-23-----;RL;1601;;3803S 14507E
+AU;BBC;Bondi Beach;Bondi Beach;NSW;--3-----;RL;1207;;3353S 15116E
+AU;BJT;Bondi Junction;Bondi Junction;NSW;-23-----;RL;701;;3353S 15114E
+AU;BLB;Bonnells Bay;Bonnells Bay;NSW;--3-----;RL;1207;;3305S 15131E
+AU;BQY;Bonnet Bay;Bonnet Bay;NSW;--3-----;RL;1601;;3400S 15103E
+AU;BEV;Bonnie Vale;Bonnie Vale;WA;-23-----;RL;607;;3050S 12111E
+AU;BOO;Booby Island;Booby Island;QLD;1-3-----;RL;307;;1036S 14155E
+AU;BOD;Boondall;Boondall;QLD;1----6--;RL;1207;;2720S 15303E
+AU;BGO;Booragoon;Booragoon;WA;--3-----;RL;901;;3202S 11550E
+AU;BOT;Boort;Boort;VIC;1----6--;RL;1107;;3607S 14343E
+AU;VIB;Boronia;Boronia;VIC;1-------;RQ;901;;
+AU;BOX;Borroloola;Borroloola;NT;---4----;AI;9912;;
+AU;B2P;Bossley Park;Bossley Park;NSW;--3-----;RL;1401;;3351S 15053E
+AU;BTB;Botany Bay;Botany Bay;NSW;1-------;AC;9511;;
+AU;BLD;Boulder;Boulder;WA;--3-----;RL;1207;;3047S 12129E
+AU;BQL;Boulia;Boulia;QLD;---4----;AI;9912;;
+AU;BOU;Boundary Bend;Boundary Bend;NSW;1----6--;RL;1107;;3442S 14309E
+AU;BRK;Bourke;Bourke;NSW;---4----;AI;9601;;
+AU;ZBO;Bowen;Bowen;QLD;1--4----;AC;9511;;
+AU;BWW;Bowen Hills;Bowen Hills;QLD;-----6--;RL;1507;;2726S 15302E
+AU;BWG;Bowning;Bowning;NSW;-23-----;RL;607;;3446S 14849E
+AU;BWA;Bowral;Bowral;NSW;-23-----;RL;607;;3428S 15025E
+AU;BXI;Box Hill;Box Hill;NSW;--3-----;RQ;901;;3339S 15053E
+AU;BXH;Box Hill;Box Hill;VIC;--3-----;RL;1507;;3749S 14508E
+AU;AYB;Boya;Boya;WA;-23-----;RL;1601;;3156S 11603E
+AU;BYU;Boyanup;Boyanup;WA;-23-----;RL;607;;3329S 11543E
+AU;BOY;Boyer;Boyer;TAS;1----6--;RL;901;;4250S 14718E
+AU;BOI;Boyne Island;Boyne Island;QLD;--3-----;RL;1207;;2356S 15121E
+AU;BYB;Boyup Brook;Boyup Brook;WA;-23-----;RL;607;;3350S 11623E
+AU;BCR;Bracken Ridge;Bracken Ridge;QLD;--3-----;RL;1507;;2719S 15302E
+AU;BMR;Braemar;Braemar;NSW;--3-----;RL;1501;;3426S 15029E
+AU;BRS;Braeside;Braeside;VIC;-----6--;RL;901;;3759S 14507E
+AU;BMP;Brampton;Brampton;QLD;---4----;AC;8203;;
+AU;TXB;Branxton;Branxton;NSW;--3-----;RL;1507;;3240S 15122E
+AU;BRB;Braybrook;Braybrook;VIC;--3-----;RQ;907;;3747S 14451E
+AU;BBY;Bremer Bay;Bremer Bay;WA;1-3-----;RL;701;;3423S 11922E
+AU;BDE;Brendale;Brendale;QLD;--3-----;RL;607;;2719S 15258E
+AU;BWQ;Brewarrina;Brewarrina;NSW;---4----;AI;9601;;
+AU;BGT;Bridgetown;Bridgetown;WA;-23-----;RL;607;;3358S 11608E
+AU;BGR;Bridgewater;Bridgewater;TAS;-23-----;RQ;901;;
+AU;BOL;Bridgewater-on-Loddon;Bridgewater-on-Loddon;VIC;1----6--;RL;1107;;3636S 14357E
+AU;BPO;Bridport;Bridport;TAS;1-3-----;RL;1601;;4100S 14724E
+AU;BRI;Brigalow;Brigalow;NSW;--3-----;RL;607;;3110S 14847E
+AU;BRW;Brigalow;Brigalow;QLD;--3-----;RQ;1001;;2651S 15047E
+AU;BRJ;Bright;Bright;VIC;---4----;AI;9912;;
+AU;BRO;Brighton;Brighton;SA;--3-----;RQ;1101;;3501S 13831E
+AU;BTV;Brighton;Brighton;VIC;--3-----;RQ;1101;;3755S 14500E
+AU;BHT;Brighton Downs;Brighton Downs;QLD;---4----;AI;9912;;
+AU;BSA;Brighton-Le-Sands;Brighton-Le-Sands;NSW;1----6--;RL;1107;;3357S 15109E
+AU;BIY;Bringelly;Bringelly;NSW;--3-----;RL;901;;3356S 15044E
+AU;BNE;Brisbane;Brisbane;QLD;12345---;AC;307;;2728S 15301E
+AU;BRA;Brisbane Apt;Brisbane Apt;QLD;---4----;AC;9511;;
+AU;WTB;Brisbane West Wellcamp Airport;Brisbane West Wellcamp Airport;QLD;---4----;RL;1601;;2733S 15147E
+AU;BFR;Broadford;Broadford;VIC;-23-----;RL;1307;;3712S 14504E
+AU;BMD;Broadmeadows;Broadmeadows;NSW;--3-----;RL;607;;2951S 15218E
+AU;BMW;Broadmeadows;Broadmeadows;VIC;1-------;AC;9511;;
+AU;BOW;Broadwood;Broadwood;WA;--3--6--;RL;1207;;3047S 12127E
+AU;NSB;Broke;Broke;NSW;1----6--;RL;1107;;3245S 15106E
+AU;BHQ;Broken Hill;Broken Hill;NSW;---4----;AI;9601;;
+AU;BKL;Brooklyn;Brooklyn;VIC;-23-----;RL;601;;3749S 14450E
+AU;BPK;Brooklyn Park;Brooklyn Park;SA;--3-----;RQ;1101;;3455S 13832E
+AU;BKT;Brookton;Brookton;WA;-23-----;RL;607;;3223S 11700E
+AU;BVE;Brookvale/Sidney;Brookvale/Sidney;NSW;--3--6--;RL;501;;3345S 15116E
+AU;BVL;Brookville;Brookville;VIC;--3-----;RL;201;;3719S 14736E
+AU;BME;Broome;Broome;WA;1--4----;AI;9601;;
+AU;BTD;Brunette Downs;Brunette Downs;NT;---4----;AI;9912;;
+AU;BRU;Brunswich;Brunswich;VIC;-23-----;RL;601;;3746S 14457E
+AU;BWK;Brunswick;Brunswick;VIC;--3-----;RQ;901;;3746S 14458E
+AU;UBD;Buderim;Buderim;QLD;--3-----;RL;1407;;2641S 15303E
+AU;BUV;Buffalo Venture;Buffalo Venture;NT;1-------;AC;501;;
+AU;BDA;Bulahdelah;Bulahdelah;NSW;--3-----;RL;607;;3225S 15212E
+AU;BIP;Bulimba;Bulimba;QLD;---4----;AI;9601;;
+AU;BNX;Bulleen;Bulleen;VIC;--3-----;RL;1407;;3746S 14505E
+AU;BUL;Bulli;Bulli;NSW;1-3-----;RL;601;;3418S 15055E
+AU;BLL;Bullsbrook;Bullsbrook;WA;1----6--;RL;1201;;3140S 11600E
+AU;BWI;Bulwer;Bulwer;QLD;1-------;RL;401;;2704S 15322E
+AU;AUC;Bunbartha;Bunbartha;VIC;--3-----;RL;1601;;3613S 14519E
+AU;BUY;Bunbury;Bunbury;WA;1--4----;AC;9511;;
+AU;BDB;Bundaberg;Bundaberg;QLD;1--4----;AC;9511;;
+AU;BND;Bundall;Bundall;QLD;0-------;RQ;9506;;
+AU;BDM;Bundamba;Bundamba;QLD;--3-----;RL;607;;2737S 15248E
+AU;BXA;Bundeena;Bundeena;NSW;--3-----;RL;1601;;3405S 15109E
+AU;BUN;Bundoora;Bundoora;VIC;-----6--;RQ;1001;;3741S 14503E
+AU;BLW;Bungalow;Bungalow;QLD;--3-----;RL;1401;;1655N 14546E
+AU;EGO;Bungendore;Bungendore;NSW;--3-----;RL;1507;;3515S 14926E
+AU;BGA;Bungwahl;Bungwahl;NSW;--3-----;RL;607;;3223S 15226E
+AU;VBY;Buninyong;Buninyong;VIC;--3-----;RL;1207;;3740S 14355E
+AU;AMK;Bunyip;Bunyip;VIC;--3-----;RL;1507;;3806S 14543E
+AU;BUC;Burketown;Burketown;QLD;1-34----;AI;212;;1744S 13932E
+AU;BLH;Burleigh Heads;Burleigh Heads;QLD;--3-----;RL;607;;2806S 15327E
+AU;BWT;Burnie;Burnie;TAS;1--4----;AC;9511;;
+AU;BRN;Burnside;Burnside;SA;--3-----;RL;901;;3456S 14840E
+AU;BUA;Buronga;Buronga;NSW;--3-----;RQ;907;;3401S 14211E
+AU;BZU;Burraneer;Burraneer;NSW;--3-----;RL;1601;;3404S 15108E
+AU;BJU;Burren Junction;Burren Junction;NSW;-23-----;RL;607;;3006S 14858E
+AU;BGB;Burringbar;Burringbar;NSW;--3-----;RL;607;;2826S 15329E
+AU;BRP;Burrup;Burrup;WA;--3-----;RL;1301;;2034S 11648E
+AU;BWO;Burswood;Burswood;WA;--3-----;RL;1301;;3157S 11553E
+AU;BUO;Burton;Burton;SA;--3-----;RL;1101;;3444S 13836E
+AU;BBW;Burwood;Burwood;NSW;--3-----;RL;1407;;3353S 15106E
+AU;BUW;Burwood;Burwood;VIC;--3-----;RL;1101;;3751S 14506E
+AU;BWE;Burwood East;Burwood East;VIC;--3-----;RL;1301;;3751S 14509E
+AU;BYY;Bushy Park;Bushy Park;VIC;1----6--;RL;1201;;3752S 14702E
+AU;BUS;Busselton;Busselton;WA;1-------;AC;8203;;
+AU;UQF;Bute;Bute;SA;--3-----;RL;1501;;3351S 13800E
+AU;BYF;Byford;Byford;WA;--3-----;RL;1601;;3213S 11600E
+AU;S2E;Bylands;Bylands;VIC;--3-----;RL;1601;;3721S 14458E
+AU;BAY;Byron Bay;Byron Bay;NSW;-----6--;RQ;907;;2839S 15337E
+AU;CAB;Caboolture;Caboolture;QLD;--3-----;RL;1207;;2705S 15257E
+AU;CDX;Cadoux;Cadoux;WA;--3-----;RL;1507;;3046S 11708E
+AU;CGV;Caiguna;Caiguna;WA;---4----;AI;9912;;
+AU;CNS;Cairns;Cairns;QLD;1--4----;AC;9511;;
+AU;CUD;Caloundra;Caloundra;QLD;---4----;AI;9601;;
+AU;CAL;Caloundra Head;Caloundra Head;QLD;1-------;AC;9511;;
+AU;CAM;Camberwell;Camberwell;VIC;-23-----;RL;901;;3750S 14504E
+AU;CMB;Cambridge;Cambridge;TAS;1----6--;RL;1107;;4250S 14727E
+AU;CDU;Camden;Camden;NSW;---4----;AI;9912;;
+AU;CIA;Camellia;Camellia;NSW;-23-----;RL;607;;3349S 15101E
+AU;CFI;Camfield;Camfield;NT;---4----;AI;9912;;
+AU;CML;Camooweal;Camooweal;QLD;---4----;AI;9601;;
+AU;CPA;Campania;Campania;TAS;--3-----;RL;901;;4240N 14725E
+AU;CFL;Campbellfield;Campbellfield;VIC;--3-----;RL;1401;;3741N 14457E
+AU;CPC;Campbells Creek;Campbells Creek;VIC;--3-----;RL;1301;;3706S 14413E
+AU;CBN;Campbelltown;Campbelltown;NSW;--3-----;RL;9811;;
+AU;CMT;Campbelltown;Campbelltown;SA;--3-----;RL;1501;;3453S 13840E
+AU;CMP;Camperdown;Camperdown;NSW;1-------;RL;1107;;3353S 15110E
+AU;CPW;Camperdown;Camperdown;VIC;--3-----;RL;1207;;3814S 14309E
+AU;CBR;Canberra;Canberra;ACT;1--45---;AC;9511;;
+AU;CNN;Canning Vale/Perth;Canning Vale/Perth;WA;--3-----;RL;106;;3204S 11556E
+AU;CNT;Cannington;Cannington;WA;--3-----;RQ;1101;;3201S 11557E
+AU;CAH;Cannon Hill;Cannon Hill;QLD;-23-----;RL;607;;2728S 15305E
+AU;CBY;Canobie;Canobie;QLD;---4----;AI;9912;;
+AU;CDS;Canoelands;Canoelands;NSW;--3-----;RQ;1101;;3330S 15104E
+AU;JWI;Canowindra;Canowindra;NSW;--3-----;RL;1507;;3334S 14840E
+AU;NCT;Canterbury;Canterbury;NSW;-----6--;RL;1201;;3354S 15107E
+AU;VRY;Canterbury;Canterbury;VIC;--3-----;RL;1501;;3749S 14504E
+AU;NBC;Canungra;Canungra;QLD;--3-----;RL;1501;;2802S 15310E
+AU;CAP;Capalaba;Capalaba;QLD;1-3-----;RL;1401;;2731S 15311E
+AU;CBI;Cape Barren Island;Cape Barren Island;TAS;---4----;AI;9912;;
+AU;CCU;Cape Cuvier;Cape Cuvier;WA;1-------;AC;9511;;
+AU;DON;Cape Don;Cape Don;NT;1-------;RL;1401;;1119S 13145E
+AU;CQP;Cape Flattery;Cape Flattery;QLD;1-------;AI;9401;;
+AU;CLT;Cape Lambert;Cape Lambert;WA;1-------;AC;9511;;
+AU;CLN;Cape Leeuwin;Cape Leeuwin;WA;1-------;AC;9511;;
+AU;CPN;Cape Preston;Cape Preston;WA;1-------;AC;9511;;
+AU;CPL;Capel;Capel;WA;-23-----;RL;607;;3334S 11534E
+AU;CBD;Carabooda;Carabooda;WA;--3-----;RL;1507;;3136S 11542E
+AU;CBO;Carboor;Carboor;VIC;1----6--;RL;1201;;3638S 14633E
+AU;CRK;Carbrook;Carbrook;QLD;--3-----;RL;1401;;2741S 15316E
+AU;UUP;Carbunup;Carbunup;WA;--3-----;RL;1507;;3342S 11511E
+AU;CDF;Cardiff;Cardiff;NSW;--3-----;RL;1207;;3257S 15140E
+AU;CGL;Carey Gully;Carey Gully;SA;--3-----;RL;1507;;3458S 13846E
+AU;CG4;Cargo;Cargo;NSW;--3-----;RL;1501;;3325S 14849E
+AU;CAR;Carina Heights;Carina Heights;QLD;1-------;RL;1107;;2730S 15305E
+AU;CDL;Carindale;Carindale;QLD;--3-----;RL;1207;;2730S 15306E
+AU;CNE;Carine;Carine;WA;--3-----;RL;1507;;3150S 11547E
+AU;CRG;Caringbah;Caringbah;NSW;-23--6--;RL;501;;3403S 15108E
+AU;CLF;Carlingford;Carlingford;NSW;1-------;RL;1107;;3347S 15103E
+AU;CRT;Carlton;Carlton;VIC;-----6--;RL;901;;3748S 14458E
+AU;CRY;Carlton Hill;Carlton Hill;WA;---4----;AI;9912;;
+AU;CR2;Carlton River;Carlton River;TAS;--3-----;RL;1507;;4252S 14741E
+AU;CVQ;Carnarvon;Carnarvon;WA;1--4----;AC;9511;;
+AU;UCG;Carnegie;Carnegie;VIC;--3-----;RL;1501;;3752S 14503E
+AU;CRP;Carole Park;Carole Park;QLD;-----6--;RL;1107;;
+AU;SRS;Caroline Springs;Caroline Springs;VIC;--3-----;RL;1407;;3744S 14444E
+AU;CFP;Carpentaria Downs;Carpentaria Downs;QLD;---4----;AI;9912;;
+AU;CRA;Carrara;Carrara;QLD;--3-----;RL;701;;2801S 15322E
+AU;CRR;Carrington;Carrington;NSW;-----6--;RL;901;;3240S 15210E
+AU;CAD;Carrum Downs;Carrum Downs;VIC;--3-----;RL;601;;3805S 14511E
+AU;CSI;Casino;Casino;NSW;---4----;AI;9601;;
+AU;CTC;Castle Cove;Castle Cove;NSW;--3-----;RL;1507;;3347S 15112E
+AU;CHI;Castle Hill;Castle Hill;NSW;--3-----;RL;901;;3344S 15100E
+AU;CSX;Castlecrag;Castlecrag;NSW;--3-----;RL;1601;;3348S 15113E
+AU;CSM;Castlemaine;Castlemaine;VIC;-23-----;RL;1307;;3703S 14413E
+AU;CAS;Castlereagh;Castlereagh;NSW;-----6--;RQ;907;;3340S 15041E
+AU;CZA;Casuarina;Casuarina;NSW;--3-----;RL;1501;;2818S 15334E
+AU;S9S;Casula;Casula;NSW;--3-----;RL;1507;;3357S 15055E
+AU;CTB;Cataby;Cataby;WA;--3-----;RL;607;;3043S 11530E
+AU;CHB;Catherine Hill Bay;Catherine Hill Bay;NSW;1-------;AC;9511;;
+AU;CTR;Cattle Creek;Cattle Creek;NT;---4----;AI;9912;;
+AU;CUN;Caufield North;Caufield North;VIC;1-------;RQ;1101;;3752S 01451E
+AU;CLD;Caulfield;Caulfield;VIC;-2------;RL;1207;;3753S 14501E
+AU;CAV;Cavan;Cavan;SA;--3-----;RL;901;;3449S 13835E
+AU;CVS;Caversham;Caversham;WA;1----6--;RL;1107;;3153S 11558E
+AU;C8M;Caves Beach;Caves Beach;NSW;--3-----;RL;1507;;3306S 15139E
+AU;CED;Ceduna;Ceduna;SA;---4----;AI;9601;;
+AU;CES;Cessnock;Cessnock;NSW;---4----;AI;9912;;
+AU;CHD;Chadstone/Melbourne;Chadstone/Melbourne;VIC;-23-----;RL;201;;3753S 14504E
+AU;CWK;Chadwick;Chadwick;WA;-23-----;RL;1501;;3350S 12153E
+AU;CHV;Challis Venture (oil terminal);Challis Venture (oil terminal);NT;1-------;AC;9701;;
+AU;DLH;Chandlers Hill;Chandlers Hill;;-----6--;RL;1107;;3505S 13836E
+AU;CTL;Charleville;Charleville;QLD;---4----;AI;9601;;
+AU;HOC;Charlton;Charlton;VIC;--3-----;RL;1507;;3616S 14321E
+AU;CXT;Charters Towers;Charters Towers;QLD;---4----;AI;9601;;
+AU;CHA;Chatswood;Chatswood;NSW;1-3-----;RQ;9806;;
+AU;CWI;Chatsworth Island;Chatsworth Island;NSW;--3-----;RL;607;;2923S 15314E
+AU;S2R;Chelsea;Chelsea;VIC;--3-----;RL;1601;;3803S 14507E
+AU;CHL;Cheltenham/Melbourne;Cheltenham/Melbourne;VIC;--3-----;RL;106;;3758S 14502E
+AU;CHE;Chermside;Chermside;QLD;1-------;RL;1107;;2723S 15310E
+AU;CBC;Cherrabun;Cherrabun;WA;---4----;AI;9601;;
+AU;CRH;Cherribah;Cherribah;QLD;---4----;AI;9912;;
+AU;YRN;Cherry Gardens;Cherry Gardens;SA;--3-----;RL;1507;;3504S 13839E
+AU;CYB;Cherrybook;Cherrybook;NSW;--3-----;RQ;1101;;3343S 15102E
+AU;UTH;Cheshunt;Cheshunt;VIC;--3-----;RL;1507;;3648S 14626E
+AU;ATL;Chester Hill;Chester Hill;NSW;-----6--;RL;1201;;3352S 15100E
+AU;CHF;Chifley;Chifley;NSW;-----6--;RL;1107;;3358S 15114E
+AU;CHS;Childers;Childers;QLD;--3-----;RL;1601;;2517S 15217E
+AU;LLG;Chillagoe;Chillagoe;QLD;---4----;AI;9912;;
+AU;CCL;Chinchilla;Chinchilla;QLD;---4----;AI;9912;;
+AU;CN6;Chinderah;Chinderah;NSW;1-3-----;RL;1401;;2814S 15333E
+AU;DPP;Chippendale;Chippendale;NSW;-----6--;RL;1301;;3353N 15112E
+AU;CHN;Chipping Norton;Chipping Norton;NSW;--3-----;RL;401;;3354S 15057E
+AU;CHT;Chittering;Chittering;WA;1----6--;RL;1107;;3129S 11606E
+AU;CXQ;Christmas Creek;Christmas Creek;WA;---4----;AI;9912;;
+AU;CHU;Chullora;Chullora;NSW;-23-----;RL;401;;3354S 15103E
+AU;CCH;Churchill;Churchill;VIC;--3-----;RL;1307;;3819S 14625E
+AU;TYC;City Beach;City Beach;WA;--3-----;RL;1507;;3156S 11545E
+AU;SCL;Clare;Clare;SA;1----6--;RL;1107;;3350S 13836E
+AU;CLM;Claremont;Claremont;WA;123-5---;RL;1107;;3159S 11547E
+AU;CLR;Clarence River;Clarence River;NSW;1-------;AC;9511;;
+AU;CDN;Clarendon;Clarendon;SA;1-------;RL;1107;;3507S 13838E
+AU;V5V;Clareville;Clareville;NSW;--3-----;RL;1507;;3338S 15119E
+AU;SNN;Clarkson;Clarkson;WA;--3-----;RL;1507;;3140S 11543E
+AU;CAY;Clayton;Clayton;QLD;--3-----;RQ;907;;2456S 15222E
+AU;CLY;Clayton/Melbourne;Clayton/Melbourne;VIC;--3-----;RL;307;;3755S 14507E
+AU;CMQ;Clermont;Clermont;QLD;---4----;AI;9601;;
+AU;CVC;Cleve;Cleve;SA;---4----;AI;9601;;
+AU;CVN;Cleveland;Cleveland;QLD;1-3--6--;RL;607;;2732S 15316E
+AU;CFH;Clifton Hills;Clifton Hills;SA;---4----;AI;9912;;
+AU;CNJ;Cloncurry;Cloncurry;QLD;---4----;AI;9601;;
+AU;CTF;Clontarf;Clontarf;NSW;-----6--;RL;1201;;3348S 15115E
+AU;CLO;Clontarf;Clontarf;QLD;-----6--;RL;901;;2758S 15113E
+AU;CVL;Clovelly;Clovelly;NSW;1-------;RL;1301;;3354S 15115E
+AU;CLP;Clovelly Park;Clovelly Park;SA;--3-----;RL;607;;3500S 13834E
+AU;CLU;Clunes;Clunes;NSW;--3-----;RL;607;;2844S 15325E
+AU;CZY;Cluny;Cluny;QLD;---4----;AI;9912;;
+AU;CYD;Clyde;Clyde;NSW;--3-----;RL;1307;;3350S 15101E
+AU;S2A;Clyde;Clyde;VIC;--3-----;RL;1601;;3808S 14520E
+AU;CAZ;Cobar;Cobar;NSW;---4----;AI;9601;;
+AU;OBR;Cobram;Cobram;VIC;-----6--;RQ;907;;3555S 14539E
+AU;CBG;Coburg;Coburg;VIC;-23--6--;RL;501;;3745S 14458E
+AU;CTI;Cockatoo Island;Cockatoo Island;WA;1-------;RQ;901;;1606S 12337E
+AU;CNC;Coconut Island;Coconut Island;QLD;---4----;AI;9912;;
+AU;DGQ;Codrington;Codrington;VIC;--3-----;RL;1601;;3815S 14157E
+AU;CUQ;Coen;Coen;QLD;---4----;AI;9912;;
+AU;CFS;Coffs Harbour;Coffs Harbour;NSW;1--4----;AC;9511;;
+AU;GIR;Coghills Creek;Coghills Creek;VIC;--3-----;RL;1507;;3723S 14346E
+AU;XCO;Colac;Colac;VIC;---4----;AI;9912;;
+AU;CON;Colbinabbin;Colbinabbin;VIC;-23-----;RL;701;;3636S 14447E
+AU;CST;Coldstream;Coldstream;VIC;1----6--;RL;1107;;3743S 14522E
+AU;IGA;Colignan;Colignan;VIC;--3-----;RL;1507;;3433S 14223E
+AU;CLL;Collan Islands;Collan Islands;WA;1-------;AC;9511;;
+AU;CRB;Collarenebri;Collarenebri;NSW;---4----;AI;9912;;
+AU;OYL;Collaroy;Collaroy;NSW;--3-----;RL;1501;;3343S 15118E
+AU;LTE;Collector;Collector;NSW;--3-----;RL;1507;;3455S 14926E
+AU;CIE;Collie;Collie;WA;---4----;AI;9912;;
+AU;OOC;Collingwood;Collingwood;VIC;-----6--;RL;1201;;3748S 14459E
+AU;KCE;Collinsville;Collinsville;QLD;---4----;AI;9601;;
+AU;IWS;Collinswood;Collinswood;SA;--3-----;RL;1407;;3453S 13837E
+AU;CUL;Columboola;Columboola;QLD;-23-----;RL;1401;;2641S 15020E
+AU;CMO;Como;Como;NSW;1----6--;RL;1201;;3400S 15104E
+AU;ORN;Concord;Concord;NSW;--3-----;RL;1507;;3352S 15106E
+AU;HDC;Condah;Condah;VIC;--3-----;RL;1507;;3757S 14145E
+AU;CDE;Condamine;Condamine;QLD;1-3-----;RL;1307;;2656S 15008E
+AU;CBX;Condobolin;Condobolin;NSW;---4----;AI;9601;;
+AU;CVP;Connells Point;Connells Point;NSW;--3-----;RL;1601;;3359S 15105E
+AU;CPD;Coober Pedy;Coober Pedy;SA;---4----;AI;9601;;
+AU;CEE;Cooee;Cooee;TAS;-----6--;RQ;907;;4104S 14553E
+AU;CXE;Coogee;Coogee;NSW;--3-----;RL;1601;;3355S 15116E
+AU;CDA;Cooinda;Cooinda;NT;---4----;AI;9912;;
+AU;CTN;Cooktown;Cooktown;QLD;1--4----;AC;9511;;
+AU;CLB;Coolabah;Coolabah;NSW;-23-----;RL;607;;3101S 14642E
+AU;CLH;Coolah;Coolah;NSW;---4----;AI;9912;;
+AU;CLA;Coolamon;Coolamon;NSW;-23-----;RL;607;;3449S 14712E
+AU;COL;Coolaroo;Coolaroo;VIC;--3-----;RQ;907;;3739S 14456E
+AU;COY;Coolawanyah;Coolawanyah;WA;---4----;AI;9912;;
+AU;CGA;Coolgardie;Coolgardie;WA;-23-----;RL;607;;3057S 12109E
+AU;COB;Coolibah;Coolibah;NT;---4----;AI;307;;1534S 13058E
+AU;COU;Coolum;Coolum;QLD;1----6--;RL;1107;;2633S 15305E
+AU;COM;Cooma;Cooma;NSW;---4----;AC;1101;OOM;3614S 14908E
+AU;CKM;Coomba Park;Coomba Park;NSW;-----6--;RL;1501;;3214S 15228E
+AU;COO;Coomera;Coomera;QLD;123-----;RL;501;;2753S 15318E
+AU;YMN;Coominya;Coominya;QLD;-----6--;RL;901;;2723S 15230E
+AU;COJ;Coonabarabran;Coonabarabran;NSW;---4----;AI;9912;;
+AU;CNB;Coonamble;Coonamble;NSW;---4----;AI;9912;;
+AU;CNW;Coonawarra;Coonawarra;SA;1----6--;RL;1107;;3718S 14049E
+AU;CPS;Coopers Plains;Coopers Plains;QLD;--3-----;RL;9805;;
+AU;CRJ;Coorabie;Coorabie;SA;---4----;AI;9912;;
+AU;CPR;Coorparoo;Coorparoo;QLD;1----6--;RL;1107;;2730S 15303E
+AU;CMD;Cootamundra;Cootamundra;NSW;---4----;AI;9601;;
+AU;CRL;Coral Bay;Coral Bay;WA;1-------;RL;1401;;2308S 11346E
+AU;CRS;Coral Sea;Coral Sea;;1--4----;RL;212;;1905S 15054E
+AU;ODL;Cordillo Downs;Cordillo Downs;SA;---4----;AI;9912;;
+AU;CBA;Corio Bay;Corio Bay;VIC;1-------;AC;307;;3807S 14426E
+AU;CRV;Coromandel Valley;Coromandel Valley;SA;1----6--;RL;1107;;3503S 13837E
+AU;CWW;Corowa;Corowa;NSW;---4----;AI;9601;;
+AU;CYG;Corryong;Corryong;VIC;---4----;AI;9912;;
+AU;COP;Cossack Pioneer (oil terminal);Cossack Pioneer (oil terminal);WA;1-------;AC;9701;;
+AU;CTE;Cottesloe;Cottesloe;WA;1----6--;RL;1107;;3200S 11546E
+AU;CTT;Cottles Bridge;Cottles Bridge;VIC;1----6--;RL;1107;;3738S 14513E
+AU;DIL;Cowandilla;Cowandilla;SA;1----6--;RL;1201;;3455S 13833E
+AU;COW;Cowaramup;Cowaramup;;1----6--;RL;1107;;3352S 11505E
+AU;CWR;Cowarie;Cowarie;SA;---4----;AI;9912;;
+AU;CCW;Cowell;Cowell;SA;---4----;AI;9912;;
+AU;ESS;Cowes;Cowes;SA;--3-----;RL;1507;;3827S 14514E
+AU;CWT;Cowra;Cowra;NSW;---4----;AI;9601;;
+AU;DOC;Cradoc;Cradoc;TAS;--3-----;RL;1507;;4305S 14701E
+AU;CRF;Crafers;Crafers;SA;1----6--;RL;1107;;3500S 13842E
+AU;CVA;Craigieburn;Craigieburn;VIC;-23-----;RL;701;;3736S 14456E
+AU;RRK;Cranbrook;Cranbrook;TAS;--3-----;RL;1507;;4200S 14804E
+AU;KRR;Cranbrook;Cranbrook;WA;--3-----;RL;1507;;3418S 11732E
+AU;CRW;Crawley;Crawley;WA;--3-----;RL;1101;;3159S 11549E
+AU;CMN;Cremorne;Cremorne;NSW;--3-----;RL;1207;;3350S 15113E
+AU;CMR;Cremorne;Cremorne;VIC;--3-----;RL;1401;;3750S 14500E
+AU;CSD;Cresswell Downs;Cresswell Downs;NT;---4----;AI;9912;;
+AU;TAS;Cressy;Cressy;TAS;--3-----;RL;1307;;4141S 14704E
+AU;CRE;Crestmead;Crestmead;QLD;1----6--;RL;1201;;2741S 15305E
+AU;EKW;Creswick;Creswick;VIC;--3-----;RL;1507;;3725S 14355E
+AU;CPT;Crib Point;Crib Point;VIC;--3-----;RL;1501;;3821S 14512E
+AU;CRI;Cringila;Cringila;NSW;--3-----;RL;1207;;3428S 15053E
+AU;CKI;Croker Island;Croker Island;NT;---4----;AI;9601;;
+AU;CER;Cromer;Cromer;NSW;--3-----;RL;1507;;3343S 15117E
+AU;C8R;Cromer;Cromer;SA;1-------;RL;1401;;3446S 13900E
+AU;CRU;Cronulla;Cronulla;NSW;1----6--;RL;1201;;3403S 15109E
+AU;CWN;Crows Nest;Crows Nest;NSW;-----6--;RL;1201;;3349S 15112E
+AU;CRO;Croxton;Croxton;VIC;-23-----;RL;1601;;3747S 14209E
+AU;WYC;Croydon;Croydon;NSW;--3-----;RL;1207;;3353S 15107E
+AU;CDQ;Croydon;Croydon;QLD;---4----;AI;9601;;
+AU;CDO;Croydon;Croydon;SA;--3-----;RL;1407;;3453S 13833E
+AU;CRX;Croydon;Croydon;VIC;--3-----;RQ;1001;;3748S 14517E
+AU;OLL;Croydon Hills;Croydon Hills;VIC;--3-----;RL;1507;;3746S 14515E
+AU;CUG;Cudal;Cudal;NSW;---4----;AI;9912;;
+AU;CCS;Cudlee Creek;Cudlee Creek;SA;-----6--;RL;1107;;3450S 13849E
+AU;CUY;Cue;Cue;WA;---4----;AI;9601;;
+AU;CLC;Culcairn;Culcairn;NSW;-23-----;RL;607;;3540S 14702E
+AU;CBU;Cullen Bullen;Cullen Bullen;NSW;--3-----;RL;607;;3318S 15002E
+AU;CDI;Cunderdin;Cunderdin;WA;-23-----;RL;607;;3139S 11714E
+AU;CMA;Cunnamulla;Cunnamulla;QLD;---4----;AI;9601;;
+AU;CC2;Curl Curl;Curl Curl;NSW;--3-----;RL;1601;;3346S 15117E
+AU;RLW;Curlewis;Curlewis;VIC;--3-----;RL;1507;;3811S 14429E
+AU;CCR;Currency Creek;Currency Creek;SA;--3-----;RQ;1101;;3527S 13846E
+AU;CUR;Currumbin Waters;Currumbin Waters;QLD;--3-----;RL;901;;2809S 15327E
+AU;DCV;Daceyville;Daceyville;NSW;-----6--;RL;1601;;3355S 15113E
+AU;DAG;D'Aguilar;D'Aguilar;QLD;--3-----;RL;1507;;2659S 15248E
+AU;DHL;Daisy Hill;Daisy Hill;QLD;--3-----;RQ;101;;
+AU;DJR;Dajarra;Dajarra;QLD;--3-----;RL;1601;;2141S 13931E
+AU;DBY;Dalby;Dalby;QLD;---4----;AI;9912;;
+AU;KLT;Dalkeith;Dalkeith;WA;--3-----;RL;1507;;3159S 11547E
+AU;DMO;Dalmore;Dalmore;VIC;--3-----;RL;901;;3811S 14525E
+AU;DIT;Dalrymple Islet;Dalrymple Islet;;1-------;RL;201;;0936S 14318E
+AU;DAL;Dalton;Dalton;NSW;1-----7-;RL;1107;;3443S 14911E
+AU;DVR;Daly River;Daly River;NT;---4----;AI;9912;;
+AU;DYW;Daly Waters;Daly Waters;NT;---4----;AI;9912;;
+AU;DAM;Dampier;Dampier;WA;1-------;AC;9511;;
+AU;DND;Dandenong;Dandenong;VIC;--3-----;RL;9805;;
+AU;VDS;Dandenong South;Dandenong South;VIC;--3-----;RL;1207;;3801S 14512E
+AU;DTO;Dapto;Dapto;NSW;-23-----;RL;607;;3430S 15047E
+AU;DAR;Dardanup;Dardanup;WA;1----6--;RL;1107;;3324S 11545E
+AU;DOW;Darling Downs;Darling Downs;WA;--3-----;RL;1507;;3211S 11558E
+AU;DOI;Darling Point;Darling Point;NSW;--3-----;RL;1307;;3352S 15114E
+AU;GHU;Darlinghurst;Darlinghurst;NSW;-----6--;RQ;907;;3353S 15113E
+AU;DLT;Darlington;Darlington;WA;-----6--;RL;1107;;3155S 11605E
+AU;DTP;Darlington Point;Darlington Point;NSW;--3-----;RL;607;;3434S 14600E
+AU;NLF;Darnley Island;Darnley Island;QLD;---4----;AI;9912;;
+AU;DAA;Darra;Darra;QLD;1-------;AC;9511;;
+AU;DRW;Darwin;Darwin;NT;12345---;AC;307;;1227S 13050E
+AU;DAJ;Dauan Island;Dauan Island;QLD;---4----;AI;9912;;
+AU;DVP;Davenport Downs;Davenport Downs;QLD;---4----;AI;9912;;
+AU;DVS;Davidson;Davidson;NSW;--3-----;RL;1601;;3344S 15112E
+AU;BOA;Dayboro;Dayboro;QLD;--3-----;RL;1301;;2711S 15250E
+AU;DDI;Daydream Is;Daydream Is;QLD;---4----;AC;8203;;
+AU;DEB;Deception Bay;Deception Bay;QLD;--3-----;RL;1301;;2712S 15302E
+AU;DPK;Deer Park;Deer Park;VIC;--3-----;RQ;907;;3746S 14447E
+AU;DWH;Deewhy;Deewhy;NSW;--3-----;RL;1407;;3345S 15118E
+AU;DLV;Delissaville;Delissaville;NT;---4----;AI;9912;;
+AU;WQ8;Deloraine;Deloraine;TAS;--3-----;RL;1407;;4132S 14640E
+AU;DDN;Delta Downs;Delta Downs;QLD;---4----;AI;9912;;
+AU;DNM;Denham;Denham;WA;---4----;AI;9601;;
+AU;DNQ;Deniliquin;Deniliquin;NSW;---4----;AI;9601;;
+AU;DEN;Denman;Denman;NSW;--3-----;RL;1207;;3223S 15041E
+AU;DMA;Denmark;Denmark;WA;-23-----;RL;607;;3458S 11721E
+AU;DRB;Derby;Derby;WA;1--4----;AC;9511;;
+AU;DVI;Derrimut;Derrimut;VIC;--3-----;RL;701;;3749S 14444E
+AU;DEV;Deviot;Deviot;TAS;-----6--;RL;901;;4114S 14656E
+AU;S2V;Devon Meadows;Devon Meadows;VIC;--3-----;RL;1601;;3810S 14518E
+AU;DPO;Devonport;Devonport;TAS;1--4----;AC;9511;;
+AU;DHI;Dhipirrinjura;Dhipirrinjura;NT;1-------;RL;1401;;1215S 13505E
+AU;DYM;Diamantina Lakes;Diamantina Lakes;QLD;---4----;AI;9912;;
+AU;DIA;Diamond Creek;Diamond Creek;VIC;1----6--;RL;1107;;3740S 14509E
+AU;DIC;Dickson;Dickson;ACT;--3-----;RL;1207;;3515S 14908E
+AU;DGY;Dingley Village;Dingley Village;VIC;--3--6--;RL;601;;3759S 14508E
+AU;DIR;Direk;Direk;SA;--3-----;RL;1207;;3443S 13836E
+AU;DRN;Dirranbandi;Dirranbandi;QLD;---4----;AI;9601;;
+AU;DXD;Dixie;Dixie;QLD;---4----;AI;9912;;
+AU;DXK;Dixons Creek;Dixons Creek;VIC;--3-----;RL;1507;;3736S 14525E
+AU;DBP;Dobroyd Point;Dobroyd Point;NSW;--3-----;RL;1601;;3352S 15108E
+AU;DKV;Docker River;Docker River;NT;---4----;AI;9912;;
+AU;DOK;Docklands;Docklands;VIC;--3-----;RQ;1101;;3749S 14456E
+AU;DLY;Dolans Bay;Dolans Bay;NSW;--3-----;RL;1601;;3403S 15107E
+AU;DCR;Doncaster;Doncaster;VIC;-23-----;RL;501;;3747S 14508E
+AU;DOX;Dongara;Dongara;WA;---4----;AI;9912;;
+AU;S2M;Donnybrook;Donnybrook;VIC;-23-----;RL;1601;;3732S 14459E
+AU;DRO;Donnybrook;Donnybrook;WA;--3-----;RL;1507;;3335S 11549E
+AU;DVE;Donvale;Donvale;VIC;--3-----;RL;1507;;3748S 14511E
+AU;DDK;Doodlakine;Doodlakine;WA;--3-----;RL;607;;3135S 11751E
+AU;DMD;Doomadgee;Doomadgee;QLD;---4----;AI;9912;;
+AU;DNS;Doonside;Doonside;NSW;--3-----;RL;1601;;3346S 15052E
+AU;S3W;Doreen;Doreen;VIC;--3-----;RL;1601;;3736S 14509E
+AU;DRD;Dorunda Station;Dorunda Station;QLD;---4----;AI;9912;;
+AU;DLB;Double Bay;Double Bay;NSW;--3-----;RQ;1101;;3352S 15114E
+AU;VVD;Dover Gardens;Dover Gardens;SA;--3-----;RL;1501;;3501S 13832E
+AU;DVT;Doveton;Doveton;VIC;--3-----;RL;1207;;3759S 14514E
+AU;DNA;Dromana;Dromana;VIC;--3-----;RL;1507;;3820S 14458E
+AU;DRU;Drouin;Drouin;VIC;-23-----;RL;1307;;3808S 14551E
+AU;DFP;Drumduff;Drumduff;QLD;---4----;AI;9912;;
+AU;DRE;Drummoyne/Sydney;Drummoyne/Sydney;;--3-----;RL;201;;3351S 15109E
+AU;DCK;Dry Creek;Dry Creek;SA;--3-----;RL;1207;;3450S 13835E
+AU;EEK;Dry Creek;Dry Creek;VIC;-----6--;RL;1107;;3657S 14551E
+AU;DRY;Drysdale;Drysdale;VIC;1----6--;RL;1107;;3810S 14434E
+AU;DBO;Dubbo;Dubbo;NSW;---4----;AI;9601;;
+AU;DDP;Dudley Park;Dudley Park;SA;--3-----;RL;1201;;3452S 13834E
+AU;DLK;Dulkaninna;Dulkaninna;SA;---4----;AI;9912;;
+AU;DUL;Dulwich;Dulwich;SA;--3-----;RL;701;;3456S 13838E
+AU;DNB;Dunbar;Dunbar;QLD;---4----;AI;9912;;
+AU;DCG;Duncraig;Duncraig;WA;--3-----;RQ;901;;3149S 11546E
+AU;DDO;Dunedoo;Dunedoo;NSW;-23-----;RL;607;;3201S 14924E
+AU;DGO;Dungog;Dungog;NSW;-23-----;RL;607;;3225S 15145E
+AU;DKI;Dunk Island;Dunk Island;QLD;---4----;AI;9601;;
+AU;DSB;Dunsborough;Dunsborough;WA;--3-----;RL;607;;3336S 11506E
+AU;D8N;Dural;Dural;NSW;--3-----;RL;1507;;3340S 15101E
+AU;DHD;Durham Downs;Durham Downs;QLD;---4----;AI;9912;;
+AU;DRR;Durrie;Durrie;QLD;---4----;AI;9912;;
+AU;DYA;Dysart;Dysart;QLD;---4----;AI;9912;;
+AU;ELF;Eagle Farm;Eagle Farm;QLD;--3-----;RL;607;;2726S 15305E
+AU;ERL;Earlwood;Earlwood;NSW;--3-----;RL;1601;;3357S 15106E
+AU;EAA;East Arm;East Arm;NT;--3-----;RQ;907;;1228S 13055E
+AU;EBN;East Brisbane;East Brisbane;QLD;--3-----;RL;1207;;2729S 15302E
+AU;EVP;East Devonport;East Devonport;TAS;--3-----;RL;901;;4111S 14623E
+AU;SFT;East Fremantle;East Fremantle;WA;--3-----;RL;1507;;3202S 11546E
+AU;EHS;East Hills;East Hills;NSW;--3-----;RL;1601;;3358S 15059E
+AU;EJB;East Jindabyne;East Jindabyne;NSW;--3-----;RL;607;;3624S 14840E
+AU;EML;East Maitland;East Maitland;NSW;--3-----;RL;901;;3245S 15135E
+AU;RIA;East Pastoria;East Pastoria;VIC;--3-----;RL;1507;;3710S 14436E
+AU;EPT;East Perth;East Perth;WA;--3-----;RL;1407;;3157S 11552E
+AU;ECR;Eastern Creek;Eastern Creek;NSW;--3-----;RL;1301;;3347S 15051E
+AU;ECK;Eastern Creek;Eastern Creek;WA;--3-----;RL;907;;2141S 12037E
+AU;EWD;Eastwood;Eastwood;NSW;--3-----;RL;1207;;3348S 15105E
+AU;AOK;Eatons Hill;Eatons Hill;QLD;--3-----;RL;1507;;2720S 15256E
+AU;EBB;Ebenezer;Ebenezer;SA;--3-----;RL;1507;;3425S 13902E
+AU;ECH;Echuca;Echuca;VIC;---4----;AC;9601;;
+AU;EUG;Echunga;Echunga;SA;--3-----;RL;1507;;3506S 13848E
+AU;QDN;Eden;Eden;NSW;1--4----;AC;9511;;
+AU;EDE;Eden Valley;Eden Valley;SA;1----6--;RL;1107;;3439S 13906E
+AU;EDI;Edi;Edi;VIC;-----6--;RQ;907;;3639S 14626E
+AU;EBH;Edinburgh;Edinburgh;SA;---4----;AC;9709;;
+AU;EDC;Edith Creek;Edith Creek;TAS;--3-----;RL;1601;;4058S 14506E
+AU;EDB;Edithburgh;Edithburgh;SA;1-------;AC;8203;;
+AU;S3E;Edithvale;Edithvale;VIC;--3-----;RL;1601;;3802S 14507E
+AU;EDR;Edward River;Edward River;QLD;---4----;AI;9912;;
+AU;EDW;Edwardstown;Edwardstown;SA;-23-----;RL;607;;3458S 13834E
+AU;EIH;Einasleigh;Einasleigh;QLD;---4----;AI;9912;;
+AU;ELC;Elcho Island;Elcho Island;NT;---4----;AI;9601;;
+AU;ELE;Electrona;Electrona;TAS;1-------;AC;8203;;
+AU;ELZ;Elizabeth;Elizabeth;SA;-23--6--;RL;607;;3443S 13839E
+AU;ELB;Elizabeth Bay;Elizabeth Bay;NT;1-------;RL;1401;;1154S 13633E
+AU;EKD;Elkedra;Elkedra;NT;---4----;AI;9912;;
+AU;ELW;Elsternwick;Elsternwick;VIC;-23-----;RL;307;;3753S 14500E
+AU;ELT;Eltham;Eltham;VIC;1----6--;RL;1107;;3744S 14509E
+AU;EWO;Elwood;Elwood;VIC;-----6--;RL;901;;3753S 14459E
+AU;EMD;Emerald;Emerald;QLD;---4----;AI;9601;;
+AU;EMP;Emu Plains;Emu Plains;NSW;-23-----;RL;1601;;3345S 15040E
+AU;EAB;Eneabba;Eneabba;WA;--3-----;RL;607;;2948S 11506E
+AU;ENB;Eneabba West;Eneabba West;WA;---4----;AI;9912;;
+AU;ENG;Engadine;Engadine;NSW;--3-----;RL;1601;;3404S 15101E
+AU;EPG;Epping;Epping;NSW;--3-----;RL;1301;;3347S 15105E
+AU;EPP;Epping;Epping;VIC;--3-----;RL;1401;;3739S 14502E
+AU;ESM;Epsom;Epsom;VIC;--3-----;RL;901;;3643S 14419E
+AU;ERN;Erina;Erina;NSW;--3-----;RL;901;;3326S 15123E
+AU;EDD;Erldunda;Erldunda;NT;---4----;AI;9912;;
+AU;ERM;Ermington;Ermington;NSW;--3-----;RL;901;;3349S 15103E
+AU;ERB;Ernabella;Ernabella;SA;---4----;AI;9912;;
+AU;EPK;Erskine Park;Erskine Park;NSW;--3-----;RQ;901;;3348S 15048E
+AU;ERS;Erskineville;Erskineville;NSW;--3-----;RL;1207;;3354S 15111E
+AU;EPR;Esperance;Esperance;WA;1--4----;AC;9511;;
+AU;MEB;Essendon Apt/Melbourne;Essendon Apt/Melbourne;VIC;---4----;AI;9601;;
+AU;ETD;Etadunna;Etadunna;SA;---4----;AI;9912;;
+AU;EBO;Euabalong;Euabalong;NSW;--3-----;RL;607;;3307S 14628E
+AU;EUC;Eucla;Eucla;WA;---4----;AI;9912;;
+AU;EUM;Eumundi;Eumundi;QLD;--3-----;RL;1207;;2629S 15257E
+AU;EUA;Euroa;Euroa;VIC;--3-----;RQ;1101;;3645S 14534E
+AU;EVD;Eva Downs;Eva Downs;NT;---4----;AI;9912;;
+AU;EVT;Evandale;Evandale;TAS;-----6--;RL;901;;4135S 14714E
+AU;EVH;Evans Head;Evans Head;NSW;---4----;AI;9912;;
+AU;EVL;Evans Landing;Evans Landing;QLD;1-3-----;RL;1401;;1240S 14151E
+AU;PEX;Exmouth;Exmouth;WA;1-------;AC;9511;;
+AU;EXM;Exmouth Gulf;Exmouth Gulf;WA;1--4----;AI;9601;;
+AU;FBN;Fairbarn;Fairbarn;ACT;---4----;AC;9709;;
+AU;FFD;Fairfield;Fairfield;NSW;-23-----;RL;607;;3352S 15057E
+AU;FFL;Fairfield;Fairfield;VIC;--3-----;RL;1107;;3747S 14500E
+AU;FLC;Falls Creek;Falls Creek;VIC;---4----;AI;9912;;
+AU;FEL;Felixstow;Felixstow;SA;-----6--;RL;1507;;5158S 00121E
+AU;FGS;Ferguson;Ferguson;WA;--3-----;RL;1507;;3325S 11550E
+AU;RFU;Ferntree Gully;Ferntree Gully;VIC;--3-----;RL;1601;;3753S 14518E
+AU;FRD;Ferryden Park;Ferryden Park;SA;--3-----;RL;1207;;3451S 13833E
+AU;FTP;Fig Tree Pocket;Fig Tree Pocket;QLD;-----6--;RL;1201;;2731S 15257E
+AU;FIN;Findon;Findon;SA;1----6--;RL;1107;;3454S 13832E
+AU;FIK;Finke;Finke;NT;---4----;AI;9912;;
+AU;FLY;Finley;Finley;NSW;---4----;AI;9601;;
+AU;FIS;Fisherman Islands;Fisherman Islands;QLD;123-----;UR;9701;;
+AU;FIT;Fitzroy;Fitzroy;VIC;-23-----;RL;601;;3748S 14458E
+AU;FDS;Flinders;Flinders;VIC;--3-----;RL;1301;;3828S 14501E
+AU;FLS;Flinders Island;Flinders Island;TAS;---4----;AI;9601;;
+AU;FLN;Flynn;Flynn;VIC;1----6--;RL;1107;;3810S 14641E
+AU;OOY;Footescray;Footescray;VIC;--3-----;XX;1601;;3748S 14454E
+AU;FCY;Footscray;Footscray;VIC;-23--6--;RL;607;;3748S 14454E
+AU;FRB;Forbes;Forbes;NSW;---4----;AI;9912;;
+AU;FRG;Forest Glen;Forest Glen;QLD;--3-----;RL;1207;;2640S 15300E
+AU;S3J;Forest Hill;Forest Hill;VIC;--3-----;RL;1601;;3832S 14539E
+AU;VFT;Forestville;Forestville;NSW;--3-----;RL;1507;;3346S 15112E
+AU;FOS;Forrest;Forrest;WA;---4----;AI;9912;;
+AU;FRR;Forrestdale;Forrestdale;WA;--3-----;RL;1407;;3208S 11556E
+AU;FTD;Forrestfield;Forrestfield;WA;-----6--;RQ;1001;;3159S 11600E
+AU;FOT;Forster;Forster;NSW;---4----;AI;9912;;
+AU;FSL;Fossil Downs;Fossil Downs;WA;---4----;AI;9912;;
+AU;FOD;Fountaindale;Fountaindale;NSW;--3-----;RL;1407;;3320S 15123E
+AU;FVN;Four Vanguard;Four Vanguard;;------7-;RQ;907;;2054S 11453E
+AU;FLD;Frankland;Frankland;WA;1----6--;RL;1107;;3422S 11404E
+AU;GYJ;Frankland River;Frankland River;WA;--3-----;RL;1507;;3421S 11706E
+AU;FRK;Frankston East;Frankston East;VIC;--3-----;RL;1401;;3808S 14508E
+AU;FRE;Fremantle;Fremantle;WA;1--4----;AC;9511;JFM;
+AU;FFO;Frenchs Forest;Frenchs Forest;NSW;--3-----;RL;1401;;3344S 15113E
+AU;FWT;Freshwater;Freshwater;NSW;1----6--;RL;1201;;3346S 15117E
+AU;FRL;Frewville;Frewville;SA;--3-----;RL;701;;3457S 13838E
+AU;PUF;Front Puffin FPSO;Front Puffin FPSO;NT;------7-;RQ;901;;1217S 12419E
+AU;FTN;Fullerton;Fullerton;NSW;--3-----;RL;207;;3413S 14933E
+AU;FUR;Furnissdale;Furnissdale;WA;-----6--;RL;901;;3233S 11545E
+AU;FYW;Fyshwick;Fyshwick;ACT;-23--6--;RL;607;;3519S 14909E
+AU;GLO;Galong;Galong;NSW;-23-----;RL;607;;3436S 14834E
+AU;GON;Galston;Galston;NSW;--3-----;RL;1601;;3339S 15103E
+AU;GBP;Gamboola;Gamboola;QLD;---4----;AI;9912;;
+AU;GMA;Ganmain;Ganmain;NSW;-23-----;RL;607;;3448S 14702E
+AU;GAP;Gapstead;Gapstead;VIC;-23-----;RL;701;;3631S 14641E
+AU;GBT;Garbutt;Garbutt;QLD;1-3-----;RL;1401;;1916S 14646E
+AU;GPN;Garden Point;Garden Point;NT;---4----;AI;9601;;
+AU;GSC;Gascoyne Junction;Gascoyne Junction;WA;---4----;AI;9601;;
+AU;GXM;Gateshed;Gateshed;NSW;--3-----;RL;1507;;3258S 15141E
+AU;GAN;Gatton;Gatton;QLD;--3-----;RL;1201;;2733S 15217E
+AU;GXN;Gawler;Gawler;SA;--3-----;RL;1507;;3436S 13844E
+AU;GAH;Gayndah;Gayndah;QLD;---4----;AI;9601;;
+AU;GUG;Geebung;Geebung;QLD;-23-----;RL;601;;2722S 15302E
+AU;GEX;Geelong;Geelong;VIC;1--4----;AC;9511;;
+AU;GXQ;Geelong North;Geelong North;VIC;--3-----;XX;1601;;3806S 14421E
+AU;GWT;Geelong West;Geelong West;VIC;-----6--;RQ;1001;;3808S 14421E
+AU;GEM;Gembrook;Gembrook;VIC;1----6--;RL;1107;;3757S 14533E
+AU;GEE;George Town;George Town;TAS;1--4----;AC;9701;;
+AU;GTT;Georgetown;Georgetown;QLD;---4----;AI;9912;;
+AU;GEP;Gepps Cross;Gepps Cross;SA;--3-----;RL;1207;;3451S 13836E
+AU;GET;Geraldton;Geraldton;WA;1--4----;AC;9511;;
+AU;GRG;Gerringong;Gerringong;ACT;--3-----;RL;1507;;3445S 15051E
+AU;GBV;Gibb River;Gibb River;WA;---4----;AI;9912;;
+AU;GTN;Gilberton;Gilberton;SA;-----6--;RQ;1001;;3454S 13836E
+AU;GIL;Gillman;Gillman;SA;--3-----;RL;607;;3449S 13831E
+AU;GNI;Gingin;Gingin;WA;-23-----;RL;607;;3121S 11554E
+AU;GRW;Girraween;Girraween;NSW;--3-----;RQ;901;;3348N 15056E
+AU;GBN;Gisborne;Gisborne;VIC;--3-----;RQ;901;;
+AU;GLA;Gladesville;Gladesville;NSW;--3-----;RQ;1001;;3350S 15180E
+AU;GLT;Gladstone;Gladstone;QLD;1--4----;AC;9511;;
+AU;GBY;Glaziers Bay;Glaziers Bay;TAS;--3-----;RL;1507;;4308S 14703E
+AU;GLL;Glebe Island;Glebe Island;NSW;123-----;UR;9701;;
+AU;TGF;Glen Forbes;Glen Forbes;VIC;-----6--;RL;901;;3827S 14532E
+AU;GLI;Glen Innes;Glen Innes;NSW;---4----;AI;9601;;
+AU;GRS;Glen Iris;Glen Iris;;--3-----;RQ;1101;;3320S 11540E
+AU;GLW;Glen Waverley;Glen Waverley;VIC;-23-5---;RL;1001;;3753S 14510E
+AU;GLD;Glenden;Glenden;QLD;--3-----;RL;1507;;2121S 14806E
+AU;GLN;Glendenning;Glendenning;NSW;-----6--;RL;901;;3344S 15051E
+AU;GGG;Glenelg;Glenelg;SA;--3-----;RL;1507;;3459S 13831E
+AU;GNA;Glenella;Glenella;QLD;--3-----;RL;1601;;2107S 14909E
+AU;GLE;Glenfield;Glenfield;NSW;--3-----;RL;1601;;3358S 15054E
+AU;GGZ;Glengarry;Glengarry;VIC;--3-----;RL;1507;;3807S 14634E
+AU;GLG;Glengyle;Glengyle;QLD;---4----;AI;9912;;
+AU;GHV;Glenhaven;Glenhaven;NSW;--3-----;RQ;1101;;3342S 15100E
+AU;GCY;Glenorchy;Glenorchy;TAS;--3-----;RL;901;;4250S 14717E
+AU;GRI;Glenorie;Glenorie;NSW;--3-----;RL;1601;;3336S 15101E
+AU;GLM;Glenormiston;Glenormiston;QLD;---4----;AI;9912;;
+AU;GLS;Glossop;Glossop;SA;--3-----;RL;1501;;3416S 14031E
+AU;GCE;Gloucester;Gloucester;NSW;-23-----;RL;607;;3201S 15158E
+AU;GDY;Glynde;Glynde;SA;--3-----;RL;1101;;3453S 13839E
+AU;GWG;Gnowangerup;Gnowangerup;WA;-23-----;RL;607;;3357S 11800E
+AU;GXW;Gol Gol;Gol Gol;VIC;--3-----;RL;1507;;3411S 14213E
+AU;GOC;Gold Coast;Gold Coast;QLD;--3-----;RQ;1001;;2800S 15326E
+AU;OOL;Gold Coast Apt/Coolangatta;Gold Coast Apt/Coolangatta;QLD;---4----;AC;307;;2809S 15330E
+AU;GLY;Goldsworthy;Goldsworthy;WA;---4----;AI;9601;;
+AU;GDN;Goodna;Goodna;QLD;--3-----;RL;1307;;2737S 15254E
+AU;GOI;Goods Is;Goods Is;QLD;1-------;AC;907;;
+AU;GOA;Goolwa;Goolwa;SA;1-34----;RL;1107;;3530S 13847E
+AU;GOO;Goondiwindi;Goondiwindi;QLD;---4----;AI;9601;;
+AU;GGY;Gooseberry Hill;Gooseberry Hill;WA;--3-----;RQ;1507;;3157S 11603E
+AU;GGW;Gordon;Gordon;NSW;--3-----;RL;1507;;2918S 15243E
+AU;GOR;Gordon;Gordon;VIC;1----6--;RL;1107;;3735S 14406E
+AU;GDD;Gordon Downs;Gordon Downs;WA;---4----;AI;9912;;
+AU;GOS;Gosford;Gosford;NSW;---4----;AI;9506;;
+AU;GGX;Gosnells;Gosnells;WA;--3-----;RL;1507;;3205S 11600E
+AU;GUL;Goulburn;Goulburn;NSW;---4----;AI;9912;;
+AU;GBL;Goulburn Island;Goulburn Island;NT;---4----;AI;9601;;
+AU;GOV;Gove;Gove;NT;1--4----;AC;9511;;
+AU;GOH;Gove Harbour;Gove Harbour;NT;1-------;RL;1507;;1213S 13640E
+AU;GME;Gracemere;Gracemere;QLD;--3--6--;RL;901;;2326S 15027E
+AU;GFN;Grafton;Grafton;NSW;---4----;AI;9601;;
+AU;R5M;Graham;Graham;NSW;--3-----;RL;1601;;3407S 14853E
+AU;GRZ;Grange;Grange;SA;-----6--;RQ;1001;;3454S 13829E
+AU;GTS;Granites;Granites;NT;---4----;AI;9912;;
+AU;GTH;Grantham;Grantham;QLD;1-3-----;RL;1401;;2735S 15212E
+AU;GRN;Granville;Granville;NSW;--3-----;RL;1207;;3350S 15101E
+AU;GVW;Grass Valley;Grass Valley;WA;--3-----;RL;901;;3139S 11648E
+AU;GRA;Grassy;Grassy;TAS;-23-----;RL;212;;4003S 14403E
+AU;GRB;Gravelly Beach;Gravelly Beach;TAS;1----6--;RL;1107;;4118S 14658E
+AU;GRT;Grays Point;Grays Point;NSW;--3-----;RL;1601;;3403S 15105E
+AU;GGV;Graytown;Graytown;VIC;--3-----;RL;1507;;3649S 14457E
+AU;GKL;Great Keppel Island;Great Keppel Island;QLD;---4----;AI;9601;;
+AU;GTW;Great Western;Great Western;VIC;1----6--;RL;1107;;3709S 14251E
+AU;GFS;Green Fields;Green Fields;SA;-----6--;RQ;1001;;3447S 13836E
+AU;GCR;Greenacre;Greenacre;NSW;--3-----;RQ;1001;;3354S 15103E
+AU;GRF;Greenfields;Greenfields;WA;--3-----;RL;1207;;3231S 11545E
+AU;GRH;Greenhead;Greenhead;WA;1-------;AC;9511;;
+AU;GRK;Greenock;Greenock;SA;1----6--;RL;1107;;3428S 13855E
+AU;GNU;Greenough;Greenough;WA;--3-----;RL;607;;2852S 11440E
+AU;GSO;Greenslopes;Greenslopes;QLD;--3-----;RL;701;;2730S 15301E
+AU;GVP;Greenvale;Greenvale;QLD;---4----;AI;9912;;
+AU;E4E;Greenvale;Greenvale;VIC;--3-----;RL;1601;;3738S 14452E
+AU;GNW;Greenwich;Greenwich;NSW;--3-----;RQ;1101;;3350S 15110E
+AU;GWA;Greenwood;Greenwood;WA;--3-----;RL;1507;;3149S 11547E
+AU;GGD;Gregory Downs;Gregory Downs;QLD;---4----;AI;9912;;
+AU;GFE;Grenfell;Grenfell;NSW;---4----;AI;9912;;
+AU;GRE;Greystanes;Greystanes;NSW;--3-----;RL;901;;3349S 15055E
+AU;GRV;Griffin Venture (oil terminal);Griffin Venture (oil terminal);WA;1-------;AC;9701;;
+AU;GFF;Griffith;Griffith;NSW;---4----;AI;9601;;
+AU;GGO;Grong Grong;Grong Grong;NSW;-23-----;RL;607;;3445S 14647E
+AU;GTE;Groote Eylandt;Groote Eylandt;NT;1--4----;AC;9511;;
+AU;GRU;Gruyere;Gruyere;VIC;1----6--;RL;1107;;3744S 14527E
+AU;GDF;Guildford;Guildford;NSW;--3-----;RL;1;;
+AU;WGD;Guildford;Guildford;WA;--3-----;RL;1301;;3154S 11558E
+AU;GUM;Gumeracha;Gumeracha;SA;1----6--;RL;1107;;3450S 13853E
+AU;GDA;Gundagai;Gundagai;NSW;-23-----;RL;607;;3504S 14806E
+AU;GUH;Gunnedah;Gunnedah;NSW;---4----;AI;9912;;
+AU;GUN;Gunning;Gunning;NSW;-23-----;RL;607;;3447S 14916E
+AU;GYP;Gympie;Gympie;QLD;---4----;AI;9912;;
+AU;HAB;Haberfield;Haberfield;NSW;-23-----;RL;601;;3352S 15108E
+AU;HAH;Hahndorf;Hahndorf;SA;1----6--;RL;1107;;3502S 13848E
+AU;HAL;Halifax;Halifax;QLD;--3-----;RL;901;;1835S 14617E
+AU;HLM;Hallam;Hallam;VIC;-23-----;RL;601;;
+AU;HTT;Halletts Cove;Halletts Cove;SA;1----6--;RL;1107;;3504S 13830E
+AU;HCQ;Halls Creek;Halls Creek;WA;---4----;AI;9912;;
+AU;HML;Hamilton;Hamilton;NSW;-2------;RL;1207;;3255S 15144E
+AU;OMN;Hamilton;Hamilton;QLD;--3-----;RL;1301;;2726S 15304E
+AU;HLT;Hamilton;Hamilton;VIC;---4----;AI;9601;;
+AU;WHH;Hamilton Hill;Hamilton Hill;WA;-----6--;RL;1201;;3204S 11546E
+AU;HTI;Hamilton Island;Hamilton Island;QLD;---4----;AC;9701;;
+AU;HPN;Hampton;Hampton;NSW;--3-----;RL;607;;3339S 15003E
+AU;HAM;Hampton;Hampton;VIC;1-------;RL;1107;;3820S 14515E
+AU;M7K;Hampton Park;Hampton Park;VIC;--3-----;RL;1601;;3802S 14515E
+AU;HWD;Hanwood;Hanwood;NSW;1----6--;RL;1107;;3420S 14602E
+AU;HPP;Happy Valley;Happy Valley;SA;1----6--;RL;1107;;3505S 13832E
+AU;HAR;Harcourt;Harcourt;VIC;--3-----;RL;1507;;3700S 14415E
+AU;HDN;Harden;Harden;NSW;-23-----;RL;607;;3433S 14823E
+AU;HYI;Hardy Island;Hardy Island;NT;1-------;UR;9701;;
+AU;R4W;Harkaway;Harkaway;VIC;--3-----;RL;1601;;3800S 14521E
+AU;HVY;Harvey;Harvey;WA;-23-----;RL;607;;3305S 11553E
+AU;HAS;Hastings;Hastings;VIC;1-------;RL;101;;3818S 14515E
+AU;HPO;Hastings Point;Hastings Point;NSW;--3-----;RL;607;;2821S 15334E
+AU;HWK;Hawker;Hawker;SA;---4----;AI;9912;;
+AU;HWN;Hawks Nest;Hawks Nest;NSW;--3-----;RL;607;;3240S 15210E
+AU;HTE;Hawthorn;Hawthorn;VIC;--3-----;RL;207;;3749S 14502E
+AU;HWR;Hawthorndene;Hawthorndene;SA;--3-----;RL;1507;;3501S 13837E
+AU;HXX;Hay;Hay;NSW;---4----;AI;9601;;
+AU;HPT;Hay Point;Hay Point;QLD;1-------;AC;907;;
+AU;HIS;Hayman Island;Hayman Island;QLD;---4----;AI;9601;;
+AU;HAY;Haymarket;Haymarket;NSW;--3-----;RL;1401;;3352S 15112E
+AU;HAZ;Hazelmere;Hazelmere;WA;--3-----;RL;1207;;3154S 11559E
+AU;HIP;Headingly;Headingly;QLD;---4----;AI;9912;;
+AU;HSV;Healesville;Healesville;VIC;--3-----;RQ;1101;;3739S 14531E
+AU;COT;Heathcote;Heathcote;NSW;--3-----;RL;1601;;3405S 15101E
+AU;HTH;Heathcote;Heathcote;VIC;1----6--;RL;1107;;3655S 14443E
+AU;HBE;Heatherbrae;Heatherbrae;NSW;1----6--;RL;1201;;3247S 15144E
+AU;VHT;Heatherton;Heatherton;VIC;--3-----;RL;1207;;3757S 14505E
+AU;HAT;Heathlands;Heathlands;QLD;---4----;AI;9912;;
+AU;HET;Heathmont;Heathmont;VIC;-----6--;RL;1201;;3750S 14515E
+AU;HEA;Heathwood;Heathwood;QLD;--3-----;RL;1207;;2728S 15259E
+AU;LLE;Hectorville;Hectorville;SA;-----6--;RL;901;;3453S 13839E
+AU;HEI;Heidelberg;Heidelberg;VIC;-----6--;RL;901;;3745S 14504E
+AU;HBW;Heidelberg West;Heidelberg West;;--3-----;RQ;907;;3744S 14502E
+AU;HLV;Helenvale;Helenvale;QLD;---4----;AI;9912;;
+AU;HEL;Helidon;Helidon;QLD;--3--6--;RL;1207;;2733S 15208E
+AU;HEM;Hemmant;Hemmant;QLD;-23-----;RL;701;;2727S 15308E
+AU;HRY;Henbury;Henbury;NT;---4----;AI;9912;;
+AU;HFR;Henderson;Henderson;WA;1---5---;RL;1201;;3210S 11546E
+AU;HEN;Hendra;Hendra;QLD;--3-----;RQ;1101;;2725S 15316E
+AU;HLB;Henley Beach;Henley Beach;SA;-----6--;RL;1301;;3455S 13829E
+AU;HTY;Henty;Henty;NSW;-23-----;RL;607;;3532S 14702E
+AU;HMG;Hermannsburg;Hermannsburg;NT;---4----;AI;9912;;
+AU;GGT;Herne Hill;Herne Hill;WA;--3-----;RL;1507;;3150S 11601E
+AU;HRN;Heron Island;Heron Island;QLD;---4----;AI;9912;;
+AU;HVB;Hervey Bay;Hervey Bay;QLD;---4----;AI;9601;;
+AU;HWY;High Wycombe;High Wycombe;WA;--3-----;RL;701;;3156S 11600E
+AU;HIG;Highbury;Highbury;QLD;---4----;AI;9912;;
+AU;HHT;Highett/Melbourne;Highett/Melbourne;VIC;--3-----;RL;201;;3756S 14502E
+AU;HLR;Hillarys;Hillarys;WA;-----6--;RL;1107;;3148S 11544E
+AU;HL2;Hillbank;Hillbank;SA;--3-----;RL;1507;;3407S 13807E
+AU;QHC;Hillcrest;Hillcrest;QLD;-----6--;RQ;1007;;1722S 14536E
+AU;HSD;Hillside;Hillside;VIC;-----6--;RQ;1001;;3750S 14730E
+AU;HLL;Hillside;Hillside;WA;---4----;AI;9912;;
+AU;HTO;Hilton;Hilton;SA;--3-----;RL;1107;;3455S 13834E
+AU;HNK;Hinchinbrook Island;Hinchinbrook Island;QLD;1--4----;AC;212;;1823S 14617E
+AU;HMS;Hindmarsh;Hindmarsh;SA;-----6--;RL;1107;;3454S 13834E
+AU;HMC;HMAS Cerberus;HMAS Cerberus;VIC;--3-----;RL;1501;;3822S 14511E
+AU;HBA;Hobart;Hobart;TAS;1-345---;AC;307;;4252S 14718E
+AU;HDD;Hoddles Creek;Hoddles Creek;VIC;1----6--;RL;1107;;3750S 14535E
+AU;HOL;Holden Hill;Holden Hill;SA;--3-----;RL;901;;3451S 13840E
+AU;HLK;Holland Park;Holland Park;QLD;--3-----;RL;1301;;2731S 15304E
+AU;HBS;Homebush/Sydney;Homebush/Sydney;NSW;--3-----;RL;201;;3352S 15103E
+AU;HIH;Hook Island;Hook Island;QLD;---4----;AI;9912;;
+AU;HOK;Hooker Creek;Hooker Creek;NT;---4----;AI;9601;;
+AU;HPL;Hope Island;Hope Island;QLD;--3-----;RL;1301;;2752S 15321E
+AU;HOT;Hope Tun;Hope Tun;WA;1-------;AC;9511;;
+AU;HPE;Hope Vale;Hope Vale;QLD;---4----;AI;9912;;
+AU;PVE;Hope Valley;Hope Valley;WA;--3-----;RL;1507;;3212S 11547E
+AU;HTU;Hopetoun;Hopetoun;VIC;---4----;AI;9912;;
+AU;HCG;Hoppers Crossing;Hoppers Crossing;VIC;-23-----;RQ;1101;;3752S 14441E
+AU;HID;Horn Island;Horn Island;QLD;---4----;AI;9601;;
+AU;HOY;Hornsby;Hornsby;NSW;-23-----;RL;607;;3342S 15106E
+AU;HSM;Horsham;Horsham;VIC;---4----;AI;9912;;
+AU;HPK;Horsley Park;Horsley Park;NSW;--3-----;RL;1301;;3351S 15051E
+AU;GGS;Houghton;Houghton;SA;--3-----;RL;1507;;3450S 13846E
+AU;HWO;Howlong;Howlong;NSW;--3-----;RL;607;;3559S 14637E
+AU;HGD;Hughenden;Hughenden;QLD;---4----;AI;9601;;
+AU;HGH;Hughesdale;Hughesdale;VIC;-----6--;RL;1107;;3753S 14556E
+AU;HUB;Humbert River;Humbert River;NT;---4----;AI;9912;;
+AU;HUM;Hume;Hume;ACT;--3-----;RL;1207;;3523S 14910E
+AU;HUD;Humpty Doo;Humpty Doo;NT;--3-----;RL;901;;1235S 13107E
+AU;HHW;Hunters Hill;Hunters Hill;NSW;-----6--;RL;1107;;3350S 15108E
+AU;HTW;Huntingwood;Huntingwood;NSW;--3-----;RQ;1007;;3347S 15053E
+AU;HVI;Huonville;Huonville;TAS;--3-----;RL;901;;4302S 14702E
+AU;GGR;Hurstbridge;Hurstbridge;VIC;--3-----;RL;1507;;3739S 14513E
+AU;HUR;Hurstville;Hurstville;NSW;-23-----;RL;901;;3357S 15106E
+AU;GRO;Hurstville Grove;Hurstville Grove;NSW;--3-----;RL;1601;;3358S 15106E
+AU;HYD;Hyden;Hyden;WA;-23-----;RL;607;;3227S 11852E
+AU;IFF;Iffley;Iffley;QLD;---4----;AI;9912;;
+AU;LAW;Illawong;Illawong;NSW;--3-----;RL;1601;;3400S 15102E
+AU;IDK;Indulkana;Indulkana;SA;---4----;AI;9912;;
+AU;IGH;Ingham;Ingham;QLD;---4----;AI;9912;;
+AU;IGF;Ingle Farm;Ingle Farm;SA;1----6--;RL;1107;;3450S 13838E
+AU;IGN;Ingleburn;Ingleburn;NSW;-23-----;RL;701;;3400S 15052E
+AU;INJ;Injune;Injune;QLD;---4----;AI;9912;;
+AU;IKP;Inkerman;Inkerman;QLD;---4----;AI;9912;;
+AU;INN;Innaloo;Innaloo;WA;--3-----;RL;1207;;3153S 11547E
+AU;INM;Innamincka;Innamincka;SA;---4----;AI;9912;;
+AU;IFL;Innisfail;Innisfail;QLD;---4----;AI;9601;;
+AU;IVR;Inverell;Inverell;NSW;---4----;AI;9912;;
+AU;INV;Inverloch;Inverloch;VIC;--3-----;RL;1307;;3838S 14543E
+AU;IMY;Invermay;Invermay;TAS;-23-----;RL;1501;;4125S 14708E
+AU;IVW;Inverway;Inverway;NT;---4----;AI;9912;;
+AU;IPS;Ipswich;Ipswich;QLD;1-------;AC;9511;;
+AU;IRY;Irymple;Irymple;VIC;1----6--;RL;1107;;3415S 14210E
+AU;ICL;Isis Central;Isis Central;QLD;-23-----;RL;1507;;2513S 15227E
+AU;ISI;Isisford;Isisford;QLD;---4----;AI;9601;;
+AU;IHO;Ivanhoe;Ivanhoe;NSW;-23-----;RL;607;;3256S 14417E
+AU;JAB;Jabiru;Jabiru;NT;---4----;AI;9601;;
+AU;JOV;Jabiru Venture (oil terminal);Jabiru Venture (oil terminal);NT;1-------;RQ;9701;;
+AU;JAC;Jackson;Jackson;QLD;--3-----;RL;1207;;2639S 14937E
+AU;JBH;Jamboree Heights;Jamboree Heights;QLD;--3-----;RL;1207;;2733S 15256E
+AU;JST;Jamestown;Jamestown;;--3-----;RQ;1101;;3312S 13836E
+AU;JAD;Jandakot;Jandakot;WA;---4----;AI;9912;;
+AU;IGG;Jannali;Jannali;NSW;--3-----;RL;1601;;3401S 15104E
+AU;JAR;Jarrahdale;Jarrahdale;WA;1----6--;RL;1107;;3221S 11604E
+AU;JDE;Jerilderie;Jerilderie;NSW;-23-----;RL;607;;3521S 14544E
+AU;JMR;Jerrabomberra;Jerrabomberra;VIC;--3-----;RL;1507;;3519S 14909E
+AU;JSW;Jerry Plains;Jerry Plains;NSW;--3-----;RL;1407;;3230S 15055E
+AU;GGQ;Jerrys Plains;Jerrys Plains;NSW;--3-----;RL;1507;;3230S 15055E
+AU;JEB;Jervis Bay;Jervis Bay;NSW;--3-----;RL;212;;3507S 15041E
+AU;JIM;Jimboomba;Jimboomba;QLD;--3-----;RL;1601;;2750S 15302E
+AU;JDP;Joondalup;Joondalup;WA;--3-----;RL;901;;3144S 11546E
+AU;JCK;Julia Creek;Julia Creek;QLD;---4----;AI;9601;;
+AU;JUN;Jundah;Jundah;QLD;---4----;AI;9912;;
+AU;JNE;Junee;Junee;NSW;-23-----;RL;607;;3452S 14735E
+AU;JUR;Jurien Bay;Jurien Bay;WA;---4----;AI;9912;;
+AU;KAD;Kadina;Kadina;SA;--3-----;RQ;1101;;3358S 13743E
+AU;KUD;Kalamunda;Kalamunda;WA;--3-----;RL;1507;;3158S 11603E
+AU;QLD;Kalbar;Kalbar;QLD;--3-----;RL;1501;;2756S 15237E
+AU;KAX;Kalbarri;Kalbarri;WA;---4----;AI;9912;;
+AU;KGI;Kalgoorlie;Kalgoorlie;WA;---4----;AI;9601;;
+AU;KKD;Kalkadoon;Kalkadoon;QLD;--3-----;RL;1301;;2230S 14222E
+AU;V4K;Kalkallo;Kalkallo;VIC;--3-----;RL;1601;;3732S 14457E
+AU;KFG;Kalkurung;Kalkurung;NT;---4----;AI;9912;;
+AU;V2K;Kalorama;Kalorama;VIC;--3-----;RL;1601;;3749S 14522E
+AU;KPP;Kalpowar;Kalpowar;QLD;---4----;AI;9912;;
+AU;UBU;Kalumburu;Kalumburu;WA;---4----;AI;9912;;
+AU;KDS;Kamaran Downs;Kamaran Downs;QLD;---4----;AI;9912;;
+AU;KMB;Kambah;Kambah;ACT;--3-----;RL;1501;;3523S 14904E
+AU;KDB;Kambalda;Kambalda;WA;---4----;AI;9912;;
+AU;KML;Kamileroi;Kamileroi;QLD;---4----;AI;9912;;
+AU;GGP;Kangaloon;Kangaloon;NSW;--3-----;RL;1507;;3433S 15032E
+AU;KAN;Kangarilla;Kangarilla;SA;1----6--;RL;1107;;3509S 13839E
+AU;KGF;Kangaroo Flat;Kangaroo Flat;VIC;--3-----;RQ;901;;3647S 14414E
+AU;KGO;Kangaroo Ground;Kangaroo Ground;VIC;--3-----;RL;701;;3740S 14515E
+AU;KIA;Kanimbla;Kanimbla;QLD;--3-----;RL;701;;1655S 14543E
+AU;KAP;Kapunda;Kapunda;SA;--3-----;RL;1601;;3421S 13854E
+AU;KWT;Karawatha;Karawatha;QLD;--3-----;RL;1307;;2738S 15305E
+AU;KAR;Kardinya;Kardinya;WA;--3-----;RL;1207;;3204S 11548E
+AU;GYN;Kareela;Kareela;NSW;--3-----;RL;1507;;3401S 15105E
+AU;KTA;Karratha;Karratha;WA;---4----;AI;9601;;
+AU;KRB;Karumba;Karumba;QLD;1-34----;AC;212;;1729S 14050E
+AU;KNI;Katanning;Katanning;WA;---4----;AI;9912;;
+AU;KTR;Katherine;Katherine;NT;1--4----;AC;9511;;
+AU;KTB;Katoomba;Katoomba;NSW;-23-----;RL;607;;3343S 15019E
+AU;KAW;Kawana;Kawana;QLD;--3-----;RL;1207;;2645S 15305E
+AU;KAY;Kayena;Kayena;TAS;1----6--;RL;1107;;4111S 14653E
+AU;KED;Kedron;Kedron;QLD;--3-----;RL;901;;2723S 15302E
+AU;KLR;Keilor;Keilor;VIC;-23-----;RL;701;;3743S 14450E
+AU;ORK;Keilor Park;Keilor Park;VIC;-----6--;RL;1107;;3743S 14451E
+AU;KEI;Keith;Keith;SA;1----6--;RL;1107;;3606S 14021E
+AU;KBI;Kellerberrin;Kellerberrin;WA;-23-----;RL;607;;3138S 11742E
+AU;KST;Kelmscot;Kelmscot;WA;-----6--;RL;1507;;3207S 11601E
+AU;KEL;Kelso;Kelso;NSW;-23-----;RL;1207;;3325S 14936E
+AU;KGA;Kembla;Kembla;NSW;-23--6--;RL;601;;3426S 15049E
+AU;KEM;Kemblawarra;Kemblawarra;NSW;--3-----;RL;901;;3429S 15053E
+AU;KPS;Kempsey;Kempsey;NSW;---4----;AI;9601;;
+AU;KDA;Kendall;Kendall;NSW;-23-----;RL;607;;3136S 15244E
+AU;GYM;Kendenup;Kendenup;WA;--3-----;RL;1507;;3429S 11739E
+AU;KEA;Kenmore;Kenmore;QLD;-----6--;RL;1201;;2731S 15256E
+AU;IGL;Kensington;Kensington;NSW;--3-----;RL;1601;;3355S 15113E
+AU;KGT;Kensington;Kensington;VIC;--3-----;RL;901;;3747S 14455E
+AU;KTT;Kent Town;Kent Town;SA;--3-----;RQ;1101;;3455S 13837E
+AU;KNT;Kenthurst;Kenthurst;NSW;------7-;RL;1207;;3340S 15100E
+AU;KEN;Keon Park;Keon Park;VIC;--3-----;RL;901;;3741S 14500E
+AU;KRA;Kerang;Kerang;VIC;---4----;AI;9912;;
+AU;GYZ;Kersbrook;Kersbrook;SA;--3-----;RL;1507;;3447S 13851E
+AU;WEK;Kew;Kew;VIC;--3-----;RQ;1101;;3749S 14502E
+AU;ASK;Kewarra Beach;Kewarra Beach;QLD;--3-----;RL;1507;;1647S 14540E
+AU;KEW;Kewdale;Kewdale;WA;-----6--;RL;901;;3197S 11593E
+AU;KEY;Keyneton;Keyneton;;1----6--;RL;1107;;3434S 13908E
+AU;KBO;Keysborough;Keysborough;VIC;--3-----;RL;901;;3801S 14510E
+AU;AKP;Kidman Park;Kidman Park;SA;-----6--;RQ;1001;;3454S 13831E
+AU;KLB;Kilburn;Kilburn;SA;--3-----;RL;1107;;3451S 13835E
+AU;GYX;Kilcoy;Kilcoy;QLD;--3-----;RL;1507;;2657S 15233E
+AU;KAA;Killara;Killara;NSW;--3-----;RL;1507;;3346S 15109E
+AU;KYV;Killarney Vale;Killarney Vale;NSW;--3-----;RL;1507;;3321S 15127E
+AU;KIL;Kilmore;Kilmore;VIC;--3-----;RL;1307;;3718S 14457E
+AU;KSY;Kilsyth;Kilsyth;VIC;--3-----;RL;901;;3748S 14519E
+AU;KBD;Kimberley Downs;Kimberley Downs;WA;---4----;AI;9912;;
+AU;KIB;King Bay;King Bay;WA;1-------;AC;9511;;
+AU;KNS;King Is;King Is;TAS;---4----;AI;9601;;
+AU;KGY;Kingaroy;Kingaroy;QLD;---4----;AI;9912;;
+AU;N7K;Kinglake;Kinglake;VIC;--3-----;RL;1601;;3731S 14521E
+AU;KER;Kingower;Kingower;VIC;--3-----;RL;1507;;3637S 14345E
+AU;KBJ;Kings Canyon;Kings Canyon;NT;---4----;AI;9912;;
+AU;KCS;Kings Creek Station;Kings Creek Station;NT;---4----;AI;9912;;
+AU;KPK;Kings Park;Kings Park;NSW;-23-----;RL;601;;3344S 15054E
+AU;KU7;Kings Park;Kings Park;SA;--3-----;RL;1501;;3457S 13835E
+AU;KRK;Kings Park;Kings Park;TAS;--3-----;RL;901;;4126S 14709E
+AU;KGC;Kingscote;Kingscote;SA;1--4----;AC;9511;;
+AU;GTY;Kingsford;Kingsford;NSW;1----6--;RL;1407;;
+AU;KGG;Kingsgrove;Kingsgrove;NSW;-23--6--;RQ;507;;3357S 15106E
+AU;GYW;Kingsthorpe;Kingsthorpe;QLD;--3-----;RL;1507;;2728S 15150E
+AU;KGN;Kingston;Kingston;ACT;--3-----;RL;1301;;3518S 14908E
+AU;KIT;Kingston;Kingston;SA;1-------;AC;9511;;
+AU;KSU;Kingstown;Kingstown;NSW;--3-----;RL;1507;;3050S 15111E
+AU;IGR;Kingswood;Kingswood;NSW;--3-----;RL;1601;;3345S 15045E
+AU;KBB;Kirkimbie;Kirkimbie;NT;---4----;AI;9912;;
+AU;KRW;Kirrawee;Kirrawee;NSW;--3-----;RL;901;;3402S 15104E
+AU;KTN;Kitan FPSO;Kitan FPSO;;------7-;RL;1107;;1036S 12611E
+AU;KLP;Klein Point;Klein Point;SA;1-------;AC;907;;
+AU;KLZ;Klemzig;Klemzig;SA;-----6--;RL;901;;3452S 13838E
+AU;KNW;Knockrow;Knockrow;NSW;--3-----;RL;1407;;2846S 15332E
+AU;KNY;Knowsley;Knowsley;VIC;--3-----;RL;701;;3648S 14442E
+AU;KNO;Knoxfield;Knoxfield;VIC;----56--;RL;901;;3749S 14458E
+AU;ARA;Kogarah;Kogarah;NSW;-----6--;RL;901;;3359S 15107E
+AU;VKK;Kongwak;Kongwak;VIC;-----6--;RL;901;;3831S 14542E
+AU;KOI;Koolan Island;Koolan Island;WA;1-------;AC;9511;;
+AU;KOH;Koolatah;Koolatah;QLD;---4----;AI;9912;;
+AU;KKP;Koolburra;Koolburra;QLD;---4----;AI;9601;;
+AU;KBG;Koolyanbobbing;Koolyanbobbing;WA;-23-----;RL;607;;3050S 11933E
+AU;KQB;Koonibba;Koonibba;SA;---4----;AI;9912;;
+AU;KOM;Koonoomoo;Koonoomoo;VIC;-----6--;RL;901;;3612S 14688E
+AU;KWA;Koorawatha;Koorawatha;NSW;-23-----;RL;607;;3402S 14833E
+AU;KWR;Koo-Wee-Rup;Koo-Wee-Rup;VIC;--3-----;RL;507;;3812S 14529E
+AU;WKR;Kotara;Kotara;NSW;-----6--;RQ;907;;3257S 15141E
+AU;KWM;Kowanyama;Kowanyama;QLD;---4----;AI;9912;;
+AU;KUG;Kubin Island;Kubin Island;QLD;---4----;AI;9912;;
+AU;KGR;Kulgera;Kulgera;NT;---4----;AI;9912;;
+AU;KLU;Kulnura;Kulnura;NSW;--3-----;RL;901;;3313S 15113E
+AU;KUP;Kunda Park;Kunda Park;QLD;-23-----;RL;607;;2639S 15302E
+AU;KUN;Kundabung;Kundabung;NSW;--3-----;RQ;1101;;3112S 15251E
+AU;KNX;Kununurra;Kununurra;WA;---4----;AI;9601;;
+AU;KUR;Kurnell;Kurnell;NSW;1-------;AC;9511;;
+AU;KBP;Kurraba Point;Kurraba Point;NSW;-----6--;RL;1301;;3350S 15113E
+AU;KKQ;Kurri Kurri;Kurri Kurri;NSW;--3-----;RL;201;;3249S 15128E
+AU;KRD;Kurundi;Kurundi;NT;---4----;AI;9912;;
+AU;KWI;Kwinana;Kwinana;WA;1-------;AC;9511;;
+AU;KYA;Kyabram;Kyabram;VIC;--3-----;RL;1207;;3619S 14503E
+AU;IGV;Kyeemagh;Kyeemagh;NSW;--3-----;RL;1601;;3357S 15109E
+AU;GYU;Kyneton;Kyneton;VIC;--3-----;RL;1507;;3715S 14426E
+AU;IGX;La Perouse;La Perouse;NSW;--3-----;RL;1601;;3359S 15114E
+AU;LNE;Laanecoorie;Laanecoorie;VIC;--3-----;RL;1207;;3649S 14354E
+AU;LAR;Labrador;Labrador;QLD;--3-----;RL;701;;2757S 15323E
+AU;LAB;Lady Barron;Lady Barron;TAS;1-------;AC;9511;;
+AU;LYT;Lady Elliot Island;Lady Elliot Island;QLD;---4----;AI;9601;;
+AU;LCG;Lake Cargelligo;Lake Cargelligo;NSW;-23-----;RL;607;;3319S 14623E
+AU;LEL;Lake Evella;Lake Evella;NT;---4----;AI;9601;;
+AU;LMQ;Lake Macquarie;Lake Macquarie;NSW;1-3-----;RL;1107;;3304S 15136E
+AU;LNH;Lake Nash;Lake Nash;NT;---4----;AI;9912;;
+AU;LFP;Lakefield;Lakefield;QLD;---4----;AI;9912;;
+AU;LKD;Lakeland Downs;Lakeland Downs;QLD;---4----;AI;9912;;
+AU;LKB;Lakemba;Lakemba;NSW;-----6--;RL;1301;;3355S 15105E
+AU;LEN;Lakes Entrance;Lakes Entrance;VIC;1-3-----;RL;1307;;3753S 14759E
+AU;LAA;Lalla;Lalla;TAS;-----6--;RL;901;;4115N 14711E
+AU;LAM;Lamplough;Lamplough;VIC;--3-----;RL;607;;3708S 14331E
+AU;LNC;Lane Cove;Lane Cove;NSW;--3-----;RL;607;;3349S 15110E
+AU;LAN;Langarra;Langarra;NT;1-------;RL;1401;;1205S 13521E
+AU;LGR;Langhorne Creek;Langhorne Creek;SA;-----6--;RL;1107;;3517S 13920E
+AU;ATK;Langwarrin;Langwarrin;VIC;--3-----;RL;1507;;3810S 14510E
+AU;JGA;Lansdowne;Lansdowne;NSW;--3-----;RL;1601;;3146S 15232E
+AU;LDW;Lansdowne;Lansdowne;WA;---4----;AI;9912;;
+AU;LSV;Lansvale;Lansvale;NSW;--3-----;RL;1301;;3353S 15057E
+AU;LRA;Lara;Lara;VIC;--3-----;RQ;907;;3800S 14424E
+AU;LRP;Larapinta;Larapinta;QLD;--3-----;RL;1207;;2739S 15300E
+AU;LBY;Largs Bay;Largs Bay;SA;--3-----;RL;1407;;3449S 13829E
+AU;LGN;Largs North;Largs North;SA;--3-----;RL;1207;;3449S 13829E
+AU;LTB;Latrobe;Latrobe;TAS;---4----;AI;9912;;
+AU;LST;Launceston;Launceston;TAS;1--4----;AC;9511;;
+AU;LHC;Launching Place;Launching Place;VIC;--3-----;RL;1507;;3746S 14534E
+AU;LUU;Laura;Laura;QLD;---4----;AI;9912;;
+AU;LUT;Laura Station;Laura Station;QLD;---4----;AI;9912;;
+AU;LHI;Laurel Hill;Laurel Hill;NSW;--3-----;RL;607;;3536S 14806E
+AU;JML;Laurieton;Laurieton;NSW;1----6--;RQ;1001;;3139N 15248E
+AU;LTO;Laverton;Laverton;VIC;--3-----;RL;701;;2837S 12223E
+AU;LVO;Laverton;Laverton;WA;---4----;AI;9601;;
+AU;LVH;Laverton North;Laverton North;VIC;--3-----;RL;701;;3750S 14447E
+AU;LTN;Lavington;Lavington;NSW;--3-----;RQ;907;;3603S 14656E
+AU;LWH;Lawn Hill;Lawn Hill;QLD;---4----;AI;9912;;
+AU;LWN;Lawnton;Lawnton;QLD;--3-----;RL;1207;;2717S 15259E
+AU;GXR;Lawson;Lawson;NSW;--3-----;RL;1507;;3343S 15025E
+AU;LEA;Learmonth;Learmonth;WA;---4----;AI;9601;;
+AU;LIM;Leasingham;Leasingham;SA;--3-----;RQ;1507;;3359S 13839E
+AU;AUK;Lebrina;Lebrina;TAS;--3-----;RL;1507;;4110S 14713E
+AU;QLE;Leeton;Leeton;NSW;-23-----;RL;901;;3434S 14624E
+AU;LNA;Legana;Legana;TAS;--3-----;RL;1501;;4122S 14703E
+AU;LGT;Legendre Terminal;Legendre Terminal;WA;1-------;AC;501;;
+AU;LEH;Leichardt;Leichardt;VIC;--3-----;RL;1507;;3641S 14404E
+AU;LEI;Leichhardt;Leichhardt;NSW;--3-----;RL;1407;;3353S 15109E
+AU;LGH;Leigh Creek;Leigh Creek;SA;---4----;AI;9601;;
+AU;LER;Leinster;Leinster;WA;---4----;AI;9912;;
+AU;LSW;Lenswood;Lenswood;SA;--3-----;RL;1207;;3455S 13849E
+AU;LGA;Leongatha;Leongatha;VIC;--3-----;RL;601;;3828S 14556E
+AU;LLS;Leongatha South;Leongatha South;VIC;--3-----;RL;1507;;3831S 14552E
+AU;LNO;Leonora;Leonora;WA;---4----;AI;9601;;
+AU;LET;Lethbridge;Lethbridge;VIC;-23-----;RL;1601;;3758S 14408E
+AU;JGF;Leumeah;Leumeah;NSW;--3-----;RL;1601;;3403S 15050E
+AU;LDB;Lidcombe;Lidcombe;NSW;--3-----;RL;201;;3352S 15102E
+AU;LPS;Light Pass;Light Pass;SA;--3-----;RL;1501;;3427S 13910E
+AU;LHG;Lightning Ridge;Lightning Ridge;NSW;---4----;AI;9912;;
+AU;JGH;Lilli Pilli;Lilli Pilli;NSW;--3-----;RL;1601;;3404S 15107E
+AU;LYD;Lilydale;Lilydale;VIC;123--6--;RL;601;;3745S 14522E
+AU;LYF;Lilyfield;Lilyfield;NSW;-----6--;RL;1107;;3352S 15109E
+AU;LIB;Limbunya;Limbunya;NT;---4----;AI;9912;;
+AU;LLP;Linda Downs;Linda Downs;QLD;---4----;AI;9912;;
+AU;LDC;Lindeman Island;Lindeman Island;QLD;---4----;AI;9912;;
+AU;LND;Lindfield;Lindfield;NSW;--3-----;RL;1507;;3347S 15110E
+AU;LIN;Lindisfarne;Lindisfarne;TAS;--3-----;RQ;1007;;4250S 14721E
+AU;LOW;Lisarow;Lisarow;NSW;123-----;RL;507;;3323S 15122E
+AU;LSY;Lismore;Lismore;NSW;---4----;AI;9912;;
+AU;LLL;Lissadell;Lissadell;WA;---4----;AI;9601;;
+AU;LTG;Lithgow;Lithgow;NSW;-23-----;RL;307;;3329S 15009E
+AU;LRI;Little River;Little River;VIC;-23-----;RL;607;;3758S 14430E
+AU;LIV;Liverpool;Liverpool;NSW;--3-----;RL;9901;;
+AU;LZR;Lizard Island;Lizard Island;QLD;---4----;AI;9601;;
+AU;LOB;Lobethal;Lobethal;SA;--3-----;RL;1507;;3454S 13852E
+AU;LOC;Lock;Lock;SA;---4----;AI;9912;;
+AU;LKA;Lockhart;Lockhart;NSW;-23-----;RL;607;;3513S 14643E
+AU;IRG;Lockhart River;Lockhart River;QLD;---4----;AI;9912;;
+AU;LKW;Lockwood;Lockwood;VIC;-23-----;RL;1307;;3650S 14409E
+AU;JGL;Loftus;Loftus;NSW;--3-----;RL;1601;;3403S 15103E
+AU;QQD;Loganholme;Loganholme;QLD;--3-----;RL;1207;;2742S 15312E
+AU;YUK;Loganlea;Loganlea;QLD;--3-----;RL;1507;;2740S 15308E
+AU;HAP;Long Island;Long Island;QLD;---4----;AI;9912;;
+AU;JGN;Long Point;Long Point;NSW;--3-----;RL;1601;;3401S 15054E
+AU;LGF;Longford;Longford;NSW;--3-----;RL;1301;;3046S 15107E
+AU;LRE;Longreach;Longreach;QLD;---4----;AI;9601;;
+AU;JGO;Longueville;Longueville;NSW;--3-----;RL;1601;;3349S 15109E
+AU;DFE;Longwood;Longwood;SA;1-------;RL;1107;;
+AU;WW7;Longwood;Longwood;VIC;--3-----;RL;1507;;3648S 14525E
+AU;LSD;Lonsdale;Lonsdale;SA;-23-----;RL;507;;3506S 13829E
+AU;LDH;Lord Howe Is;Lord Howe Is;NSW;1--4----;AC;9511;;
+AU;LOA;Lorraine;Lorraine;QLD;---4----;AI;9912;;
+AU;LTV;Lotusvale;Lotusvale;QLD;---4----;AI;9912;;
+AU;LPY;Lower Plenty;Lower Plenty;VIC;--3-----;RL;1507;;3744S 14507E
+AU;LWD;Lowood;Lowood;QLD;--3-----;RQ;907;;2728S 15235E
+AU;LOX;Loxton;Loxton;SA;--3-----;RQ;907;;3426S 14034E
+AU;LHW;Lucas Heights;Lucas Heights;NSW;--3-----;RL;1207;;3402S 15058E
+AU;LUC;Lucinda;Lucinda;QLD;1-------;AC;9511;;
+AU;JGR;Lugarno;Lugarno;NSW;--3-----;RL;1601;;3359S 15102E
+AU;LUN;Lurnea/Sydney;Lurnea/Sydney;NSW;--3-----;RL;201;;3355S 15054E
+AU;LY6;Luskintyre;Luskintyre;NSW;--3-----;RL;1507;;3240S 15125E
+AU;ANA;Lutana;Lutana;TAS;--3-----;RL;1501;;4250S 14718E
+AU;LTP;Lyndhurst;Lyndhurst;QLD;---4----;AI;9912;;
+AU;VIL;Lyndhurst;Lyndhurst;VIC;--3-----;RL;901;;3803S 14515E
+AU;LH4;Lyndoch;Lyndoch;SA;--3-----;RL;1501;;3436S 13853E
+AU;LHM;Lyneham;Lyneham;ACT;--3-----;RL;307;;3516S 14908E
+AU;S4R;Lysterfield;Lysterfield;VIC;--3-----;RL;1601;;3756S 14518E
+AU;LTT;Lytton;Lytton;QLD;-----6--;RL;901;;2725S 15310E
+AU;UBB;Mabuiag Island;Mabuiag Island;QLD;---4----;AI;9912;;
+AU;MD9;Macclesfield;Macclesfield;SA;--3-----;RL;1501;;3510S 13850E
+AU;MNW;Macdonald Downs;Macdonald Downs;NT;---4----;AI;9912;;
+AU;MDN;Macedon;Macedon;VIC;--3-----;RQ;1101;;3725S 14434E
+AU;QU4;Macgregor;Macgregor;QLD;--3-----;RL;1507;;2735S 15303E
+AU;MKY;Mackay;Mackay;QLD;1-34----;AC;1207;;2109S 14912E
+AU;MVH;Macksville;Macksville;NSW;---4----;AI;9912;;
+AU;MHC;Macmahon Camp 4;Macmahon Camp 4;SA;---4----;AI;9912;;
+AU;MMB;Macmasters Beach;Macmasters Beach;NSW;--3-----;RL;1401;;3329S 15125E
+AU;MQI;Macquarie Island;Macquarie Island;TAS;1-------;AC;501;;5429S 15856E
+AU;MRK;Macquarie Park;Macquarie Park;NSW;1----6--;RL;1107;;3346S 15107E
+AU;MAD;Maddington;Maddington;WA;--3-----;RQ;907;;3203S 11559E
+AU;MAF;Maffra;Maffra;VIC;--3-----;RL;1307;;3758S 14659E
+AU;INR;Maianbar;Maianbar;NSW;--3-----;RL;1601;;3404S 15107E
+AU;GU9;Maiden Gully;Maiden Gully;VIC;--3-----;RL;1507;;3644S 14412E
+AU;MDO;Maidstone;Maidstone;VIC;-----6--;RL;601;;3747S 14451E
+AU;RDG;Main Ridge;Main Ridge;VIC;--3-----;RL;1507;;3823S 14458E
+AU;MIZ;Mainoru;Mainoru;NT;---4----;AI;9601;;
+AU;MTL;Maitland;Maitland;NSW;---4----;AI;9912;;
+AU;MAJ;Majura;Majura;ACT;--3-----;RL;1507;;3516S 14912E
+AU;AGA;Malaga;Malaga;WA;-----6--;RQ;1001;;3151S 11554E
+AU;MAL;Maleny;Maleny;QLD;--3-----;RL;1507;;2645S 15251E
+AU;XMC;Mallacoota;Mallacoota;VIC;---4----;AI;9912;;
+AU;MMY;Malmsbury;Malmsbury;VIC;--3-----;RL;1601;;3711S 14423E
+AU;MBX;Malua Bay;Malua Bay;NSW;--3-----;RL;1507;;3548S 15014E
+AU;MVR;Malvern;Malvern;SA;-----6--;RL;1107;;3457S 13836E
+AU;MVN;Malvern;Malvern;VIC;-23-----;RL;1407;;3752S 14502E
+AU;MDP;Mandogalup;Mandogalup;WA;-----6--;RL;901;;3212S 11548E
+AU;MQA;Mandora;Mandora;WA;---4----;AI;9912;;
+AU;MDU;Mandurah;Mandurah;WA;--3-----;RL;607;;3232S 11545E
+AU;MNL;Manilla;Manilla;NSW;--3-----;RL;1207;;3045S 15043E
+AU;MNG;Maningrida;Maningrida;NT;---4----;AI;9601;;
+AU;MJP;Manjimup;Manjimup;WA;---4----;AI;9912;;
+AU;WGZ;Manly;Manly;NSW;--3-----;RL;907;;3347S 15117E
+AU;MFP;Manners Creek;Manners Creek;NT;---4----;AI;9912;;
+AU;MFC;Mansfield;Mansfield;VIC;--3-----;RL;1507;;3704S 14604E
+AU;SW3;Marananga;Marananga;SA;--3-----;RL;1501;;3429S 13856E
+AU;MAO;Marayong;Marayong;NSW;-----6--;RL;901;;3345S 15054E
+AU;MBB;Marble Bar;Marble Bar;WA;---4----;AI;9601;;
+AU;AWK;Marburg;Marburg;QLD;--3-----;RL;1507;;2734S 15235E
+AU;MRG;Mareeba;Mareeba;QLD;---4----;AI;9912;;
+AU;MGR;Margaret River;Margaret River;WA;--3-----;RL;607;;3357S 11505E
+AU;MGV;Margaret River Station;Margaret River Station;WA;---4----;AI;9912;;
+AU;MBY;Maribyrnong;Maribyrnong;VIC;1----6--;RL;901;;3747S 14453E
+AU;MXD;Marion Downs;Marion Downs;QLD;---4----;AI;9912;;
+AU;MRP;Marla;Marla;SA;---4----;AI;9912;;
+AU;MRN;Marong;Marong;VIC;--3-----;RL;901;;3644S 14408E
+AU;MCY;Maroochydore Apt/Sunshine Coast;Maroochydore Apt/Sunshine Coast;QLD;---4----;AC;9701;;
+AU;MAU;Maroubra;Maroubra;NSW;--3-----;RQ;1101;;3356S 15114E
+AU;MQE;Marqua;Marqua;NT;---4----;AI;9912;;
+AU;MR4;Marrar;Marrar;NSW;--3-----;RL;1407;;3450S 14722E
+AU;MAA;Marrara;Marrara;NT;--3-----;RL;1207;;1224S 13054E
+AU;RRE;Marree;Marree;SA;---4----;AI;9912;;
+AU;MAR;Marrickville;Marrickville;NSW;123--6--;RL;501;;3355S 15110E
+AU;MAK;Marsden Park;Marsden Park;NSW;--3-----;RL;1501;;3341S 15050E
+AU;MFD;Marsfield;Marsfield;NSW;-----6--;RL;1107;;3346S 15106E
+AU;MLN;Marulan;Marulan;NSW;--3-----;RL;1501;;3442S 15001E
+AU;MBH;Maryborough;Maryborough;QLD;1--4----;AC;9511;;
+AU;SAD;Maryborough;Maryborough;VIC;1-------;RL;1107;;3730S 14345E
+AU;WWA;Marybrook;Marybrook;WA;--3-----;RL;1507;;3338S 11515E
+AU;KLL;Maryknoll;Maryknoll;VIC;1-------;RL;1107;;3855S 14536E
+AU;MAV;Maryvale;Maryvale;QLD;--3-----;RQ;907;;2800S 15214E
+AU;MVL;Maryvale;Maryvale;SA;--3-----;RQ;907;;3249S 13424E
+AU;MAS;Mascot;Mascot;NSW;--3-5---;RL;212;;3355S 15111E
+AU;MAH;Matcham;Matcham;NSW;--3-----;RL;1507;;3325S 15125E
+AU;MHA;Mathoura;Mathoura;NSW;-23-----;RL;607;;3549S 14453E
+AU;MTO;Matong;Matong;NSW;-23-----;RL;607;;3446S 14655E
+AU;MAT;Matraville;Matraville;NSW;-23-----;RL;901;;3357S 15114E
+AU;MAW;Mawson Lakes;Mawson Lakes;SA;--3-----;RL;1207;;3448S 13836E
+AU;MYF;Mayfield;Mayfield;NSW;0-------;RQ;9701;;
+AU;MAY;Mayfield;Mayfield;TAS;-----6--;RL;1201;;4123S 14708E
+AU;MDS;Maylands;Maylands;SA;--3-----;RL;1407;;3454S 13838E
+AU;MCV;Mcarthur River;Mcarthur River;NT;---4----;AI;9912;;
+AU;MCG;McGraths Hill;McGraths Hill;NSW;--3-----;RL;1207;;3336S 15050E
+AU;MLF;Mclaren Flat;Mclaren Flat;SA;--3-----;RL;1507;;3513S 13835E
+AU;MCL;McLaren Vale;McLaren Vale;SA;--3-----;RL;907;;3514S 13832E
+AU;MCP;Mcmahons Point;Mcmahons Point;NSW;--3-----;RL;1301;;3350S 15112E
+AU;MWO;Meadowbrook;Meadowbrook;QLD;-23-----;RL;701;;2740S 15308E
+AU;SUI;Meadows;Meadows;SA;-----6--;RL;1107;;3511S 13845E
+AU;MKR;Meekatharra;Meekatharra;WA;---4----;AI;9912;;
+AU;MEL;Melbourne;Melbourne;VIC;12345---;AC;307;;3749S 14458E
+AU;KAH;Melbourne City Heliport;Melbourne City Heliport;VIC;---4----;AI;9912;;
+AU;MRS;Melrose;Melrose;SA;1-------;AC;9511;;
+AU;MEP;Melrose Park;Melrose Park;NSW;--3-----;RL;1207;;3349S 15104E
+AU;MT9;Melton;Melton;VIC;--3-----;RL;1301;;3741S 14435E
+AU;MLE;Melville;Melville;WA;-----6--;RL;1201;;2811S 11644E
+AU;MLI;Melville Island;Melville Island;NT;1-------;AC;501;;1133S 13056E
+AU;MNI;Menai;Menai;NSW;--3-----;RL;1507;;3401S 15101E
+AU;MTN;Mentone;Mentone;VIC;-----6--;RL;1201;;3759S 14504E
+AU;M2C;Menzies Creek;Menzies Creek;VIC;--3-----;RL;1601;;3755S 14524E
+AU;MER;Merbein;Merbein;VIC;--3-----;RQ;907;;3110S 14204E
+AU;HH5;Merewether;Merewether;NSW;--3-----;RL;1507;;3256S 15145E
+AU;MIM;Merimbula;Merimbula;NSW;---4----;AI;9601;;
+AU;MDA;Merinda;Merinda;QLD;-23-----;UR;9701;;
+AU;MLV;Merluna;Merluna;QLD;---4----;AI;9912;;
+AU;MEN;Mernda;Mernda;VIC;--3-----;RL;1501;;3736S 14506E
+AU;MRD;Merredin;Merredin;WA;-23-----;RL;607;;3129S 11817E
+AU;MRH;Merricks North;Merricks North;VIC;--3-----;RL;1507;;3821S 14505E
+AU;MYD;Merrylands;Merrylands;NSW;--3-----;RL;1507;;3350S 15059E
+AU;RTY;Merty;Merty;SA;---4----;AI;9912;;
+AU;MRU;Meru;Meru;WA;--3-----;RL;1501;;2848S 11440E
+AU;MTC;Metricup;Metricup;WA;--3-----;RL;1507;;3347S 11507E
+AU;MII;Miami;Miami;QLD;-----6--;RQ;1001;;2804S 15326E
+AU;MLA;Michelago;Michelago;NSW;-23-----;RL;607;;3543S 14909E
+AU;MIK;Mickleham;Mickleham;VIC;--3-----;RL;1307;;3733S 14452E
+AU;MSN;Middle Swan;Middle Swan;WA;--3-----;RL;1507;;3151S 11601E
+AU;MMM;Middlemount;Middlemount;QLD;---4----;AI;9912;;
+AU;MLT;Middleton;Middleton;SA;--3-----;RL;1507;;3531S 13842E
+AU;MID;Midland;Midland;WA;1-3-----;RQ;1101;;3153N 11559W
+AU;IMV;Midvale;Midvale;WA;--3-----;RL;1501;;3153S 11601E
+AU;XV4;Milawa;Milawa;VIC;--3-----;RL;1501;;3626S 14626E
+AU;MBD;Milbrodale;Milbrodale;NSW;-----6--;RQ;1001;;3245S 15106E
+AU;MQL;Mildura;Mildura;VIC;---4----;AI;9601;;
+AU;MED;Mile End;Mile End;SA;--3-----;RQ;1101;;3455S 13833E
+AU;MGT;Milingimbi;Milingimbi;NT;---4----;AI;9912;;
+AU;MLP;Mill Park;Mill Park;VIC;--3-----;RL;1207;;3740S 14504E
+AU;MNN;Millendon;Millendon;WA;--3-----;RL;1507;;3149S 11602E
+AU;MLR;Millicent;Millicent;SA;---4----;AI;9912;;
+AU;MMN;Millmerran;Millmerran;QLD;--3-----;RL;901;;2752S 15116E
+AU;MIB;Milner Bay;Milner Bay;NT;1-------;AC;9511;;
+AU;MIL;Milperra;Milperra;NSW;1-3-----;RQ;901;;
+AU;MSP;Milsons Point;Milsons Point;NSW;-----6--;RQ;1007;;3384S 15121E
+AU;MCB;Minchinbury;Minchinbury;NSW;--3-----;RL;1101;;3347S 15050E
+AU;MDE;Mindarie;Mindarie;SA;-23-----;RL;901;;3449S 14013E
+AU;MRL;Miners Lake;Miners Lake;QLD;---4----;AI;9912;;
+AU;XML;Minlaton;Minlaton;SA;---4----;AI;9912;;
+AU;MIN;Minnipa;Minnipa;SA;---4----;AI;9601;;
+AU;MNR;Mintaro;Mintaro;SA;--3-----;RL;1507;;3355S 13843E
+AU;MNT;Minto;Minto;NSW;--3-----;RL;901;;3402S 15051E
+AU;MND;Miranda;Miranda;NSW;--3-----;RL;901;;3402S 15106E
+AU;MWY;Miranda Downs;Miranda Downs;QLD;---4----;AI;9912;;
+AU;MIT;Mitcham;Mitcham;VIC;-23--6--;RL;607;;3749S 14512E
+AU;MHL;Mitchell;Mitchell;ACT;--3-----;RL;1207;;3512S 14908E
+AU;MTQ;Mitchell;Mitchell;QLD;---4----;AI;9601;;
+AU;MIP;Mitchell Park;Mitchell Park;SA;--3-----;RL;1207;;3731S 14348E
+AU;MTP;Mitchell Park;Mitchell Park;VIC;--34----;RL;1401;;3731S 14348E
+AU;MIH;Mitchell Plateau;Mitchell Plateau;WA;---4----;AI;9601;;
+AU;MXQ;Mitchell River;Mitchell River;QLD;---4----;AI;9912;;
+AU;MGO;Mittagong;Mittagong;NSW;-23-----;RL;607;;3427S 15026E
+AU;MIY;Mittiebah;Mittiebah;NT;---4----;AI;9912;;
+AU;MOA;Moama;Moama;NSW;-23-----;RL;607;;3607S 14446E
+AU;MNA;Moana;Moana;SA;--3-----;RL;1507;;3512S 13829E
+AU;MOC;Moculta;Moculta;SA;--3-----;RL;1507;;3428S 13907E
+AU;MDB;Modbury;Modbury;SA;--3--6--;RL;1107;;3450S 13841E
+AU;MOD;Modec Venture 11;Modec Venture 11;;------7-;RL;1001;;1946S 11636E
+AU;MOE;Moe;Moe;VIC;-23-----;RL;1307;;3810S 14616E
+AU;MDI;Molendinar;Molendinar;QLD;--3-----;RL;701;;2759S 15322E
+AU;MLG;Molong;Molong;NSW;--3-----;RL;1507;;3306S 14852E
+AU;NMV;Mona Vale;Mona Vale;NSW;-----6--;RQ;1007;;3340S 15118E
+AU;MCN;Monarto South;Monarto South;SA;-----6--;RL;901;;3580S 13970E
+AU;MSH;Monash;Monash;SA;--3-----;RL;1507;;3414S 14034E
+AU;MUK;Monbulk;Monbulk;VIC;-----6--;RQ;907;;3753S 14524E
+AU;MJK;Monkey Mia;Monkey Mia;WA;---4----;AI;9912;;
+AU;ONR;Monkira;Monkira;QLD;---4----;AI;9912;;
+AU;MAN;Mont Albert North;Mont Albert North;VIC;--3-----;RL;1401;;3748S 14506E
+AU;MON;Montara Field;Montara Field;NT;1-------;RL;901;;1265S 12405E
+AU;M6Y;Montmorency;Montmorency;VIC;--3-----;RL;1601;;3743S 14507E
+AU;MNQ;Monto;Monto;QLD;---4----;AI;9912;;
+AU;MTR;Montrose;Montrose;VIC;--3-----;RL;1501;;3749S 14521E
+AU;MVP;Moolap;Moolap;VIC;--3-----;RL;1207;;3811S 14426E
+AU;MWT;Moolawatana;Moolawatana;SA;---4----;AI;9912;;
+AU;MLL;Mooloolaba;Mooloolaba;QLD;1-3-5---;RL;1107;;2641S 15308E
+AU;MOO;Moomba;Moomba;SA;---4----;AI;9912;;
+AU;MNH;Moonah;Moonah;TAS;--3-----;RL;1207;;4251S 14718E
+AU;SX5;Moonambel;Moonambel;VIC;--3-----;RL;1501;;3659S 14319E
+AU;MNP;Moonee Ponds;Moonee Ponds;VIC;--34----;RL;1207;;3746S 14455E
+AU;EYM;Mooney Mooney;Mooney Mooney;NSW;--3-----;RL;1601;;3331S 15112E
+AU;MRA;Moora;Moora;WA;-23-----;RL;607;;3038S 11600E
+AU;MBW;Moorabbin;Moorabbin;VIC;---4----;AI;9912;;
+AU;OOR;Mooraberree;Mooraberree;QLD;---4----;AI;9912;;
+AU;MOL;Moorabool;Moorabool;VIC;--3-----;RL;1501;;3804S 14418E
+AU;MPK;Moore Park;Moore Park;NSW;--3-----;RL;1201;;3354S 15113E
+AU;MRB;Moorebank/Sydney;Moorebank/Sydney;NSW;--3-----;RL;201;;3356S 15056E
+AU;MRO;Moorooduc;Moorooduc;VIC;--3-----;RL;1507;;3813S 14507E
+AU;MOK;Moorook;Moorook;SA;1-3-----;RL;601;;3417S 14021E
+AU;MBK;Mooroolbark;Mooroolbark;VIC;--3-----;RL;1507;;3747S 14518E
+AU;MPV;Mooroopna;Mooroopna;VIC;--3-----;RL;901;;3624S 14521E
+AU;MOV;Moranbah;Moranbah;QLD;---4----;AI;9601;;
+AU;MWB;Morawa;Morawa;WA;---4----;AI;9912;;
+AU;MFX;Morayfield;Morayfield;QLD;--3-----;RL;1601;;2706S 15256E
+AU;MDC;Mordialloc;Mordialloc;VIC;123-----;RL;701;;3801S 14505E
+AU;MRZ;Moree;Moree;NSW;---4----;AI;9601;;
+AU;MET;Moreton;Moreton;QLD;---4----;AI;9912;;
+AU;AAG;Morgan;Morgan;SA;--3-----;RL;1507;;3401S 13940E
+AU;MLY;Morley;Morley;WA;--3--6--;RL;507;;3153S 11553E
+AU;OXY;Morney;Morney;QLD;---4----;AI;9912;;
+AU;MGS;Morningside;Morningside;QLD;--3-----;RL;1207;;2728S 15304E
+AU;ONG;Mornington;Mornington;QLD;---4----;AI;9912;;
+AU;M3N;Mornington;Mornington;VIC;--3-----;RL;1601;;3813S 14502E
+AU;MRT;Moroak;Moroak;NT;---4----;AI;9912;;
+AU;MPT;Morpeth;Morpeth;NSW;--3-----;RL;1207;;3244S 15138E
+AU;MV2;Morphett Vale;Morphett Vale;SA;--3-----;RL;1507;;3508S 13831E
+AU;MDL;Mortdale;Mortdale;NSW;--3-----;RL;1301;;3358S 15105E
+AU;MYA;Moruya;Moruya;NSW;---4----;AI;9912;;
+AU;MOR;Morwell;Morwell;VIC;--3-----;RL;201;;3814S 14624E
+AU;MSA;Mosman;Mosman;NSW;--3--6--;RL;607;;3350S 15115E
+AU;MMP;Mosman Park;Mosman Park;WA;-----6--;RL;1107;;3200S 11545E
+AU;MVA;Moss Vale;Moss Vale;NSW;-23-----;RL;607;;3433S 15022E
+AU;MBA;Mount Barker;Mount Barker;WA;-23-----;RL;1101;;3438S 11740E
+AU;MBN;Mount Barnett;Mount Barnett;WA;---4----;AI;1101;;
+AU;MB2;Mount Benson;Mount Benson;SA;--3-----;RL;1507;;3705S 13947E
+AU;MBF;Mount Buffalo;Mount Buffalo;VIC;---4----;AI;9912;;
+AU;MML;Mount Camel;Mount Camel;VIC;--3-----;RL;1507;;3645S 14443E
+AU;MKV;Mount Cavenagh;Mount Cavenagh;NT;---4----;AI;1101;;
+AU;CAO;Mount Colah;Mount Colah;NSW;--3-----;RL;1601;;3341S 15107E
+AU;MCS;Mount Compass;Mount Compass;SA;--3-----;RL;1507;;3522S 13837E
+AU;MCC;Mount Cotton;Mount Cotton;QLD;--3-----;RL;1507;;2738S 15314E
+AU;M2D;Mount Dandenong;Mount Dandenong;VIC;--3-----;RL;1601;;3750S 14522E
+AU;NUI;Mount Druitt;Mount Druitt;NSW;--3-----;RL;1601;;3346S 15049E
+AU;MEZ;Mount Eliza;Mount Eliza;VIC;-----6--;RL;1301;;3811S 14505E
+AU;MFL;Mount Full Stop;Mount Full Stop;QLD;---4----;AI;9912;;
+AU;MGB;Mount Gambier;Mount Gambier;SA;-234----;AC;9511;;
+AU;MGE;Mount Gravatt;Mount Gravatt;QLD;1-------;RL;1207;;2732S 15305E
+AU;GSN;Mount Gunson;Mount Gunson;SA;---4----;AI;9912;;
+AU;MHW;Mount Hawthorn;Mount Hawthorn;WA;1----6--;RL;1301;;3155S 11550E
+AU;MHU;Mount Hotham;Mount Hotham;VIC;---4----;AI;9912;;
+AU;MHO;Mount House;Mount House;WA;---4----;AI;9912;;
+AU;ISA;Mount Isa;Mount Isa;QLD;---4----;AI;9601;;
+AU;WME;Mount Keith;Mount Keith;WA;---4----;AI;9912;;
+AU;MKG;Mount Kuring-Gai;Mount Kuring-Gai;NSW;-23-----;RL;1301;;3339S 15108E
+AU;MTY;Mount Lawley;Mount Lawley;WA;--3-----;RL;1401;;3156S 11552E
+AU;MLS;Mount Louisa;Mount Louisa;QLD;-23-----;RL;1501;;1917S 14644E
+AU;MD2;Mount Macedon;Mount Macedon;VIC;--3-----;RL;1507;;3723S 14436E
+AU;MMG;Mount Magnet;Mount Magnet;WA;-234----;AI;9601;;2803S 11750E
+AU;M3M;Mount Martha;Mount Martha;VIC;--3-----;RL;1601;;3816S 14501E
+AU;MTH;Mount Nathan;Mount Nathan;QLD;--3-----;RL;1507;;2700S 15315E
+AU;SUO;Mount Pleasant;Mount Pleasant;NSW;--3-----;RL;1601;;3329S 15121E
+AU;MPL;Mount Pleasant;Mount Pleasant;SA;--3-----;RL;1507;;3447S 13902E
+AU;MTS;Mount Saint John;Mount Saint John;QLD;--3-----;RL;1101;;1915S 14644E
+AU;MTD;Mount Sandford;Mount Sandford;NT;---4----;AI;1101;;
+AU;MSF;Mount Swan;Mount Swan;NT;---4----;AI;9912;;
+AU;T8M;Mount Torrens;Mount Torrens;SA;--3-----;RL;1601;;3452S 13857E
+AU;MTW;Mount Waverly;Mount Waverly;VIC;-23-----;RL;1101;;3753S 14508E
+AU;WAH;Mount White;Mount White;NSW;--3-----;RL;1601;;3327S 15112E
+AU;MNV;Mountain Valley;Mountain Valley;NT;---4----;AI;9912;;
+AU;BKR;Mountbarker;Mountbarker;WA;--3-----;RL;1507;;3438S 11740E
+AU;OUR;Moura;Moura;QLD;--3-----;RL;1207;;2434S 15001E
+AU;MOU;Mourilyan;Mourilyan;QLD;1-------;AC;9511;;
+AU;MOW;Mowbray Heights;Mowbray Heights;TAS;123-----;RL;601;;4123S 14708E
+AU;MYU;Moyhu;Moyhu;VIC;-----6--;RQ;907;;3636S 14624E
+AU;MUQ;Muccan;Muccan;WA;---4----;AI;9912;;
+AU;MHE;Muchea;Muchea;WA;-23-----;RL;607;;3135S 11558E
+AU;DGE;Mudgee;Mudgee;NSW;---4----;AI;9601;;
+AU;MBU;Mukinbudin;Mukinbudin;WA;-23-----;RL;607;;3055S 11812E
+AU;MUP;Mulga Park;Mulga Park;NT;---4----;AI;9912;;
+AU;OGA;Mulgoa;Mulgoa;NSW;--3-----;RL;1601;;3350S 15039E
+AU;MUL;Mulgrave;Mulgrave;VIC;--3-----;RL;607;;3755S 14511E
+AU;MVK;Mulka;Mulka;SA;---4----;AI;9912;;
+AU;MXU;Mullewa;Mullewa;WA;---4----;AI;9912;;
+AU;MWA;Mulwala;Mulwala;NSW;123-----;RL;607;;3600S 14600E
+AU;MDG;Mundingburra;Mundingburra;QLD;--3-----;RL;1207;;1918S 14647E
+AU;MUA;Mundulla;Mundulla;SA;--3-----;RL;1507;;3622S 14041E
+AU;MNE;Mungeranie;Mungeranie;SA;---4----;AI;9912;;
+AU;MRI;Murarrie;Murarrie;QLD;-23--6--;RL;607;;2728S 15306E
+AU;MUC;Murchison;Murchison;VIC;-----6--;RL;901;;3638S 14514E
+AU;DCH;Murdoch;Murdoch;WA;--3-----;RL;1507;;3204S 11549E
+AU;MUB;Murray Bridge;Murray Bridge;SA;--3-----;RL;1301;;3507S 13916E
+AU;MYI;Murray Island;Murray Island;QLD;---4----;AI;9912;;
+AU;RMR;Murrey;Murrey;SA;--3-----;RQ;201;;3409S 13959E
+AU;MRR;Murrindindi;Murrindindi;VIC;--3-----;RL;901;;3722S 14532E
+AU;MBM;Murrumbateman;Murrumbateman;NSW;--3-----;RL;607;;3458S 14902E
+AU;MUR;Murwillumbah;Murwillumbah;NSW;--3-----;RL;901;;2819S 15324E
+AU;MVU;Musgrave;Musgrave;QLD;---4----;AI;9912;;
+AU;MSK;Musk Vale;Musk Vale;VIC;--3-----;RL;1507;;3723S 14408E
+AU;OOK;Muswellbrook;Muswellbrook;NSW;--3-----;RL;1507;;3216S 15054E
+AU;MUT;Mutineer;Mutineer;;------7-;RQ;907;;1916S 11636E
+AU;UTB;Muttaburra;Muttaburra;QLD;---4----;AI;9601;;
+AU;MTA;Muttama;Muttama;NSW;-23-----;RL;607;;3448S 14807E
+AU;MBC;Myaree;Myaree;WA;--3-----;RL;901;;3202S 11549E
+AU;MYR;Mylor;Mylor;SA;--3-----;RQ;1101;;3503S 13845E
+AU;MYO;Myroodah;Myroodah;WA;---4----;AI;9912;;
+AU;HEE;Myrrhee;Myrrhee;VIC;--3-----;RL;1507;;3645S 14619E
+AU;ORD;Myrtleford;Myrtleford;VIC;--3-----;RL;1507;;3633S 14644E
+AU;NAG;Nagambie;Nagambie;VIC;--3-----;RQ;1007;;3647S 14510E
+AU;NSS;Nairne;Nairne;SA;--3-----;RL;1507;;3202S 13854E
+AU;NBR;Nambour;Nambour;QLD;---4----;AI;9912;;
+AU;NBH;Nambucca Heads;Nambucca Heads;NSW;---4----;AI;9912;;
+AU;NAN;Nangwarry;Nangwarry;SA;--3-----;RL;901;;3733S 14047E
+AU;NNU;Nannup;Nannup;WA;-23-----;RL;607;;3359S 11546E
+AU;NMR;Nappa Merry;Nappa Merry;QLD;---4----;AI;9912;;
+AU;NPP;Napperby;Napperby;NT;---4----;AI;9912;;
+AU;NNG;Nar Nar Goon;Nar Nar Goon;VIC;-----6--;RL;1107;;3805S 14534E
+AU;NAC;Naracoorte;Naracoorte;SA;---4----;AI;9912;;
+AU;NBA;Narangba;Narangba;QLD;--3-----;RQ;907;;2712S 15258E
+AU;NLN;Narellan;Narellan;NSW;--3-----;RQ;907;;3402S 15044E
+AU;NBE;Narembeen;Narembeen;WA;-23-----;RL;607;;3204S 11823E
+AU;QRX;Narooma;Narooma;NSW;--3-----;RL;907;;3613S 15003E
+AU;NRB;Narrabeen;Narrabeen;NSW;--3-----;RL;1101;;3342S 15117E
+AU;NAA;Narrabri;Narrabri;NSW;---4----;AI;9601;;
+AU;NAR;Narracoopa;Narracoopa;TAS;0-------;AC;9511;;
+AU;NRA;Narrandera;Narrandera;NSW;---4----;AI;9601;;
+AU;NWA;Narraweena;Narraweena;NSW;--3-----;RQ;1101;;3344S 15116E
+AU;NRW;Narre Warren;Narre Warren;VIC;--3-----;RL;1207;;3802S 14518E
+AU;REN;Narre Warren;Narre Warren;VIC;--3-----;RL;1507;;3802S 14518E
+AU;N2N;Narre Warren North;Narre Warren North;VIC;--3-----;RL;1601;;3759S 14519E
+AU;NKU;Narrikup;Narrikup;WA;--3-----;RL;901;;3446S 11744E
+AU;NRG;Narrogin;Narrogin;WA;---4----;AI;9912;;
+AU;QRM;Narromine;Narromine;NSW;-23-----;RL;901;;3214S 14814E
+AU;NAB;Naval Base;Naval Base;WA;-----6--;RL;901;;3211S 11546E
+AU;NDD;Nedlands;Nedlands;WA;-----6--;RQ;1001;;3159S 11548E
+AU;NER;Nerang;Nerang;QLD;--3-----;RL;1207;;2759S 15320E
+AU;RG2;Nerang;Nerang;QLD;--3-----;RL;1507;;2759S 15319E
+AU;NEQ;Nericon;Nericon;NSW;1-3-----;RL;1401;;3412S 14602E
+AU;NRN;Nerong;Nerong;NSW;--3-----;RL;607;;3232S 15209E
+AU;NEU;Neurea;Neurea;NSW;--3-----;RL;1507;;3241S 14856E
+AU;BA2;Neutral Bay;Neutral Bay;NSW;--3-----;RL;1507;;3350S 15113E
+AU;NFR;New Farm;New Farm;QLD;--3-----;RL;1401;;2728S 15302E
+AU;NLT;New Lambton;New Lambton;NSW;-----6--;RL;1201;;3255S 15142E
+AU;NMP;New Moon;New Moon;QLD;---4----;AI;9912;;
+AU;NLK;New Norfolk;New Norfolk;TAS;1-3-----;RL;1207;;4247S 14704E
+AU;NEW;Newborough;Newborough;VIC;--3-----;RL;1307;;3810S 14614E
+AU;NTL;Newcastle;Newcastle;NSW;1--4----;AI;9601;;
+AU;NAM;Newham;Newham;VIC;--3-----;RL;1507;;3720S 14436E
+AU;NWM;Newman;Newman;WA;0-------;RQ;9601;;
+AU;ZNE;Newman Apt;Newman Apt;WA;---4----;AI;1501;;2325S 11948E
+AU;WNH;Newnham;Newnham;TAS;-----6--;RQ;907;;4123S 14708E
+AU;NWP;Newport;Newport;NSW;--3-----;RQ;907;;3340S 15119E
+AU;NWT;Newport;Newport;VIC;--3-----;RQ;907;;3751S 14453E
+AU;NRY;Newry;Newry;NT;---4----;AI;9912;;
+AU;NSD;Newstead;Newstead;QLD;--3-----;RQ;9806;;
+AU;NST;Newstead;Newstead;TAS;--3-----;RL;1207;;4126S 14710E
+AU;VIC;Newtown;Newtown;VIC;1-3-----;RL;1401;;3742S 14339E
+AU;NGH;Nganhurra;Nganhurra;WA;1-----7-;RL;607;;2129S 11400E
+AU;RPM;Ngukurr;Ngukurr;NT;---4----;AI;9912;;
+AU;NHU;Nhulunbuy;Nhulunbuy;NT;1-------;RQ;901;;1211S 13647E
+AU;NLS;Nicholson;Nicholson;WA;---4----;AI;9912;;
+AU;NIF;Nifty;Nifty;WA;---4----;AI;9912;;
+AU;NTA;Nimmitabel;Nimmitabel;NSW;-23-----;RL;607;;3630S 14917E
+AU;NIV;Ningaloo Vision;Ningaloo Vision;;1-------;RL;1307;;2124S 11405E
+AU;NIN;Ningi;Ningi;QLD;--3-----;RL;1201;;2703S 15305E
+AU;NDW;Noarlunga Downs;Noarlunga Downs;SA;--3-----;RL;1407;;3508S 13830E
+AU;NBP;Noble Park;Noble Park;VIC;--3-----;RL;307;;3758S 14510E
+AU;NKB;Noonkanbah;Noonkanbah;WA;---4----;AI;9912;;
+AU;NSA;Noosa;Noosa;QLD;---4----;AI;9912;;
+AU;NSV;Noosaville;Noosaville;QLD;---4----;AI;9912;;
+AU;RST;Normanhurst;Normanhurst;NSW;--3-----;RL;1507;;3344S 15106E
+AU;NTN;Normanton;Normanton;QLD;---4----;AI;9912;;
+AU;NSM;Norseman;Norseman;WA;---4----;AI;9601;;
+AU;NBW;North Balwyn;North Balwyn;VIC;--3--6--;RL;601;;3748S 14505E
+AU;NB2;North Bridge;North Bridge;NSW;1----6--;RL;1301;;3348S 15113E
+AU;NCC;North Curl Curl;North Curl Curl;NSW;--3-----;RL;901;;3345S 15117E
+AU;NFM;North Fremantle;North Fremantle;WA;--3-----;RL;901;;3203S 11545E
+AU;GGN;North Geelong;North Geelong;VIC;-23-----;RL;701;;3807S 14420E
+AU;NVN;North Haven;North Haven;SA;--3-----;RL;1507;;3448S 13829E
+AU;NLE;North Lismore;North Lismore;NSW;--3-----;RQ;1101;;2848S 15317E
+AU;NM2;North Manly;North Manly;NSW;--3-----;RL;1507;;3346S 15116E
+AU;NME;North Melbourne;North Melbourne;VIC;--3-----;RL;1207;;3747S 14456E
+AU;NNN;North Narrabeen;North Narrabeen;NSW;--3-----;RL;1507;;3340S 15118E
+AU;NRD;North Richmond;North Richmond;NSW;--3-----;RL;1107;;2235S 15042E
+AU;NRC;North Rocks;North Rocks;NSW;--3-----;RQ;907;;3346S 15117E
+AU;NRE;North Ryde;North Ryde;NSW;--3-----;RL;207;;3348S 15107E
+AU;NSY;North Sydney;North Sydney;NSW;-----6--;RL;1107;;3350S 15112E
+AU;NTB;North Tamborine;North Tamborine;QLD;--3-----;RL;1507;;2755S 15312E
+AU;T8R;North Turramurra;North Turramurra;NSW;--3-----;RL;1601;;3343S 15109E
+AU;NHA;Northam;Northam;WA;-23-----;RL;607;;3139S 11640E
+AU;S3B;Northcote;Northcote;VIC;--3-----;RL;1601;;3746S 14500E
+AU;NTE;Northern Endeavour;Northern Endeavour;NT;1-------;AC;501;;
+AU;NGT;Northgate;Northgate;QLD;-23--6--;RL;607;;2723S 15304E
+AU;NOM;Northmead;Northmead;NSW;--3-----;RQ;907;;3347S 15059E
+AU;R5W;Northwood;Northwood;NSW;--3-----;RL;1601;;3349S 15110E
+AU;MMT;Norton Summit;Norton Summit;SA;--3-----;RL;1507;;3455S 13843E
+AU;NOR;Norwood;Norwood;SA;-23-----;RL;607;;3440S 14944E
+AU;NTH;Notting Hill;Notting Hill;VIC;-23-----;RL;307;;3754S 14507E
+AU;NOA;Nowra;Nowra;NSW;---4----;AI;9601;;
+AU;NUK;Nulkaba;Nulkaba;NSW;-----6--;RL;901;;3281S 15135E
+AU;NLL;Nullagine;Nullagine;WA;---4----;AI;9601;;
+AU;NUR;Nullarbor;Nullarbor;SA;---4----;AI;9912;;
+AU;NUB;Numbulwar;Numbulwar;NT;---4----;AI;9601;;
+AU;NUM;Numurkah;Numurkah;VIC;-23-----;RL;1307;;3606S 14526E
+AU;NWD;Nunawading;Nunawading;VIC;-23-----;RL;701;;3749S 14510E
+AU;NDH;Nundah;Nundah;QLD;--3-----;RL;901;;2724S 15303E
+AU;NRP;Nurioopta;Nurioopta;SA;--3-----;XX;1601;;3428S 13859E
+AU;NOO;Nuriootpa;Nuriootpa;SA;0-------;AC;9511;;
+AU;S3N;Nutfield;Nutfield;VIC;--3-----;RL;1601;;3737S 14511E
+AU;UTD;Nutwood Downs;Nutwood Downs;NT;---4----;AI;9912;;
+AU;NYN;Nyngan;Nyngan;NSW;---4----;AI;9601;;
+AU;OKF;Oak Flats;Oak Flats;NSW;1----6--;RL;1201;;3433S 15049E
+AU;SAO;Oakbank;Oakbank;SA;--3-----;RL;1601;;3459S 13851E
+AU;OKY;Oakey;Oakey;QLD;---4----;AI;9912;;
+AU;OAK;Oakford;Oakford;WA;-----6--;RL;901;;3212S 11555E
+AU;OKU;Oakhurst;Oakhurst;QLD;-23-----;RL;701;;2531S 15238E
+AU;OLH;Oakleigh;Oakleigh;VIC;-23-----;RL;601;;3754S 14505E
+AU;S4W;Oakleigh East;Oakleigh East;VIC;--3-----;RL;1601;;3754S 14507E
+AU;OBA;Oban;Oban;QLD;---4----;AI;9601;;
+AU;OGV;Ocean Grove;Ocean Grove;VIC;--3-----;RQ;1101;;3816S 14432E
+AU;OSF;O'Connell;O'Connell;NSW;--3-----;RL;1401;;3332S 14944E
+AU;OCN;O'Connor;O'Connor;WA;--3-----;RQ;1001;;3157S 11611E
+AU;OPI;Oenpelli;Oenpelli;NT;---4----;AI;9601;;
+AU;S4E;Officer;Officer;VIC;--3-----;RL;1601;;3804S 14525E
+AU;OKH;Okha FPSO;Okha FPSO;WA;------7-;RL;1507;;1935S 11627E
+AU;OLP;Olympic Dam;Olympic Dam;SA;---4----;AI;9912;;
+AU;OPH;Onkaparinga Hills;Onkaparinga Hills;SA;--3-----;RL;1507;;3508S 13833E
+AU;ONS;Onslow;Onslow;WA;1-34----;AI;401;;2139S 11506E
+AU;ODD;Oodnadatta;Oodnadatta;SA;---4----;AI;9601;;
+AU;OAG;Orange;Orange;NSW;---4----;AI;9912;;
+AU;RBS;Orbost;Orbost;VIC;---4----;AI;9912;;
+AU;OKB;Orchid Beach;Orchid Beach;QLD;---4----;AI;9601;;
+AU;ODR;Ord River;Ord River;WA;---4----;AI;9912;;
+AU;OXO;Orientos;Orientos;QLD;---4----;AI;9912;;
+AU;ORM;Ormeau;Ormeau;QLD;-2------;RL;1401;;2747S 15316E
+AU;DUK;Ormiston;Ormiston;QLD;--3-----;RL;1507;;2731S 15315E
+AU;ORS;Orpheus Island Resort;Orpheus Island Resort;QLD;---4----;AI;9912;;
+AU;OSE;Osborne;Osborne;NSW;--3-----;RQ;907;;3522S 14643E
+AU;OSB;Osborne Island;Osborne Island;WA;1-------;AC;9511;;
+AU;OSP;Osborne Park;Osborne Park;WA;--3-----;RL;207;;3154S 11550E
+AU;OTT;Ottaway;Ottaway;SA;--3-----;XX;1601;;3450S 13832E
+AU;OTO;Ottoway;Ottoway;SA;-23-----;RL;601;;3450S 13832E
+AU;OUH;Outer Harbor;Outer Harbor;;-----6--;RQ;1007;;3446S 13830E
+AU;OHB;Outer Harbour;Outer Harbour;SA;-----6--;XX;1601;;3446S 13830E
+AU;OYN;Ouyen;Ouyen;VIC;---4----;AI;9912;;
+AU;LEY;Oxley;Oxley;QLD;--3-----;RL;1507;;2733S 15259E
+AU;VEY;Oxley;Oxley;VIC;--3-----;RL;1507;;3627S 14622E
+AU;T3X;Oyster Bay;Oyster Bay;NSW;--3-----;RL;1601;;3400S 15104E
+AU;URY;Padbury;Padbury;WA;-----6--;RL;901;;3148S 11546E
+AU;PAG;Paddington;Paddington;NSW;1----6--;RL;901;;3353S 15113E
+AU;DSW;Padstow;Padstow;NSW;123-----;RL;901;;3357S 15102E
+AU;PY4;Padthaway;Padthaway;SA;--3-----;RL;1501;;3636S 14029E
+AU;PGT;Paget;Paget;QLD;--3-----;RQ;1001;;2111S 14904E
+AU;PKM;Pakenham;Pakenham;VIC;--3-----;RL;1301;;3804S 14528E
+AU;S4Y;Pakenham South;Pakenham South;VIC;--3-----;RL;1601;;3808S 14531E
+AU;P5U;Pakenham Upper;Pakenham Upper;VIC;--3-----;RL;1601;;3810S 14531E
+AU;T3K;Palm Beach;Palm Beach;NSW;--3-----;RL;1601;;3336S 15119E
+AU;PBH;Palm Beach;Palm Beach;QLD;--3-----;RL;901;;2807S 15328E
+AU;PMK;Palm Island;Palm Island;QLD;1--4----;AC;9511;;
+AU;PAL;Palmerston;Palmerston;NT;1-------;RL;1107;;1228S 13050E
+AU;PAW;Palmwoods;Palmwoods;QLD;--3-----;RQ;907;;2641S 15258E
+AU;PBU;Pambula;Pambula;NSW;--3-----;RL;607;;3656S 14952E
+AU;PDE;Pandie Pandie;Pandie Pandie;SA;---4----;AI;9912;;
+AU;ILL;Panton Hill;Panton Hill;VIC;--3-----;RL;1507;;3739S 14514E
+AU;PBO;Paraburdoo;Paraburdoo;WA;---4----;AI;9601;;
+AU;MBE;Paracombe;Paracombe;SA;--3-----;RL;1507;;3451S 13847E
+AU;PDL;Parafield;Parafield;SA;-----6--;RL;1201;;3447S 13838E
+AU;PRD;Pardoo;Pardoo;WA;---4----;AI;9912;;
+AU;PRG;Paringa;Paringa;SA;--3-----;RL;1507;;3410S 14047E
+AU;VPK;Parkdale;Parkdale;VIC;--3-----;RL;1301;;3759S 14504E
+AU;PKE;Parkes;Parkes;NSW;---4----;AI;9601;;
+AU;PRS;Parkinson;Parkinson;QLD;--3-----;RL;1207;;2739S 15302E
+AU;PKV;Parkville;Parkville;VIC;--3-----;RQ;1001;;3747S 14457E
+AU;PDN;Parndana;Parndana;SA;---4----;AI;9912;;
+AU;PRM;Parramatta;Parramatta;NSW;0-------;AC;9511;;
+AU;PSV;Pascoe Vale;Pascoe Vale;VIC;-----6--;RL;901;;3743S 14456E
+AU;P8S;Paterson;Paterson;NSW;--3-----;RL;1507;;3235S 15136E
+AU;PHI;Peak Hill;Peak Hill;NSW;--3-----;RL;607;;3241S 14802E
+AU;PKH;Peakhurst;Peakhurst;NSW;--3-----;RQ;1001;;3358S 15103E
+AU;PCE;Pearce;Pearce;WA;---4----;AC;9709;;
+AU;PEL;Pelican Point;Pelican Point;SA;123-----;AC;9511;;
+AU;PBE;Pemberton;Pemberton;WA;-23-----;RL;607;;3427S 11602E
+AU;PWY;Pemulwuy;Pemulwuy;NSW;--3-----;RL;1301;;3349S 15055E
+AU;PEN;Pendle Hills;Pendle Hills;NSW;1----6--;RL;901;;3348S 15057E
+AU;PNF;Penfield;Penfield;SA;--3-----;RL;1207;;3442S 13838E
+AU;PNH;Pennant Hills;Pennant Hills;NSW;-----6--;RL;1201;;3344S 15104E
+AU;PEA;Penneshaw;Penneshaw;SA;---4----;AI;9601;;
+AU;PNL;Penola;Penola;SA;--3-----;RQ;907;;3723S 14049E
+AU;PEY;Penong;Penong;SA;---4----;AI;9912;;
+AU;PRH;Penrith;Penrith;NSW;--3-----;RL;601;;3346S 15041E
+AU;T3G;Penshurst;Penshurst;NSW;--3-----;RL;1601;;3358S 15105E
+AU;PWT;Penwortham;Penwortham;SA;--3-----;RL;1301;;3355S 13838E
+AU;PMG;Peppermint Grove;Peppermint Grove;WA;--3-----;RL;1301;;3200S 11545E
+AU;PEP;Peppimenarti;Peppimenarti;NT;---4----;AI;9912;;
+AU;EUK;Perth;Perth;TAS;--3-----;RL;1507;;4134S 14710E
+AU;PER;Perth;Perth;WA;12345---;AC;307;;3157S 11551E
+AU;PTR;Petersham;Petersham;NSW;--3-----;RL;1507;;3353S 15109E
+AU;PET;Petrie;Petrie;QLD;--3-----;RL;1207;;2716S 15259E
+AU;PCR;Pheasant Creek;Pheasant Creek;VIC;-----6--;RL;1301;;3729S 14517E
+AU;PIS;Phillip Island;Phillip Island;VIC;1-34----;RL;1307;;3829S 14514E
+AU;PIA;Pialba;Pialba;QLD;--3-----;RL;607;;2518S 15250E
+AU;PNG;Piangil;Piangil;VIC;--3-----;RQ;907;;3503S 14318E
+AU;PI8;Piccadilly;Piccadilly;SA;--3-----;RL;1507;;3459S 13844E
+AU;PIC;Picton;Picton;NSW;1----6--;RQ;907;;3411S 15036E
+AU;PCN;Picton;Picton;WA;--3-----;RL;1207;;3321S 11541E
+AU;5WA;Pilbara;Pilbara;WA;--3-----;RL;1507;;2115S 11818E
+AU;PIM;Pimpama;Pimpama;QLD;--3-----;RL;901;;2749S 15318E
+AU;PDA;Pindar;Pindar;WA;-23-----;RL;607;;2829S 11546E
+AU;PGY;Pingelly;Pingelly;WA;-23-----;RL;607;;3232S 11705E
+AU;PJA;Pinjarra;Pinjarra;WA;-23-----;RL;607;;3238S 11553E
+AU;PNA;Pinkenba;Pinkenba;QLD;-23--6--;RL;607;;2725S 15307E
+AU;PBR;Pipers Brook;Pipers Brook;TAS;-----6--;RL;901;;4150S 14710E
+AU;PEE;Pipers Creek;Pipers Creek;VIC;--3-----;RL;1507;;3715S 14432E
+AU;PTO;Pittong;Pittong;VIC;-23-----;RL;701;;3740S 14329E
+AU;PLY;Plympton;Plympton;SA;--3-----;RL;1207;;3457S 13833E
+AU;PCK;Point Cook;Point Cook;VIC;--3-----;RQ;901;;
+AU;PHP;Point Henry Pier/Melbourne;Point Henry Pier/Melbourne;VIC;12------;RL;407;;3807S 14426E
+AU;P8N;Point Piper;Point Piper;NSW;--3-----;RL;1507;;3352S 15115E
+AU;PSM;Point Samson;Point Samson;WA;1-------;AC;9511;;
+AU;PWI;Point Wilson;Point Wilson;VIC;1-------;AC;9511;;
+AU;PU7;Pokolbin;Pokolbin;NSW;--3-----;RL;1501;;3247S 15117E
+AU;PRK;Pooraka;Pooraka;SA;--3-----;RL;901;;3450S 13836E
+AU;PR8;Porongurup;Porongurup;WA;--3-----;RL;1507;;3439S 11754E
+AU;PAE;Port Adelaide;Port Adelaide;SA;1-------;AC;9511;;
+AU;PTL;Port Alma;Port Alma;QLD;1-------;AC;9511;;
+AU;PAU;Port Arthur;Port Arthur;TAS;1-------;AC;9511;;
+AU;PUG;Port Augusta;Port Augusta;SA;1--4----;AC;9511;;
+AU;PBY;Port Bonython;Port Bonython;SA;1-------;AC;9511;;
+AU;PBT;Port Botany;Port Botany;NSW;123-----;AC;9511;;
+AU;PCT;Port Curtis;Port Curtis;QLD;1-------;AC;9511;;
+AU;PTD;Port Dalrymple;Port Dalrymple;QLD;1-------;UR;9701;;
+AU;PDI;Port Denison;Port Denison;WA;1-3-----;RL;607;;2916S 11456E
+AU;PTI;Port Douglas;Port Douglas;QLD;1--4----;AC;9511;;
+AU;PGW;Port Gawler;Port Gawler;SA;--3-----;RQ;1507;;3437S 13829E
+AU;PGI;Port Giles;Port Giles;SA;1-------;AC;9511;;
+AU;T3P;Port Hacking;Port Hacking;NSW;1-3-----;RL;1601;;3404S 15108E
+AU;PHE;Port Hedland;Port Hedland;WA;1--4----;AC;9511;;
+AU;PHJ;Port Hunter;Port Hunter;NSW;---4----;AI;9912;;
+AU;PHU;Port Huon;Port Huon;TAS;1-------;AC;9511;;
+AU;PJK;Port Jackson;Port Jackson;NSW;1-3-----;AC;9511;;
+AU;PKT;Port Keats;Port Keats;NT;---4----;AI;9912;;
+AU;PKL;Port Kembla;Port Kembla;NSW;1--4----;AC;9511;;
+AU;PKN;Port Kennedy;Port Kennedy;QLD;--3-----;RQ;1101;;1035S 14213E
+AU;PKY;Port Kenny;Port Kenny;SA;1-------;RQ;1101;;3310S 13441E
+AU;PLA;Port Latta;Port Latta;TAS;1-------;AC;9511;;
+AU;PLO;Port Lincoln;Port Lincoln;SA;1--4----;AC;9511;;
+AU;PQQ;Port Macquarie;Port Macquarie;NSW;1--4----;AC;9511;;
+AU;POR;Port Melbourne;Port Melbourne;VIC;1-------;RL;601;;3750S 14456E
+AU;PTN;Port Norlunga;Port Norlunga;SA;--3-----;RL;1507;;3509S 13828E
+AU;PBN;Port of Brisbane;Port of Brisbane;QLD;123--6--;RL;1301;;2723S 15310E
+AU;PPI;Port Pirie;Port Pirie;SA;1--4----;AC;9511;;
+AU;OTR;Port Sorell;Port Sorell;TAS;--3-----;RL;1507;;4109S 14633E
+AU;PSY;Port Stanley;Port Stanley;TAS;1-------;AC;9511;;
+AU;PST;Port Stanvac;Port Stanvac;SA;1-------;AC;9511;;
+AU;PTE;Port Stephens;Port Stephens;NSW;---4----;AI;9912;;
+AU;PWL;Port Walcott;Port Walcott;WA;1-------;AC;9511;;
+AU;PWR;Port Warrender;Port Warrender;WA;1-------;AC;9511;;
+AU;PTW;Port Willunga;Port Willunga;SA;1----6--;RL;1201;;3516S 13827E
+AU;PTJ;Portland;Portland;VIC;1--4----;AC;9511;;
+AU;PHR;Prahran;Prahran;VIC;1-3-----;RL;1307;;3751S 14500E
+AU;PSO;Preston;Preston;VIC;-23-----;RL;701;;3744S 14500E
+AU;PRE;Prestons;Prestons;NSW;--3-----;RL;1101;;3356S 15052E
+AU;PRC;Price;Price;SA;1-------;AC;9511;;
+AU;PCH;Princes Hill;Princes Hill;VIC;--3-----;RL;1307;;3747S 14457E
+AU;PRB;Proper Bay;Proper Bay;SA;1-------;AC;9511;;
+AU;PPP;Proserpine;Proserpine;QLD;---4----;AI;9601;;
+AU;PPT;Prospect;Prospect;NSW;--3-----;RQ;907;;3348S 15055E
+AU;PRO;Prospect;Prospect;SA;--3-----;RL;901;;3453S 13835E
+AU;PVL;Pullen Vale;Pullen Vale;QLD;--3-----;RL;701;;2732S 15253E
+AU;PUN;Punchbowl;Punchbowl;NSW;--3-----;RL;1307;;3356S 15103E
+AU;PME;Pymble;Pymble;NSW;--3-----;RL;1507;;3345S 15109E
+AU;PYE;Pyrenees;Pyrenees;VIC;1----6--;RL;1107;;3705S 14329E
+AU;PYR;Pyrmont;Pyrmont;NSW;1-3-----;RL;1401;;3352S 15111E
+AU;QDI;Quairading;Quairading;WA;-23-----;RL;607;;3201S 11724E
+AU;T3Y;Quakers Hill;Quakers Hill;NSW;--3-----;RL;1601;;3344S 15053E
+AU;QLC;Qualco;Qualco;SA;--3-----;RL;1507;;3407S 13952E
+AU;QBY;Queanbeyan;Queanbeyan;NSW;-23-----;RL;607;;3521S 14914E
+AU;UEE;Queenstown;Queenstown;TAS;---4----;AI;9601;;
+AU;ULP;Quilpie;Quilpie;QLD;---4----;AI;9601;;
+AU;QUI;Quindalup;Quindalup;WA;--3-----;RL;1507;;3340S 11508E
+AU;UIR;Quirindi;Quirindi;NSW;---4----;AI;9601;;
+AU;QUA;Quoiba;Quoiba;TAS;--3-----;RL;901;;4112S 14620E
+AU;DCN;RAAF Curtin;RAAF Curtin;WA;---4----;AI;1501;;1734S 12349E
+AU;RAF;Raffles Bay;Raffles Bay;NT;1-------;RL;1401;;1116S 13223E
+AU;RAM;Ramingining;Ramingining;NT;---4----;AI;9601;;
+AU;RNW;Randwick;Randwick;NSW;--3-----;RL;1301;;3355S 15114E
+AU;FUK;Ranelagh;Ranelagh;TAS;--3-----;RL;1507;;4300S 14702E
+AU;RAB;Rapid Bay;Rapid Bay;SA;1-------;AC;9511;;
+AU;RAV;Ravensthorpe;Ravensthorpe;WA;--3-----;RL;507;;3335S 12002E
+AU;RAY;Raymond Terrace;Raymond Terrace;NSW;--3-----;RL;1107;;3245S 15145E
+AU;RFF;Red Cliffs;Red Cliffs;VIC;--3-----;RL;1407;;3419S 14211E
+AU;RHI;Red Hill;Red Hill;QLD;-----6--;RQ;1001;;2019S 14830E
+AU;RH8;Red Hill;Red Hill;VIC;--3-----;RL;1507;;3821S 14501E
+AU;HY5;Red Hill South;Red Hill South;VIC;--3-----;RL;1501;;3823S 14526E
+AU;RBK;Redbank;Redbank;VIC;--3-----;RL;1507;;3656S 14319E
+AU;RCF;Redcliffe;Redcliffe;QLD;--3-----;RQ;907;;2714S 15306E
+AU;RCE;Redcliffe;Redcliffe;WA;--3-----;RQ;101;;
+AU;RDL;Redesdale;Redesdale;VIC;--3-----;RL;1507;;3701S 14431E
+AU;RED;Redfern;Redfern;NSW;--3-----;RL;1207;;3353S 15112E
+AU;RDH;Redhead;Redhead;NSW;--3-----;RL;1507;;3301S 15143E
+AU;QDB;Redland Bay;Redland Bay;QLD;--3-----;RL;1501;;2736S 15319E
+AU;RYC;Reedy Creek;Reedy Creek;QLD;--3--6--;RL;601;;2806S 15324E
+AU;RYK;Regency Park;Regency Park;SA;-23-----;RL;601;;3452S 13834E
+AU;RGP;Regents Park;Regents Park;NSW;--3-----;RL;901;;3353S 15101E
+AU;REL;Relbia;Relbia;TAS;-----6--;RL;901;;4150N 14720E
+AU;RMK;Renmark;Renmark;SA;---4----;AI;9601;;
+AU;S4G;Research;Research;VIC;--3-----;RL;1601;;3742S 14511E
+AU;RES;Reservoir;Reservoir;VIC;-23-----;RL;701;;3743S 14500E
+AU;REV;Revesby;Revesby;NSW;123-----;RL;601;;3357S 15100E
+AU;RLL;Reynella;Reynella;SA;1----6--;RL;1107;;3606S 13832E
+AU;RDS;Rhodes;Rhodes;NSW;123-----;RL;701;;3350S 15105E
+AU;RHA;Richlands;Richlands;QLD;--3-----;RL;701;;2735S 15257E
+AU;RCH;Richmond;Richmond;NSW;---4----;AC;9709;;
+AU;RCM;Richmond;Richmond;QLD;1--4----;AC;9511;;
+AU;RIC;Richmond;Richmond;SA;--3-----;RQ;1101;;3456S 13834E
+AU;RMD;Richmond;Richmond;TAS;--3-----;RL;701;;4244S 14726E
+AU;RHM;Richmond;Richmond;VIC;-23--6--;RL;501;;3750S 14500E
+AU;RCL;Richmond Hill;Richmond Hill;QLD;--3-----;RL;1401;;2329S 14539E
+AU;RMV;Richmond Vale;Richmond Vale;NSW;--3-----;RL;1401;;3252S 15130E
+AU;RD2;Riddells Creek;Riddells Creek;VIC;--3-----;RL;1601;;3728S 14441E
+AU;RID;Ridgehaven;Ridgehaven;SA;--3-----;RL;901;;3449S 13842E
+AU;RWD;Ringwood;Ringwood;VIC;--3-----;RL;901;;3749S 14514E
+AU;S4H;Ringwood East;Ringwood East;VIC;--3-----;RL;1601;;3749S 14515E
+AU;S4J;Ringwood North;Ringwood North;VIC;--3-----;RL;1601;;3748S 14514E
+AU;RDN;Risdon;Risdon;TAS;1-3-----;AC;9511;;
+AU;RVV;Riverina;Riverina;WA;--3-----;RL;207;;2944S 12032E
+AU;RVS;Riverstone;Riverstone;NSW;--3-----;RL;1107;;3341S 15052E
+AU;RIV;Riverton;Riverton;SA;--3-----;RL;1507;;3410S 13845E
+AU;OOD;Riverwood;Riverwood;NSW;-23-----;RL;501;;3357S 15103E
+AU;ROB;Robe;Robe;SA;1-------;RL;1207;;3711S 13945E
+AU;RTO;Robertson;Robertson;NSW;--3-----;RL;607;;3435S 15036E
+AU;ROH;Robinhood;Robinhood;QLD;---4----;AI;9912;;
+AU;RRV;Robinson River;Robinson River;NT;---4----;AI;9912;;
+AU;RBC;Robinvale;Robinvale;VIC;---4----;AI;9912;;
+AU;RKK;Rockbank;Rockbank;VIC;--3-----;RL;1507;;3743S 14439E
+AU;ROD;Rockdale;Rockdale;NSW;-----6--;RQ;1007;;3357S 15108E
+AU;ROK;Rockhampton;Rockhampton;QLD;1--4----;AC;9511;;
+AU;RDA;Rockhampton Downs;Rockhampton Downs;NT;---4----;AI;9912;;
+AU;ROM;Rockingham;Rockingham;WA;--3-----;RL;901;;3217S 11543E
+AU;RZC;Rocklea;Rocklea;QLD;-----6--;RQ;907;;2733S 15301E
+AU;RGY;Rocky Gully;Rocky Gully;WA;--3-----;RL;1507;;3430S 11700E
+AU;RYP;Rocky Point;Rocky Point;WA;1-------;RQ;401;;3330S 12359E
+AU;RDP;Rodd Point;Rodd Point;NSW;--3-----;RL;1107;;3351S 15108E
+AU;RBU;Roebourne;Roebourne;WA;1--4----;AC;9511;;
+AU;RKY;Rokeby;Rokeby;QLD;---4----;AI;9912;;
+AU;RKB;Rokeby;Rokeby;TAS;-----6--;RL;901;;4254S 14726E
+AU;RMA;Roma;Roma;QLD;---4----;AI;9912;;
+AU;RMS;Romsey;Romsey;VIC;--3-----;RL;1507;;3721S 14445E
+AU;RKW;Rookwood;Rookwood;NSW;--3-----;RL;1501;;3352S 15103E
+AU;ORY;Rooty Hill;Rooty Hill;NSW;--3-----;RL;1407;;3346S 15050E
+AU;RPB;Roper Bar;Roper Bar;NT;---4----;AI;9912;;
+AU;RPV;Roper Valley;Roper Valley;NT;---4----;AI;9912;;
+AU;RON;Rosanna;Rosanna;VIC;-----6--;RQ;1001;;3744S 14504E
+AU;REY;Rose Bay;Rose Bay;NSW;--3-----;RL;1301;;3352S 15115E
+AU;ROS;Rose Hill;Rose Hill;NSW;--3-----;RL;601;;3348S 15100E
+AU;PAK;Rose Park;Rose Park;SA;-----6--;RL;1107;;3455S 13837E
+AU;RSB;Roseberth;Roseberth;QLD;---4----;AI;9912;;
+AU;RBY;Rosebery/Sydney;Rosebery/Sydney;NSW;--3-----;RL;6;;
+AU;ROW;Rosebud West;Rosebud West;VIC;--3-----;RL;1101;;3822S 14452E
+AU;R4S;Rosehill;Rosehill;NSW;--3-----;RL;1601;;3350S 15101E
+AU;SNS;Roselands;Roselands;NSW;-----6--;RQ;1001;;3355S 15105E
+AU;RLP;Rosella Plains;Rosella Plains;QLD;---4----;AI;9912;;
+AU;RVE;Roseville;Roseville;NSW;--3-----;RQ;1101;;3347S 15111E
+AU;RNB;Rosslyn Bay;Rosslyn Bay;QLD;1-3-----;RL;1107;;2310S 15047E
+AU;ROT;Rothbury;Rothbury;NSW;--3-----;RL;1507;;3245S 15120E
+AU;RTS;Rottnest Island;Rottnest Island;WA;1--4----;AC;9511;;
+AU;RZL;Rouse Hill;Rouse Hill;NSW;--3-----;RL;1501;;3340S 15054E
+AU;RWL;Rowella;Rowella;TAS;--3-----;RL;1507;;4112S 14654E
+AU;RFL;Rowland Flat;Rowland Flat;SA;--3-----;RL;1107;;3435S 13856E
+AU;RWE;Rowville;Rowville;VIC;--3-----;RL;601;;3755S 14514E
+AU;RHL;Roy Hill;Roy Hill;WA;---4----;AI;9912;;
+AU;RPA;Royal Park;Royal Park;;--3-----;RL;901;;3452N 13830E
+AU;ROZ;Rozelle;Rozelle;NSW;1-3--6--;RL;1207;;3351S 15110E
+AU;RFD;Rutherford;Rutherford;NSW;--3-----;RQ;907;;3243S 15132E
+AU;RTG;Rutherglen;Rutherglen;VIC;--3-----;RL;1201;;3603S 14628E
+AU;RTP;Rutland Plains;Rutland Plains;QLD;---4----;AI;9912;;
+AU;RYM;Rydalmere;Rydalmere;NSW;--3-----;RL;201;;3348S 15101E
+AU;RYE;Ryde;Ryde;NSW;--3-----;RL;1407;;3349S 15106E
+AU;3CI;Rythdale;Rythdale;VIC;--3-----;RL;1601;;3808S 14526E
+AU;C6K;Sackville;Sackville;NSW;--3-----;RL;1601;;3329S 15054E
+AU;SAW;Saddleworth;Saddleworth;SA;--3-----;RL;1301;;3405S 13847E
+AU;SBR;Saibai Island;Saibai Island;QLD;---4----;AI;9601;;
+AU;SGO;Saint George;Saint George;QLD;---4----;AI;1101;;
+AU;HLS;Saint Helens;Saint Helens;TAS;---4----;AI;1101;;
+AU;STL;Saint Leonards;Saint Leonards;NSW;-23-5---;RL;1101;;3349S 15112E
+AU;SLS;Saint Leonards;Saint Leonards;TAS;--3-----;RQ;1101;;4128S 14712E
+AU;STM;Saint Marys;Saint Marys;NSW;--3-----;RL;401;;3347S 15047E
+AU;SVM;Saint Paul's Mission;Saint Paul's Mission;QLD;---4----;AI;1101;;
+AU;STP;Saint Peters;Saint Peters;NSW;--3-----;RL;1101;;3355S 15111E
+AU;SMT;Saladin Marine Terminal;Saladin Marine Terminal;WA;1-------;AC;9511;;
+AU;SXE;Sale;Sale;VIC;---4----;AI;9601;;
+AU;SAL;Salisbury;Salisbury;SA;--3-----;RL;901;;3446S 13838E
+AU;SBY;Salisbury/Brisbane;Salisbury/Brisbane;QLD;--3-----;RL;3;;
+AU;WAS;Salmon Gums;Salmon Gums;WA;--3-----;RL;1401;;3259S 12138E
+AU;SGT;Sandgate;Sandgate;NSW;1----6--;RL;1201;;3252S 15142E
+AU;SRM;Sandringham;Sandringham;QLD;---4----;AI;9912;;
+AU;NDS;Sandstone;Sandstone;WA;---4----;AI;9912;;
+AU;S8N;Sans Souci;Sans Souci;NSW;--3-----;RL;1507;;3359S 15108E
+AU;SSF;Sassafras;Sassafras;VIC;--3-----;RQ;1007;;3752S 14520E
+AU;SWL;Sawtell;Sawtell;NSW;--3-----;RL;1507;;3023S 15306E
+AU;H8S;Schofields;Schofields;NSW;--3-----;RL;1601;;3343S 15052E
+AU;NSO;Scone;Scone;NSW;---4----;AI;9601;;
+AU;SCY;Scoresby;Scoresby;VIC;1-3-----;RL;601;;3754S 14513E
+AU;CLI;Seacliff;Seacliff;SA;--3-----;RL;1507;;3502S 13831E
+AU;32S;Seaford;Seaford;SA;--3-----;RL;1507;;3511S 13828E
+AU;FOR;Seaford;Seaford;VIC;--3-----;RL;1507;;3806S 14508E
+AU;FTH;Seaforth;Seaforth;NSW;--3-----;RL;1507;;3348S 15114E
+AU;ILM;Seaholme;Seaholme;VIC;-----6--;RL;1301;;3752S 14450E
+AU;SSD;Seddon;Seddon;VIC;--3-----;RL;1401;;3748S 14453E
+AU;NS9;Sefton;Sefton;NSW;-23-----;RL;1507;;3353S 15100E
+AU;5CI;Selby;Selby;VIC;1----6--;RL;1601;;3755S 14523E
+AU;SBH;Sellick Beach;Sellick Beach;SA;--3-----;RL;1507;;3519S 13826E
+AU;SSH;Sellicks Hill;Sellicks Hill;SA;1-------;RQ;901;;
+AU;SFD;Seppeltsfield;Seppeltsfield;SA;--3-----;RL;1507;;3429S 13854E
+AU;SVH;Seven Hills;Seven Hills;NSW;--3-----;RQ;901;;3346S 15056E
+AU;SVL;Sevenhill;Sevenhill;SA;--3-----;RL;1507;;3353S 13837E
+AU;SMR;Seventeen Mile Rocks/Brisbane;Seventeen Mile Rocks/Brisbane;QLD;1----6--;RL;901;;2733S 15257E
+AU;SVI;Seville;Seville;VIC;--3-----;RL;1507;;3746S 14528E
+AU;SEY;Seymour;Seymour;VIC;--3-----;RL;1207;;3702S 14508E
+AU;SHB;Shark Bay;Shark Bay;WA;1-------;AC;9511;;
+AU;SWB;Shaw River;Shaw River;WA;---4----;AI;9912;;
+AU;SGP;Shay Gap;Shay Gap;WA;---4----;AI;9601;;
+AU;SOL;Shea Oak Log;Shea Oak Log;SA;1----6--;RQ;1001;;3431S 13849E
+AU;SSY;Shelley;Shelley;WA;-----6--;RQ;1001;;3203S 11588E
+AU;SHT;Shepparton;Shepparton;VIC;-234----;AC;9511;;
+AU;SRH;Shoreham;Shoreham;VIC;-----6--;RL;1201;;3825S 14503E
+AU;JHQ;Shute Harbour;Shute Harbour;QLD;---4----;AI;9912;;
+AU;SSP;Silver Plains;Silver Plains;QLD;---4----;AI;9912;;
+AU;SVD;Silverdale;Silverdale;NSW;--3-----;RQ;1101;;3356S 15034E
+AU;SIL;Silverwater;Silverwater;NSW;--3-----;RQ;907;;3350S 15103E
+AU;SIX;Singleton;Singleton;NSW;---4----;AI;9912;;
+AU;SCK;Sisters Creek;Sisters Creek;TAS;--3-----;RL;1507;;4059S 14535E
+AU;SKA;Skardon River;Skardon River;QLD;1-------;RL;401;;1145S 14201E
+AU;SKV;Skua Venture (oil terminal);Skua Venture (oil terminal);NT;1-------;AC;9701;;
+AU;SKY;Skye;Skye;SA;1----6--;RL;901;;
+AU;SMG;Smeaton Grange;Smeaton Grange;NSW;--3-----;RQ;1001;;3403S 15075E
+AU;SHU;Smith Point;Smith Point;NT;---4----;AI;9912;;
+AU;SMD;Smithfield;Smithfield;NSW;--3-----;RL;207;;3350S 15055E
+AU;SGY;Smiths Gully;Smiths Gully;VIC;--3-----;RL;1507;;3737S 14516E
+AU;SIO;Smithton;Smithton;TAS;---4----;AI;9601;;
+AU;SNB;Snake Bay;Snake Bay;NT;---4----;AI;9601;;
+AU;WSS;Snowtown;Snowtown;SA;--3-----;RL;1501;;3347S 13813E
+AU;SMY;Somersby;Somersby;NSW;--3-----;RL;901;;3322S 15117E
+AU;SST;Somerset;Somerset;TAS;--3-----;RL;901;;4103S 14550E
+AU;SOM;Somerton;Somerton;VIC;-23--6--;RL;607;;3739S 14455E
+AU;SPS;Somerton Park;Somerton Park;SA;--3-----;RL;1501;;3459S 13831E
+AU;SMV;Somerville;Somerville;VIC;--3-----;RL;1301;;3813S 14510E
+AU;SAR;Sorrento;Sorrento;VIC;--3-----;RL;1401;;3819S 14444E
+AU;SBN;South Brisbane;South Brisbane;QLD;1-3--6--;RL;1207;;2728S 15301E
+AU;SFE;South Fremantle;South Fremantle;WA;--3-----;RL;1507;;3205S 11545E
+AU;ZGL;South Galway;South Galway;QLD;---4----;AI;9912;;
+AU;SGD;South Guilford;South Guilford;WA;--3-----;RL;207;;3154S 11558E
+AU;SLN;South Launceston;South Launceston;TAS;--3-----;RL;1207;;4127S 14709E
+AU;SMN;South Maclean;South Maclean;QLD;--3-----;RL;1507;;2747S 15300E
+AU;SLM;South Melbourne;South Melbourne;VIC;--3-----;RL;1207;;3750S 14457E
+AU;SOI;South Molle Island;South Molle Island;QLD;---4----;AI;9601;;
+AU;SPH;South Perth;South Perth;WA;--3-----;RL;1507;;3159S 11552E
+AU;STR;South Trees;South Trees;QLD;123-----;RL;607;;2354S 15117E
+AU;SWR;South West Rocks;South West Rocks;NSW;1-------;AC;9511;;
+AU;SWO;South Windsor;South Windsor;NSW;-23--6--;RL;607;;3337S 15048E
+AU;SYA;South Yarra;South Yarra;VIC;--3-----;RL;1207;;3750S 14459E
+AU;SBK;Southbank;Southbank;VIC;-----6--;RL;1107;;3749S 14457E
+AU;SQC;Southern Cross;Southern Cross;WA;---4----;AI;9912;;
+AU;SHQ;Southport;Southport;QLD;---4----;AI;9912;;
+AU;SWK;Southwest Rocks;Southwest Rocks;NSW;--3-----;RL;1507;;3053S 15302E
+AU;SPE;Spearwood;Spearwood;WA;--3-----;RL;901;;3210S 11578E
+AU;SPW;Spotswood;Spotswood;VIC;--3-----;RQ;907;;3750S 14453E
+AU;SPO;Spreyton;Spreyton;TAS;123--6--;RL;601;;4113S 14621E
+AU;SPB;Spring Bay;Spring Bay;TAS;1-------;AC;9511;;
+AU;SCG;Spring Creek;Spring Creek;QLD;---4----;AI;9912;;
+AU;SHI;Spring Hill;Spring Hill;NSW;-23-----;RL;607;;3324S 14910E
+AU;SSM;Springmount;Springmount;VIC;--3-----;RL;1501;;3725S 14356E
+AU;SPG;Springton;Springton;SA;--3-----;RL;1507;;3443S 13905E
+AU;KSV;Springvale;Springvale;QLD;---4----;AI;9912;;
+AU;SGV;Springvale;Springvale;VIC;-23-----;RL;701;;3758S 14509E
+AU;ZVG;Springvale;Springvale;WA;---4----;AI;9601;;
+AU;2VC;Springvale South;Springvale South;VIC;--3-----;RL;1601;;3758S 14509E
+AU;IVE;St Ives;St Ives;NSW;--3-----;RL;1507;;3344S 15110E
+AU;SFF;Stafford;Stafford;QLD;-23-----;RL;601;;2724S 15300E
+AU;STG;Stag Platform;Stag Platform;WA;1-------;AC;907;;
+AU;SHG;Stanhope Gardens;Stanhope Gardens;NSW;--3-----;RL;1207;;3343S 15055E
+AU;STA;Stanley;Stanley;TAS;1-------;AC;9511;;
+AU;TNM;Stanmore;Stanmore;NSW;-----6--;RQ;1507;;3354S 15111E
+AU;SNH;Stanthorpe;Stanthorpe;QLD;---4----;AI;9601;;
+AU;SPY;Stapylton;Stapylton;QLD;--3-----;RL;701;;2744S 15314E
+AU;SQP;Starcke;Starcke;QLD;---4----;AI;9912;;
+AU;SWC;Stawell;Stawell;VIC;---4----;AI;9912;;
+AU;SLK;Steels Creek;Steels Creek;VIC;--3-----;RL;1507;;3735S 14523E
+AU;STF;Stephen Island;Stephen Island;QLD;---4----;AI;9912;;
+AU;SNY;Stepney;Stepney;SA;--3-----;RQ;1101;;3454S 13837E
+AU;LNG;Stirling;Stirling;SA;--3-----;RL;1507;;3500S 13843E
+AU;SBI;Stockinbingal;Stockinbingal;NSW;-23-----;RL;607;;3430S 14753E
+AU;KWL;Stockwell;Stockwell;SA;--3-----;RL;1507;;3426S 13903E
+AU;SRR;Stradbroke Island;Stradbroke Island;QLD;---4----;AI;9912;;
+AU;SRN;Strahan;Strahan;TAS;1--4----;AC;9511;;
+AU;ST9;Strathalbyn;Strathalbyn;SA;--3-----;RL;1501;;3516S 13854E
+AU;THB;Strathbogie;Strathbogie;VIC;--3-----;RL;1507;;3651S 14545E
+AU;4VC;Strathewen;Strathewen;VIC;--3-----;RL;1601;;3733S 14516E
+AU;SFI;Strathfield;Strathfield;NSW;-23-----;RL;607;;3352S 15106E
+AU;TFA;Strathfieldsaye;Strathfieldsaye;VIC;--3-----;RL;701;;3648S 14422E
+AU;STH;Strathmore;Strathmore;QLD;---4----;AI;9912;;
+AU;IMR;Strathmore;Strathmore;VIC;--3-----;RL;1407;;3738S 14229E
+AU;KBY;Streaky Bay;Streaky Bay;SA;---4----;AI;9912;;
+AU;STS;Stretton;Stretton;QLD;--3-----;RL;1507;;2737S 15304E
+AU;STT;Stuart;Stuart;QLD;--3-----;RQ;1001;;1920S 14651E
+AU;SSK;Sturt Creek;Sturt Creek;WA;---4----;AI;9912;;
+AU;STY;Stybarrow Venture MV17;Stybarrow Venture MV17;WA;------7-;RQ;901;;2126S 11349E
+AU;SBC;Subiaco;Subiaco;WA;--3-----;RL;901;;3157N 11548E
+AU;SCS;Success;Success;WA;--3-----;RL;1207;;3209S 11550E
+AU;SYU;Sue Island;Sue Island;QLD;---4----;AI;9912;;
+AU;SUM;Summertown;Summertown;SA;--3-----;RL;601;;3457S 13841E
+AU;SNP;Sumner Park;Sumner Park;QLD;-----6--;RL;1201;;2734S 15256E
+AU;VSB;Sunbury;Sunbury;VIC;-----6--;RQ;1001;;3735S 14444E
+AU;UKY;Sunnybank;Sunnybank;QLD;-----6--;RL;1107;;2735S 15303E
+AU;6VC;Sunshine;Sunshine;VIC;--3-----;RL;1601;;3747S 14450E
+AU;SSE;Sunshine/Melbourne;Sunshine/Melbourne;VIC;--3-----;RL;201;;3747S 14449E
+AU;SFP;Surfers Paradise;Surfers Paradise;QLD;---4----;AI;9912;;
+AU;SHS;Surrey Hills;Surrey Hills;VIC;-----6--;RQ;1001;;3749S 14506E
+AU;SUH;Surry Hills;Surry Hills;NSW;123-----;RL;307;;3353S 15113E
+AU;TLD;Sutherland;Sutherland;NSW;--3-----;RL;1507;;3402S 15104E
+AU;SUK;Sutherlands Creek;Sutherlands Creek;VIC;--3-----;RL;1507;;3800S 14413E
+AU;SUF;Sutton Forest;Sutton Forest;NSW;--3-----;RQ;1101;;3434S 15019E
+AU;SWN;Swan;Swan;WA;--3-----;RL;1307;;3153S 11559E
+AU;SB2;Swan Bay;Swan Bay;TAS;-----6--;RL;1507;;4116S 14701E
+AU;SWH;Swan Hill;Swan Hill;VIC;---4----;AI;9912;;
+AU;SWA;Swanbourne;Swanbourne;;-----6--;RQ;1007;;3158S 11546E
+AU;SEA;Swansea;Swansea;TAS;--3-----;RL;1507;;4207S 14804E
+AU;SDH;Sydenham;Sydenham;NSW;--3-----;RQ;1001;;3355S 15109E
+AU;8VC;Sydenham;Sydenham;VIC;--3-----;RL;1601;;3742S 14446E
+AU;SYD;Sydney;Sydney;NSW;12345---;AC;307;;3351S 15112E
+AU;SOP;Sydney Olympic Park;Sydney Olympic Park;NSW;--3-----;RL;1401;;3351S 15104E
+AU;SWS;Sylvania Waters;Sylvania Waters;NSW;-----6--;RQ;1001;;3101S 15106E
+AU;TBL;Tableland;Tableland;WA;---4----;AI;9912;;
+AU;TLT;Talbot;Talbot;VIC;--3-----;RL;1507;;3710S 14342E
+AU;TAM;Tambourine;Tambourine;QLD;-23--6--;RL;501;;2753S 15308E
+AU;TMN;Taminda;Taminda;NSW;--3-----;RL;1207;;3105S 15054E
+AU;TMW;Tamworth;Tamworth;NSW;---4----;AI;9601;;
+AU;TWH;Tanawha;Tanawha;QLD;--3-----;RQ;201;;2643S 15302E
+AU;TXR;Tanbar;Tanbar;QLD;---4----;AI;9912;;
+AU;TAN;Tangalooma;Tangalooma;QLD;---4----;AI;9912;;
+AU;TAK;Tankerton;Tankerton;VIC;-----6--;RL;901;;3823N 14517E
+AU;TNU;Tannunda;Tannunda;SA;--3-----;RL;1507;;3431S 13858E
+AU;TAR;Tanunda;Tanunda;SA;--3-----;RQ;1101;;3432S 13857E
+AU;XTR;Tara;Tara;QLD;---4----;AI;9912;;
+AU;TGO;Tarago;Tarago;NSW;-23-----;RL;607;;3504S 14939E
+AU;TRN;Tarban;Tarban;NSW;--3-----;RL;1507;;2858S 15153E
+AU;TAQ;Tarcoola;Tarcoola;SA;---4----;AI;9912;;
+AU;TRO;Taree;Taree;NSW;---4----;AI;9601;;
+AU;TPO;Taren Point;Taren Point;NSW;--3-----;RL;901;;3401S 15107E
+AU;2IC;Tarneit;Tarneit;VIC;--3-----;RL;1601;;3752S 14440E
+AU;XTO;Taroom;Taroom;QLD;---4----;AI;9912;;
+AU;XTA;Tarrington;Tarrington;VIC;-----6--;RQ;1001;;3746S 14260E
+AU;DGA;Tea Gardens;Tea Gardens;NSW;1-------;RL;1207;;3240S 15209E
+AU;TTE;Tea Tree;Tea Tree;TAS;--3-----;RL;1507;;4241S 14719E
+AU;TEF;Telfer;Telfer;WA;---4----;AI;9912;;
+AU;TEM;Temora;Temora;NSW;--34----;RL;9805;;
+AU;MPE;Tempe;Tempe;NSW;-----6--;RL;901;;3356S 15109E
+AU;TPW;Templestowe;Templestowe;VIC;--3-----;RL;1301;;3745S 14507E
+AU;TCA;Tennant Creek;Tennant Creek;NT;---4----;AI;9601;;
+AU;TNS;Tennyson;Tennyson;QLD;--3-----;RL;1207;;2732S 15301E
+AU;TNT;Tenterfield;Tenterfield;NSW;--3-----;RL;1507;;2903S 15201E
+AU;TYH;Terrey Hills;Terrey Hills;NSW;--3-----;RL;1507;;3341S 15114E
+AU;TRL;Terrigal;Terrigal;NSW;--3-----;RL;1507;;3327S 15127E
+AU;TWN;Tewantin;Tewantin;QLD;---4----;AI;9912;;
+AU;THG;Thangool;Thangool;QLD;---4----;AI;9601;;
+AU;TGH;Tharbogang;Tharbogang;NSW;-----6--;RQ;901;;
+AU;XTG;Thargomindah;Thargomindah;QLD;---4----;AI;9912;;
+AU;7IC;The Basin;The Basin;VIC;--3-----;RL;1601;;3751S 14519E
+AU;GUR;The Gurdies;The Gurdies;VIC;1----6--;RL;901;;3822S 14533E
+AU;ROC;The Rock;The Rock;NSW;-23-----;RL;607;;3516S 14707E
+AU;BTN;Thebarton;Thebarton;SA;--3-----;RL;901;;3455S 13834E
+AU;TDR;Theodore;Theodore;QLD;---4----;AI;9912;;
+AU;THE;Thevenard;Thevenard;SA;1-------;AC;9511;;
+AU;CTH;Thevenard Island;Thevenard Island;WA;1-------;RL;307;;2127S 11459E
+AU;THO;Thomastown;Thomastown;VIC;--3-----;RL;501;;3741S 14501E
+AU;TBY;Thornbury;Thornbury;VIC;--3-----;RL;1207;;3745S 14500E
+AU;TLA;Thornlands;Thornlands;QLD;--3-----;RL;701;;2733S 15316E
+AU;THR;Thornleigh;Thornleigh;NSW;--3-----;RL;901;;3344S 15105E
+AU;QTH;Thredbo Village;Thredbo Village;NSW;--3-----;RL;901;;3630N 14818E
+AU;QMB;Thulimbah;Thulimbah;QLD;--3-----;RL;1207;;2833S 15157E
+AU;TIS;Thursday Island;Thursday Island;QLD;1--4----;AC;9511;;
+AU;TYG;Thylungra;Thylungra;QLD;---4----;AI;9912;;
+AU;TYB;Tibooburra;Tibooburra;NSW;---4----;AI;9912;;
+AU;TIE;Tieri;Tieri;QLD;--3-----;RL;1207;;2302S 14821E
+AU;TBK;Timber Creek;Timber Creek;NT;---4----;AI;9912;;
+AU;TPT;Timber Point;Timber Point;;0-------;RQ;9811;;
+AU;JUK;Timboon;Timboon;VIC;--3-----;RL;1507;;3829S 14259E
+AU;TCB;Tin Can Bay;Tin Can Bay;QLD;--3-----;RL;1507;;2554S 15300E
+AU;TNA;Tinana;Tinana;QLD;--3-----;RL;1301;;2532S 15243E
+AU;TIN;Tindal;Tindal;NT;---4----;AC;9709;;
+AU;TIP;Tingalpa;Tingalpa;QLD;--3-----;RL;1507;;2728S 15308E
+AU;TYP;Tobermorey;Tobermorey;NT;---4----;AI;9912;;
+AU;TCW;Tocumwal;Tocumwal;NSW;---4----;AI;9912;;
+AU;TTT;Tolga;Tolga;QLD;--3-----;RL;1507;;1714S 14529E
+AU;TPR;Tom Price;Tom Price;WA;---4----;AI;9912;;
+AU;TOM;Tomago;Tomago;NSW;--3-----;RL;1207;;3250S 15144E
+AU;TGY;Tomingley;Tomingley;NSW;--3-----;RL;607;;3235S 14813E
+AU;TOJ;Tongala;Tongala;VIC;--3-----;RL;501;;3615S 14457E
+AU;TNK;Tonimbuk;Tonimbuk;VIC;--3-----;RL;1507;;3800S 14543E
+AU;TBR;Tooborac;Tooborac;VIC;-----6--;RL;901;;3703S 14450E
+AU;TDA;Toodyay;Toodyay;WA;-23-----;RL;607;;3133S 11628E
+AU;LLN;Toolleen;Toolleen;VIC;--3-----;RL;1507;;3643S 14442E
+AU;TOL;Toombul;Toombul;QLD;1----6--;RQ;1007;;2724S 15303E
+AU;R2A;Toongabbie;Toongabbie;NSW;--3-----;RL;1601;;3347S 15057E
+AU;TRD;Tooradin;Tooradin;VIC;1-3-----;RL;701;;3813S 14523E
+AU;TGD;Toorak Gardens;Toorak Gardens;SA;--3-----;RL;1207;;3455S 13838E
+AU;TOG;Tooronga;Tooronga;VIC;-----6--;RL;1507;;3746S 14506E
+AU;TWQ;Toowong;Toowong;QLD;-----6--;RL;1107;;2729S 15259E
+AU;TWB;Toowoomba;Toowoomba;QLD;---4----;AC;8203;;
+AU;TBC;Toowoomba City;Toowoomba City;QLD;-23-----;RL;607;;2734S 15157E
+AU;TOR;Toronto;Toronto;NSW;1----6--;RL;901;;3300S 15136E
+AU;TQY;Torquay;Torquay;QLD;--3-----;RL;1301;;2517S 15252E
+AU;TRQ;Torquay;Torquay;VIC;--3-----;RL;1307;;3820S 14419E
+AU;LKU;Torrensville;Torrensville;SA;1-------;RL;1107;;
+AU;TWP;Torwood;Torwood;QLD;---4----;AI;9912;;
+AU;TOT;Tottenham;Tottenham;NSW;-23-----;RL;607;;3215S 14721E
+AU;THM;Tottenham;Tottenham;VIC;------7-;RQ;1007;;3748S 14451E
+AU;TOB;Towford Bay;Towford Bay;;1-------;AC;8203;;
+AU;TSV;Townsville;Townsville;QLD;1--4----;AI;9601;;
+AU;TGN;Traralgon;Traralgon;VIC;---4----;AI;9912;;
+AU;TMO;Tremont;Tremont;VIC;--3-----;RL;1501;;3752S 14519E
+AU;TRH;Trentham;Trentham;VIC;--3-----;RL;1601;;3723S 14419E
+AU;TTW;Trentham Cliffs;Trentham Cliffs;NSW;--3-----;RL;1407;;3413S 14215E
+AU;KUK;Triabunna;Triabunna;TAS;--3-----;RL;1507;;4230S 14754E
+AU;TRB;Trial Bay;Trial Bay;NSW;1-------;AC;9511;;
+AU;TRI;Troughton Island;Troughton Island;WA;1--4----;RL;1401;;1345S 12608E
+AU;TRU;Truganina;Truganina;VIC;--3-----;RL;1207;;3749S 14445E
+AU;RRO;Truro;Truro;SA;--3-----;RL;1507;;3425S 13907E
+AU;TUV;Tuerong;Tuerong;VIC;--3-----;RL;601;;3818S 14506E
+AU;TUG;Tuggerah;Tuggerah;NSW;--3-----;RL;1207;;3319S 15125E
+AU;TME;Tullamarine;Tullamarine;VIC;--3-----;RQ;9806;;
+AU;TGE;Tullibigeal;Tullibigeal;NSW;-23-----;RL;607;;3326S 14643E
+AU;TBB;Tumbarumba;Tumbarumba;NSW;-23-----;RL;607;;3547S 14801E
+AU;TUL;Tumblong;Tumblong;NSW;--3-----;RL;1307;;3509S 14800E
+AU;TUM;Tumut;Tumut;NSW;---4----;AI;9601;;
+AU;TBH;Tura Beach;Tura Beach;NSW;--3-----;RL;1507;;3651S 14955E
+AU;TKY;Turkey Creek;Turkey Creek;WA;---4----;AI;9912;;
+AU;TUR;Turramurra;Turramurra;NSW;--3-----;RL;901;;3344S 15108E
+AU;SAT;Tusmore;Tusmore;SA;-----6--;RL;901;;3456S 13838E
+AU;THS;Tweed Heads South;Tweed Heads South;NSW;1-3--6--;RL;607;;2812S 15332E
+AU;DA5;Twowells;Twowells;SA;1-3-----;RL;1407;;3436S 13830E
+AU;2CO;Tyabb;Tyabb;VIC;--3-----;RL;1601;;3815S 14511E
+AU;TYE;Tyers;Tyers;VIC;--3-----;RL;1507;;3809S 14628E
+AU;TNG;Tynong;Tynong;VIC;--3-----;RL;1301;;3805S 14537E
+AU;TYN;Tynong North;Tynong North;VIC;--3-----;RL;1507;;3804S 14537E
+AU;ULY;Uleybury;Uleybury;SA;--3-----;RL;1507;;3440S 13844E
+AU;ULA;Ulladulla;Ulladulla;NSW;1-------;RL;106;;3521S 15025E
+AU;ULT;Ultimo;Ultimo;NSW;1-3-----;RQ;901;;
+AU;ULV;Ulverstone;Ulverstone;TAS;0-------;AC;9511;;
+AU;UMB;Umbakumba;Umbakumba;NT;1-------;RL;1401;;1351S 13648E
+AU;UDR;Unanderra;Unanderra;NSW;--3-----;RL;901;;3427S 15051E
+AU;UDA;Undarra;Undarra;QLD;---4----;AI;9912;;
+AU;UDW;Underwood;Underwood;TAS;--3-----;RL;1507;;4118S 14712E
+AU;UGI;Ungarie;Ungarie;NSW;-23-----;RL;607;;3339S 14658E
+AU;ALY;Unley;Unley;SA;--3-----;RL;1501;;3457S 13836E
+AU;UHG;Upper Hermitage;Upper Hermitage;SA;--3-----;RL;1507;;3447S 13845E
+AU;UMG;Upper Mount Gravatt;Upper Mount Gravatt;QLD;--3-----;RL;1301;;2733S 15304E
+AU;UPH;Upton Hill;Upton Hill;VIC;--3-----;RL;1507;;3653S 14524E
+AU;3CO;Upwey;Upwey;VIC;--3-----;RL;1601;;3754S 14520E
+AU;RAI;Uraidla;Uraidla;SA;--3-----;RL;1507;;3457S 13845E
+AU;ULL;Uralla;Uralla;NSW;--3-----;RL;901;;3038S 15130E
+AU;UNA;Urana;Urana;NSW;-23-----;RL;607;;3520S 14615E
+AU;URN;Urangan;Urangan;QLD;1-------;AC;9511;;
+AU;URR;Urrbrae;Urrbrae;SA;--3-----;RQ;1101;;3458S 13838E
+AU;USL;Useless Loop;Useless Loop;WA;1-------;AC;9511;;
+AU;VGH;Van Gogh Terminal;Van Gogh Terminal;;1-------;RQ;1001;;2124S 11405E
+AU;VNR;Vanrook;Vanrook;QLD;---4----;AI;9912;;
+AU;VAR;Varanus Island;Varanus Island;WA;1-------;AC;9511;;
+AU;VAS;Vasse;Vasse;WA;--3-----;RL;1507;;3340S 11515E
+AU;VAU;Vaucluse;Vaucluse;NSW;--3-----;RL;1507;;3351S 15116E
+AU;VDN;Verdun;Verdun;SA;-----6--;RL;901;;3500S 13847E
+AU;VMT;Vermont;Vermont;VIC;-----6--;RQ;1007;;3750S 14512E
+AU;VHR;Victor Harbor;Victor Harbor;SA;-23-----;RL;1507;;3533S 13837E
+AU;VTP;Victoria Point;Victoria Point;QLD;--3-----;RL;1507;;2735S 15318E
+AU;VCD;Victoria River Downs;Victoria River Downs;NT;---4----;AI;9601;;
+AU;VIW;Villawood/Sydney;Villawood/Sydney;NSW;--3-----;RL;201;;3353S 15057E
+AU;VIN;Vincent;Vincent;VIC;--3-----;RL;1307;;3742S 14519E
+AU;VVE;Vine Vale;Vine Vale;SA;--3-----;RL;1507;;3431S 13900E
+AU;WYR;Vineyard;Vineyard;NSW;--3-----;RL;1207;;3339S 15051E
+AU;VGN;Virginia;Virginia;QLD;--3-----;RL;901;;2723S 15304E
+AU;VRG;Virginia;Virginia;SA;-23-----;RL;601;;3440S 13833E
+AU;WCL;Wacol;Wacol;QLD;--3-----;RQ;9806;;
+AU;WGA;Wagga Wagga;Wagga Wagga;NSW;--34----;AI;1207;;3508S 14721E
+AU;WGI;Wagin;Wagin;WA;-23-----;RL;607;;3319S 11720E
+AU;ZR3;Wahgunyah;Wahgunyah;VIC;--3-----;RL;1501;;3601S 14624E
+AU;OUK;Wahring;Wahring;VIC;--3-----;RL;1507;;3643S 14513E
+AU;WNA;Wahroonga;Wahroonga;NSW;--3-----;RL;1507;;3343S 15107E
+AU;WKE;Waikerie;Waikerie;SA;--3-----;RL;1507;;3411S 13959E
+AU;WTR;Waitara;Waitara;NSW;--3-----;RL;1207;;3343S 15107E
+AU;WKY;Wakerley;Wakerley;QLD;--3-----;RL;607;;2728S 15309E
+AU;WLC;Walcha;Walcha;NSW;---4----;AI;9912;;
+AU;WGE;Walgett;Walgett;NSW;---4----;AI;9601;;
+AU;R2R;Wallacia;Wallacia;NSW;--3-----;RL;1601;;3352S 15039E
+AU;WLA;Wallal;Wallal;WA;---4----;AI;9912;;
+AU;WLN;Wallan;Wallan;VIC;-23-----;RL;1307;;3725S 14459E
+AU;WLG;Wallangarra;Wallangarra;QLD;-23-----;UR;9701;;
+AU;WAL;Wallaroo;Wallaroo;SA;1-------;AC;9511;;
+AU;WDB;Wallendbeen;Wallendbeen;NSW;-23-----;RL;607;;3432S 14810E
+AU;WLS;Wallis;Wallis;;-23-----;RQ;9705;;
+AU;WMS;Walmsley;Walmsley;WA;--3-----;RL;1407;;1424S 12542E
+AU;WPO;Walpole;Walpole;WA;--3-----;RL;607;;3459S 11644E
+AU;WMN;Wamboin;Wamboin;NSW;--3-----;RL;1507;;3515S 14918E
+AU;WDL;Wandal;Wandal;QLD;--3-----;RL;1207;;2322S 15030E
+AU;WAD;Wandandian;Wandandian;NSW;--3-----;RL;607;;3506S 15030E
+AU;WDN;Wandin;Wandin;VIC;--3-----;RL;901;;3748S 14527E
+AU;WNT;Wandoo Terminal;Wandoo Terminal;WA;1-------;AC;501;;
+AU;WGR;Wangara;Wangara;WA;--3--6--;RL;601;;3147S 11549E
+AU;WGT;Wangaratta;Wangaratta;VIC;---4----;AI;9912;;
+AU;5CO;Wantirna;Wantirna;VIC;--3-----;RL;1601;;3751S 14513E
+AU;WTS;Wantirna South;Wantirna South;VIC;--3-----;RL;701;;3753S 14515E
+AU;WAB;Warabrook;Warabrook;NSW;-23--6--;RL;607;;3253S 15142E
+AU;WAX;Warana;Warana;QLD;--3-----;RQ;1101;;2627S 15312E
+AU;WTA;Waratah;Waratah;NSW;--3-----;RL;1507;;3254S 15143E
+AU;WSN;Warners Bay;Warners Bay;NSW;1-3-----;RL;601;;3258S 15139E
+AU;NWV;Warnervale;Warnervale;NSW;--3-----;RL;1401;;3315S 15127E
+AU;WKB;Warracknabeal;Warracknabeal;VIC;---4----;AI;9912;;
+AU;VWL;Warragul;Warragul;VIC;-----6--;RL;901;;3810S 14556E
+AU;6CO;Warrandyte;Warrandyte;VIC;--3-----;RL;1601;;3745S 14514E
+AU;WAR;Warrandyte South;Warrandyte South;VIC;--3-----;RL;901;;3746S 14515E
+AU;WRW;Warrawagine;Warrawagine;WA;---4----;AI;9912;;
+AU;R2E;Warrawee;Warrawee;NSW;--3-----;RL;1601;;3344S 15107E
+AU;QRR;Warren;Warren;NSW;--3-----;RL;901;;3142S 14748E
+AU;WRM;Warrenmang;Warrenmang;VIC;-----6--;RL;901;;3702S 14318E
+AU;PUK;Warriewood;Warriewood;NSW;--3-----;RL;1507;;3341S 15118E
+AU;WMB;Warrnambool;Warrnambool;VIC;1--4----;AC;9511;;
+AU;WAZ;Warwick;Warwick;QLD;1--4----;AC;9511;;
+AU;WKF;Warwick Farm;Warwick Farm;NSW;--3-----;RL;1507;;3354S 15056E
+AU;QUK;Waterloo;Waterloo;NSW;--3-----;RL;1507;;3102S 15143E
+AU;WLO;Waterloo;Waterloo;NT;---4----;AI;9912;;
+AU;WCR;Waterloo Corner;Waterloo Corner;SA;--3-----;RL;1507;;3443S 13835E
+AU;WLV;Watervale;Watervale;SA;--3-----;RL;1507;;3357S 13838E
+AU;R2W;Watsons Bay;Watsons Bay;NSW;--3-----;RL;1601;;3351S 15117E
+AU;WGO;Wattle Grove;Wattle Grove;WA;--3-----;RL;1301;;3200S 11600E
+AU;TPK;Wattle Park;Wattle Park;QLD;-----6--;RL;901;;2619S 14919E
+AU;WPS;Wattle Park;Wattle Park;SA;-----6--;RL;901;;
+AU;WTP;Wattleup;Wattleup;WA;--3-----;RL;1507;;3210S 11548E
+AU;WAU;Wauchope;Wauchope;NSW;---4----;AI;9912;;
+AU;WPD;Waurn Ponds;Waurn Ponds;VIC;--3-----;RL;1507;;3813S 14417E
+AU;WAV;Wave Hill;Wave Hill;NT;---4----;AI;9601;;
+AU;WAN;Waverney;Waverney;QLD;---4----;AI;9912;;
+AU;7WW;Waverton;Waverton;NSW;--3-----;RL;1601;;3351S 15112E
+AU;WVI;Wayville;Wayville;SA;--3-----;RL;1307;;3457S 13835E
+AU;WTN;Webberton;Webberton;WA;123-5---;RL;901;;2845S 11437E
+AU;WFD;Wedgefield;Wedgefield;WA;----5---;RQ;907;;2022S 11836E
+AU;WEW;Wee Waa;Wee Waa;NSW;---4----;AI;9912;;
+AU;WEI;Weipa;Weipa;QLD;1--4----;AC;9511;;
+AU;KJH;Welland;Welland;SA;1-------;RL;1107;;3454S 13832E
+AU;QEL;Wellington;Wellington;NSW;--3-----;RL;201;;3234S 14857E
+AU;WHL;Welshpool;Welshpool;VIC;1-34----;AC;401;;3840S 14626E
+AU;WEL;Welshpool;Welshpool;WA;--3--6--;RL;501;;3159S 11556E
+AU;WEN;Wendouree;Wendouree;VIC;--3-----;RL;1207;;3732S 14349E
+AU;WWP;Wentworth Point;Wentworth Point;NSW;1----6--;RL;1201;;3350S 15104E
+AU;WTV;Wentworthville;Wentworthville;NSW;-----6--;RL;1107;;3349S 15058E
+AU;WRB;Werribee;Werribee;VIC;123-----;RL;601;;3754S 14439E
+AU;5RC;Werribee South;Werribee South;VIC;--3-----;RL;1601;;3756S 14443E
+AU;WVL;Wesley Vale;Wesley Vale;TAS;--3-----;RL;1201;;4111S 14627E
+AU;WFO;West Footscray;West Footscray;VIC;-23-----;RL;501;;3748S 14452E
+AU;6DF;West Hoxton;West Hoxton;NSW;--3-----;RL;1601;;3355S 15051E
+AU;WQS;West Lake Shore;West Lake Shore;SA;--3-----;RL;1401;;3451S 13829E
+AU;WKS;West Lakes;West Lakes;SA;--3-----;RQ;1101;;3452S 13829E
+AU;WMU;West Melbourne;West Melbourne;VIC;-23-----;RL;701;;3749S 14457E
+AU;WPW;West Perth;West Perth;WA;-----6--;RL;1201;;3157S 11550E
+AU;NS8;West Pymble;West Pymble;NSW;-----6--;RL;1201;;3346N 15108E
+AU;RYD;West Ryde;West Ryde;NSW;--3-----;RL;1301;;3348S 15105E
+AU;WWY;West Wyalong;West Wyalong;NSW;---4----;AI;9601;;
+AU;SWP;Westbourne Park;Westbourne Park;SA;-----6--;RQ;1001;;3458S 13835E
+AU;WES;Westbury;Westbury;TAS;--3-----;RL;1101;;4131S 14650E
+AU;WSJ;Western Junction;Western Junction;TAS;--34----;RL;1207;;4133S 14713E
+AU;WEP;Westernport;Westernport;VIC;1-------;AC;9511;;
+AU;WSE;Westminster;Westminster;WA;--3-----;RL;1301;;3152N 11550E
+AU;WEH;Wetherhill;Wetherhill;NSW;--3-----;RQ;101;;
+AU;WPA;Wetherill Park;Wetherill Park;NSW;-2---6--;RL;607;;3351S 15053E
+AU;WVV;Wheelers Hill;Wheelers Hill;VIC;--3-----;RL;1407;;3754S 14511E
+AU;WMO;Whitemore;Whitemore;TAS;--3-----;RL;901;;4135S 14656E
+AU;WFL;Whitfield;Whitfield;VIC;--3-----;RL;1507;;3647S 14625E
+AU;WSI;Whitsunday Island;Whitsunday Island;QLD;1-------;RQ;901;;2015S 14901E
+AU;WHT;Whittlesea;Whittlesea;VIC;--3-----;RL;1307;;3731S 14507E
+AU;WTO;Whitton;Whitton;NSW;-23-----;RL;607;;3431S 14611E
+AU;WSH;Whorouly South;Whorouly South;VIC;--3-----;RL;1507;;3633S 14635E
+AU;WYA;Whyalla;Whyalla;SA;1--4----;AC;9511;;
+AU;WAM;Wickham;Wickham;NSW;--3-----;RL;701;;3255S 15146E
+AU;WIO;Wilcannia;Wilcannia;NSW;---4----;AI;9912;;
+AU;WAG;Willagee;Willagee;WA;-----6--;RL;1201;;3203S 11548E
+AU;LAU;Willaura;Willaura;VIC;-----6--;RL;1507;;3723S 14245E
+AU;WIL;Willawong;Willawong;QLD;--3-----;RL;901;;2735S 15300E
+AU;WGG;Willbriggie;Willbriggie;NSW;--3-----;RL;1507;;3428S 14610E
+AU;WEO;Willetton;Willetton;WA;--3-----;RL;1507;;3203S 11553E
+AU;WLI;Williams;Williams;WA;-23-----;RL;607;;3302S 11653E
+AU;WII;Williamstown;Williamstown;SA;--3-----;RQ;1101;;3440S 13853E
+AU;WST;Williamstown;Williamstown;VIC;--3-----;RL;901;;3752S 14454E
+AU;WLM;Williamtown;Williamtown;NSW;---4----;AC;9701;;
+AU;WBY;Willoughby;Willoughby;NSW;--3-----;RQ;9806;;
+AU;WGV;Willow Grove;Willow Grove;VIC;--3-----;RL;1507;;3850S 14612E
+AU;WWV;Willow Vale;Willow Vale;NSW;--3-----;RQ;1101;;3344S 15048E
+AU;WVA;Willowdale;Willowdale;NSW;--3-----;RL;607;;3031S 15012E
+AU;WSA;Willunga;Willunga;SA;-----6--;RQ;1001;;3517S 13833E
+AU;WAW;Wilson;Wilson;WA;-----6--;RL;1201;;3201S 11554E
+AU;WLT;Wilsonton;Wilsonton;QLD;--3-----;RL;1301;;2732S 15155E
+AU;TON;Wilton;Wilton;NSW;--3-----;RL;1507;;3414S 15042E
+AU;WUN;Wiluna;Wiluna;WA;---4----;AI;9601;;
+AU;WU6;Wilyarup;Wilyarup;WA;--3-----;RL;1501;;3349S 11502E
+AU;WND;Windarra;Windarra;WA;---4----;AI;9912;;
+AU;WQR;Windibri;Windibri;QLD;--3-----;RL;1301;;2651S 15018E
+AU;WNR;Windorah;Windorah;QLD;---4----;AI;9601;;
+AU;WSO;Windsor;Windsor;NSW;-23-----;RL;501;;3337S 15049E
+AU;VWS;Windsor;Windsor;VIC;--3-----;RL;1207;;3751S 14459E
+AU;WGL;Wingello;Wingello;NSW;--3-----;RL;1207;;3442S 15010E
+AU;WGF;Wingfield;Wingfield;SA;--3-----;RL;901;;3450S 13832E
+AU;WIH;Wingham;Wingham;NSW;1-------;RQ;1101;;3152S 15222E
+AU;WNN;Winnellie;Winnellie;NT;-23--6--;RL;607;;1226S 13053E
+AU;WHI;Winston Hills;Winston Hills;NSW;--3-----;RL;607;;3346S 15059E
+AU;WIN;Winton;Winton;QLD;---4----;AI;9601;;
+AU;VIT;Wishart;Wishart;VIC;1-------;RQ;901;;
+AU;WLE;Witchcliffe;Witchcliffe;WA;--3-----;RL;1507;;3402S 11506E
+AU;WTH;Withcott;Withcott;QLD;--3-----;RL;1307;;2733S 15201E
+AU;WNB;Withnell Bay;Withnell Bay;WA;1-3-----;RL;307;;2035S 11647E
+AU;WIT;Wittenoom;Wittenoom;WA;--34----;AC;307;;2213S 11843E
+AU;HOE;Wivenhoe;Wivenhoe;TAS;--3-----;RL;901;;4105S 14556E
+AU;WOD;Wodonga;Wodonga;VIC;0-------;AC;9511;;
+AU;2TO;Wollert;Wollert;VIC;--3-----;RL;1601;;3735S 14502E
+AU;WLL;Wollogorang;Wollogorang;QLD;---4----;AI;9601;;
+AU;WLR;Wollongbar;Wollongbar;NSW;--3-----;RL;607;;2849S 15324E
+AU;WOL;Wollongong;Wollongong;NSW;---4----;AI;9601;;
+AU;WUA;Wolumla;Wolumla;NSW;--3-----;RL;607;;3650S 14949E
+AU;WDI;Wondai;Wondai;QLD;---4----;AI;9912;;
+AU;WDG;Wondalga;Wondalga;NSW;-23-----;RL;607;;3425S 14810E
+AU;WON;Wondoola;Wondoola;QLD;---4----;AI;9912;;
+AU;WPR;Wonga Park;Wonga Park;VIC;--3-----;RL;1507;;3744S 14516E
+AU;WOT;Wonthaggi;Wonthaggi;VIC;1-------;AC;9511;;
+AU;OWF;Woodcroft;Woodcroft;SA;--3-----;RL;1501;;3506S 13833E
+AU;WDD;Woodend;Woodend;VIC;--3-----;RQ;901;;
+AU;WFR;Woodford;Woodford;QLD;--3-----;RL;1507;;2657S 15247E
+AU;WOG;Woodgreen;Woodgreen;NT;---4----;AI;9912;;
+AU;WWI;Woodie Woodie;Woodie Woodie;WA;---4----;AI;9912;;
+AU;WLD;Woodlands;Woodlands;NSW;--3-----;RQ;1101;;3425S 15023E
+AU;WDR;Woodridge;Woodridge;QLD;--3-----;RQ;1001;;2738S 15306E
+AU;WDE;Woodridge;Woodridge;WA;--3-----;RQ;1101;;3120S 11535E
+AU;WIE;Woodside;Woodside;SA;--3-----;RL;1501;;3457S 13853E
+AU;WOV;Woodvale;Woodvale;WA;--3-----;RL;1507;;3147S 11547E
+AU;WDV;Woodville;Woodville;SA;-23-----;RL;701;;3453S 13832E
+AU;UUK;Woody Point;Woody Point;QLD;--3-----;RL;1507;;2715S 15306E
+AU;WHR;Woollahra;Woollahra;NSW;--3-----;RQ;1101;;3353S 15115E
+AU;WOO;Woolloomooloo;Woolloomooloo;NSW;1-3-----;RL;1301;;3352S 15113E
+AU;WGB;Woolloongabba;Woolloongabba;QLD;--3-----;RQ;507;;2729S 15302E
+AU;WBT;Woollybutt (Oil facility);Woollybutt (Oil facility);WA;1-----7-;RQ;407;;2103S 11452E
+AU;2UA;Woolooware;Woolooware;NSW;--3-----;RL;1601;;3403S 15108E
+AU;W2V;Woolwich;Woolwich;NSW;--3-----;RL;1601;;3351S 15110E
+AU;UMR;Woomera;Woomera;SA;---4----;AC;9801;;
+AU;WRE;Woree;Woree;QLD;-23-----;RL;1407;;1657S 14545E
+AU;8SS;Woronora;Woronora;NSW;--3-----;RL;1601;;3401S 15102E
+AU;WOY;Woy Woy;Woy Woy;NSW;--3-----;RL;1407;;3330S 15120E
+AU;WPK;Wrotham Park;Wrotham Park;QLD;---4----;AI;9912;;
+AU;WUD;Wudinna;Wudinna;SA;---4----;AI;9601;;
+AU;WUK;Wulkuraka;Wulkuraka;QLD;--3-----;RL;1401;;2737S 15244E
+AU;WUR;Wurruk;Wurruk;VIC;--3-----;RL;1207;;3807S 14702E
+AU;WKM;Wyalkatchem;Wyalkatchem;WA;-23-----;RL;607;;3111S 11722E
+AU;WYL;Wyalong;Wyalong;NSW;-23-----;RL;607;;3356S 14715E
+AU;WBG;Wybong;Wybong;NSW;--3-----;RL;1507;;3216S 15038E
+AU;WYE;Wyee;Wyee;NSW;-23-----;RL;701;;3311S 15129E
+AU;WYD;Wyndham;Wyndham;NSW;--3-----;RL;201;;3655S 14938E
+AU;WYN;Wyndham;Wyndham;WA;1--4----;AC;9511;;
+AU;WWS;Wynnum West;Wynnum West;QLD;--3-----;RQ;901;;2727S 15309E
+AU;WNY;Wynyard;Wynyard;TAS;---4----;AC;8203;;
+AU;WYO;Wyong;Wyong;NSW;-23-----;RL;607;;3317S 15125E
+AU;YBU;Yabulu;Yabulu;QLD;--3-----;RL;1201;;1913S 14636E
+AU;YAN;Yagoona;Yagoona;NSW;--3--6--;RL;501;;3354S 15101E
+AU;KYI;Yalata Mission;Yalata Mission;SA;---4----;AI;9912;;
+AU;YLG;Yalgoo;Yalgoo;WA;---4----;AI;9912;;
+AU;YGU;Yallingup;Yallingup;WA;--3-----;RL;607;;3339S 11502E
+AU;XMY;Yam Island;Yam Island;QLD;---4----;AI;9912;;
+AU;YBA;Yamba;Yamba;NSW;1-------;RQ;9801;;
+AU;YAM;Yampi;Yampi;WA;1-------;AC;9511;;
+AU;5TO;Yan Yean;Yan Yean;VIC;--3-----;RL;1601;;3734S 14506E
+AU;YNN;Yandicoogina / Yandi Apt;Yandicoogina / Yandi Apt;WA;---4----;AI;907;;2125S 12010E
+AU;YDN;Yandina;Yandina;QLD;-23-----;RL;1207;;2634S 15257E
+AU;KYB;Yangoonabie;Yangoonabie;SA;---4----;AI;9912;;
+AU;YLO;Yarloop;Yarloop;WA;-23-----;RL;607;;3258S 11553E
+AU;YAR;Yarra Glen;Yarra Glen;VIC;--3-----;RL;201;;3738S 14522E
+AU;YRR;Yarra Junction;Yarra Junction;VIC;1-------;RL;1207;;3747S 14537E
+AU;VUK;Yarragon;Yarragon;VIC;--3-----;RL;1507;;3812S 14604E
+AU;YRL;Yarralumla;Yarralumla;ACT;--3-----;RL;1207;;3518S 14905E
+AU;YRV;Yarraville/Melbourne;Yarraville/Melbourne;VIC;-23-----;RL;106;;3749S 14453E
+AU;2SN;Yarrawarrah;Yarrawarrah;NSW;--3-----;RL;1601;;3403S 15102E
+AU;YWO;Yarrawonga;Yarrawonga;NSW;--3-----;RL;607;;3222S 14939E
+AU;YSS;Yass;Yass;NSW;-23-----;RL;607;;3450S 14854E
+AU;YTL;Yatala;Yatala;QLD;--3-----;RL;701;;2743S 15313E
+AU;YEA;Yea;Yea;VIC;--3-----;RL;1507;;3713S 14526E
+AU;KYF;Yeelirrie;Yeelirrie;WA;---4----;AI;9912;;
+AU;YEE;Yeerongpilly;Yeerongpilly;QLD;--3-----;RL;1207;;2731S 15300E
+AU;YEB;Yellingbo;Yellingbo;VIC;--3-----;RL;1507;;3748S 14530E
+AU;YDA;Yenda;Yenda;NSW;-23-----;RL;607;;3416S 14611E
+AU;YNA;Yennora;Yennora;NSW;-23-----;RL;901;;3351S 15058E
+AU;YEL;Yeppoon;Yeppoon;QLD;--3-----;RL;901;;2313S 15074E
+AU;YRG;Yering;Yering;VIC;-23-----;RL;607;;3742S 14522E
+AU;YKN;Yokine;Yokine;WA;--3-----;RL;1207;;3154S 11551E
+AU;YLL;Yolla;Yolla;TAS;--3-----;RL;1207;;4108S 14543E
+AU;YOR;York;York;WA;-23-----;RL;607;;3153S 11646E
+AU;OKR;Yorke Island;Yorke Island;QLD;---4----;AI;9601;;
+AU;ORR;Yorketown;Yorketown;SA;---4----;AI;9912;;
+AU;NGA;Young;Young;NSW;---4----;AI;9601;;
+AU;YOU;Youngtown;Youngtown;TAS;-----6--;RQ;907;;4148N 14716E
+AU;3WS;Yowie Bay;Yowie Bay;NSW;--3-----;RL;1601;;3403S 15106E
+AU;YUE;Yuendumu;Yuendumu;NT;---4----;AI;9601;;
+AU;YUL;Yulara;Yulara;NT;--3-----;RL;1507;;2514S 13059E
+AU;ZLD;Zetland;Zetland;NSW;--3-----;RL;1207;;3354S 15112E
+AU;ZLM;Zillmere;Zillmere;QLD;--3-----;RQ;901;;2721S 15302E
