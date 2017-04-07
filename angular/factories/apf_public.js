@@ -34,27 +34,14 @@
         month = month + 1;
         return d.getFullYear() + '-' + month + '-' + d.getDate();
     },
-    deleteArrayDuplicates: function (ar) {
-        var ya = false, v = "", aux = [].concat(ar), r = Array();
-        for (var i in aux) {
-            v = aux[i];
-            ya = false;
-            for (var a in aux) {
-                if (v == aux[a]) {
-                    if (ya == false) {
-                        ya = true;
-                    } else {
-                        aux[a] = "";
-                    }
-                }
+    deleteArrayDuplicates: function (collection) {
+        var items = [];
+        angular.forEach(collection, function (item) {
+            if (items.indexOf(item) == -1) {
+                items.push(item);
             }
-        }
-        for (var a in aux) {
-            if (aux[a] != "") {
-                r.push(aux[a]);
-            }
-        }
-        return r;
+        });
+        return items;
     },
     parseXML: function (xml) {
         var dom = null;
