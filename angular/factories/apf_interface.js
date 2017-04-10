@@ -14,6 +14,7 @@
             newDiv: function (styles, attributes) {
                 var div = document.createElement('div');
                 div.className = 'apf_div';
+                div.setAttribute('id', DomElements.getTimeStampID()+'_div');
                 DomElements.attachStyles(styles, div);
                 DomElements.attachAttributes(attributes, div);
                 return div;
@@ -28,6 +29,7 @@
             newLabel: function (styles, attributes, text) {
                 var label = document.createElement('p');
                 label.className = 'apf_label';
+                label.setAttribute('id', DomElements.getTimeStampID()+'_label');
                 DomElements.attachStyles(styles, label);
                 DomElements.attachAttributes(attributes, label);
                 return label;
@@ -41,6 +43,7 @@
             newTextArea: function ($scope, $compile, styles, attributes) {
                 var textArea = document.createElement('textarea');
                 textArea.className = 'apf_textarea';
+                textArea.setAttribute('id', DomElements.getTimeStampID()+'_ta');
                 DomElements.attachStyles(styles, textArea);
                 DomElements.attachAttributes($scope, $compile, attributes, textArea);
                 $compile(textArea)($scope);
@@ -55,6 +58,7 @@
             newTextField: function ($scope, $compile, styles, attributes) {           
                 var textField = document.createElement('input');
                 textField.className = 'apf_textfield';
+                textField.setAttribute('id', DomElements.getTimeStampID()+'_tf');
                 DomElements.attachStyles(styles, textField);
                 DomElements.attachAttributes($scope, $compile, attributes, textField);
                 $compile(textField)($scope);
@@ -73,6 +77,7 @@
                 var checkbox = document.createElement("input");
                 checkbox.setAttribute("type", "checkbox");
                 checkbox.className = 'apf_checkbox';
+                checkbox.setAttribute('id', DomElements.getTimeStampID()+'_cb');
                 var span = DomElements.newDiv([], []);
                 var spanText = document.createTextNode(' ' + label + ' ');
                 span.className = 'apf_span';
@@ -110,6 +115,7 @@
                 span.className = 'apf_radio_span';
                 span.textContent = label;
                 radio.type = 'radio';
+                radio.setAttribute('id', DomElements.getTimeStampID()+'_radio');
                 container.appendChild(span);
                 container.appendChild(radio);
                 attributes.push({ attribute: 'value', value: value });
@@ -129,43 +135,83 @@
             newRadiosFieldset: function ($scope, $compile, name, radios, styles, attributes) {
                 var fieldset = document.createElement("fieldset");
                 fieldset.className = 'apf_fieldset';
+                fieldset.setAttribute('id', DomElements.getTimeStampID()+'_fset');
                 for (var i = 0; i < radios.length; i++) {
                     var radio = DomElements.newInputRadio($scope, $compile, name, radios[i].label, radios[i].value, [], attributes);
                     fieldset.appendChild(radio);
                 }
                 DomElements.attachStyles(styles, fieldset);
-                //DomElements.attachAttributes($scope, $compile, attributes, fieldset);
                 $compile(fieldset)($scope);
                 return fieldset;
             },
-            newButton: function (styles, attributes) {
+            /** Returns a new button 
+             * @param {scope} $scope Angular scope
+             * @param {scope} $compile Angular compile
+             * @param {array} styles Element styles
+             * @param {array} attributes Element attributes
+             * @param {string} Button text
+             */
+            newButton: function ($scope, $compile, styles, attributes, txt) {
                 var btn = document.createElement('button');
-                DomElements.attachAttributes(attributes);
+                var text = document.createTextNode(txt);
+                btn.appendChild(text);
+                btn.setAttribute('id', DomElements.getTimeStampID()+'_btn');
+                DomElements.attachAttributes($scope, $compile, attributes, btn);
                 DomElements.attachStyles(styles);
+                $compile(btn)($scope);
                 return btn;
             },
+            /** Returns a new image 
+             * @param {scope} $scope Angular scope
+             * @param {scope} $compile Angular compile
+             * @param {array} styles Element styles
+             * @param {array} attributes Element attributes
+             */
             newImage: function ($scope, $compile, styles, attributes) {
                 var im = document.createElement('img');
-                DomElements.attachAttributes(attributes);
+                im.setAttribute('id', DomElements.getTimeStampID()+'_img');
+                DomElements.attachAttributes($scope, $compile, attributes, im);
                 DomElements.attachStyles(styles);
+                $compile(im)($scope);
                 return im;
             },
-            newCombo: function ($scope, $compile, dataProvider, dataField, styles, attributes) {
+            /** Returns a new combo 
+             * @param {scope} $scope Angular scope
+             * @param {scope} $compile Angular compile
+             * @param {array} dataProvider Element options
+             * @param {array} dataField options data field
+             * @param {array} styles Element styles
+             * @param {array} attributes Element attributes
+             * @param {string} first option label
+             */
+            newCombo: function ($scope, $compile, dataProvider, dataField, styles, attributes, label) {
                 var combo = document.createElement('select');
-                DomElements.attachAttributes(attributes);
+                attributes.push(
+                    {
+                        attribute: 'ng-options',
+                        value:
+                            'item.' + dataField +
+                            ' for item in ' + dataProvider +
+                            ' track by item.'+dataField
+                    });
+                var optionZero = { value: '' };
+                optionZero[dataField] = label;
+                combo.setAttribute('id', DomElements.getTimeStampID()+'_combo');
+                $scope[dataProvider].splice(0, 0, optionZero);
+                DomElements.attachAttributes($scope, $compile, attributes, combo);
                 DomElements.attachStyles(styles);
-
-               for (var j = 0; j < dataProvider.length; j++) {
-                    var opt = document.createElement('option');
-                    opt.text = dataProvider[j][dataField];
-                    if (dataProvider[j].value != undefined) {
-                        opt.value = dataProvider[j].value;
-                    }
-                    combo.add(opt);
-                }
-
+                $scope[combo.getAttribute('ng-model')] = optionZero;
+                $compile(combo)($scope);               
                 return combo;
             },
+            /** Returns a time stamp
+             */
+            getTimeStampID: function () {
+                return Date.now();
+            },
+            /** Removes an element from the GUI
+             * @param {string} id
+             */
             removeElement: function (id) {
                 if (document.getElementById(id) != null) {
                     DOMElements.removeAllChilds(id);
@@ -173,12 +219,21 @@
                     el.parentNode.removeChild(el);
                 }
             },
+            /** Removes all element childs
+             * @param {string} id
+             */
             removeAllChilds: function (id) {
                 var el = document.getElementById(id);
                 angular.forEach(el.childNodes, function (childNode) {
                     el.removeChild(childNode);
                 });
             },
+            /** Set attributes of an element
+             * @param {scope} $scope Angular scope
+             * @param {scope} $compile Angular compile
+             * @param {array} attributes
+             * @param {object} GUI element
+             */
             attachAttributes: function ($scope, $compile, attributes, element) {
                 angular.forEach(attributes, function (attribute) {
                     if (String(attribute.attribute).indexOf('ng-') >= 0) {
@@ -187,37 +242,54 @@
                             if ($scope[obj.name] === undefined) {
                                 $scope[obj.name] = obj.objectParams;
                             }
-
                             element.setAttribute(attribute.attribute, obj.simple);
                         } else {
                             element.setAttribute(attribute.attribute, attribute.value);
-                            $scope[attribute.value] = null;
+                            if (attribute.attribute != 'ng-options') {
+                                $scope[attribute.value] = null;
+                            }
                         }
                     } else {
                         element.setAttribute(attribute.attribute, attribute.value);
                     }
                 });
             },
+            /** Set styles of an element
+             * @param {array} styles
+             * @param {object} GUI element
+             */
             attachStyles: function (styles, element) {
-                /*for (var i = 0; i < styles.length; i++) {
+                for (var i = 0; i < styles.length; i++) {
                     element.style[styles[i].style] = styles[i].value;
-                }*/
+                }
             }
         };
         var Containers = {
-            horizontalContainer: function (id, childs, styles, attributes) {
-                var container = DomElements.newDiv(styles, attributes);
-                for (var i = 0; i < childs.length; i++) {
-                    switch (childs[i].type) {
-                        case 'HorizontalContainer':
-                            break;
-                        case 'VerticalContainer':
-                            break;
-                        case 'CanvasContainer':
-                            break;
-                    }
-                }
-                return container;
+            newAccordion: function ($scope, $compile, attributes, styles, childs, containerID) {
+            },
+            newControlBar: function () {
+            },
+            newCanvas: function () {
+            },
+            newDividedBox: function () {
+            },
+            newForm: function () {
+            },
+            newFormItem: function () {
+            },
+            newGrid: function () {
+            },
+            newGridItem: function () {
+            },
+            newHBox: function () {
+            },
+            newPanel: function () {
+            },
+            newTabNavigator: function () {
+            },
+            newTitleWindow: function () {
+            },
+            newViewStack: function () {
             },
             addDomElement: function (type, el) {
                 switch (type) {
