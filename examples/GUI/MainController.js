@@ -1,10 +1,11 @@
 ﻿app = angular.module('apf')
 .controller('MainController', function ($scope, $compile, GUI) { 
-    var container = GUI.dom.newDiv('main-container');
+    var container = GUI.dom.newDiv($scope, $compile, [],
+        [{attribute:'id', value:'main-container'}]);
     document.body.appendChild(container);
-    /*
+    
     //Create a text field
-    var textField = GUI.dom.newTextField($scope, $compile, [], [
+    /*var textField = GUI.dom.newTextField($scope, $compile, [], [
         { attribute: 'ng-model', value: 'userName' },
         { attribute: 'ng-change', value: 'userNameChange()' },
         { attribute: 'type', value: 'text' },
@@ -30,7 +31,8 @@
         'Label', 'Ir a google', [],
         [ { attribute: 'ng-model', value: 'userTermsAceptance' } ]);
     container.appendChild(checkBox);
-
+    */
+    /*
     var fieldSet = GUI.dom.newRadiosFieldset($scope, $compile, 'fieldSet', [
         { label: 'Radio Uno', value: 'R1' },
         { label: 'Radio Dos', value: 'R2' },
@@ -38,8 +40,9 @@
     ], [], [{ attribute: 'ng-model', value: 'fieldSet' }]);
     container.appendChild(fieldSet);
     */
-    /*
+    
     //Create a Radio Button
+    /*
     var radio = GUI.dom.newInputRadio($scope, $compile, 'NAME', 'LABEL', 'Valor1', [],
         [{
             attribute: 'ng-model',

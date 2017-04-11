@@ -11,13 +11,8 @@
              * @param {array} styles Element styles
              * @param {array} attributes Element attributes
              */
-            newDiv: function (styles, attributes) {
-                var div = document.createElement('div');
-                div.className = 'apf_div';
-                div.setAttribute('id', DomElements.getTimeStampID()+'_div');
-                DomElements.attachStyles(styles, div);
-                DomElements.attachAttributes(attributes, div);
-                return div;
+            newDiv: function ($scope, $compile, styles, attributes) {
+                return DomElements.newGlobalElement($scope, $compile, 'div', styles, attributes);
             },
             /** Returns a new <p> element. 
              * @param {scope} $scope Angular scope
@@ -26,12 +21,9 @@
              * @param {array} attributes Element attributes
              * @param {string} text Text to render in the interface
              */
-            newLabel: function (styles, attributes, text) {
-                var label = document.createElement('p');
-                label.className = 'apf_label';
-                label.setAttribute('id', DomElements.getTimeStampID()+'_label');
-                DomElements.attachStyles(styles, label);
-                DomElements.attachAttributes(attributes, label);
+            newLabel: function ($scope, $compile, styles, attributes, text) {
+                var label = DomElements.newGlobalElement($scope, $compile, 'p', styles, attributes);
+                label.textContent = text;
                 return label;
             },
             /** Returns a new <textarea> element. 
@@ -41,11 +33,7 @@
              * @param {array} attributes Element attributes
              */
             newTextArea: function ($scope, $compile, styles, attributes) {
-                var textArea = document.createElement('textarea');
-                textArea.className = 'apf_textarea';
-                textArea.setAttribute('id', DomElements.getTimeStampID()+'_ta');
-                DomElements.attachStyles(styles, textArea);
-                DomElements.attachAttributes($scope, $compile, attributes, textArea);
+                var textArea = DomElements.newGlobalElement($scope, $compile, 'textarea', styles, attributes);
                 $compile(textArea)($scope);
                 return textArea;
             },
@@ -55,12 +43,8 @@
              * @param {array} styles Element styles
              * @param {array} attributes Element attributes
              */
-            newTextField: function ($scope, $compile, styles, attributes) {           
-                var textField = document.createElement('input');
-                textField.className = 'apf_textfield';
-                textField.setAttribute('id', DomElements.getTimeStampID()+'_tf');
-                DomElements.attachStyles(styles, textField);
-                DomElements.attachAttributes($scope, $compile, attributes, textField);
+            newTextField: function ($scope, $compile, styles, attributes) {
+                var textField = DomElements.newGlobalElement($scope, $compile, 'input', styles, attributes);
                 $compile(textField)($scope);
                 return textField;
             },
@@ -74,19 +58,17 @@
              * @param {array} attributes Element attributes
              */
             newCheckbox: function ($scope, $compile, href, label, hrefLabel, styles, attributes) {
-                var checkbox = document.createElement("input");
-                checkbox.setAttribute("type", "checkbox");
-                checkbox.className = 'apf_checkbox';
-                checkbox.setAttribute('id', DomElements.getTimeStampID()+'_cb');
-                var span = DomElements.newDiv([], []);
+                attributes.push({ attribute: 'type', value: 'checkbox' });
+                var checkbox = DomElements.newGlobalElement($scope, $compile, 'input', [], []);
+                var span = DomElements.newGlobalElement($scope, $compile, 'div', [], []);
                 var spanText = document.createTextNode(' ' + label + ' ');
-                span.className = 'apf_span';
                 span.appendChild(checkbox);
                 span.appendChild(spanText);
                 if (href != '' && href != 'NULL') {
-                    var a = document.createElement('a');
-                    a.setAttribute('href', href);
-                    a.setAttribute('target', '_blank');
+                    var a = DomElements.newGlobalElement($scope, $compile, 'a', [], [
+                        { attribute: 'href', value: 'href' },
+                        { attribute: 'target', value: '_blank' }
+                    ]);
                     var aText = document.createTextNode(hrefLabel);
                     a.appendChild(aText);
                     span.appendChild(a);
@@ -107,15 +89,15 @@
              */
             newInputRadio: function ($scope, $compile, name, label, value, styles, attributes) {
                 var container = DomElements.newDiv([], []);
-                var radio = document.createElement("input");
-                var span = DomElements.newDiv([], []);
-                radio.name = name;
-                radio.value = value;
-                radio.className = 'apf_radio';
-                span.className = 'apf_radio_span';
+                var radio = DomElements.newGlobalElement($scope, $compile, 'input', [],
+                    [
+                        { attribute: 'type', value: 'radio' },
+                        { attribute: 'name', value: name },
+                        { attribute: 'value', value: value },
+                        { attribute: 'id', value: DomElements.getTimeStampID() + '_radio' }
+                    ]);
+                var span = DomElements.newGlobalElement($scope, $compile, 'div', [], []);
                 span.textContent = label;
-                radio.type = 'radio';
-                radio.setAttribute('id', DomElements.getTimeStampID()+'_radio');
                 container.appendChild(span);
                 container.appendChild(radio);
                 attributes.push({ attribute: 'value', value: value });
@@ -133,9 +115,7 @@
              * @param {array} attributes Element attributes
              */
             newRadiosFieldset: function ($scope, $compile, name, radios, styles, attributes) {
-                var fieldset = document.createElement("fieldset");
-                fieldset.className = 'apf_fieldset';
-                fieldset.setAttribute('id', DomElements.getTimeStampID()+'_fset');
+                var fieldset = DomElements.newGlobalElement($scope, $compile, 'fieldset', [], []);
                 for (var i = 0; i < radios.length; i++) {
                     var radio = DomElements.newInputRadio($scope, $compile, name, radios[i].label, radios[i].value, [], attributes);
                     fieldset.appendChild(radio);
@@ -259,13 +239,74 @@
              * @param {object} GUI element
              */
             attachStyles: function (styles, element) {
-                for (var i = 0; i < styles.length; i++) {
-                    element.style[styles[i].style] = styles[i].value;
+                if (styles != undefined) {
+                    for (var i = 0; i < styles.length; i++) {
+                        element.style[styles[i].style] = styles[i].value;
+                    }
                 }
+            },
+            newGlobalElement: function ($scope, $compile, tagName, styles, attributes) {
+                var el = document.createElement(tagName);
+                el.className = 'apf_' + tagName;
+                DomElements.attachStyles(styles, el);
+                if (attributes != undefined) {
+                    if (attributes.length > 0) {
+                        DomElements.attachAttributes($scope, $compile, attributes, el);
+                    }
+                }
+                return el;
             }
         };
         var Containers = {
-            newAccordion: function ($scope, $compile, attributes, styles, childs, containerID) {
+            newAccordion: function ($scope, $compile, containerID, engine, childs) {
+                var id = DomElements.getTimeStampID();
+                switch (engine) {
+                    case 'JQUERYUI':
+                        break;
+                    case 'TWTBOOTSTRAP':
+                        var el = document.getElementById(containerID);
+                        el.appendChild(createBootstrapStructure(childs));
+                        console.log(el);
+                        function createBootstrapStructure(childs) {
+                            var panelGroup = DomElements.newDiv([], [
+                                { attribute: 'class', value: 'panel-group' },
+                                { attribute: 'id', value: id+'_accordion' }
+                            ]);
+                            angular.forEach(childs, function (child, index) {
+                                var panelDefault = DomElements.newDiv([], [
+                                { attribute: 'class', value: 'panel panel-default' }
+                                ]);
+                                var panelHeading = DomElements.newDiv([], [
+                                { attribute: 'class', value: 'panel-heading' }
+                                ]);
+                                var panelTitle = DomElements.newGlobalElement($scope, $compile, 'h4', [], []);
+                                var panelLink = DomElements.newGlobalElement($scope, $compile, 'a', [], [
+                                    { attribute: 'data-toggle', value: 'collapse'+id },
+                                    { attribute: 'data-parent', value: '#' + id + '_accordion' },
+                                    { attribute: 'href', value: '#collapse' + index }
+                                ]);
+                                panelLink.innerHTML = child.title;
+                                panelTitle.appendChild(panelLink);
+                                var panelBodyContainer = DomElements.newDiv([], [
+                                { attribute: 'class', value: 'panel-collapse collapse in' },
+                                { attribute: 'id', value: 'collapse'+id }
+                                ]);
+                                var panelBody = DomElements.newDiv([], [
+                                { attribute: 'class', value: 'panel-body' }
+                                ]);
+
+                                panelDefault.appendChild(panelHeading);
+                                panelHeading.appendChild(panelTitle);
+                                panelTitle.appendChild(panelLink);
+                                panelGroup.appendChild(panelDefault);
+                                panelDefault.appendChild(panelBodyContainer);
+                                panelBodyContainer.appendChild(panelBody);
+                                panelGroup.appendChild(panelDefault);
+                            });
+                            return panelGroup;
+                        }
+                        break;
+                }
             },
             newControlBar: function () {
             },
